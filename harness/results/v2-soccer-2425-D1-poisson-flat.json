@@ -1,0 +1,3665 @@
+{
+  "model": "poisson",
+  "stake_mode": "flat",
+  "picks": 212,
+  "wins": 65,
+  "winrate": 30.66,
+  "total_staked": 212.0,
+  "total_pnl": -22.35,
+  "roi_pct": -10.54,
+  "final_bankroll": 77.65,
+  "bankroll_growth_pct": -22.35,
+  "equity_curve": [
+    {
+      "date": "2024-10-19T00:00:00",
+      "bankroll": 99.0
+    },
+    {
+      "date": "2024-10-20T00:00:00",
+      "bankroll": 100.07
+    },
+    {
+      "date": "2024-10-20T00:00:00",
+      "bankroll": 99.07
+    },
+    {
+      "date": "2024-10-25T00:00:00",
+      "bankroll": 98.07
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "bankroll": 97.07
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "bankroll": 96.07
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "bankroll": 95.07
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "bankroll": 94.07
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "bankroll": 93.07
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "bankroll": 93.2
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "bankroll": 95.42
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "bankroll": 94.42
+    },
+    {
+      "date": "2024-11-01T00:00:00",
+      "bankroll": 93.42
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "bankroll": 92.42
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "bankroll": 91.42
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "bankroll": 90.42
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "bankroll": 90.88
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "bankroll": 89.88
+    },
+    {
+      "date": "2024-11-03T00:00:00",
+      "bankroll": 88.88
+    },
+    {
+      "date": "2024-11-03T00:00:00",
+      "bankroll": 87.88
+    },
+    {
+      "date": "2024-11-08T00:00:00",
+      "bankroll": 90.13
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "bankroll": 89.13
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "bankroll": 88.13
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "bankroll": 87.13
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "bankroll": 89.88
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "bankroll": 88.88
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "bankroll": 92.42
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "bankroll": 91.42
+    },
+    {
+      "date": "2024-11-22T00:00:00",
+      "bankroll": 91.53
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "bankroll": 90.53
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "bankroll": 91.32
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "bankroll": 91.66
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "bankroll": 90.66
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "bankroll": 89.66
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "bankroll": 88.66
+    },
+    {
+      "date": "2024-11-24T00:00:00",
+      "bankroll": 89.96
+    },
+    {
+      "date": "2024-11-24T00:00:00",
+      "bankroll": 88.96
+    },
+    {
+      "date": "2024-11-29T00:00:00",
+      "bankroll": 87.96
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "bankroll": 88.78
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "bankroll": 87.78
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "bankroll": 86.78
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "bankroll": 85.78
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "bankroll": 84.78
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "bankroll": 83.78
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "bankroll": 84.93
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "bankroll": 85.92
+    },
+    {
+      "date": "2024-12-06T00:00:00",
+      "bankroll": 84.92
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "bankroll": 83.92
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "bankroll": 82.92
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "bankroll": 81.92
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "bankroll": 82.97
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "bankroll": 83.08
+    },
+    {
+      "date": "2024-12-08T00:00:00",
+      "bankroll": 82.08
+    },
+    {
+      "date": "2024-12-08T00:00:00",
+      "bankroll": 81.08
+    },
+    {
+      "date": "2024-12-13T00:00:00",
+      "bankroll": 80.08
+    },
+    {
+      "date": "2024-12-14T00:00:00",
+      "bankroll": 79.08
+    },
+    {
+      "date": "2024-12-14T00:00:00",
+      "bankroll": 78.08
+    },
+    {
+      "date": "2024-12-14T00:00:00",
+      "bankroll": 77.08
+    },
+    {
+      "date": "2024-12-15T00:00:00",
+      "bankroll": 76.08
+    },
+    {
+      "date": "2024-12-15T00:00:00",
+      "bankroll": 75.08
+    },
+    {
+      "date": "2024-12-15T00:00:00",
+      "bankroll": 74.08
+    },
+    {
+      "date": "2024-12-20T00:00:00",
+      "bankroll": 73.08
+    },
+    {
+      "date": "2024-12-21T00:00:00",
+      "bankroll": 72.08
+    },
+    {
+      "date": "2024-12-21T00:00:00",
+      "bankroll": 74.22
+    },
+    {
+      "date": "2024-12-21T00:00:00",
+      "bankroll": 73.22
+    },
+    {
+      "date": "2024-12-22T00:00:00",
+      "bankroll": 72.22
+    },
+    {
+      "date": "2024-12-22T00:00:00",
+      "bankroll": 71.22
+    },
+    {
+      "date": "2025-01-10T00:00:00",
+      "bankroll": 70.22
+    },
+    {
+      "date": "2025-01-11T00:00:00",
+      "bankroll": 69.22
+    },
+    {
+      "date": "2025-01-11T00:00:00",
+      "bankroll": 71.37
+    },
+    {
+      "date": "2025-01-11T00:00:00",
+      "bankroll": 72.05
+    },
+    {
+      "date": "2025-01-11T00:00:00",
+      "bankroll": 73.23
+    },
+    {
+      "date": "2025-01-12T00:00:00",
+      "bankroll": 74.16
+    },
+    {
+      "date": "2025-01-12T00:00:00",
+      "bankroll": 73.16
+    },
+    {
+      "date": "2025-01-14T00:00:00",
+      "bankroll": 73.86
+    },
+    {
+      "date": "2025-01-14T00:00:00",
+      "bankroll": 72.86
+    },
+    {
+      "date": "2025-01-14T00:00:00",
+      "bankroll": 78.76
+    },
+    {
+      "date": "2025-01-14T00:00:00",
+      "bankroll": 77.76
+    },
+    {
+      "date": "2025-01-15T00:00:00",
+      "bankroll": 76.76
+    },
+    {
+      "date": "2025-01-15T00:00:00",
+      "bankroll": 75.76
+    },
+    {
+      "date": "2025-01-15T00:00:00",
+      "bankroll": 74.76
+    },
+    {
+      "date": "2025-01-17T00:00:00",
+      "bankroll": 76.65
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "bankroll": 75.65
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "bankroll": 74.65
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "bankroll": 73.65
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "bankroll": 72.65
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "bankroll": 71.65
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "bankroll": 70.65
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "bankroll": 69.65
+    },
+    {
+      "date": "2025-01-24T00:00:00",
+      "bankroll": 68.65
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "bankroll": 67.65
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "bankroll": 66.65
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "bankroll": 69.03
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "bankroll": 68.03
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "bankroll": 68.8
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "bankroll": 67.8
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "bankroll": 66.8
+    },
+    {
+      "date": "2025-01-31T00:00:00",
+      "bankroll": 65.8
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "bankroll": 67.54
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "bankroll": 66.54
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "bankroll": 68.86
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "bankroll": 72.8
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "bankroll": 71.8
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "bankroll": 70.8
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "bankroll": 69.8
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "bankroll": 72.42
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "bankroll": 71.42
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "bankroll": 70.42
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "bankroll": 69.42
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "bankroll": 68.42
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "bankroll": 67.42
+    },
+    {
+      "date": "2025-02-09T00:00:00",
+      "bankroll": 66.42
+    },
+    {
+      "date": "2025-02-09T00:00:00",
+      "bankroll": 65.42
+    },
+    {
+      "date": "2025-02-14T00:00:00",
+      "bankroll": 64.42
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "bankroll": 69.19
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "bankroll": 73.82
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "bankroll": 76.3
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "bankroll": 75.3
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "bankroll": 74.3
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "bankroll": 74.64
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "bankroll": 75.74
+    },
+    {
+      "date": "2025-02-21T00:00:00",
+      "bankroll": 74.74
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "bankroll": 73.74
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "bankroll": 72.74
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "bankroll": 71.74
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "bankroll": 70.74
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "bankroll": 69.74
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "bankroll": 68.74
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "bankroll": 67.74
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "bankroll": 66.74
+    },
+    {
+      "date": "2025-02-28T00:00:00",
+      "bankroll": 67.5
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "bankroll": 68.86
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "bankroll": 67.86
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "bankroll": 66.86
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "bankroll": 68.87
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "bankroll": 70.57
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "bankroll": 73.64
+    },
+    {
+      "date": "2025-03-02T00:00:00",
+      "bankroll": 78.64
+    },
+    {
+      "date": "2025-03-02T00:00:00",
+      "bankroll": 77.64
+    },
+    {
+      "date": "2025-03-07T00:00:00",
+      "bankroll": 79.31
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "bankroll": 78.31
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "bankroll": 85.63
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "bankroll": 84.63
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "bankroll": 83.63
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "bankroll": 82.63
+    },
+    {
+      "date": "2025-03-09T00:00:00",
+      "bankroll": 81.63
+    },
+    {
+      "date": "2025-03-09T00:00:00",
+      "bankroll": 80.63
+    },
+    {
+      "date": "2025-03-14T00:00:00",
+      "bankroll": 79.63
+    },
+    {
+      "date": "2025-03-15T00:00:00",
+      "bankroll": 81.78
+    },
+    {
+      "date": "2025-03-15T00:00:00",
+      "bankroll": 83.58
+    },
+    {
+      "date": "2025-03-15T00:00:00",
+      "bankroll": 82.58
+    },
+    {
+      "date": "2025-03-15T00:00:00",
+      "bankroll": 81.58
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "bankroll": 83.22
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "bankroll": 82.22
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "bankroll": 83.5
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "bankroll": 82.5
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "bankroll": 81.5
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "bankroll": 80.5
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "bankroll": 82.51
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "bankroll": 81.51
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "bankroll": 83.09
+    },
+    {
+      "date": "2025-03-30T00:00:00",
+      "bankroll": 82.09
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "bankroll": 81.09
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "bankroll": 81.61
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "bankroll": 80.61
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "bankroll": 82.52
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "bankroll": 81.52
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "bankroll": 80.52
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "bankroll": 79.52
+    },
+    {
+      "date": "2025-04-11T00:00:00",
+      "bankroll": 78.52
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "bankroll": 77.52
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "bankroll": 76.52
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "bankroll": 78.78
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "bankroll": 77.78
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "bankroll": 76.78
+    },
+    {
+      "date": "2025-04-13T00:00:00",
+      "bankroll": 80.22
+    },
+    {
+      "date": "2025-04-13T00:00:00",
+      "bankroll": 80.98
+    },
+    {
+      "date": "2025-04-19T00:00:00",
+      "bankroll": 79.98
+    },
+    {
+      "date": "2025-04-19T00:00:00",
+      "bankroll": 80.25
+    },
+    {
+      "date": "2025-04-19T00:00:00",
+      "bankroll": 79.25
+    },
+    {
+      "date": "2025-04-20T00:00:00",
+      "bankroll": 78.25
+    },
+    {
+      "date": "2025-04-20T00:00:00",
+      "bankroll": 77.25
+    },
+    {
+      "date": "2025-04-26T00:00:00",
+      "bankroll": 76.25
+    },
+    {
+      "date": "2025-04-26T00:00:00",
+      "bankroll": 77.12
+    },
+    {
+      "date": "2025-04-26T00:00:00",
+      "bankroll": 76.12
+    },
+    {
+      "date": "2025-04-26T00:00:00",
+      "bankroll": 75.12
+    },
+    {
+      "date": "2025-04-27T00:00:00",
+      "bankroll": 74.12
+    },
+    {
+      "date": "2025-05-02T00:00:00",
+      "bankroll": 73.12
+    },
+    {
+      "date": "2025-05-03T00:00:00",
+      "bankroll": 72.12
+    },
+    {
+      "date": "2025-05-03T00:00:00",
+      "bankroll": 73.65
+    },
+    {
+      "date": "2025-05-03T00:00:00",
+      "bankroll": 72.65
+    },
+    {
+      "date": "2025-05-03T00:00:00",
+      "bankroll": 71.65
+    },
+    {
+      "date": "2025-05-03T00:00:00",
+      "bankroll": 70.65
+    },
+    {
+      "date": "2025-05-04T00:00:00",
+      "bankroll": 69.65
+    },
+    {
+      "date": "2025-05-04T00:00:00",
+      "bankroll": 68.65
+    },
+    {
+      "date": "2025-05-04T00:00:00",
+      "bankroll": 72.05
+    },
+    {
+      "date": "2025-05-09T00:00:00",
+      "bankroll": 71.05
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "bankroll": 72.25
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "bankroll": 71.25
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "bankroll": 70.25
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "bankroll": 69.25
+    },
+    {
+      "date": "2025-05-11T00:00:00",
+      "bankroll": 68.25
+    },
+    {
+      "date": "2025-05-11T00:00:00",
+      "bankroll": 71.59
+    },
+    {
+      "date": "2025-05-11T00:00:00",
+      "bankroll": 70.59
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "bankroll": 69.59
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "bankroll": 70.26
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "bankroll": 72.86
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "bankroll": 74.84
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "bankroll": 73.84
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "bankroll": 77.13
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "bankroll": 78.65
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "bankroll": 77.65
+    }
+  ],
+  "picks_detail": [
+    {
+      "date": "2024-10-19T00:00:00",
+      "match": "Leverkusen vs Ein Frankfurt",
+      "pick": "A",
+      "odds": 6.59,
+      "model_p": 0.402,
+      "imp_p": 0.139,
+      "edge": 0.264,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 99.0
+    },
+    {
+      "date": "2024-10-20T00:00:00",
+      "match": "Holstein Kiel vs Union Berlin",
+      "pick": "A",
+      "odds": 2.07,
+      "model_p": 0.523,
+      "imp_p": 0.474,
+      "edge": 0.049,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.07,
+      "bankroll": 100.07
+    },
+    {
+      "date": "2024-10-20T00:00:00",
+      "match": "Wolfsburg vs Werder Bremen",
+      "pick": "H",
+      "odds": 2.02,
+      "model_p": 0.617,
+      "imp_p": 0.486,
+      "edge": 0.131,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 99.07
+    },
+    {
+      "date": "2024-10-25T00:00:00",
+      "match": "Mainz vs M'gladbach",
+      "pick": "A",
+      "odds": 3.02,
+      "model_p": 0.352,
+      "imp_p": 0.322,
+      "edge": 0.031,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 98.07
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "match": "Werder Bremen vs Leverkusen",
+      "pick": "H",
+      "odds": 6.48,
+      "model_p": 0.194,
+      "imp_p": 0.142,
+      "edge": 0.052,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 97.07
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "match": "Stuttgart vs Holstein Kiel",
+      "pick": "A",
+      "odds": 13.72,
+      "model_p": 0.132,
+      "imp_p": 0.058,
+      "edge": 0.074,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 96.07
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "match": "St Pauli vs Wolfsburg",
+      "pick": "A",
+      "odds": 2.82,
+      "model_p": 0.634,
+      "imp_p": 0.345,
+      "edge": 0.288,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 95.07
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "match": "Augsburg vs Dortmund",
+      "pick": "A",
+      "odds": 1.83,
+      "model_p": 0.694,
+      "imp_p": 0.539,
+      "edge": 0.155,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 94.07
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "match": "RB Leipzig vs Freiburg",
+      "pick": "D",
+      "odds": 3.93,
+      "model_p": 0.373,
+      "imp_p": 0.244,
+      "edge": 0.129,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 93.07
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "match": "Bochum vs Bayern Munich",
+      "pick": "A",
+      "odds": 1.13,
+      "model_p": 0.963,
+      "imp_p": 0.878,
+      "edge": 0.085,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.13,
+      "bankroll": 93.2
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "match": "Union Berlin vs Ein Frankfurt",
+      "pick": "D",
+      "odds": 3.22,
+      "model_p": 0.351,
+      "imp_p": 0.301,
+      "edge": 0.05,
+      "stake": 1.0,
+      "actual": "D",
+      "won": true,
+      "pnl": 2.22,
+      "bankroll": 95.42
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "match": "Heidenheim vs Hoffenheim",
+      "pick": "H",
+      "odds": 2.88,
+      "model_p": 0.575,
+      "imp_p": 0.338,
+      "edge": 0.237,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 94.42
+    },
+    {
+      "date": "2024-11-01T00:00:00",
+      "match": "Leverkusen vs Stuttgart",
+      "pick": "A",
+      "odds": 5.05,
+      "model_p": 0.242,
+      "imp_p": 0.186,
+      "edge": 0.056,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 93.42
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "match": "Wolfsburg vs Augsburg",
+      "pick": "H",
+      "odds": 2.1,
+      "model_p": 0.615,
+      "imp_p": 0.468,
+      "edge": 0.147,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 92.42
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "match": "Dortmund vs RB Leipzig",
+      "pick": "A",
+      "odds": 3.21,
+      "model_p": 0.764,
+      "imp_p": 0.302,
+      "edge": 0.462,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 91.42
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "match": "Holstein Kiel vs Heidenheim",
+      "pick": "A",
+      "odds": 3.0,
+      "model_p": 0.602,
+      "imp_p": 0.324,
+      "edge": 0.278,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 90.42
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "match": "Ein Frankfurt vs Bochum",
+      "pick": "H",
+      "odds": 1.46,
+      "model_p": 0.843,
+      "imp_p": 0.676,
+      "edge": 0.167,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.46,
+      "bankroll": 90.88
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "match": "Bayern Munich vs Union Berlin",
+      "pick": "D",
+      "odds": 8.88,
+      "model_p": 0.28,
+      "imp_p": 0.098,
+      "edge": 0.182,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 89.88
+    },
+    {
+      "date": "2024-11-03T00:00:00",
+      "match": "Freiburg vs Mainz",
+      "pick": "A",
+      "odds": 4.98,
+      "model_p": 0.248,
+      "imp_p": 0.19,
+      "edge": 0.058,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 88.88
+    },
+    {
+      "date": "2024-11-03T00:00:00",
+      "match": "M'gladbach vs Werder Bremen",
+      "pick": "A",
+      "odds": 3.01,
+      "model_p": 0.426,
+      "imp_p": 0.323,
+      "edge": 0.103,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 87.88
+    },
+    {
+      "date": "2024-11-08T00:00:00",
+      "match": "Union Berlin vs Freiburg",
+      "pick": "D",
+      "odds": 3.25,
+      "model_p": 0.367,
+      "imp_p": 0.298,
+      "edge": 0.069,
+      "stake": 1.0,
+      "actual": "D",
+      "won": true,
+      "pnl": 2.25,
+      "bankroll": 90.13
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "match": "RB Leipzig vs M'gladbach",
+      "pick": "H",
+      "odds": 1.66,
+      "model_p": 0.64,
+      "imp_p": 0.594,
+      "edge": 0.046,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 89.13
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "match": "Werder Bremen vs Holstein Kiel",
+      "pick": "A",
+      "odds": 5.53,
+      "model_p": 0.205,
+      "imp_p": 0.169,
+      "edge": 0.037,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 88.13
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "match": "Bochum vs Leverkusen",
+      "pick": "A",
+      "odds": 1.25,
+      "model_p": 0.862,
+      "imp_p": 0.793,
+      "edge": 0.069,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 87.13
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "match": "Mainz vs Dortmund",
+      "pick": "H",
+      "odds": 3.75,
+      "model_p": 0.391,
+      "imp_p": 0.257,
+      "edge": 0.134,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 2.75,
+      "bankroll": 89.88
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "match": "Augsburg vs Hoffenheim",
+      "pick": "A",
+      "odds": 3.63,
+      "model_p": 0.318,
+      "imp_p": 0.266,
+      "edge": 0.052,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 88.88
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "match": "Stuttgart vs Ein Frankfurt",
+      "pick": "A",
+      "odds": 4.54,
+      "model_p": 0.469,
+      "imp_p": 0.207,
+      "edge": 0.262,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 3.54,
+      "bankroll": 92.42
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "match": "Heidenheim vs Wolfsburg",
+      "pick": "H",
+      "odds": 2.95,
+      "model_p": 0.412,
+      "imp_p": 0.33,
+      "edge": 0.082,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 91.42
+    },
+    {
+      "date": "2024-11-22T00:00:00",
+      "match": "Bayern Munich vs Augsburg",
+      "pick": "H",
+      "odds": 1.11,
+      "model_p": 0.965,
+      "imp_p": 0.897,
+      "edge": 0.068,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.11,
+      "bankroll": 91.53
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "match": "Wolfsburg vs Union Berlin",
+      "pick": "A",
+      "odds": 3.74,
+      "model_p": 0.372,
+      "imp_p": 0.257,
+      "edge": 0.115,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 90.53
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "match": "Ein Frankfurt vs Werder Bremen",
+      "pick": "H",
+      "odds": 1.79,
+      "model_p": 0.73,
+      "imp_p": 0.551,
+      "edge": 0.18,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.79,
+      "bankroll": 91.32
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "match": "Stuttgart vs Bochum",
+      "pick": "H",
+      "odds": 1.34,
+      "model_p": 0.807,
+      "imp_p": 0.739,
+      "edge": 0.067,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.34,
+      "bankroll": 91.66
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "match": "Leverkusen vs Heidenheim",
+      "pick": "A",
+      "odds": 13.66,
+      "model_p": 0.172,
+      "imp_p": 0.059,
+      "edge": 0.113,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 90.66
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "match": "Hoffenheim vs RB Leipzig",
+      "pick": "A",
+      "odds": 2.22,
+      "model_p": 0.703,
+      "imp_p": 0.442,
+      "edge": 0.261,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 89.66
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "match": "Dortmund vs Freiburg",
+      "pick": "A",
+      "odds": 4.52,
+      "model_p": 0.427,
+      "imp_p": 0.211,
+      "edge": 0.216,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 88.66
+    },
+    {
+      "date": "2024-11-24T00:00:00",
+      "match": "Holstein Kiel vs Mainz",
+      "pick": "A",
+      "odds": 2.3,
+      "model_p": 0.541,
+      "imp_p": 0.426,
+      "edge": 0.115,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.3,
+      "bankroll": 89.96
+    },
+    {
+      "date": "2024-11-24T00:00:00",
+      "match": "M'gladbach vs St Pauli",
+      "pick": "D",
+      "odds": 3.75,
+      "model_p": 0.307,
+      "imp_p": 0.256,
+      "edge": 0.051,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 88.96
+    },
+    {
+      "date": "2024-11-29T00:00:00",
+      "match": "St Pauli vs Holstein Kiel",
+      "pick": "A",
+      "odds": 5.61,
+      "model_p": 0.262,
+      "imp_p": 0.164,
+      "edge": 0.098,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 87.96
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "match": "Augsburg vs Bochum",
+      "pick": "H",
+      "odds": 1.82,
+      "model_p": 0.604,
+      "imp_p": 0.541,
+      "edge": 0.062,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.82,
+      "bankroll": 88.78
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "match": "Freiburg vs M'gladbach",
+      "pick": "A",
+      "odds": 3.59,
+      "model_p": 0.388,
+      "imp_p": 0.268,
+      "edge": 0.12,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 87.78
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "match": "RB Leipzig vs Wolfsburg",
+      "pick": "H",
+      "odds": 1.79,
+      "model_p": 0.588,
+      "imp_p": 0.55,
+      "edge": 0.038,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 86.78
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "match": "Union Berlin vs Leverkusen",
+      "pick": "H",
+      "odds": 4.88,
+      "model_p": 0.314,
+      "imp_p": 0.198,
+      "edge": 0.116,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 85.78
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "match": "Werder Bremen vs Stuttgart",
+      "pick": "A",
+      "odds": 2.8,
+      "model_p": 0.437,
+      "imp_p": 0.348,
+      "edge": 0.089,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 84.78
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "match": "Dortmund vs Bayern Munich",
+      "pick": "A",
+      "odds": 1.73,
+      "model_p": 0.852,
+      "imp_p": 0.57,
+      "edge": 0.283,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 83.78
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "match": "Mainz vs Hoffenheim",
+      "pick": "H",
+      "odds": 2.15,
+      "model_p": 0.64,
+      "imp_p": 0.456,
+      "edge": 0.183,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.15,
+      "bankroll": 84.93
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "match": "Heidenheim vs Ein Frankfurt",
+      "pick": "A",
+      "odds": 1.99,
+      "model_p": 0.661,
+      "imp_p": 0.494,
+      "edge": 0.167,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.99,
+      "bankroll": 85.92
+    },
+    {
+      "date": "2024-12-06T00:00:00",
+      "match": "Stuttgart vs Union Berlin",
+      "pick": "A",
+      "odds": 4.42,
+      "model_p": 0.277,
+      "imp_p": 0.216,
+      "edge": 0.061,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 84.92
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "match": "M'gladbach vs Dortmund",
+      "pick": "H",
+      "odds": 3.45,
+      "model_p": 0.369,
+      "imp_p": 0.28,
+      "edge": 0.089,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 83.92
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "match": "Leverkusen vs St Pauli",
+      "pick": "A",
+      "odds": 11.8,
+      "model_p": 0.139,
+      "imp_p": 0.072,
+      "edge": 0.067,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 82.92
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "match": "Ein Frankfurt vs Augsburg",
+      "pick": "H",
+      "odds": 1.54,
+      "model_p": 0.824,
+      "imp_p": 0.641,
+      "edge": 0.183,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 81.92
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "match": "Bochum vs Werder Bremen",
+      "pick": "A",
+      "odds": 2.05,
+      "model_p": 0.656,
+      "imp_p": 0.48,
+      "edge": 0.177,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.05,
+      "bankroll": 82.97
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "match": "Bayern Munich vs Heidenheim",
+      "pick": "H",
+      "odds": 1.11,
+      "model_p": 0.937,
+      "imp_p": 0.896,
+      "edge": 0.04,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.11,
+      "bankroll": 83.08
+    },
+    {
+      "date": "2024-12-08T00:00:00",
+      "match": "Wolfsburg vs Mainz",
+      "pick": "A",
+      "odds": 3.72,
+      "model_p": 0.318,
+      "imp_p": 0.259,
+      "edge": 0.059,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 82.08
+    },
+    {
+      "date": "2024-12-08T00:00:00",
+      "match": "Hoffenheim vs Freiburg",
+      "pick": "A",
+      "odds": 3.07,
+      "model_p": 0.498,
+      "imp_p": 0.317,
+      "edge": 0.181,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 81.08
+    },
+    {
+      "date": "2024-12-13T00:00:00",
+      "match": "Freiburg vs Wolfsburg",
+      "pick": "A",
+      "odds": 3.25,
+      "model_p": 0.444,
+      "imp_p": 0.298,
+      "edge": 0.146,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 80.08
+    },
+    {
+      "date": "2024-12-14T00:00:00",
+      "match": "Union Berlin vs Bochum",
+      "pick": "H",
+      "odds": 1.67,
+      "model_p": 0.63,
+      "imp_p": 0.591,
+      "edge": 0.039,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 79.08
+    },
+    {
+      "date": "2024-12-14T00:00:00",
+      "match": "Mainz vs Bayern Munich",
+      "pick": "A",
+      "odds": 1.53,
+      "model_p": 0.757,
+      "imp_p": 0.646,
+      "edge": 0.111,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 78.08
+    },
+    {
+      "date": "2024-12-14T00:00:00",
+      "match": "Augsburg vs Leverkusen",
+      "pick": "H",
+      "odds": 6.3,
+      "model_p": 0.195,
+      "imp_p": 0.146,
+      "edge": 0.049,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 77.08
+    },
+    {
+      "date": "2024-12-15T00:00:00",
+      "match": "Heidenheim vs Stuttgart",
+      "pick": "H",
+      "odds": 4.72,
+      "model_p": 0.24,
+      "imp_p": 0.201,
+      "edge": 0.039,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 76.08
+    },
+    {
+      "date": "2024-12-15T00:00:00",
+      "match": "Dortmund vs Hoffenheim",
+      "pick": "A",
+      "odds": 8.55,
+      "model_p": 0.154,
+      "imp_p": 0.104,
+      "edge": 0.05,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 75.08
+    },
+    {
+      "date": "2024-12-15T00:00:00",
+      "match": "RB Leipzig vs Ein Frankfurt",
+      "pick": "A",
+      "odds": 3.06,
+      "model_p": 0.453,
+      "imp_p": 0.317,
+      "edge": 0.135,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 74.08
+    },
+    {
+      "date": "2024-12-20T00:00:00",
+      "match": "Bayern Munich vs RB Leipzig",
+      "pick": "D",
+      "odds": 7.36,
+      "model_p": 0.185,
+      "imp_p": 0.122,
+      "edge": 0.063,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 73.08
+    },
+    {
+      "date": "2024-12-21T00:00:00",
+      "match": "Leverkusen vs Freiburg",
+      "pick": "A",
+      "odds": 8.17,
+      "model_p": 0.231,
+      "imp_p": 0.111,
+      "edge": 0.12,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 72.08
+    },
+    {
+      "date": "2024-12-21T00:00:00",
+      "match": "Hoffenheim vs M'gladbach",
+      "pick": "A",
+      "odds": 3.14,
+      "model_p": 0.484,
+      "imp_p": 0.309,
+      "edge": 0.176,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.14,
+      "bankroll": 74.22
+    },
+    {
+      "date": "2024-12-21T00:00:00",
+      "match": "Ein Frankfurt vs Mainz",
+      "pick": "H",
+      "odds": 2.1,
+      "model_p": 0.567,
+      "imp_p": 0.467,
+      "edge": 0.1,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 73.22
+    },
+    {
+      "date": "2024-12-22T00:00:00",
+      "match": "Bochum vs Heidenheim",
+      "pick": "A",
+      "odds": 3.74,
+      "model_p": 0.491,
+      "imp_p": 0.257,
+      "edge": 0.234,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 72.22
+    },
+    {
+      "date": "2024-12-22T00:00:00",
+      "match": "Wolfsburg vs Dortmund",
+      "pick": "H",
+      "odds": 3.35,
+      "model_p": 0.492,
+      "imp_p": 0.288,
+      "edge": 0.204,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 71.22
+    },
+    {
+      "date": "2025-01-10T00:00:00",
+      "match": "Dortmund vs Leverkusen",
+      "pick": "H",
+      "odds": 3.88,
+      "model_p": 0.355,
+      "imp_p": 0.247,
+      "edge": 0.108,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 70.22
+    },
+    {
+      "date": "2025-01-11T00:00:00",
+      "match": "Freiburg vs Holstein Kiel",
+      "pick": "A",
+      "odds": 6.73,
+      "model_p": 0.174,
+      "imp_p": 0.136,
+      "edge": 0.038,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 69.22
+    },
+    {
+      "date": "2025-01-11T00:00:00",
+      "match": "Hoffenheim vs Wolfsburg",
+      "pick": "A",
+      "odds": 3.15,
+      "model_p": 0.556,
+      "imp_p": 0.308,
+      "edge": 0.248,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.15,
+      "bankroll": 71.37
+    },
+    {
+      "date": "2025-01-11T00:00:00",
+      "match": "Mainz vs Bochum",
+      "pick": "H",
+      "odds": 1.68,
+      "model_p": 0.784,
+      "imp_p": 0.587,
+      "edge": 0.197,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.68,
+      "bankroll": 72.05
+    },
+    {
+      "date": "2025-01-11T00:00:00",
+      "match": "St Pauli vs Ein Frankfurt",
+      "pick": "A",
+      "odds": 2.18,
+      "model_p": 0.564,
+      "imp_p": 0.45,
+      "edge": 0.114,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.18,
+      "bankroll": 73.23
+    },
+    {
+      "date": "2025-01-12T00:00:00",
+      "match": "Augsburg vs Stuttgart",
+      "pick": "A",
+      "odds": 1.93,
+      "model_p": 0.604,
+      "imp_p": 0.509,
+      "edge": 0.095,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.93,
+      "bankroll": 74.16
+    },
+    {
+      "date": "2025-01-12T00:00:00",
+      "match": "RB Leipzig vs Werder Bremen",
+      "pick": "A",
+      "odds": 4.06,
+      "model_p": 0.296,
+      "imp_p": 0.236,
+      "edge": 0.061,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 73.16
+    },
+    {
+      "date": "2025-01-14T00:00:00",
+      "match": "Ein Frankfurt vs Freiburg",
+      "pick": "H",
+      "odds": 1.7,
+      "model_p": 0.645,
+      "imp_p": 0.58,
+      "edge": 0.064,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.7,
+      "bankroll": 73.86
+    },
+    {
+      "date": "2025-01-14T00:00:00",
+      "match": "Leverkusen vs Mainz",
+      "pick": "A",
+      "odds": 8.81,
+      "model_p": 0.28,
+      "imp_p": 0.1,
+      "edge": 0.18,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 72.86
+    },
+    {
+      "date": "2025-01-14T00:00:00",
+      "match": "Holstein Kiel vs Dortmund",
+      "pick": "H",
+      "odds": 6.9,
+      "model_p": 0.175,
+      "imp_p": 0.134,
+      "edge": 0.041,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 5.9,
+      "bankroll": 78.76
+    },
+    {
+      "date": "2025-01-14T00:00:00",
+      "match": "Wolfsburg vs M'gladbach",
+      "pick": "A",
+      "odds": 4.14,
+      "model_p": 0.321,
+      "imp_p": 0.231,
+      "edge": 0.091,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 77.76
+    },
+    {
+      "date": "2025-01-15T00:00:00",
+      "match": "Stuttgart vs RB Leipzig",
+      "pick": "A",
+      "odds": 3.64,
+      "model_p": 0.338,
+      "imp_p": 0.264,
+      "edge": 0.074,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 76.76
+    },
+    {
+      "date": "2025-01-15T00:00:00",
+      "match": "Werder Bremen vs Heidenheim",
+      "pick": "H",
+      "odds": 1.76,
+      "model_p": 0.637,
+      "imp_p": 0.56,
+      "edge": 0.077,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 75.76
+    },
+    {
+      "date": "2025-01-15T00:00:00",
+      "match": "Bochum vs St Pauli",
+      "pick": "D",
+      "odds": 3.26,
+      "model_p": 0.355,
+      "imp_p": 0.297,
+      "edge": 0.057,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 74.76
+    },
+    {
+      "date": "2025-01-17T00:00:00",
+      "match": "Ein Frankfurt vs Dortmund",
+      "pick": "H",
+      "odds": 2.89,
+      "model_p": 0.635,
+      "imp_p": 0.337,
+      "edge": 0.298,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.89,
+      "bankroll": 76.65
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "match": "Bochum vs RB Leipzig",
+      "pick": "A",
+      "odds": 2.23,
+      "model_p": 0.631,
+      "imp_p": 0.44,
+      "edge": 0.191,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 75.65
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "match": "Heidenheim vs St Pauli",
+      "pick": "D",
+      "odds": 3.46,
+      "model_p": 0.312,
+      "imp_p": 0.279,
+      "edge": 0.033,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 74.65
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "match": "Holstein Kiel vs Hoffenheim",
+      "pick": "H",
+      "odds": 2.99,
+      "model_p": 0.458,
+      "imp_p": 0.325,
+      "edge": 0.133,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 73.65
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "match": "Stuttgart vs Freiburg",
+      "pick": "A",
+      "odds": 5.54,
+      "model_p": 0.219,
+      "imp_p": 0.169,
+      "edge": 0.05,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 72.65
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "match": "Leverkusen vs M'gladbach",
+      "pick": "A",
+      "odds": 11.25,
+      "model_p": 0.169,
+      "imp_p": 0.074,
+      "edge": 0.095,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 71.65
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "match": "Union Berlin vs Mainz",
+      "pick": "A",
+      "odds": 2.78,
+      "model_p": 0.524,
+      "imp_p": 0.351,
+      "edge": 0.173,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 70.65
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "match": "Werder Bremen vs Augsburg",
+      "pick": "H",
+      "odds": 1.91,
+      "model_p": 0.634,
+      "imp_p": 0.515,
+      "edge": 0.119,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 69.65
+    },
+    {
+      "date": "2025-01-24T00:00:00",
+      "match": "Wolfsburg vs Holstein Kiel",
+      "pick": "H",
+      "odds": 1.47,
+      "model_p": 0.819,
+      "imp_p": 0.671,
+      "edge": 0.148,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 68.65
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "match": "Augsburg vs Heidenheim",
+      "pick": "A",
+      "odds": 3.98,
+      "model_p": 0.307,
+      "imp_p": 0.241,
+      "edge": 0.066,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 67.65
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "match": "Dortmund vs Werder Bremen",
+      "pick": "A",
+      "odds": 6.0,
+      "model_p": 0.27,
+      "imp_p": 0.154,
+      "edge": 0.116,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 66.65
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "match": "Mainz vs Stuttgart",
+      "pick": "H",
+      "odds": 3.38,
+      "model_p": 0.434,
+      "imp_p": 0.286,
+      "edge": 0.148,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 2.38,
+      "bankroll": 69.03
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "match": "RB Leipzig vs Leverkusen",
+      "pick": "H",
+      "odds": 3.63,
+      "model_p": 0.315,
+      "imp_p": 0.266,
+      "edge": 0.05,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 68.03
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "match": "M'gladbach vs Bochum",
+      "pick": "H",
+      "odds": 1.77,
+      "model_p": 0.662,
+      "imp_p": 0.557,
+      "edge": 0.105,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.77,
+      "bankroll": 68.8
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "match": "St Pauli vs Union Berlin",
+      "pick": "D",
+      "odds": 3.2,
+      "model_p": 0.416,
+      "imp_p": 0.303,
+      "edge": 0.113,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 67.8
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "match": "Hoffenheim vs Ein Frankfurt",
+      "pick": "A",
+      "odds": 2.09,
+      "model_p": 0.658,
+      "imp_p": 0.47,
+      "edge": 0.187,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 66.8
+    },
+    {
+      "date": "2025-01-31T00:00:00",
+      "match": "Werder Bremen vs Mainz",
+      "pick": "A",
+      "odds": 3.13,
+      "model_p": 0.459,
+      "imp_p": 0.311,
+      "edge": 0.148,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 65.8
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "match": "Bochum vs Freiburg",
+      "pick": "A",
+      "odds": 2.74,
+      "model_p": 0.496,
+      "imp_p": 0.356,
+      "edge": 0.141,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.74,
+      "bankroll": 67.54
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "match": "Heidenheim vs Dortmund",
+      "pick": "H",
+      "odds": 4.82,
+      "model_p": 0.274,
+      "imp_p": 0.196,
+      "edge": 0.079,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 66.54
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "match": "St Pauli vs Augsburg",
+      "pick": "D",
+      "odds": 3.32,
+      "model_p": 0.326,
+      "imp_p": 0.292,
+      "edge": 0.034,
+      "stake": 1.0,
+      "actual": "D",
+      "won": true,
+      "pnl": 2.32,
+      "bankroll": 68.86
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "match": "Stuttgart vs M'gladbach",
+      "pick": "A",
+      "odds": 4.94,
+      "model_p": 0.25,
+      "imp_p": 0.191,
+      "edge": 0.059,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 3.94,
+      "bankroll": 72.8
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "match": "Union Berlin vs RB Leipzig",
+      "pick": "A",
+      "odds": 2.49,
+      "model_p": 0.512,
+      "imp_p": 0.393,
+      "edge": 0.119,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 71.8
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "match": "Leverkusen vs Hoffenheim",
+      "pick": "A",
+      "odds": 18.88,
+      "model_p": 0.091,
+      "imp_p": 0.039,
+      "edge": 0.052,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 70.8
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "match": "Ein Frankfurt vs Wolfsburg",
+      "pick": "H",
+      "odds": 2.11,
+      "model_p": 0.591,
+      "imp_p": 0.465,
+      "edge": 0.126,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 69.8
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "match": "Dortmund vs Stuttgart",
+      "pick": "A",
+      "odds": 3.62,
+      "model_p": 0.373,
+      "imp_p": 0.266,
+      "edge": 0.107,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.62,
+      "bankroll": 72.42
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "match": "Freiburg vs Heidenheim",
+      "pick": "A",
+      "odds": 5.41,
+      "model_p": 0.234,
+      "imp_p": 0.173,
+      "edge": 0.061,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 71.42
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "match": "Hoffenheim vs Union Berlin",
+      "pick": "H",
+      "odds": 2.38,
+      "model_p": 0.453,
+      "imp_p": 0.412,
+      "edge": 0.041,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 70.42
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "match": "Mainz vs Augsburg",
+      "pick": "H",
+      "odds": 1.83,
+      "model_p": 0.641,
+      "imp_p": 0.538,
+      "edge": 0.103,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 69.42
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "match": "Wolfsburg vs Leverkusen",
+      "pick": "H",
+      "odds": 3.72,
+      "model_p": 0.359,
+      "imp_p": 0.259,
+      "edge": 0.1,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 68.42
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "match": "M'gladbach vs Ein Frankfurt",
+      "pick": "A",
+      "odds": 2.68,
+      "model_p": 0.469,
+      "imp_p": 0.364,
+      "edge": 0.105,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 67.42
+    },
+    {
+      "date": "2025-02-09T00:00:00",
+      "match": "Holstein Kiel vs Bochum",
+      "pick": "H",
+      "odds": 2.4,
+      "model_p": 0.603,
+      "imp_p": 0.408,
+      "edge": 0.194,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 66.42
+    },
+    {
+      "date": "2025-02-09T00:00:00",
+      "match": "RB Leipzig vs St Pauli",
+      "pick": "D",
+      "odds": 4.11,
+      "model_p": 0.286,
+      "imp_p": 0.232,
+      "edge": 0.054,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 65.42
+    },
+    {
+      "date": "2025-02-14T00:00:00",
+      "match": "Augsburg vs RB Leipzig",
+      "pick": "A",
+      "odds": 2.44,
+      "model_p": 0.5,
+      "imp_p": 0.401,
+      "edge": 0.099,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 64.42
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "match": "Bochum vs Dortmund",
+      "pick": "H",
+      "odds": 5.77,
+      "model_p": 0.193,
+      "imp_p": 0.161,
+      "edge": 0.032,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 4.77,
+      "bankroll": 69.19
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "match": "Stuttgart vs Wolfsburg",
+      "pick": "A",
+      "odds": 5.63,
+      "model_p": 0.341,
+      "imp_p": 0.166,
+      "edge": 0.175,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 4.63,
+      "bankroll": 73.82
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "match": "Union Berlin vs M'gladbach",
+      "pick": "A",
+      "odds": 3.48,
+      "model_p": 0.425,
+      "imp_p": 0.277,
+      "edge": 0.148,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.48,
+      "bankroll": 76.3
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "match": "Leverkusen vs Bayern Munich",
+      "pick": "A",
+      "odds": 2.35,
+      "model_p": 0.538,
+      "imp_p": 0.417,
+      "edge": 0.121,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 75.3
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "match": "Werder Bremen vs Hoffenheim",
+      "pick": "H",
+      "odds": 1.88,
+      "model_p": 0.612,
+      "imp_p": 0.524,
+      "edge": 0.088,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 74.3
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "match": "Ein Frankfurt vs Holstein Kiel",
+      "pick": "H",
+      "odds": 1.34,
+      "model_p": 0.818,
+      "imp_p": 0.739,
+      "edge": 0.079,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.34,
+      "bankroll": 74.64
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "match": "Heidenheim vs Mainz",
+      "pick": "A",
+      "odds": 2.1,
+      "model_p": 0.581,
+      "imp_p": 0.467,
+      "edge": 0.114,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.1,
+      "bankroll": 75.74
+    },
+    {
+      "date": "2025-02-21T00:00:00",
+      "match": "Freiburg vs Werder Bremen",
+      "pick": "A",
+      "odds": 4.03,
+      "model_p": 0.343,
+      "imp_p": 0.238,
+      "edge": 0.105,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 74.74
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "match": "Dortmund vs Union Berlin",
+      "pick": "A",
+      "odds": 6.34,
+      "model_p": 0.225,
+      "imp_p": 0.145,
+      "edge": 0.08,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 73.74
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "match": "Wolfsburg vs Bochum",
+      "pick": "H",
+      "odds": 1.66,
+      "model_p": 0.786,
+      "imp_p": 0.594,
+      "edge": 0.192,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 72.74
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "match": "Mainz vs St Pauli",
+      "pick": "D",
+      "odds": 3.7,
+      "model_p": 0.302,
+      "imp_p": 0.259,
+      "edge": 0.043,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 71.74
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "match": "Holstein Kiel vs Leverkusen",
+      "pick": "H",
+      "odds": 15.26,
+      "model_p": 0.129,
+      "imp_p": 0.051,
+      "edge": 0.078,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 70.74
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "match": "M'gladbach vs Augsburg",
+      "pick": "H",
+      "odds": 1.97,
+      "model_p": 0.584,
+      "imp_p": 0.499,
+      "edge": 0.085,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 69.74
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "match": "RB Leipzig vs Heidenheim",
+      "pick": "A",
+      "odds": 10.15,
+      "model_p": 0.13,
+      "imp_p": 0.086,
+      "edge": 0.044,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 68.74
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "match": "Bayern Munich vs Ein Frankfurt",
+      "pick": "A",
+      "odds": 10.75,
+      "model_p": 0.135,
+      "imp_p": 0.08,
+      "edge": 0.055,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 67.74
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "match": "Hoffenheim vs Stuttgart",
+      "pick": "A",
+      "odds": 2.07,
+      "model_p": 0.542,
+      "imp_p": 0.475,
+      "edge": 0.068,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 66.74
+    },
+    {
+      "date": "2025-02-28T00:00:00",
+      "match": "Stuttgart vs Bayern Munich",
+      "pick": "A",
+      "odds": 1.76,
+      "model_p": 0.684,
+      "imp_p": 0.559,
+      "edge": 0.124,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.76,
+      "bankroll": 67.5
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "match": "Werder Bremen vs Wolfsburg",
+      "pick": "A",
+      "odds": 2.36,
+      "model_p": 0.514,
+      "imp_p": 0.415,
+      "edge": 0.099,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.36,
+      "bankroll": 68.86
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "match": "Ein Frankfurt vs Leverkusen",
+      "pick": "H",
+      "odds": 4.16,
+      "model_p": 0.375,
+      "imp_p": 0.23,
+      "edge": 0.145,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 67.86
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "match": "St Pauli vs Dortmund",
+      "pick": "H",
+      "odds": 4.39,
+      "model_p": 0.273,
+      "imp_p": 0.217,
+      "edge": 0.056,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 66.86
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "match": "Bochum vs Hoffenheim",
+      "pick": "A",
+      "odds": 3.01,
+      "model_p": 0.398,
+      "imp_p": 0.323,
+      "edge": 0.076,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.01,
+      "bankroll": 68.87
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "match": "Heidenheim vs M'gladbach",
+      "pick": "A",
+      "odds": 2.7,
+      "model_p": 0.498,
+      "imp_p": 0.361,
+      "edge": 0.136,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.7,
+      "bankroll": 70.57
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "match": "RB Leipzig vs Mainz",
+      "pick": "A",
+      "odds": 4.07,
+      "model_p": 0.378,
+      "imp_p": 0.235,
+      "edge": 0.143,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 3.07,
+      "bankroll": 73.64
+    },
+    {
+      "date": "2025-03-02T00:00:00",
+      "match": "Union Berlin vs Holstein Kiel",
+      "pick": "A",
+      "odds": 6.0,
+      "model_p": 0.356,
+      "imp_p": 0.154,
+      "edge": 0.202,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 5.0,
+      "bankroll": 78.64
+    },
+    {
+      "date": "2025-03-02T00:00:00",
+      "match": "Augsburg vs Freiburg",
+      "pick": "A",
+      "odds": 3.21,
+      "model_p": 0.384,
+      "imp_p": 0.302,
+      "edge": 0.082,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 77.64
+    },
+    {
+      "date": "2025-03-07T00:00:00",
+      "match": "M'gladbach vs Mainz",
+      "pick": "A",
+      "odds": 2.67,
+      "model_p": 0.415,
+      "imp_p": 0.366,
+      "edge": 0.049,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.67,
+      "bankroll": 79.31
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "match": "Bayern Munich vs Bochum",
+      "pick": "H",
+      "odds": 1.17,
+      "model_p": 0.932,
+      "imp_p": 0.849,
+      "edge": 0.083,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 78.31
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "match": "Dortmund vs Augsburg",
+      "pick": "A",
+      "odds": 8.32,
+      "model_p": 0.224,
+      "imp_p": 0.106,
+      "edge": 0.118,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 7.32,
+      "bankroll": 85.63
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "match": "Holstein Kiel vs Stuttgart",
+      "pick": "H",
+      "odds": 6.23,
+      "model_p": 0.229,
+      "imp_p": 0.149,
+      "edge": 0.08,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 84.63
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "match": "Wolfsburg vs St Pauli",
+      "pick": "H",
+      "odds": 1.85,
+      "model_p": 0.612,
+      "imp_p": 0.532,
+      "edge": 0.081,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 83.63
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "match": "Freiburg vs RB Leipzig",
+      "pick": "A",
+      "odds": 2.94,
+      "model_p": 0.393,
+      "imp_p": 0.331,
+      "edge": 0.062,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 82.63
+    },
+    {
+      "date": "2025-03-09T00:00:00",
+      "match": "Ein Frankfurt vs Union Berlin",
+      "pick": "H",
+      "odds": 1.99,
+      "model_p": 0.704,
+      "imp_p": 0.494,
+      "edge": 0.21,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 81.63
+    },
+    {
+      "date": "2025-03-09T00:00:00",
+      "match": "Hoffenheim vs Heidenheim",
+      "pick": "A",
+      "odds": 3.96,
+      "model_p": 0.282,
+      "imp_p": 0.242,
+      "edge": 0.04,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 80.63
+    },
+    {
+      "date": "2025-03-14T00:00:00",
+      "match": "St Pauli vs Hoffenheim",
+      "pick": "A",
+      "odds": 3.44,
+      "model_p": 0.32,
+      "imp_p": 0.281,
+      "edge": 0.039,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 79.63
+    },
+    {
+      "date": "2025-03-15T00:00:00",
+      "match": "Werder Bremen vs M'gladbach",
+      "pick": "A",
+      "odds": 3.15,
+      "model_p": 0.407,
+      "imp_p": 0.308,
+      "edge": 0.099,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.15,
+      "bankroll": 81.78
+    },
+    {
+      "date": "2025-03-15T00:00:00",
+      "match": "RB Leipzig vs Dortmund",
+      "pick": "H",
+      "odds": 2.8,
+      "model_p": 0.448,
+      "imp_p": 0.348,
+      "edge": 0.1,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.8,
+      "bankroll": 83.58
+    },
+    {
+      "date": "2025-03-15T00:00:00",
+      "match": "Union Berlin vs Bayern Munich",
+      "pick": "A",
+      "odds": 1.34,
+      "model_p": 0.806,
+      "imp_p": 0.738,
+      "edge": 0.068,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 82.58
+    },
+    {
+      "date": "2025-03-15T00:00:00",
+      "match": "Augsburg vs Wolfsburg",
+      "pick": "A",
+      "odds": 3.13,
+      "model_p": 0.486,
+      "imp_p": 0.31,
+      "edge": 0.176,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 81.58
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "match": "Bochum vs Ein Frankfurt",
+      "pick": "A",
+      "odds": 2.64,
+      "model_p": 0.639,
+      "imp_p": 0.37,
+      "edge": 0.269,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.64,
+      "bankroll": 83.22
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "match": "Heidenheim vs Holstein Kiel",
+      "pick": "A",
+      "odds": 3.77,
+      "model_p": 0.399,
+      "imp_p": 0.255,
+      "edge": 0.144,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 82.22
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "match": "Stuttgart vs Leverkusen",
+      "pick": "A",
+      "odds": 2.28,
+      "model_p": 0.501,
+      "imp_p": 0.43,
+      "edge": 0.071,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.28,
+      "bankroll": 83.5
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "match": "Bayern Munich vs St Pauli",
+      "pick": "D",
+      "odds": 9.5,
+      "model_p": 0.157,
+      "imp_p": 0.09,
+      "edge": 0.067,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 82.5
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "match": "Hoffenheim vs Augsburg",
+      "pick": "A",
+      "odds": 3.19,
+      "model_p": 0.395,
+      "imp_p": 0.304,
+      "edge": 0.092,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 81.5
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "match": "Holstein Kiel vs Werder Bremen",
+      "pick": "H",
+      "odds": 3.18,
+      "model_p": 0.345,
+      "imp_p": 0.305,
+      "edge": 0.041,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 80.5
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "match": "M'gladbach vs RB Leipzig",
+      "pick": "H",
+      "odds": 3.01,
+      "model_p": 0.379,
+      "imp_p": 0.323,
+      "edge": 0.056,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 2.01,
+      "bankroll": 82.51
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "match": "Wolfsburg vs Heidenheim",
+      "pick": "H",
+      "odds": 1.72,
+      "model_p": 0.7,
+      "imp_p": 0.574,
+      "edge": 0.127,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 81.51
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "match": "Ein Frankfurt vs Stuttgart",
+      "pick": "H",
+      "odds": 2.58,
+      "model_p": 0.505,
+      "imp_p": 0.379,
+      "edge": 0.126,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.58,
+      "bankroll": 83.09
+    },
+    {
+      "date": "2025-03-30T00:00:00",
+      "match": "Dortmund vs Mainz",
+      "pick": "A",
+      "odds": 5.02,
+      "model_p": 0.46,
+      "imp_p": 0.187,
+      "edge": 0.274,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 82.09
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "match": "Mainz vs Holstein Kiel",
+      "pick": "H",
+      "odds": 1.44,
+      "model_p": 0.734,
+      "imp_p": 0.687,
+      "edge": 0.047,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 81.09
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "match": "Heidenheim vs Leverkusen",
+      "pick": "A",
+      "odds": 1.52,
+      "model_p": 0.72,
+      "imp_p": 0.648,
+      "edge": 0.073,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.52,
+      "bankroll": 81.61
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "match": "Werder Bremen vs Ein Frankfurt",
+      "pick": "A",
+      "odds": 3.03,
+      "model_p": 0.531,
+      "imp_p": 0.321,
+      "edge": 0.21,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 80.61
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "match": "Bochum vs Stuttgart",
+      "pick": "A",
+      "odds": 2.91,
+      "model_p": 0.581,
+      "imp_p": 0.334,
+      "edge": 0.247,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.91,
+      "bankroll": 82.52
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "match": "Freiburg vs Dortmund",
+      "pick": "H",
+      "odds": 3.42,
+      "model_p": 0.369,
+      "imp_p": 0.282,
+      "edge": 0.086,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 81.52
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "match": "St Pauli vs M'gladbach",
+      "pick": "A",
+      "odds": 3.16,
+      "model_p": 0.441,
+      "imp_p": 0.307,
+      "edge": 0.134,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 80.52
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "match": "Union Berlin vs Wolfsburg",
+      "pick": "A",
+      "odds": 3.33,
+      "model_p": 0.512,
+      "imp_p": 0.291,
+      "edge": 0.222,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 79.52
+    },
+    {
+      "date": "2025-04-11T00:00:00",
+      "match": "Wolfsburg vs RB Leipzig",
+      "pick": "H",
+      "odds": 2.75,
+      "model_p": 0.406,
+      "imp_p": 0.354,
+      "edge": 0.051,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 78.52
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "match": "Holstein Kiel vs St Pauli",
+      "pick": "H",
+      "odds": 3.59,
+      "model_p": 0.351,
+      "imp_p": 0.269,
+      "edge": 0.082,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 77.52
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "match": "Bayern Munich vs Dortmund",
+      "pick": "H",
+      "odds": 1.44,
+      "model_p": 0.762,
+      "imp_p": 0.687,
+      "edge": 0.075,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 76.52
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "match": "Bochum vs Augsburg",
+      "pick": "A",
+      "odds": 3.26,
+      "model_p": 0.461,
+      "imp_p": 0.297,
+      "edge": 0.164,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.26,
+      "bankroll": 78.78
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "match": "Hoffenheim vs Mainz",
+      "pick": "A",
+      "odds": 3.0,
+      "model_p": 0.584,
+      "imp_p": 0.324,
+      "edge": 0.26,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 77.78
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "match": "M'gladbach vs Freiburg",
+      "pick": "H",
+      "odds": 2.29,
+      "model_p": 0.49,
+      "imp_p": 0.428,
+      "edge": 0.062,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 76.78
+    },
+    {
+      "date": "2025-04-13T00:00:00",
+      "match": "Stuttgart vs Werder Bremen",
+      "pick": "A",
+      "odds": 4.44,
+      "model_p": 0.256,
+      "imp_p": 0.215,
+      "edge": 0.042,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 3.44,
+      "bankroll": 80.22
+    },
+    {
+      "date": "2025-04-13T00:00:00",
+      "match": "Ein Frankfurt vs Heidenheim",
+      "pick": "H",
+      "odds": 1.76,
+      "model_p": 0.687,
+      "imp_p": 0.56,
+      "edge": 0.127,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.76,
+      "bankroll": 80.98
+    },
+    {
+      "date": "2025-04-19T00:00:00",
+      "match": "Union Berlin vs Stuttgart",
+      "pick": "A",
+      "odds": 2.32,
+      "model_p": 0.478,
+      "imp_p": 0.422,
+      "edge": 0.056,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 79.98
+    },
+    {
+      "date": "2025-04-19T00:00:00",
+      "match": "Heidenheim vs Bayern Munich",
+      "pick": "A",
+      "odds": 1.27,
+      "model_p": 0.84,
+      "imp_p": 0.779,
+      "edge": 0.062,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.27,
+      "bankroll": 80.25
+    },
+    {
+      "date": "2025-04-19T00:00:00",
+      "match": "Mainz vs Wolfsburg",
+      "pick": "A",
+      "odds": 3.73,
+      "model_p": 0.305,
+      "imp_p": 0.258,
+      "edge": 0.047,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 79.25
+    },
+    {
+      "date": "2025-04-20T00:00:00",
+      "match": "Augsburg vs Ein Frankfurt",
+      "pick": "A",
+      "odds": 2.8,
+      "model_p": 0.493,
+      "imp_p": 0.348,
+      "edge": 0.145,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 78.25
+    },
+    {
+      "date": "2025-04-20T00:00:00",
+      "match": "Dortmund vs M'gladbach",
+      "pick": "A",
+      "odds": 7.62,
+      "model_p": 0.304,
+      "imp_p": 0.119,
+      "edge": 0.185,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 77.25
+    },
+    {
+      "date": "2025-04-26T00:00:00",
+      "match": "Bayern Munich vs Mainz",
+      "pick": "A",
+      "odds": 11.09,
+      "model_p": 0.137,
+      "imp_p": 0.076,
+      "edge": 0.061,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 76.25
+    },
+    {
+      "date": "2025-04-26T00:00:00",
+      "match": "Hoffenheim vs Dortmund",
+      "pick": "A",
+      "odds": 1.87,
+      "model_p": 0.569,
+      "imp_p": 0.527,
+      "edge": 0.042,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.87,
+      "bankroll": 77.12
+    },
+    {
+      "date": "2025-04-26T00:00:00",
+      "match": "Holstein Kiel vs M'gladbach",
+      "pick": "A",
+      "odds": 2.72,
+      "model_p": 0.56,
+      "imp_p": 0.359,
+      "edge": 0.201,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 76.12
+    },
+    {
+      "date": "2025-04-26T00:00:00",
+      "match": "Wolfsburg vs Freiburg",
+      "pick": "H",
+      "odds": 2.37,
+      "model_p": 0.503,
+      "imp_p": 0.413,
+      "edge": 0.09,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 75.12
+    },
+    {
+      "date": "2025-04-27T00:00:00",
+      "match": "Bochum vs Union Berlin",
+      "pick": "A",
+      "odds": 3.11,
+      "model_p": 0.422,
+      "imp_p": 0.312,
+      "edge": 0.109,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 74.12
+    },
+    {
+      "date": "2025-05-02T00:00:00",
+      "match": "Heidenheim vs Bochum",
+      "pick": "H",
+      "odds": 2.41,
+      "model_p": 0.45,
+      "imp_p": 0.406,
+      "edge": 0.044,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 73.12
+    },
+    {
+      "date": "2025-05-03T00:00:00",
+      "match": "Union Berlin vs Werder Bremen",
+      "pick": "H",
+      "odds": 3.38,
+      "model_p": 0.329,
+      "imp_p": 0.287,
+      "edge": 0.043,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 72.12
+    },
+    {
+      "date": "2025-05-03T00:00:00",
+      "match": "St Pauli vs Stuttgart",
+      "pick": "A",
+      "odds": 2.53,
+      "model_p": 0.431,
+      "imp_p": 0.386,
+      "edge": 0.045,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.53,
+      "bankroll": 73.65
+    },
+    {
+      "date": "2025-05-03T00:00:00",
+      "match": "Dortmund vs Wolfsburg",
+      "pick": "A",
+      "odds": 9.89,
+      "model_p": 0.318,
+      "imp_p": 0.086,
+      "edge": 0.232,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 72.65
+    },
+    {
+      "date": "2025-05-03T00:00:00",
+      "match": "M'gladbach vs Hoffenheim",
+      "pick": "H",
+      "odds": 2.27,
+      "model_p": 0.572,
+      "imp_p": 0.432,
+      "edge": 0.14,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 71.65
+    },
+    {
+      "date": "2025-05-03T00:00:00",
+      "match": "RB Leipzig vs Bayern Munich",
+      "pick": "A",
+      "odds": 1.72,
+      "model_p": 0.678,
+      "imp_p": 0.573,
+      "edge": 0.105,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 70.65
+    },
+    {
+      "date": "2025-05-04T00:00:00",
+      "match": "Freiburg vs Leverkusen",
+      "pick": "A",
+      "odds": 2.27,
+      "model_p": 0.558,
+      "imp_p": 0.432,
+      "edge": 0.126,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 69.65
+    },
+    {
+      "date": "2025-05-04T00:00:00",
+      "match": "Mainz vs Ein Frankfurt",
+      "pick": "A",
+      "odds": 3.02,
+      "model_p": 0.392,
+      "imp_p": 0.321,
+      "edge": 0.071,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 68.65
+    },
+    {
+      "date": "2025-05-04T00:00:00",
+      "match": "Augsburg vs Holstein Kiel",
+      "pick": "A",
+      "odds": 4.4,
+      "model_p": 0.26,
+      "imp_p": 0.216,
+      "edge": 0.043,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 3.4,
+      "bankroll": 72.05
+    },
+    {
+      "date": "2025-05-09T00:00:00",
+      "match": "Wolfsburg vs Hoffenheim",
+      "pick": "H",
+      "odds": 2.98,
+      "model_p": 0.577,
+      "imp_p": 0.326,
+      "edge": 0.251,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 71.05
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "match": "Bochum vs Mainz",
+      "pick": "A",
+      "odds": 2.2,
+      "model_p": 0.597,
+      "imp_p": 0.446,
+      "edge": 0.15,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.2,
+      "bankroll": 72.25
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "match": "Holstein Kiel vs Freiburg",
+      "pick": "H",
+      "odds": 3.59,
+      "model_p": 0.302,
+      "imp_p": 0.269,
+      "edge": 0.033,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 71.25
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "match": "Werder Bremen vs RB Leipzig",
+      "pick": "A",
+      "odds": 3.59,
+      "model_p": 0.421,
+      "imp_p": 0.268,
+      "edge": 0.153,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 70.25
+    }
+  ],
+  "league": "D1"
+}

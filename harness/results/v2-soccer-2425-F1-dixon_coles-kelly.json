@@ -1,0 +1,3527 @@
+{
+  "model": "dixon_coles",
+  "stake_mode": "kelly",
+  "picks": 195,
+  "wins": 75,
+  "winrate": 38.46,
+  "total_staked": 335.46,
+  "total_pnl": -16.81,
+  "roi_pct": -5.01,
+  "final_bankroll": 83.19,
+  "bankroll_growth_pct": -16.81,
+  "equity_curve": [
+    {
+      "date": "2024-10-06T00:00:00",
+      "bankroll": 105.05
+    },
+    {
+      "date": "2024-10-06T00:00:00",
+      "bankroll": 110.99
+    },
+    {
+      "date": "2024-10-06T00:00:00",
+      "bankroll": 109.76
+    },
+    {
+      "date": "2024-10-18T00:00:00",
+      "bankroll": 108.5
+    },
+    {
+      "date": "2024-10-19T00:00:00",
+      "bankroll": 109.49
+    },
+    {
+      "date": "2024-10-19T00:00:00",
+      "bankroll": 106.56
+    },
+    {
+      "date": "2024-10-19T00:00:00",
+      "bankroll": 107.67
+    },
+    {
+      "date": "2024-10-20T00:00:00",
+      "bankroll": 101.42
+    },
+    {
+      "date": "2024-10-20T00:00:00",
+      "bankroll": 98.9
+    },
+    {
+      "date": "2024-10-20T00:00:00",
+      "bankroll": 105.85
+    },
+    {
+      "date": "2024-10-20T00:00:00",
+      "bankroll": 109.94
+    },
+    {
+      "date": "2024-10-25T00:00:00",
+      "bankroll": 113.3
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "bankroll": 111.31
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "bankroll": 106.91
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "bankroll": 112.01
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "bankroll": 106.72
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "bankroll": 106.2
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "bankroll": 104.59
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "bankroll": 105.99
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "bankroll": 103.77
+    },
+    {
+      "date": "2024-11-01T00:00:00",
+      "bankroll": 102.32
+    },
+    {
+      "date": "2024-11-01T00:00:00",
+      "bankroll": 99.24
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "bankroll": 105.63
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "bankroll": 97.01
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "bankroll": 95.76
+    },
+    {
+      "date": "2024-11-03T00:00:00",
+      "bankroll": 93.92
+    },
+    {
+      "date": "2024-11-03T00:00:00",
+      "bankroll": 93.33
+    },
+    {
+      "date": "2024-11-03T00:00:00",
+      "bankroll": 94.58
+    },
+    {
+      "date": "2024-11-03T00:00:00",
+      "bankroll": 97.37
+    },
+    {
+      "date": "2024-11-08T00:00:00",
+      "bankroll": 92.62
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "bankroll": 91.09
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "bankroll": 91.77
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "bankroll": 91.23
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "bankroll": 90.11
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "bankroll": 94.18
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "bankroll": 89.58
+    },
+    {
+      "date": "2024-11-22T00:00:00",
+      "bankroll": 90.15
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "bankroll": 89.73
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "bankroll": 91.25
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "bankroll": 89.13
+    },
+    {
+      "date": "2024-11-24T00:00:00",
+      "bankroll": 92.54
+    },
+    {
+      "date": "2024-11-24T00:00:00",
+      "bankroll": 89.71
+    },
+    {
+      "date": "2024-11-24T00:00:00",
+      "bankroll": 88.67
+    },
+    {
+      "date": "2024-11-24T00:00:00",
+      "bankroll": 91.72
+    },
+    {
+      "date": "2024-11-29T00:00:00",
+      "bankroll": 90.9
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "bankroll": 88.87
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "bankroll": 85.77
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "bankroll": 86.94
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "bankroll": 85.61
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "bankroll": 80.52
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "bankroll": 86.48
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "bankroll": 83.06
+    },
+    {
+      "date": "2024-12-06T00:00:00",
+      "bankroll": 83.61
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "bankroll": 82.94
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "bankroll": 86.08
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "bankroll": 85.27
+    },
+    {
+      "date": "2024-12-08T00:00:00",
+      "bankroll": 86.09
+    },
+    {
+      "date": "2024-12-08T00:00:00",
+      "bankroll": 85.43
+    },
+    {
+      "date": "2024-12-08T00:00:00",
+      "bankroll": 88.54
+    },
+    {
+      "date": "2024-12-08T00:00:00",
+      "bankroll": 90.05
+    },
+    {
+      "date": "2024-12-14T00:00:00",
+      "bankroll": 89.25
+    },
+    {
+      "date": "2024-12-14T00:00:00",
+      "bankroll": 89.91
+    },
+    {
+      "date": "2024-12-15T00:00:00",
+      "bankroll": 89.3
+    },
+    {
+      "date": "2024-12-15T00:00:00",
+      "bankroll": 91.72
+    },
+    {
+      "date": "2024-12-15T00:00:00",
+      "bankroll": 85.68
+    },
+    {
+      "date": "2024-12-18T00:00:00",
+      "bankroll": 84.89
+    },
+    {
+      "date": "2025-01-03T00:00:00",
+      "bankroll": 88.26
+    },
+    {
+      "date": "2025-01-04T00:00:00",
+      "bankroll": 85.31
+    },
+    {
+      "date": "2025-01-04T00:00:00",
+      "bankroll": 86.79
+    },
+    {
+      "date": "2025-01-05T00:00:00",
+      "bankroll": 88.2
+    },
+    {
+      "date": "2025-01-05T00:00:00",
+      "bankroll": 87.34
+    },
+    {
+      "date": "2025-01-05T00:00:00",
+      "bankroll": 86.34
+    },
+    {
+      "date": "2025-01-05T00:00:00",
+      "bankroll": 87.14
+    },
+    {
+      "date": "2025-01-10T00:00:00",
+      "bankroll": 86.7
+    },
+    {
+      "date": "2025-01-10T00:00:00",
+      "bankroll": 86.0
+    },
+    {
+      "date": "2025-01-11T00:00:00",
+      "bankroll": 88.4
+    },
+    {
+      "date": "2025-01-11T00:00:00",
+      "bankroll": 88.97
+    },
+    {
+      "date": "2025-01-12T00:00:00",
+      "bankroll": 89.93
+    },
+    {
+      "date": "2025-01-12T00:00:00",
+      "bankroll": 90.54
+    },
+    {
+      "date": "2025-01-12T00:00:00",
+      "bankroll": 89.97
+    },
+    {
+      "date": "2025-01-12T00:00:00",
+      "bankroll": 96.16
+    },
+    {
+      "date": "2025-01-17T00:00:00",
+      "bankroll": 93.46
+    },
+    {
+      "date": "2025-01-17T00:00:00",
+      "bankroll": 93.05
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "bankroll": 92.59
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "bankroll": 94.26
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "bankroll": 96.46
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "bankroll": 94.54
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "bankroll": 92.38
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "bankroll": 91.56
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "bankroll": 91.0
+    },
+    {
+      "date": "2025-01-24T00:00:00",
+      "bankroll": 88.75
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "bankroll": 88.4
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "bankroll": 87.05
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "bankroll": 88.29
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "bankroll": 87.16
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "bankroll": 89.85
+    },
+    {
+      "date": "2025-01-31T00:00:00",
+      "bankroll": 90.61
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "bankroll": 89.75
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "bankroll": 91.06
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "bankroll": 92.29
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "bankroll": 90.45
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "bankroll": 89.84
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "bankroll": 88.63
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "bankroll": 88.21
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "bankroll": 87.75
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "bankroll": 87.56
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "bankroll": 89.23
+    },
+    {
+      "date": "2025-02-09T00:00:00",
+      "bankroll": 91.59
+    },
+    {
+      "date": "2025-02-09T00:00:00",
+      "bankroll": 90.93
+    },
+    {
+      "date": "2025-02-09T00:00:00",
+      "bankroll": 92.28
+    },
+    {
+      "date": "2025-02-14T00:00:00",
+      "bankroll": 91.6
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "bankroll": 92.25
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "bankroll": 91.82
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "bankroll": 91.34
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "bankroll": 92.33
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "bankroll": 91.56
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "bankroll": 93.09
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "bankroll": 93.65
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "bankroll": 94.58
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "bankroll": 93.08
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "bankroll": 91.3
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "bankroll": 92.96
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "bankroll": 92.42
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "bankroll": 91.83
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "bankroll": 91.17
+    },
+    {
+      "date": "2025-02-28T00:00:00",
+      "bankroll": 90.78
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "bankroll": 92.85
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "bankroll": 92.22
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "bankroll": 91.61
+    },
+    {
+      "date": "2025-03-02T00:00:00",
+      "bankroll": 92.24
+    },
+    {
+      "date": "2025-03-02T00:00:00",
+      "bankroll": 91.81
+    },
+    {
+      "date": "2025-03-02T00:00:00",
+      "bankroll": 91.14
+    },
+    {
+      "date": "2025-03-07T00:00:00",
+      "bankroll": 90.77
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "bankroll": 91.82
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "bankroll": 93.19
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "bankroll": 92.77
+    },
+    {
+      "date": "2025-03-09T00:00:00",
+      "bankroll": 92.32
+    },
+    {
+      "date": "2025-03-09T00:00:00",
+      "bankroll": 91.73
+    },
+    {
+      "date": "2025-03-09T00:00:00",
+      "bankroll": 93.53
+    },
+    {
+      "date": "2025-03-09T00:00:00",
+      "bankroll": 94.33
+    },
+    {
+      "date": "2025-03-15T00:00:00",
+      "bankroll": 93.81
+    },
+    {
+      "date": "2025-03-15T00:00:00",
+      "bankroll": 93.33
+    },
+    {
+      "date": "2025-03-15T00:00:00",
+      "bankroll": 92.87
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "bankroll": 92.41
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "bankroll": 93.27
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "bankroll": 92.76
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "bankroll": 91.94
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "bankroll": 93.08
+    },
+    {
+      "date": "2025-03-30T00:00:00",
+      "bankroll": 96.18
+    },
+    {
+      "date": "2025-03-30T00:00:00",
+      "bankroll": 95.69
+    },
+    {
+      "date": "2025-03-30T00:00:00",
+      "bankroll": 95.14
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "bankroll": 97.54
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "bankroll": 99.63
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "bankroll": 101.96
+    },
+    {
+      "date": "2025-04-11T00:00:00",
+      "bankroll": 100.81
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "bankroll": 99.98
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "bankroll": 99.11
+    },
+    {
+      "date": "2025-04-13T00:00:00",
+      "bankroll": 96.53
+    },
+    {
+      "date": "2025-04-13T00:00:00",
+      "bankroll": 96.98
+    },
+    {
+      "date": "2025-04-13T00:00:00",
+      "bankroll": 97.89
+    },
+    {
+      "date": "2025-04-13T00:00:00",
+      "bankroll": 97.02
+    },
+    {
+      "date": "2025-04-19T00:00:00",
+      "bankroll": 95.86
+    },
+    {
+      "date": "2025-04-19T00:00:00",
+      "bankroll": 96.77
+    },
+    {
+      "date": "2025-04-20T00:00:00",
+      "bankroll": 93.63
+    },
+    {
+      "date": "2025-04-20T00:00:00",
+      "bankroll": 95.45
+    },
+    {
+      "date": "2025-04-20T00:00:00",
+      "bankroll": 94.32
+    },
+    {
+      "date": "2025-04-22T00:00:00",
+      "bankroll": 92.04
+    },
+    {
+      "date": "2025-04-25T00:00:00",
+      "bankroll": 91.23
+    },
+    {
+      "date": "2025-04-26T00:00:00",
+      "bankroll": 92.65
+    },
+    {
+      "date": "2025-04-26T00:00:00",
+      "bankroll": 92.03
+    },
+    {
+      "date": "2025-04-27T00:00:00",
+      "bankroll": 91.1
+    },
+    {
+      "date": "2025-04-27T00:00:00",
+      "bankroll": 90.02
+    },
+    {
+      "date": "2025-04-27T00:00:00",
+      "bankroll": 89.35
+    },
+    {
+      "date": "2025-04-27T00:00:00",
+      "bankroll": 88.78
+    },
+    {
+      "date": "2025-05-02T00:00:00",
+      "bankroll": 88.16
+    },
+    {
+      "date": "2025-05-03T00:00:00",
+      "bankroll": 85.27
+    },
+    {
+      "date": "2025-05-03T00:00:00",
+      "bankroll": 85.01
+    },
+    {
+      "date": "2025-05-03T00:00:00",
+      "bankroll": 85.46
+    },
+    {
+      "date": "2025-05-04T00:00:00",
+      "bankroll": 84.72
+    },
+    {
+      "date": "2025-05-04T00:00:00",
+      "bankroll": 81.46
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "bankroll": 79.7
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "bankroll": 81.96
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "bankroll": 82.46
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "bankroll": 82.14
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "bankroll": 84.58
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "bankroll": 83.3
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "bankroll": 84.93
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "bankroll": 84.46
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "bankroll": 84.03
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "bankroll": 87.88
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "bankroll": 86.99
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "bankroll": 85.97
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "bankroll": 85.15
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "bankroll": 84.92
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "bankroll": 83.19
+    }
+  ],
+  "picks_detail": [
+    {
+      "date": "2024-10-06T00:00:00",
+      "match": "Reims vs Montpellier",
+      "pick": "H",
+      "odds": 1.67,
+      "model_p": 0.901,
+      "imp_p": 0.591,
+      "edge": 0.31,
+      "stake": 7.53,
+      "actual": "H",
+      "won": true,
+      "pnl": 5.05,
+      "bankroll": 105.05
+    },
+    {
+      "date": "2024-10-06T00:00:00",
+      "match": "Strasbourg vs Lens",
+      "pick": "D",
+      "odds": 3.45,
+      "model_p": 0.454,
+      "imp_p": 0.28,
+      "edge": 0.174,
+      "stake": 2.43,
+      "actual": "D",
+      "won": true,
+      "pnl": 5.95,
+      "bankroll": 110.99
+    },
+    {
+      "date": "2024-10-06T00:00:00",
+      "match": "Nice vs Paris SG",
+      "pick": "H",
+      "odds": 5.57,
+      "model_p": 0.271,
+      "imp_p": 0.167,
+      "edge": 0.103,
+      "stake": 1.23,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.23,
+      "bankroll": 109.76
+    },
+    {
+      "date": "2024-10-18T00:00:00",
+      "match": "Monaco vs Lille",
+      "pick": "H",
+      "odds": 2.13,
+      "model_p": 0.53,
+      "imp_p": 0.461,
+      "edge": 0.07,
+      "stake": 1.26,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.26,
+      "bankroll": 108.5
+    },
+    {
+      "date": "2024-10-19T00:00:00",
+      "match": "St Etienne vs Lens",
+      "pick": "A",
+      "odds": 1.58,
+      "model_p": 0.69,
+      "imp_p": 0.625,
+      "edge": 0.065,
+      "stake": 1.7,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.99,
+      "bankroll": 109.49
+    },
+    {
+      "date": "2024-10-19T00:00:00",
+      "match": "Brest vs Rennes",
+      "pick": "A",
+      "odds": 2.84,
+      "model_p": 0.525,
+      "imp_p": 0.343,
+      "edge": 0.183,
+      "stake": 2.93,
+      "actual": "D",
+      "won": false,
+      "pnl": -2.93,
+      "bankroll": 106.56
+    },
+    {
+      "date": "2024-10-19T00:00:00",
+      "match": "Paris SG vs Strasbourg",
+      "pick": "H",
+      "odds": 1.3,
+      "model_p": 0.85,
+      "imp_p": 0.761,
+      "edge": 0.088,
+      "stake": 3.71,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.11,
+      "bankroll": 107.67
+    },
+    {
+      "date": "2024-10-20T00:00:00",
+      "match": "Auxerre vs Reims",
+      "pick": "A",
+      "odds": 2.22,
+      "model_p": 0.77,
+      "imp_p": 0.442,
+      "edge": 0.328,
+      "stake": 6.26,
+      "actual": "H",
+      "won": false,
+      "pnl": -6.26,
+      "bankroll": 101.42
+    },
+    {
+      "date": "2024-10-20T00:00:00",
+      "match": "Nantes vs Nice",
+      "pick": "A",
+      "odds": 2.69,
+      "model_p": 0.527,
+      "imp_p": 0.363,
+      "edge": 0.164,
+      "stake": 2.51,
+      "actual": "D",
+      "won": false,
+      "pnl": -2.51,
+      "bankroll": 98.9
+    },
+    {
+      "date": "2024-10-20T00:00:00",
+      "match": "Toulouse vs Angers",
+      "pick": "D",
+      "odds": 4.39,
+      "model_p": 0.388,
+      "imp_p": 0.217,
+      "edge": 0.171,
+      "stake": 2.05,
+      "actual": "D",
+      "won": true,
+      "pnl": 6.95,
+      "bankroll": 105.85
+    },
+    {
+      "date": "2024-10-20T00:00:00",
+      "match": "Montpellier vs Marseille",
+      "pick": "A",
+      "odds": 1.74,
+      "model_p": 0.796,
+      "imp_p": 0.562,
+      "edge": 0.234,
+      "stake": 5.52,
+      "actual": "A",
+      "won": true,
+      "pnl": 4.08,
+      "bankroll": 109.94
+    },
+    {
+      "date": "2024-10-25T00:00:00",
+      "match": "Rennes vs Le Havre",
+      "pick": "H",
+      "odds": 1.53,
+      "model_p": 0.853,
+      "imp_p": 0.646,
+      "edge": 0.208,
+      "stake": 6.34,
+      "actual": "H",
+      "won": true,
+      "pnl": 3.36,
+      "bankroll": 113.3
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "match": "Lens vs Lille",
+      "pick": "D",
+      "odds": 3.38,
+      "model_p": 0.419,
+      "imp_p": 0.286,
+      "edge": 0.134,
+      "stake": 1.99,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.99,
+      "bankroll": 111.31
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "match": "Reims vs Brest",
+      "pick": "H",
+      "odds": 1.9,
+      "model_p": 0.714,
+      "imp_p": 0.518,
+      "edge": 0.196,
+      "stake": 4.4,
+      "actual": "A",
+      "won": false,
+      "pnl": -4.4,
+      "bankroll": 106.91
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "match": "Angers vs St Etienne",
+      "pick": "H",
+      "odds": 2.29,
+      "model_p": 0.645,
+      "imp_p": 0.428,
+      "edge": 0.217,
+      "stake": 3.96,
+      "actual": "H",
+      "won": true,
+      "pnl": 5.11,
+      "bankroll": 112.01
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "match": "Lyon vs Auxerre",
+      "pick": "H",
+      "odds": 1.46,
+      "model_p": 0.834,
+      "imp_p": 0.678,
+      "edge": 0.156,
+      "stake": 5.29,
+      "actual": "D",
+      "won": false,
+      "pnl": -5.29,
+      "bankroll": 106.72
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "match": "Montpellier vs Toulouse",
+      "pick": "D",
+      "odds": 3.7,
+      "model_p": 0.306,
+      "imp_p": 0.26,
+      "edge": 0.046,
+      "stake": 0.52,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.52,
+      "bankroll": 106.2
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "match": "Nice vs Monaco",
+      "pick": "D",
+      "odds": 3.72,
+      "model_p": 0.38,
+      "imp_p": 0.259,
+      "edge": 0.122,
+      "stake": 1.62,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.62,
+      "bankroll": 104.59
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "match": "Strasbourg vs Nantes",
+      "pick": "H",
+      "odds": 2.0,
+      "model_p": 0.567,
+      "imp_p": 0.492,
+      "edge": 0.076,
+      "stake": 1.4,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.4,
+      "bankroll": 105.99
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "match": "Marseille vs Paris SG",
+      "pick": "H",
+      "odds": 4.14,
+      "model_p": 0.4,
+      "imp_p": 0.231,
+      "edge": 0.169,
+      "stake": 2.22,
+      "actual": "A",
+      "won": false,
+      "pnl": -2.22,
+      "bankroll": 103.77
+    },
+    {
+      "date": "2024-11-01T00:00:00",
+      "match": "Monaco vs Angers",
+      "pick": "D",
+      "odds": 6.65,
+      "model_p": 0.269,
+      "imp_p": 0.135,
+      "edge": 0.135,
+      "stake": 1.45,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.45,
+      "bankroll": 102.32
+    },
+    {
+      "date": "2024-11-01T00:00:00",
+      "match": "Lille vs Lyon",
+      "pick": "H",
+      "odds": 2.28,
+      "model_p": 0.607,
+      "imp_p": 0.43,
+      "edge": 0.177,
+      "stake": 3.08,
+      "actual": "D",
+      "won": false,
+      "pnl": -3.08,
+      "bankroll": 99.24
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "match": "Brest vs Nice",
+      "pick": "A",
+      "odds": 2.62,
+      "model_p": 0.627,
+      "imp_p": 0.373,
+      "edge": 0.254,
+      "stake": 3.94,
+      "actual": "A",
+      "won": true,
+      "pnl": 6.39,
+      "bankroll": 105.63
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "match": "St Etienne vs Strasbourg",
+      "pick": "A",
+      "odds": 2.73,
+      "model_p": 0.883,
+      "imp_p": 0.343,
+      "edge": 0.541,
+      "stake": 8.62,
+      "actual": "H",
+      "won": false,
+      "pnl": -8.62,
+      "bankroll": 97.01
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "match": "Paris SG vs Lens",
+      "pick": "D",
+      "odds": 5.07,
+      "model_p": 0.301,
+      "imp_p": 0.186,
+      "edge": 0.116,
+      "stake": 1.26,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.26,
+      "bankroll": 95.76
+    },
+    {
+      "date": "2024-11-03T00:00:00",
+      "match": "Toulouse vs Reims",
+      "pick": "A",
+      "odds": 4.31,
+      "model_p": 0.379,
+      "imp_p": 0.222,
+      "edge": 0.157,
+      "stake": 1.83,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.83,
+      "bankroll": 93.92
+    },
+    {
+      "date": "2024-11-03T00:00:00",
+      "match": "Auxerre vs Rennes",
+      "pick": "A",
+      "odds": 2.14,
+      "model_p": 0.501,
+      "imp_p": 0.459,
+      "edge": 0.042,
+      "stake": 0.59,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.59,
+      "bankroll": 93.33
+    },
+    {
+      "date": "2024-11-03T00:00:00",
+      "match": "Le Havre vs Montpellier",
+      "pick": "H",
+      "odds": 2.3,
+      "model_p": 0.493,
+      "imp_p": 0.426,
+      "edge": 0.066,
+      "stake": 0.96,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.24,
+      "bankroll": 94.58
+    },
+    {
+      "date": "2024-11-03T00:00:00",
+      "match": "Nantes vs Marseille",
+      "pick": "A",
+      "odds": 2.2,
+      "model_p": 0.589,
+      "imp_p": 0.446,
+      "edge": 0.143,
+      "stake": 2.33,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.79,
+      "bankroll": 97.37
+    },
+    {
+      "date": "2024-11-08T00:00:00",
+      "match": "Marseille vs Auxerre",
+      "pick": "H",
+      "odds": 1.45,
+      "model_p": 0.841,
+      "imp_p": 0.682,
+      "edge": 0.159,
+      "stake": 4.75,
+      "actual": "A",
+      "won": false,
+      "pnl": -4.75,
+      "bankroll": 92.62
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "match": "Lens vs Nantes",
+      "pick": "D",
+      "odds": 3.85,
+      "model_p": 0.382,
+      "imp_p": 0.248,
+      "edge": 0.134,
+      "stake": 1.53,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.53,
+      "bankroll": 91.09
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "match": "Lyon vs St Etienne",
+      "pick": "H",
+      "odds": 1.34,
+      "model_p": 0.803,
+      "imp_p": 0.741,
+      "edge": 0.062,
+      "stake": 2.02,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.69,
+      "bankroll": 91.77
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "match": "Rennes vs Toulouse",
+      "pick": "D",
+      "odds": 3.43,
+      "model_p": 0.334,
+      "imp_p": 0.282,
+      "edge": 0.052,
+      "stake": 0.55,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.55,
+      "bankroll": 91.23
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "match": "Nice vs Lille",
+      "pick": "H",
+      "odds": 2.37,
+      "model_p": 0.492,
+      "imp_p": 0.413,
+      "edge": 0.079,
+      "stake": 1.11,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.11,
+      "bankroll": 90.11
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "match": "Le Havre vs Reims",
+      "pick": "A",
+      "odds": 2.3,
+      "model_p": 0.631,
+      "imp_p": 0.426,
+      "edge": 0.205,
+      "stake": 3.13,
+      "actual": "A",
+      "won": true,
+      "pnl": 4.07,
+      "bankroll": 94.18
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "match": "Montpellier vs Brest",
+      "pick": "A",
+      "odds": 2.63,
+      "model_p": 0.683,
+      "imp_p": 0.372,
+      "edge": 0.311,
+      "stake": 4.6,
+      "actual": "H",
+      "won": false,
+      "pnl": -4.6,
+      "bankroll": 89.58
+    },
+    {
+      "date": "2024-11-22T00:00:00",
+      "match": "Monaco vs Brest",
+      "pick": "H",
+      "odds": 1.6,
+      "model_p": 0.664,
+      "imp_p": 0.617,
+      "edge": 0.048,
+      "stake": 0.94,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.56,
+      "bankroll": 90.15
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "match": "Lens vs Marseille",
+      "pick": "D",
+      "odds": 3.37,
+      "model_p": 0.329,
+      "imp_p": 0.287,
+      "edge": 0.042,
+      "stake": 0.42,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.42,
+      "bankroll": 89.73
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "match": "St Etienne vs Montpellier",
+      "pick": "H",
+      "odds": 2.47,
+      "model_p": 0.473,
+      "imp_p": 0.396,
+      "edge": 0.077,
+      "stake": 1.03,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.52,
+      "bankroll": 91.25
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "match": "Reims vs Lyon",
+      "pick": "H",
+      "odds": 3.13,
+      "model_p": 0.477,
+      "imp_p": 0.309,
+      "edge": 0.168,
+      "stake": 2.12,
+      "actual": "D",
+      "won": false,
+      "pnl": -2.12,
+      "bankroll": 89.13
+    },
+    {
+      "date": "2024-11-24T00:00:00",
+      "match": "Nice vs Strasbourg",
+      "pick": "H",
+      "odds": 1.81,
+      "model_p": 0.764,
+      "imp_p": 0.544,
+      "edge": 0.22,
+      "stake": 4.21,
+      "actual": "H",
+      "won": true,
+      "pnl": 3.41,
+      "bankroll": 92.54
+    },
+    {
+      "date": "2024-11-24T00:00:00",
+      "match": "Nantes vs Le Havre",
+      "pick": "H",
+      "odds": 1.94,
+      "model_p": 0.664,
+      "imp_p": 0.506,
+      "edge": 0.158,
+      "stake": 2.84,
+      "actual": "A",
+      "won": false,
+      "pnl": -2.84,
+      "bankroll": 89.71
+    },
+    {
+      "date": "2024-11-24T00:00:00",
+      "match": "Auxerre vs Angers",
+      "pick": "A",
+      "odds": 4.93,
+      "model_p": 0.295,
+      "imp_p": 0.193,
+      "edge": 0.102,
+      "stake": 1.04,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.04,
+      "bankroll": 88.67
+    },
+    {
+      "date": "2024-11-24T00:00:00",
+      "match": "Lille vs Rennes",
+      "pick": "H",
+      "odds": 1.95,
+      "model_p": 0.689,
+      "imp_p": 0.504,
+      "edge": 0.185,
+      "stake": 3.21,
+      "actual": "H",
+      "won": true,
+      "pnl": 3.05,
+      "bankroll": 91.72
+    },
+    {
+      "date": "2024-11-29T00:00:00",
+      "match": "Reims vs Lens",
+      "pick": "H",
+      "odds": 3.25,
+      "model_p": 0.37,
+      "imp_p": 0.296,
+      "edge": 0.074,
+      "stake": 0.82,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.82,
+      "bankroll": 90.9
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "match": "Brest vs Strasbourg",
+      "pick": "A",
+      "odds": 3.75,
+      "model_p": 0.43,
+      "imp_p": 0.256,
+      "edge": 0.174,
+      "stake": 2.02,
+      "actual": "H",
+      "won": false,
+      "pnl": -2.02,
+      "bankroll": 88.87
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "match": "Paris SG vs Nantes",
+      "pick": "H",
+      "odds": 1.16,
+      "model_p": 0.91,
+      "imp_p": 0.856,
+      "edge": 0.054,
+      "stake": 3.11,
+      "actual": "D",
+      "won": false,
+      "pnl": -3.11,
+      "bankroll": 85.77
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "match": "Marseille vs Monaco",
+      "pick": "H",
+      "odds": 2.65,
+      "model_p": 0.429,
+      "imp_p": 0.369,
+      "edge": 0.06,
+      "stake": 0.71,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.17,
+      "bankroll": 86.94
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "match": "Toulouse vs Auxerre",
+      "pick": "A",
+      "odds": 5.61,
+      "model_p": 0.304,
+      "imp_p": 0.167,
+      "edge": 0.137,
+      "stake": 1.33,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.33,
+      "bankroll": 85.61
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "match": "Montpellier vs Lille",
+      "pick": "A",
+      "odds": 1.88,
+      "model_p": 0.81,
+      "imp_p": 0.524,
+      "edge": 0.286,
+      "stake": 5.08,
+      "actual": "D",
+      "won": false,
+      "pnl": -5.08,
+      "bankroll": 80.52
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "match": "Le Havre vs Angers",
+      "pick": "A",
+      "odds": 3.6,
+      "model_p": 0.483,
+      "imp_p": 0.268,
+      "edge": 0.215,
+      "stake": 2.29,
+      "actual": "A",
+      "won": true,
+      "pnl": 5.96,
+      "bankroll": 86.48
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "match": "Lyon vs Nice",
+      "pick": "A",
+      "odds": 4.79,
+      "model_p": 0.522,
+      "imp_p": 0.198,
+      "edge": 0.324,
+      "stake": 3.43,
+      "actual": "H",
+      "won": false,
+      "pnl": -3.43,
+      "bankroll": 83.06
+    },
+    {
+      "date": "2024-12-06T00:00:00",
+      "match": "Lille vs Brest",
+      "pick": "H",
+      "odds": 1.65,
+      "model_p": 0.646,
+      "imp_p": 0.598,
+      "edge": 0.048,
+      "stake": 0.85,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.55,
+      "bankroll": 83.61
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "match": "Monaco vs Toulouse",
+      "pick": "D",
+      "odds": 3.71,
+      "model_p": 0.328,
+      "imp_p": 0.259,
+      "edge": 0.069,
+      "stake": 0.67,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.67,
+      "bankroll": 82.94
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "match": "Nice vs Le Havre",
+      "pick": "H",
+      "odds": 1.62,
+      "model_p": 0.851,
+      "imp_p": 0.61,
+      "edge": 0.241,
+      "stake": 5.06,
+      "actual": "H",
+      "won": true,
+      "pnl": 3.14,
+      "bankroll": 86.08
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "match": "Angers vs Lyon",
+      "pick": "H",
+      "odds": 5.29,
+      "model_p": 0.265,
+      "imp_p": 0.178,
+      "edge": 0.087,
+      "stake": 0.81,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.81,
+      "bankroll": 85.27
+    },
+    {
+      "date": "2024-12-08T00:00:00",
+      "match": "Lens vs Montpellier",
+      "pick": "H",
+      "odds": 1.41,
+      "model_p": 0.778,
+      "imp_p": 0.701,
+      "edge": 0.076,
+      "stake": 2.01,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.82,
+      "bankroll": 86.09
+    },
+    {
+      "date": "2024-12-08T00:00:00",
+      "match": "Strasbourg vs Reims",
+      "pick": "A",
+      "odds": 2.96,
+      "model_p": 0.389,
+      "imp_p": 0.329,
+      "edge": 0.06,
+      "stake": 0.66,
+      "actual": "D",
+      "won": false,
+      "pnl": -0.66,
+      "bankroll": 85.43
+    },
+    {
+      "date": "2024-12-08T00:00:00",
+      "match": "St Etienne vs Marseille",
+      "pick": "A",
+      "odds": 1.59,
+      "model_p": 0.858,
+      "imp_p": 0.621,
+      "edge": 0.237,
+      "stake": 5.27,
+      "actual": "A",
+      "won": true,
+      "pnl": 3.11,
+      "bankroll": 88.54
+    },
+    {
+      "date": "2024-12-08T00:00:00",
+      "match": "Nantes vs Rennes",
+      "pick": "H",
+      "odds": 3.31,
+      "model_p": 0.353,
+      "imp_p": 0.293,
+      "edge": 0.061,
+      "stake": 0.65,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.5,
+      "bankroll": 90.05
+    },
+    {
+      "date": "2024-12-14T00:00:00",
+      "match": "Auxerre vs Lens",
+      "pick": "H",
+      "odds": 4.81,
+      "model_p": 0.278,
+      "imp_p": 0.197,
+      "edge": 0.081,
+      "stake": 0.8,
+      "actual": "D",
+      "won": false,
+      "pnl": -0.8,
+      "bankroll": 89.25
+    },
+    {
+      "date": "2024-12-14T00:00:00",
+      "match": "Reims vs Monaco",
+      "pick": "D",
+      "odds": 3.4,
+      "model_p": 0.316,
+      "imp_p": 0.284,
+      "edge": 0.032,
+      "stake": 0.28,
+      "actual": "D",
+      "won": true,
+      "pnl": 0.67,
+      "bankroll": 89.91
+    },
+    {
+      "date": "2024-12-15T00:00:00",
+      "match": "Rennes vs Angers",
+      "pick": "A",
+      "odds": 6.0,
+      "model_p": 0.224,
+      "imp_p": 0.154,
+      "edge": 0.069,
+      "stake": 0.62,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.62,
+      "bankroll": 89.3
+    },
+    {
+      "date": "2024-12-15T00:00:00",
+      "match": "Le Havre vs Strasbourg",
+      "pick": "A",
+      "odds": 2.31,
+      "model_p": 0.55,
+      "imp_p": 0.424,
+      "edge": 0.126,
+      "stake": 1.85,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.42,
+      "bankroll": 91.72
+    },
+    {
+      "date": "2024-12-15T00:00:00",
+      "match": "Montpellier vs Nice",
+      "pick": "A",
+      "odds": 2.42,
+      "model_p": 0.799,
+      "imp_p": 0.405,
+      "edge": 0.395,
+      "stake": 6.03,
+      "actual": "D",
+      "won": false,
+      "pnl": -6.03,
+      "bankroll": 85.68
+    },
+    {
+      "date": "2024-12-18T00:00:00",
+      "match": "Monaco vs Paris SG",
+      "pick": "D",
+      "odds": 4.1,
+      "model_p": 0.314,
+      "imp_p": 0.234,
+      "edge": 0.08,
+      "stake": 0.8,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.8,
+      "bankroll": 84.89
+    },
+    {
+      "date": "2025-01-03T00:00:00",
+      "match": "Nice vs Rennes",
+      "pick": "H",
+      "odds": 2.42,
+      "model_p": 0.577,
+      "imp_p": 0.405,
+      "edge": 0.173,
+      "stake": 2.37,
+      "actual": "H",
+      "won": true,
+      "pnl": 3.37,
+      "bankroll": 88.26
+    },
+    {
+      "date": "2025-01-04T00:00:00",
+      "match": "St Etienne vs Reims",
+      "pick": "A",
+      "odds": 2.17,
+      "model_p": 0.641,
+      "imp_p": 0.453,
+      "edge": 0.188,
+      "stake": 2.94,
+      "actual": "H",
+      "won": false,
+      "pnl": -2.94,
+      "bankroll": 85.31
+    },
+    {
+      "date": "2025-01-04T00:00:00",
+      "match": "Lyon vs Montpellier",
+      "pick": "H",
+      "odds": 1.36,
+      "model_p": 0.863,
+      "imp_p": 0.728,
+      "edge": 0.135,
+      "stake": 4.11,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.48,
+      "bankroll": 86.79
+    },
+    {
+      "date": "2025-01-05T00:00:00",
+      "match": "Marseille vs Le Havre",
+      "pick": "H",
+      "odds": 1.32,
+      "model_p": 0.88,
+      "imp_p": 0.751,
+      "edge": 0.129,
+      "stake": 4.38,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.4,
+      "bankroll": 88.2
+    },
+    {
+      "date": "2025-01-05T00:00:00",
+      "match": "Strasbourg vs Auxerre",
+      "pick": "A",
+      "odds": 4.33,
+      "model_p": 0.306,
+      "imp_p": 0.221,
+      "edge": 0.085,
+      "stake": 0.86,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.86,
+      "bankroll": 87.34
+    },
+    {
+      "date": "2025-01-05T00:00:00",
+      "match": "Lens vs Toulouse",
+      "pick": "D",
+      "odds": 3.54,
+      "model_p": 0.364,
+      "imp_p": 0.272,
+      "edge": 0.092,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 86.34
+    },
+    {
+      "date": "2025-01-05T00:00:00",
+      "match": "Angers vs Brest",
+      "pick": "H",
+      "odds": 3.44,
+      "model_p": 0.318,
+      "imp_p": 0.281,
+      "edge": 0.036,
+      "stake": 0.33,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.8,
+      "bankroll": 87.14
+    },
+    {
+      "date": "2025-01-10T00:00:00",
+      "match": "Nantes vs Monaco",
+      "pick": "A",
+      "odds": 2.15,
+      "model_p": 0.492,
+      "imp_p": 0.457,
+      "edge": 0.035,
+      "stake": 0.44,
+      "actual": "D",
+      "won": false,
+      "pnl": -0.44,
+      "bankroll": 86.7
+    },
+    {
+      "date": "2025-01-10T00:00:00",
+      "match": "Auxerre vs Lille",
+      "pick": "H",
+      "odds": 5.02,
+      "model_p": 0.264,
+      "imp_p": 0.188,
+      "edge": 0.076,
+      "stake": 0.7,
+      "actual": "D",
+      "won": false,
+      "pnl": -0.7,
+      "bankroll": 86.0
+    },
+    {
+      "date": "2025-01-11T00:00:00",
+      "match": "Rennes vs Marseille",
+      "pick": "A",
+      "odds": 2.37,
+      "model_p": 0.54,
+      "imp_p": 0.413,
+      "edge": 0.126,
+      "stake": 1.75,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.4,
+      "bankroll": 88.4
+    },
+    {
+      "date": "2025-01-11T00:00:00",
+      "match": "Reims vs Nice",
+      "pick": "A",
+      "odds": 2.61,
+      "model_p": 0.408,
+      "imp_p": 0.374,
+      "edge": 0.033,
+      "stake": 0.35,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.57,
+      "bankroll": 88.97
+    },
+    {
+      "date": "2025-01-12T00:00:00",
+      "match": "Toulouse vs Strasbourg",
+      "pick": "A",
+      "odds": 4.13,
+      "model_p": 0.268,
+      "imp_p": 0.232,
+      "edge": 0.036,
+      "stake": 0.31,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.96,
+      "bankroll": 89.93
+    },
+    {
+      "date": "2025-01-12T00:00:00",
+      "match": "Paris SG vs St Etienne",
+      "pick": "H",
+      "odds": 1.11,
+      "model_p": 0.962,
+      "imp_p": 0.895,
+      "edge": 0.067,
+      "stake": 5.53,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.61,
+      "bankroll": 90.54
+    },
+    {
+      "date": "2025-01-12T00:00:00",
+      "match": "Le Havre vs Lens",
+      "pick": "D",
+      "odds": 4.11,
+      "model_p": 0.291,
+      "imp_p": 0.232,
+      "edge": 0.059,
+      "stake": 0.57,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.57,
+      "bankroll": 89.97
+    },
+    {
+      "date": "2025-01-12T00:00:00",
+      "match": "Montpellier vs Angers",
+      "pick": "A",
+      "odds": 3.92,
+      "model_p": 0.431,
+      "imp_p": 0.245,
+      "edge": 0.186,
+      "stake": 2.12,
+      "actual": "A",
+      "won": true,
+      "pnl": 6.19,
+      "bankroll": 96.16
+    },
+    {
+      "date": "2025-01-17T00:00:00",
+      "match": "Montpellier vs Monaco",
+      "pick": "A",
+      "odds": 1.63,
+      "model_p": 0.722,
+      "imp_p": 0.606,
+      "edge": 0.116,
+      "stake": 2.7,
+      "actual": "H",
+      "won": false,
+      "pnl": -2.7,
+      "bankroll": 93.46
+    },
+    {
+      "date": "2025-01-17T00:00:00",
+      "match": "Lille vs Nice",
+      "pick": "A",
+      "odds": 4.26,
+      "model_p": 0.269,
+      "imp_p": 0.224,
+      "edge": 0.044,
+      "stake": 0.41,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.41,
+      "bankroll": 93.05
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "match": "Lens vs Paris SG",
+      "pick": "D",
+      "odds": 3.79,
+      "model_p": 0.3,
+      "imp_p": 0.254,
+      "edge": 0.047,
+      "stake": 0.46,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.46,
+      "bankroll": 92.59
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "match": "Rennes vs Brest",
+      "pick": "A",
+      "odds": 4.34,
+      "model_p": 0.272,
+      "imp_p": 0.22,
+      "edge": 0.052,
+      "stake": 0.5,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.67,
+      "bankroll": 94.26
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "match": "Lyon vs Toulouse",
+      "pick": "D",
+      "odds": 3.99,
+      "model_p": 0.309,
+      "imp_p": 0.24,
+      "edge": 0.069,
+      "stake": 0.73,
+      "actual": "D",
+      "won": true,
+      "pnl": 2.2,
+      "bankroll": 96.46
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "match": "Marseille vs Strasbourg",
+      "pick": "H",
+      "odds": 1.61,
+      "model_p": 0.696,
+      "imp_p": 0.614,
+      "edge": 0.083,
+      "stake": 1.91,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.91,
+      "bankroll": 94.54
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "match": "Reims vs Le Havre",
+      "pick": "H",
+      "odds": 1.68,
+      "model_p": 0.688,
+      "imp_p": 0.587,
+      "edge": 0.101,
+      "stake": 2.16,
+      "actual": "D",
+      "won": false,
+      "pnl": -2.16,
+      "bankroll": 92.38
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "match": "Angers vs Auxerre",
+      "pick": "A",
+      "odds": 3.39,
+      "model_p": 0.358,
+      "imp_p": 0.286,
+      "edge": 0.072,
+      "stake": 0.83,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.83,
+      "bankroll": 91.56
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "match": "St Etienne vs Nantes",
+      "pick": "A",
+      "odds": 2.48,
+      "model_p": 0.439,
+      "imp_p": 0.395,
+      "edge": 0.045,
+      "stake": 0.55,
+      "actual": "D",
+      "won": false,
+      "pnl": -0.55,
+      "bankroll": 91.0
+    },
+    {
+      "date": "2025-01-24T00:00:00",
+      "match": "Auxerre vs St Etienne",
+      "pick": "H",
+      "odds": 1.97,
+      "model_p": 0.63,
+      "imp_p": 0.5,
+      "edge": 0.13,
+      "stake": 2.26,
+      "actual": "D",
+      "won": false,
+      "pnl": -2.26,
+      "bankroll": 88.75
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "match": "Strasbourg vs Lille",
+      "pick": "A",
+      "odds": 2.58,
+      "model_p": 0.411,
+      "imp_p": 0.379,
+      "edge": 0.032,
+      "stake": 0.34,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.34,
+      "bankroll": 88.4
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "match": "Toulouse vs Montpellier",
+      "pick": "H",
+      "odds": 1.7,
+      "model_p": 0.651,
+      "imp_p": 0.58,
+      "edge": 0.071,
+      "stake": 1.36,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.36,
+      "bankroll": 87.05
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "match": "Nantes vs Lyon",
+      "pick": "D",
+      "odds": 3.77,
+      "model_p": 0.303,
+      "imp_p": 0.254,
+      "edge": 0.049,
+      "stake": 0.45,
+      "actual": "D",
+      "won": true,
+      "pnl": 1.25,
+      "bankroll": 88.29
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "match": "Lens vs Angers",
+      "pick": "D",
+      "odds": 4.44,
+      "model_p": 0.324,
+      "imp_p": 0.214,
+      "edge": 0.111,
+      "stake": 1.13,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.13,
+      "bankroll": 87.16
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "match": "Le Havre vs Brest",
+      "pick": "A",
+      "odds": 2.31,
+      "model_p": 0.566,
+      "imp_p": 0.424,
+      "edge": 0.142,
+      "stake": 2.05,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.69,
+      "bankroll": 89.85
+    },
+    {
+      "date": "2025-01-31T00:00:00",
+      "match": "Montpellier vs Lens",
+      "pick": "A",
+      "odds": 1.86,
+      "model_p": 0.583,
+      "imp_p": 0.529,
+      "edge": 0.054,
+      "stake": 0.88,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.76,
+      "bankroll": 90.61
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "match": "Monaco vs Auxerre",
+      "pick": "D",
+      "odds": 5.59,
+      "model_p": 0.257,
+      "imp_p": 0.167,
+      "edge": 0.09,
+      "stake": 0.86,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.86,
+      "bankroll": 89.75
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "match": "Lille vs St Etienne",
+      "pick": "H",
+      "odds": 1.51,
+      "model_p": 0.759,
+      "imp_p": 0.654,
+      "edge": 0.105,
+      "stake": 2.58,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.31,
+      "bankroll": 91.06
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "match": "Marseille vs Lyon",
+      "pick": "H",
+      "odds": 2.1,
+      "model_p": 0.54,
+      "imp_p": 0.468,
+      "edge": 0.072,
+      "stake": 1.11,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.22,
+      "bankroll": 92.29
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "match": "Rennes vs Strasbourg",
+      "pick": "A",
+      "odds": 4.33,
+      "model_p": 0.384,
+      "imp_p": 0.22,
+      "edge": 0.164,
+      "stake": 1.83,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.83,
+      "bankroll": 90.45
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "match": "Reims vs Nantes",
+      "pick": "H",
+      "odds": 2.29,
+      "model_p": 0.475,
+      "imp_p": 0.428,
+      "edge": 0.047,
+      "stake": 0.61,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.61,
+      "bankroll": 89.84
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "match": "Angers vs Le Havre",
+      "pick": "H",
+      "odds": 1.87,
+      "model_p": 0.598,
+      "imp_p": 0.527,
+      "edge": 0.07,
+      "stake": 1.21,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.21,
+      "bankroll": 88.63
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "match": "Toulouse vs Nice",
+      "pick": "A",
+      "odds": 2.45,
+      "model_p": 0.436,
+      "imp_p": 0.4,
+      "edge": 0.036,
+      "stake": 0.42,
+      "actual": "D",
+      "won": false,
+      "pnl": -0.42,
+      "bankroll": 88.21
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "match": "Nice vs Lens",
+      "pick": "D",
+      "odds": 3.54,
+      "model_p": 0.32,
+      "imp_p": 0.273,
+      "edge": 0.047,
+      "stake": 0.46,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.46,
+      "bankroll": 87.75
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "match": "Lille vs Le Havre",
+      "pick": "D",
+      "odds": 6.62,
+      "model_p": 0.17,
+      "imp_p": 0.137,
+      "edge": 0.033,
+      "stake": 0.19,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.19,
+      "bankroll": 87.56
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "match": "St Etienne vs Rennes",
+      "pick": "A",
+      "odds": 2.38,
+      "model_p": 0.501,
+      "imp_p": 0.411,
+      "edge": 0.089,
+      "stake": 1.22,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.68,
+      "bankroll": 89.23
+    },
+    {
+      "date": "2025-02-09T00:00:00",
+      "match": "Strasbourg vs Montpellier",
+      "pick": "H",
+      "odds": 1.66,
+      "model_p": 0.762,
+      "imp_p": 0.594,
+      "edge": 0.167,
+      "stake": 3.57,
+      "actual": "H",
+      "won": true,
+      "pnl": 2.36,
+      "bankroll": 91.59
+    },
+    {
+      "date": "2025-02-09T00:00:00",
+      "match": "Lyon vs Reims",
+      "pick": "D",
+      "odds": 4.57,
+      "model_p": 0.276,
+      "imp_p": 0.207,
+      "edge": 0.069,
+      "stake": 0.67,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.67,
+      "bankroll": 90.93
+    },
+    {
+      "date": "2025-02-09T00:00:00",
+      "match": "Auxerre vs Toulouse",
+      "pick": "D",
+      "odds": 3.28,
+      "model_p": 0.35,
+      "imp_p": 0.295,
+      "edge": 0.055,
+      "stake": 0.59,
+      "actual": "D",
+      "won": true,
+      "pnl": 1.36,
+      "bankroll": 92.28
+    },
+    {
+      "date": "2025-02-14T00:00:00",
+      "match": "Brest vs Auxerre",
+      "pick": "H",
+      "odds": 2.15,
+      "model_p": 0.505,
+      "imp_p": 0.456,
+      "edge": 0.048,
+      "stake": 0.68,
+      "actual": "D",
+      "won": false,
+      "pnl": -0.68,
+      "bankroll": 91.6
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "match": "Marseille vs St Etienne",
+      "pick": "H",
+      "odds": 1.23,
+      "model_p": 0.871,
+      "imp_p": 0.805,
+      "edge": 0.065,
+      "stake": 2.82,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.65,
+      "bankroll": 92.25
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "match": "Monaco vs Nantes",
+      "pick": "D",
+      "odds": 4.64,
+      "model_p": 0.252,
+      "imp_p": 0.204,
+      "edge": 0.048,
+      "stake": 0.43,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.43,
+      "bankroll": 91.82
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "match": "Toulouse vs Paris SG",
+      "pick": "D",
+      "odds": 4.46,
+      "model_p": 0.265,
+      "imp_p": 0.212,
+      "edge": 0.053,
+      "stake": 0.48,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.48,
+      "bankroll": 91.34
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "match": "Reims vs Angers",
+      "pick": "A",
+      "odds": 4.58,
+      "model_p": 0.242,
+      "imp_p": 0.208,
+      "edge": 0.035,
+      "stake": 0.28,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.0,
+      "bankroll": 92.33
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "match": "Lens vs Strasbourg",
+      "pick": "D",
+      "odds": 3.86,
+      "model_p": 0.321,
+      "imp_p": 0.248,
+      "edge": 0.073,
+      "stake": 0.77,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.77,
+      "bankroll": 91.56
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "match": "Le Havre vs Nice",
+      "pick": "A",
+      "odds": 1.63,
+      "model_p": 0.716,
+      "imp_p": 0.607,
+      "edge": 0.109,
+      "stake": 2.42,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.53,
+      "bankroll": 93.09
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "match": "Montpellier vs Lyon",
+      "pick": "A",
+      "odds": 1.56,
+      "model_p": 0.679,
+      "imp_p": 0.633,
+      "edge": 0.047,
+      "stake": 0.99,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.56,
+      "bankroll": 93.65
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "match": "Lille vs Monaco",
+      "pick": "H",
+      "odds": 2.48,
+      "model_p": 0.443,
+      "imp_p": 0.395,
+      "edge": 0.049,
+      "stake": 0.63,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.93,
+      "bankroll": 94.58
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "match": "St Etienne vs Angers",
+      "pick": "A",
+      "odds": 2.95,
+      "model_p": 0.444,
+      "imp_p": 0.329,
+      "edge": 0.115,
+      "stake": 1.5,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.5,
+      "bankroll": 93.08
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "match": "Strasbourg vs Brest",
+      "pick": "H",
+      "odds": 2.25,
+      "model_p": 0.55,
+      "imp_p": 0.436,
+      "edge": 0.115,
+      "stake": 1.78,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.78,
+      "bankroll": 91.3
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "match": "Nice vs Montpellier",
+      "pick": "H",
+      "odds": 1.35,
+      "model_p": 0.875,
+      "imp_p": 0.734,
+      "edge": 0.141,
+      "stake": 4.74,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.66,
+      "bankroll": 92.96
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "match": "Lyon vs Paris SG",
+      "pick": "H",
+      "odds": 5.99,
+      "model_p": 0.216,
+      "imp_p": 0.156,
+      "edge": 0.06,
+      "stake": 0.54,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.54,
+      "bankroll": 92.42
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "match": "Nantes vs Lens",
+      "pick": "D",
+      "odds": 3.34,
+      "model_p": 0.344,
+      "imp_p": 0.29,
+      "edge": 0.055,
+      "stake": 0.59,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.59,
+      "bankroll": 91.83
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "match": "Le Havre vs Toulouse",
+      "pick": "D",
+      "odds": 3.35,
+      "model_p": 0.349,
+      "imp_p": 0.289,
+      "edge": 0.06,
+      "stake": 0.66,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.66,
+      "bankroll": 91.17
+    },
+    {
+      "date": "2025-02-28T00:00:00",
+      "match": "Monaco vs Reims",
+      "pick": "D",
+      "odds": 5.29,
+      "model_p": 0.224,
+      "imp_p": 0.177,
+      "edge": 0.047,
+      "stake": 0.39,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.39,
+      "bankroll": 90.78
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "match": "St Etienne vs Nice",
+      "pick": "A",
+      "odds": 1.68,
+      "model_p": 0.732,
+      "imp_p": 0.588,
+      "edge": 0.144,
+      "stake": 3.06,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.08,
+      "bankroll": 92.85
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "match": "Lens vs Le Havre",
+      "pick": "D",
+      "odds": 4.85,
+      "model_p": 0.26,
+      "imp_p": 0.194,
+      "edge": 0.067,
+      "stake": 0.63,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.63,
+      "bankroll": 92.22
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "match": "Paris SG vs Lille",
+      "pick": "D",
+      "odds": 5.43,
+      "model_p": 0.239,
+      "imp_p": 0.171,
+      "edge": 0.068,
+      "stake": 0.62,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.62,
+      "bankroll": 91.61
+    },
+    {
+      "date": "2025-03-02T00:00:00",
+      "match": "Montpellier vs Rennes",
+      "pick": "A",
+      "odds": 2.03,
+      "model_p": 0.527,
+      "imp_p": 0.484,
+      "edge": 0.043,
+      "stake": 0.62,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.63,
+      "bankroll": 92.24
+    },
+    {
+      "date": "2025-03-02T00:00:00",
+      "match": "Auxerre vs Strasbourg",
+      "pick": "H",
+      "odds": 3.17,
+      "model_p": 0.347,
+      "imp_p": 0.306,
+      "edge": 0.041,
+      "stake": 0.43,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.43,
+      "bankroll": 91.81
+    },
+    {
+      "date": "2025-03-02T00:00:00",
+      "match": "Angers vs Toulouse",
+      "pick": "D",
+      "odds": 3.28,
+      "model_p": 0.355,
+      "imp_p": 0.295,
+      "edge": 0.06,
+      "stake": 0.67,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.67,
+      "bankroll": 91.14
+    },
+    {
+      "date": "2025-03-07T00:00:00",
+      "match": "Toulouse vs Monaco",
+      "pick": "H",
+      "odds": 3.3,
+      "model_p": 0.331,
+      "imp_p": 0.293,
+      "edge": 0.038,
+      "stake": 0.37,
+      "actual": "D",
+      "won": false,
+      "pnl": -0.37,
+      "bankroll": 90.77
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "match": "Rennes vs Paris SG",
+      "pick": "A",
+      "odds": 1.69,
+      "model_p": 0.66,
+      "imp_p": 0.583,
+      "edge": 0.077,
+      "stake": 1.53,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.05,
+      "bankroll": 91.82
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "match": "Lille vs Montpellier",
+      "pick": "H",
+      "odds": 1.42,
+      "model_p": 0.809,
+      "imp_p": 0.696,
+      "edge": 0.113,
+      "stake": 3.25,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.37,
+      "bankroll": 93.19
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "match": "Marseille vs Lens",
+      "pick": "D",
+      "odds": 4.5,
+      "model_p": 0.257,
+      "imp_p": 0.21,
+      "edge": 0.047,
+      "stake": 0.42,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.42,
+      "bankroll": 92.77
+    },
+    {
+      "date": "2025-03-09T00:00:00",
+      "match": "Brest vs Angers",
+      "pick": "A",
+      "odds": 5.82,
+      "model_p": 0.212,
+      "imp_p": 0.16,
+      "edge": 0.052,
+      "stake": 0.45,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.45,
+      "bankroll": 92.32
+    },
+    {
+      "date": "2025-03-09T00:00:00",
+      "match": "Le Havre vs St Etienne",
+      "pick": "H",
+      "odds": 2.48,
+      "model_p": 0.441,
+      "imp_p": 0.394,
+      "edge": 0.047,
+      "stake": 0.59,
+      "actual": "D",
+      "won": false,
+      "pnl": -0.59,
+      "bankroll": 91.73
+    },
+    {
+      "date": "2025-03-09T00:00:00",
+      "match": "Nantes vs Strasbourg",
+      "pick": "A",
+      "odds": 2.49,
+      "model_p": 0.48,
+      "imp_p": 0.393,
+      "edge": 0.087,
+      "stake": 1.21,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.8,
+      "bankroll": 93.53
+    },
+    {
+      "date": "2025-03-09T00:00:00",
+      "match": "Reims vs Auxerre",
+      "pick": "A",
+      "odds": 2.95,
+      "model_p": 0.368,
+      "imp_p": 0.33,
+      "edge": 0.038,
+      "stake": 0.41,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.8,
+      "bankroll": 94.33
+    },
+    {
+      "date": "2025-03-15T00:00:00",
+      "match": "Angers vs Monaco",
+      "pick": "D",
+      "odds": 5.21,
+      "model_p": 0.237,
+      "imp_p": 0.18,
+      "edge": 0.057,
+      "stake": 0.52,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.52,
+      "bankroll": 93.81
+    },
+    {
+      "date": "2025-03-15T00:00:00",
+      "match": "Lens vs Rennes",
+      "pick": "D",
+      "odds": 3.47,
+      "model_p": 0.324,
+      "imp_p": 0.278,
+      "edge": 0.046,
+      "stake": 0.47,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.47,
+      "bankroll": 93.33
+    },
+    {
+      "date": "2025-03-15T00:00:00",
+      "match": "Nantes vs Lille",
+      "pick": "A",
+      "odds": 1.97,
+      "model_p": 0.532,
+      "imp_p": 0.499,
+      "edge": 0.033,
+      "stake": 0.47,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.47,
+      "bankroll": 92.87
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "match": "Brest vs Reims",
+      "pick": "A",
+      "odds": 5.81,
+      "model_p": 0.213,
+      "imp_p": 0.16,
+      "edge": 0.052,
+      "stake": 0.45,
+      "actual": "D",
+      "won": false,
+      "pnl": -0.45,
+      "bankroll": 92.41
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "match": "Montpellier vs St Etienne",
+      "pick": "A",
+      "odds": 3.07,
+      "model_p": 0.356,
+      "imp_p": 0.316,
+      "edge": 0.04,
+      "stake": 0.42,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.86,
+      "bankroll": 93.27
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "match": "Paris SG vs Marseille",
+      "pick": "A",
+      "odds": 9.02,
+      "model_p": 0.16,
+      "imp_p": 0.095,
+      "edge": 0.065,
+      "stake": 0.52,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.52,
+      "bankroll": 92.76
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "match": "Monaco vs Nice",
+      "pick": "A",
+      "odds": 4.09,
+      "model_p": 0.311,
+      "imp_p": 0.234,
+      "edge": 0.077,
+      "stake": 0.82,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.82,
+      "bankroll": 91.94
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "match": "St Etienne vs Paris SG",
+      "pick": "A",
+      "odds": 1.25,
+      "model_p": 0.9,
+      "imp_p": 0.792,
+      "edge": 0.107,
+      "stake": 4.59,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.15,
+      "bankroll": 93.08
+    },
+    {
+      "date": "2025-03-30T00:00:00",
+      "match": "Auxerre vs Montpellier",
+      "pick": "H",
+      "odds": 1.86,
+      "model_p": 0.716,
+      "imp_p": 0.529,
+      "edge": 0.187,
+      "stake": 3.59,
+      "actual": "H",
+      "won": true,
+      "pnl": 3.09,
+      "bankroll": 96.18
+    },
+    {
+      "date": "2025-03-30T00:00:00",
+      "match": "Le Havre vs Nantes",
+      "pick": "A",
+      "odds": 2.45,
+      "model_p": 0.438,
+      "imp_p": 0.399,
+      "edge": 0.039,
+      "stake": 0.49,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.49,
+      "bankroll": 95.69
+    },
+    {
+      "date": "2025-03-30T00:00:00",
+      "match": "Lille vs Lens",
+      "pick": "D",
+      "odds": 3.4,
+      "model_p": 0.335,
+      "imp_p": 0.284,
+      "edge": 0.051,
+      "stake": 0.55,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.55,
+      "bankroll": 95.14
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "match": "Brest vs Monaco",
+      "pick": "H",
+      "odds": 4.57,
+      "model_p": 0.274,
+      "imp_p": 0.208,
+      "edge": 0.066,
+      "stake": 0.67,
+      "actual": "H",
+      "won": true,
+      "pnl": 2.4,
+      "bankroll": 97.54
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "match": "Montpellier vs Le Havre",
+      "pick": "A",
+      "odds": 2.87,
+      "model_p": 0.423,
+      "imp_p": 0.34,
+      "edge": 0.084,
+      "stake": 1.12,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.09,
+      "bankroll": 99.63
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "match": "Rennes vs Auxerre",
+      "pick": "A",
+      "odds": 4.18,
+      "model_p": 0.295,
+      "imp_p": 0.229,
+      "edge": 0.066,
+      "stake": 0.73,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.33,
+      "bankroll": 101.96
+    },
+    {
+      "date": "2025-04-11T00:00:00",
+      "match": "Lens vs Reims",
+      "pick": "D",
+      "odds": 4.07,
+      "model_p": 0.33,
+      "imp_p": 0.235,
+      "edge": 0.096,
+      "stake": 1.15,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.15,
+      "bankroll": 100.81
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "match": "Strasbourg vs Nice",
+      "pick": "H",
+      "odds": 2.95,
+      "model_p": 0.394,
+      "imp_p": 0.33,
+      "edge": 0.064,
+      "stake": 0.84,
+      "actual": "D",
+      "won": false,
+      "pnl": -0.84,
+      "bankroll": 99.98
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "match": "Monaco vs Marseille",
+      "pick": "A",
+      "odds": 3.74,
+      "model_p": 0.331,
+      "imp_p": 0.257,
+      "edge": 0.074,
+      "stake": 0.87,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.87,
+      "bankroll": 99.11
+    },
+    {
+      "date": "2025-04-13T00:00:00",
+      "match": "St Etienne vs Brest",
+      "pick": "A",
+      "odds": 2.02,
+      "model_p": 0.626,
+      "imp_p": 0.486,
+      "edge": 0.14,
+      "stake": 2.58,
+      "actual": "D",
+      "won": false,
+      "pnl": -2.58,
+      "bankroll": 96.53
+    },
+    {
+      "date": "2025-04-13T00:00:00",
+      "match": "Angers vs Montpellier",
+      "pick": "H",
+      "odds": 1.93,
+      "model_p": 0.542,
+      "imp_p": 0.509,
+      "edge": 0.033,
+      "stake": 0.48,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.45,
+      "bankroll": 96.98
+    },
+    {
+      "date": "2025-04-13T00:00:00",
+      "match": "Le Havre vs Rennes",
+      "pick": "A",
+      "odds": 2.07,
+      "model_p": 0.528,
+      "imp_p": 0.474,
+      "edge": 0.054,
+      "stake": 0.85,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.91,
+      "bankroll": 97.89
+    },
+    {
+      "date": "2025-04-13T00:00:00",
+      "match": "Auxerre vs Lyon",
+      "pick": "H",
+      "odds": 4.41,
+      "model_p": 0.295,
+      "imp_p": 0.217,
+      "edge": 0.078,
+      "stake": 0.87,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.87,
+      "bankroll": 97.02
+    },
+    {
+      "date": "2025-04-19T00:00:00",
+      "match": "Monaco vs Strasbourg",
+      "pick": "A",
+      "odds": 6.16,
+      "model_p": 0.262,
+      "imp_p": 0.151,
+      "edge": 0.111,
+      "stake": 1.16,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.16,
+      "bankroll": 95.86
+    },
+    {
+      "date": "2025-04-19T00:00:00",
+      "match": "Paris SG vs Le Havre",
+      "pick": "H",
+      "odds": 1.16,
+      "model_p": 0.944,
+      "imp_p": 0.856,
+      "edge": 0.088,
+      "stake": 5.69,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.91,
+      "bankroll": 96.77
+    },
+    {
+      "date": "2025-04-20T00:00:00",
+      "match": "St Etienne vs Lyon",
+      "pick": "A",
+      "odds": 1.64,
+      "model_p": 0.737,
+      "imp_p": 0.602,
+      "edge": 0.135,
+      "stake": 3.15,
+      "actual": "H",
+      "won": false,
+      "pnl": -3.15,
+      "bankroll": 93.63
+    },
+    {
+      "date": "2025-04-20T00:00:00",
+      "match": "Reims vs Toulouse",
+      "pick": "H",
+      "odds": 3.99,
+      "model_p": 0.299,
+      "imp_p": 0.24,
+      "edge": 0.059,
+      "stake": 0.61,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.83,
+      "bankroll": 95.45
+    },
+    {
+      "date": "2025-04-20T00:00:00",
+      "match": "Lille vs Auxerre",
+      "pick": "A",
+      "odds": 9.47,
+      "model_p": 0.211,
+      "imp_p": 0.093,
+      "edge": 0.119,
+      "stake": 1.13,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.13,
+      "bankroll": 94.32
+    },
+    {
+      "date": "2025-04-22T00:00:00",
+      "match": "Nantes vs Paris SG",
+      "pick": "A",
+      "odds": 1.39,
+      "model_p": 0.787,
+      "imp_p": 0.712,
+      "edge": 0.075,
+      "stake": 2.28,
+      "actual": "D",
+      "won": false,
+      "pnl": -2.28,
+      "bankroll": 92.04
+    },
+    {
+      "date": "2025-04-25T00:00:00",
+      "match": "Paris SG vs Nice",
+      "pick": "H",
+      "odds": 1.53,
+      "model_p": 0.684,
+      "imp_p": 0.645,
+      "edge": 0.039,
+      "stake": 0.81,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.81,
+      "bankroll": 91.23
+    },
+    {
+      "date": "2025-04-26T00:00:00",
+      "match": "Strasbourg vs St Etienne",
+      "pick": "H",
+      "odds": 1.56,
+      "model_p": 0.741,
+      "imp_p": 0.633,
+      "edge": 0.107,
+      "stake": 2.54,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.42,
+      "bankroll": 92.65
+    },
+    {
+      "date": "2025-04-26T00:00:00",
+      "match": "Lyon vs Rennes",
+      "pick": "A",
+      "odds": 5.17,
+      "model_p": 0.248,
+      "imp_p": 0.182,
+      "edge": 0.066,
+      "stake": 0.63,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.63,
+      "bankroll": 92.03
+    },
+    {
+      "date": "2025-04-27T00:00:00",
+      "match": "Marseille vs Brest",
+      "pick": "A",
+      "odds": 8.54,
+      "model_p": 0.206,
+      "imp_p": 0.104,
+      "edge": 0.102,
+      "stake": 0.93,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.93,
+      "bankroll": 91.1
+    },
+    {
+      "date": "2025-04-27T00:00:00",
+      "match": "Lens vs Auxerre",
+      "pick": "D",
+      "odds": 4.48,
+      "model_p": 0.315,
+      "imp_p": 0.211,
+      "edge": 0.104,
+      "stake": 1.07,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.07,
+      "bankroll": 90.02
+    },
+    {
+      "date": "2025-04-27T00:00:00",
+      "match": "Angers vs Lille",
+      "pick": "D",
+      "odds": 4.5,
+      "model_p": 0.28,
+      "imp_p": 0.211,
+      "edge": 0.069,
+      "stake": 0.67,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.67,
+      "bankroll": 89.35
+    },
+    {
+      "date": "2025-04-27T00:00:00",
+      "match": "Montpellier vs Reims",
+      "pick": "A",
+      "odds": 1.88,
+      "model_p": 0.562,
+      "imp_p": 0.523,
+      "edge": 0.039,
+      "stake": 0.57,
+      "actual": "D",
+      "won": false,
+      "pnl": -0.57,
+      "bankroll": 88.78
+    },
+    {
+      "date": "2025-05-02T00:00:00",
+      "match": "Nice vs Reims",
+      "pick": "D",
+      "odds": 5.28,
+      "model_p": 0.245,
+      "imp_p": 0.176,
+      "edge": 0.069,
+      "stake": 0.61,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.61,
+      "bankroll": 88.16
+    },
+    {
+      "date": "2025-05-03T00:00:00",
+      "match": "Strasbourg vs Paris SG",
+      "pick": "A",
+      "odds": 2.88,
+      "model_p": 0.561,
+      "imp_p": 0.338,
+      "edge": 0.223,
+      "stake": 2.89,
+      "actual": "H",
+      "won": false,
+      "pnl": -2.89,
+      "bankroll": 85.27
+    },
+    {
+      "date": "2025-05-03T00:00:00",
+      "match": "Toulouse vs Rennes",
+      "pick": "A",
+      "odds": 3.46,
+      "model_p": 0.311,
+      "imp_p": 0.28,
+      "edge": 0.032,
+      "stake": 0.26,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.26,
+      "bankroll": 85.01
+    },
+    {
+      "date": "2025-05-03T00:00:00",
+      "match": "St Etienne vs Monaco",
+      "pick": "A",
+      "odds": 1.46,
+      "model_p": 0.721,
+      "imp_p": 0.677,
+      "edge": 0.044,
+      "stake": 0.97,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.45,
+      "bankroll": 85.46
+    },
+    {
+      "date": "2025-05-04T00:00:00",
+      "match": "Lyon vs Lens",
+      "pick": "D",
+      "odds": 5.25,
+      "model_p": 0.26,
+      "imp_p": 0.178,
+      "edge": 0.083,
+      "stake": 0.74,
+      "actual": "A",
+      "won": false,
+      "pnl": -0.74,
+      "bankroll": 84.72
+    },
+    {
+      "date": "2025-05-04T00:00:00",
+      "match": "Auxerre vs Le Havre",
+      "pick": "H",
+      "odds": 2.45,
+      "model_p": 0.636,
+      "imp_p": 0.4,
+      "edge": 0.237,
+      "stake": 3.26,
+      "actual": "A",
+      "won": false,
+      "pnl": -3.26,
+      "bankroll": 81.46
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "match": "Auxerre vs Nantes",
+      "pick": "H",
+      "odds": 2.87,
+      "model_p": 0.489,
+      "imp_p": 0.339,
+      "edge": 0.15,
+      "stake": 1.76,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.76,
+      "bankroll": 79.7
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "match": "Brest vs Lille",
+      "pick": "H",
+      "odds": 4.97,
+      "model_p": 0.258,
+      "imp_p": 0.19,
+      "edge": 0.068,
+      "stake": 0.57,
+      "actual": "H",
+      "won": true,
+      "pnl": 2.26,
+      "bankroll": 81.96
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "match": "Le Havre vs Marseille",
+      "pick": "A",
+      "odds": 1.51,
+      "model_p": 0.703,
+      "imp_p": 0.654,
+      "edge": 0.048,
+      "stake": 0.98,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.5,
+      "bankroll": 82.46
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "match": "Monaco vs Lyon",
+      "pick": "A",
+      "odds": 3.86,
+      "model_p": 0.288,
+      "imp_p": 0.248,
+      "edge": 0.039,
+      "stake": 0.32,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.32,
+      "bankroll": 82.14
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "match": "Montpellier vs Paris SG",
+      "pick": "A",
+      "odds": 1.42,
+      "model_p": 0.913,
+      "imp_p": 0.696,
+      "edge": 0.217,
+      "stake": 5.81,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.44,
+      "bankroll": 84.58
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "match": "Reims vs St Etienne",
+      "pick": "H",
+      "odds": 2.23,
+      "model_p": 0.532,
+      "imp_p": 0.44,
+      "edge": 0.092,
+      "stake": 1.29,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.29,
+      "bankroll": 83.3
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "match": "Toulouse vs Lens",
+      "pick": "D",
+      "odds": 3.56,
+      "model_p": 0.336,
+      "imp_p": 0.271,
+      "edge": 0.064,
+      "stake": 0.64,
+      "actual": "D",
+      "won": true,
+      "pnl": 1.63,
+      "bankroll": 84.93
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "match": "Nice vs Brest",
+      "pick": "A",
+      "odds": 6.12,
+      "model_p": 0.209,
+      "imp_p": 0.151,
+      "edge": 0.058,
+      "stake": 0.46,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.46,
+      "bankroll": 84.46
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "match": "Paris SG vs Auxerre",
+      "pick": "D",
+      "odds": 9.95,
+      "model_p": 0.146,
+      "imp_p": 0.085,
+      "edge": 0.061,
+      "stake": 0.43,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.43,
+      "bankroll": 84.03
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "match": "St Etienne vs Toulouse",
+      "pick": "A",
+      "odds": 2.79,
+      "model_p": 0.523,
+      "imp_p": 0.349,
+      "edge": 0.174,
+      "stake": 2.15,
+      "actual": "A",
+      "won": true,
+      "pnl": 3.85,
+      "bankroll": 87.88
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "match": "Lyon vs Angers",
+      "pick": "D",
+      "odds": 8.08,
+      "model_p": 0.212,
+      "imp_p": 0.109,
+      "edge": 0.103,
+      "stake": 0.89,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.89,
+      "bankroll": 86.99
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "match": "Lille vs Reims",
+      "pick": "D",
+      "odds": 5.17,
+      "model_p": 0.289,
+      "imp_p": 0.182,
+      "edge": 0.106,
+      "stake": 1.03,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.03,
+      "bankroll": 85.97
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "match": "Lens vs Monaco",
+      "pick": "A",
+      "odds": 2.5,
+      "model_p": 0.457,
+      "imp_p": 0.391,
+      "edge": 0.066,
+      "stake": 0.81,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.81,
+      "bankroll": 85.15
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "match": "Marseille vs Rennes",
+      "pick": "A",
+      "odds": 5.41,
+      "model_p": 0.207,
+      "imp_p": 0.174,
+      "edge": 0.034,
+      "stake": 0.23,
+      "actual": "H",
+      "won": false,
+      "pnl": -0.23,
+      "bankroll": 84.92
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "match": "Strasbourg vs Le Havre",
+      "pick": "H",
+      "odds": 1.54,
+      "model_p": 0.721,
+      "imp_p": 0.642,
+      "edge": 0.079,
+      "stake": 1.73,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.73,
+      "bankroll": 83.19
+    }
+  ],
+  "league": "F1"
+}

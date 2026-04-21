@@ -1,0 +1,77 @@
+{
+  "model": "poisson",
+  "stake": "flat",
+  "devig": "goto",
+  "total_picks": 1224,
+  "total_wins": 429,
+  "total_winrate": 35.05,
+  "total_pnl": -64.65,
+  "total_roi_pct": -5.28,
+  "by_league": [
+    {
+      "model": "poisson",
+      "stake_mode": "flat",
+      "picks": 275,
+      "wins": 102,
+      "winrate": 37.09,
+      "total_staked": 275.0,
+      "total_pnl": 34.78,
+      "roi_pct": 12.65,
+      "final_bankroll": 134.78,
+      "bankroll_growth_pct": 34.78,
+      "league": "E0"
+    },
+    {
+      "model": "poisson",
+      "stake_mode": "flat",
+      "picks": 264,
+      "wins": 80,
+      "winrate": 30.3,
+      "total_staked": 264.0,
+      "total_pnl": -54.93,
+      "roi_pct": -20.81,
+      "final_bankroll": 45.07,
+      "bankroll_growth_pct": -54.93,
+      "league": "SP1"
+    },
+    {
+      "model": "poisson",
+      "stake_mode": "flat",
+      "picks": 266,
+      "wins": 95,
+      "winrate": 35.71,
+      "total_staked": 266.0,
+      "total_pnl": -37.57,
+      "roi_pct": -14.12,
+      "final_bankroll": 62.43,
+      "bankroll_growth_pct": -37.57,
+      "league": "I1"
+    },
+    {
+      "model": "poisson",
+      "stake_mode": "flat",
+      "picks": 212,
+      "wins": 65,
+      "winrate": 30.66,
+      "total_staked": 212.0,
+      "total_pnl": -22.35,
+      "roi_pct": -10.54,
+      "final_bankroll": 77.65,
+      "bankroll_growth_pct": -22.35,
+      "league": "D1"
+    },
+    {
+      "model": "poisson",
+      "stake_mode": "flat",
+      "picks": 207,
+      "wins": 87,
+      "winrate": 42.03,
+      "total_staked": 207.0,
+      "total_pnl": 15.42,
+      "roi_pct": 7.45,
+      "final_bankroll": 115.42,
+      "bankroll_growth_pct": 15.42,
+      "league": "F1"
+    }
+  ]
+}
