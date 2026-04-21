@@ -1,0 +1,56 @@
+{
+  "model": "dixon_coles",
+  "season": "2425",
+  "total_picks": 658,
+  "total_wins": 276,
+  "total_winrate": 41.95,
+  "total_pnl": -45.09,
+  "total_roi_pct": -6.85,
+  "by_league": [
+    {
+      "model": "dixon_coles",
+      "league": "E0",
+      "picks": 141,
+      "wins": 54,
+      "winrate": 38.3,
+      "pnl": -17.86,
+      "roi_pct": -12.67
+    },
+    {
+      "model": "dixon_coles",
+      "league": "SP1",
+      "picks": 133,
+      "wins": 50,
+      "winrate": 37.59,
+      "pnl": -24.09,
+      "roi_pct": -18.11
+    },
+    {
+      "model": "dixon_coles",
+      "league": "I1",
+      "picks": 151,
+      "wins": 72,
+      "winrate": 47.68,
+      "pnl": 2.4,
+      "roi_pct": 1.59
+    },
+    {
+      "model": "dixon_coles",
+      "league": "D1",
+      "picks": 124,
+      "wins": 42,
+      "winrate": 33.87,
+      "pnl": -14.3,
+      "roi_pct": -11.53
+    },
+    {
+      "model": "dixon_coles",
+      "league": "F1",
+      "picks": 109,
+      "wins": 58,
+      "winrate": 53.21,
+      "pnl": 8.76,
+      "roi_pct": 8.04
+    }
+  ]
+}

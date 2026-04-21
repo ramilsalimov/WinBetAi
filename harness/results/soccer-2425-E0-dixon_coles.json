@@ -1,0 +1,2269 @@
+{
+  "model": "dixon_coles",
+  "league": "E0",
+  "picks": 141,
+  "wins": 54,
+  "winrate": 38.3,
+  "pnl": -17.86,
+  "roi_pct": -12.67,
+  "equity_curve": [
+    {
+      "date": "2024-10-05T00:00:00",
+      "cum_pnl": -1
+    },
+    {
+      "date": "2024-10-05T00:00:00",
+      "cum_pnl": -0.31
+    },
+    {
+      "date": "2024-10-05T00:00:00",
+      "cum_pnl": -1.31
+    },
+    {
+      "date": "2024-10-06T00:00:00",
+      "cum_pnl": -2.31
+    },
+    {
+      "date": "2024-10-06T00:00:00",
+      "cum_pnl": 1.39
+    },
+    {
+      "date": "2024-10-19T00:00:00",
+      "cum_pnl": 0.39
+    },
+    {
+      "date": "2024-10-19T00:00:00",
+      "cum_pnl": -0.61
+    },
+    {
+      "date": "2024-10-19T00:00:00",
+      "cum_pnl": 3.06
+    },
+    {
+      "date": "2024-10-19T00:00:00",
+      "cum_pnl": 5.47
+    },
+    {
+      "date": "2024-10-19T00:00:00",
+      "cum_pnl": 4.47
+    },
+    {
+      "date": "2024-10-21T00:00:00",
+      "cum_pnl": 3.47
+    },
+    {
+      "date": "2024-10-25T00:00:00",
+      "cum_pnl": 2.47
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "cum_pnl": 3.15
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "cum_pnl": 2.15
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "cum_pnl": 2.27
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "cum_pnl": 1.27
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "cum_pnl": 0.27
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "cum_pnl": -0.73
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "cum_pnl": -1.73
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "cum_pnl": -2.73
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "cum_pnl": -3.73
+    },
+    {
+      "date": "2024-11-03T00:00:00",
+      "cum_pnl": -4.73
+    },
+    {
+      "date": "2024-11-04T00:00:00",
+      "cum_pnl": -5.73
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "cum_pnl": -6.73
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "cum_pnl": -7.73
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "cum_pnl": -8.73
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "cum_pnl": -7.78
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "cum_pnl": -7.31
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "cum_pnl": -8.31
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "cum_pnl": -9.31
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "cum_pnl": -10.31
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "cum_pnl": -9.86
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "cum_pnl": -10.86
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "cum_pnl": -8.98
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "cum_pnl": -9.98
+    },
+    {
+      "date": "2024-11-24T00:00:00",
+      "cum_pnl": -9.67
+    },
+    {
+      "date": "2024-11-29T00:00:00",
+      "cum_pnl": -10.67
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "cum_pnl": -8.14
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "cum_pnl": -6.48
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "cum_pnl": -7.48
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "cum_pnl": -6.42
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "cum_pnl": -5.67
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "cum_pnl": -6.67
+    },
+    {
+      "date": "2024-12-03T00:00:00",
+      "cum_pnl": -7.67
+    },
+    {
+      "date": "2024-12-04T00:00:00",
+      "cum_pnl": -8.67
+    },
+    {
+      "date": "2024-12-04T00:00:00",
+      "cum_pnl": -9.67
+    },
+    {
+      "date": "2024-12-05T00:00:00",
+      "cum_pnl": -10.67
+    },
+    {
+      "date": "2024-12-05T00:00:00",
+      "cum_pnl": -11.67
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "cum_pnl": -12.67
+    },
+    {
+      "date": "2024-12-08T00:00:00",
+      "cum_pnl": -11.72
+    },
+    {
+      "date": "2024-12-14T00:00:00",
+      "cum_pnl": -12.72
+    },
+    {
+      "date": "2024-12-14T00:00:00",
+      "cum_pnl": -10.99
+    },
+    {
+      "date": "2024-12-15T00:00:00",
+      "cum_pnl": -10.2
+    },
+    {
+      "date": "2024-12-21T00:00:00",
+      "cum_pnl": -11.2
+    },
+    {
+      "date": "2024-12-22T00:00:00",
+      "cum_pnl": -12.2
+    },
+    {
+      "date": "2024-12-22T00:00:00",
+      "cum_pnl": -13.2
+    },
+    {
+      "date": "2024-12-22T00:00:00",
+      "cum_pnl": -14.2
+    },
+    {
+      "date": "2024-12-26T00:00:00",
+      "cum_pnl": -15.2
+    },
+    {
+      "date": "2024-12-26T00:00:00",
+      "cum_pnl": -16.2
+    },
+    {
+      "date": "2024-12-26T00:00:00",
+      "cum_pnl": -14.89
+    },
+    {
+      "date": "2024-12-29T00:00:00",
+      "cum_pnl": -15.89
+    },
+    {
+      "date": "2024-12-29T00:00:00",
+      "cum_pnl": -16.89
+    },
+    {
+      "date": "2024-12-29T00:00:00",
+      "cum_pnl": -14.89
+    },
+    {
+      "date": "2024-12-30T00:00:00",
+      "cum_pnl": -15.89
+    },
+    {
+      "date": "2024-12-30T00:00:00",
+      "cum_pnl": -16.89
+    },
+    {
+      "date": "2024-12-30T00:00:00",
+      "cum_pnl": -15.31
+    },
+    {
+      "date": "2025-01-04T00:00:00",
+      "cum_pnl": -14.15
+    },
+    {
+      "date": "2025-01-04T00:00:00",
+      "cum_pnl": -15.15
+    },
+    {
+      "date": "2025-01-04T00:00:00",
+      "cum_pnl": -16.15
+    },
+    {
+      "date": "2025-01-06T00:00:00",
+      "cum_pnl": -15.14
+    },
+    {
+      "date": "2025-01-14T00:00:00",
+      "cum_pnl": -16.14
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "cum_pnl": -15.77
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "cum_pnl": -16.77
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "cum_pnl": -14.52
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "cum_pnl": -14.05
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "cum_pnl": -13.44
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "cum_pnl": -14.44
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "cum_pnl": -11.6
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "cum_pnl": -12.6
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "cum_pnl": -13.6
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "cum_pnl": -11.09
+    },
+    {
+      "date": "2025-02-14T00:00:00",
+      "cum_pnl": -12.09
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "cum_pnl": -11.76
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "cum_pnl": -12.76
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "cum_pnl": -13.76
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "cum_pnl": -13.25
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "cum_pnl": -11.32
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "cum_pnl": -10.11
+    },
+    {
+      "date": "2025-02-19T00:00:00",
+      "cum_pnl": -11.11
+    },
+    {
+      "date": "2025-02-21T00:00:00",
+      "cum_pnl": -10.12
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "cum_pnl": -11.12
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "cum_pnl": -10.02
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "cum_pnl": -9.45
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "cum_pnl": -10.45
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "cum_pnl": -11.45
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "cum_pnl": -10.24
+    },
+    {
+      "date": "2025-02-25T00:00:00",
+      "cum_pnl": -8.04
+    },
+    {
+      "date": "2025-02-25T00:00:00",
+      "cum_pnl": -9.04
+    },
+    {
+      "date": "2025-02-26T00:00:00",
+      "cum_pnl": -10.04
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "cum_pnl": -11.04
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "cum_pnl": -8.13
+    },
+    {
+      "date": "2025-03-09T00:00:00",
+      "cum_pnl": -9.13
+    },
+    {
+      "date": "2025-03-10T00:00:00",
+      "cum_pnl": -7.91
+    },
+    {
+      "date": "2025-03-15T00:00:00",
+      "cum_pnl": -6.84
+    },
+    {
+      "date": "2025-03-15T00:00:00",
+      "cum_pnl": -5.84
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "cum_pnl": -6.84
+    },
+    {
+      "date": "2025-04-01T00:00:00",
+      "cum_pnl": -5.49
+    },
+    {
+      "date": "2025-04-02T00:00:00",
+      "cum_pnl": -6.49
+    },
+    {
+      "date": "2025-04-02T00:00:00",
+      "cum_pnl": -7.49
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "cum_pnl": -8.49
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "cum_pnl": -9.49
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "cum_pnl": -10.49
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "cum_pnl": -8.79
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "cum_pnl": -9.79
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "cum_pnl": -10.79
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "cum_pnl": -10.42
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "cum_pnl": -11.42
+    },
+    {
+      "date": "2025-04-07T00:00:00",
+      "cum_pnl": -10.97
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "cum_pnl": -10.44
+    },
+    {
+      "date": "2025-04-13T00:00:00",
+      "cum_pnl": -11.44
+    },
+    {
+      "date": "2025-04-19T00:00:00",
+      "cum_pnl": -12.44
+    },
+    {
+      "date": "2025-04-19T00:00:00",
+      "cum_pnl": -10.74
+    },
+    {
+      "date": "2025-04-19T00:00:00",
+      "cum_pnl": -11.74
+    },
+    {
+      "date": "2025-04-20T00:00:00",
+      "cum_pnl": -11.52
+    },
+    {
+      "date": "2025-04-21T00:00:00",
+      "cum_pnl": -9.46
+    },
+    {
+      "date": "2025-04-26T00:00:00",
+      "cum_pnl": -8.78
+    },
+    {
+      "date": "2025-05-04T00:00:00",
+      "cum_pnl": -9.78
+    },
+    {
+      "date": "2025-05-04T00:00:00",
+      "cum_pnl": -10.78
+    },
+    {
+      "date": "2025-05-04T00:00:00",
+      "cum_pnl": -11.78
+    },
+    {
+      "date": "2025-05-05T00:00:00",
+      "cum_pnl": -12.78
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "cum_pnl": -13.78
+    },
+    {
+      "date": "2025-05-11T00:00:00",
+      "cum_pnl": -14.78
+    },
+    {
+      "date": "2025-05-11T00:00:00",
+      "cum_pnl": -15.78
+    },
+    {
+      "date": "2025-05-18T00:00:00",
+      "cum_pnl": -16.78
+    },
+    {
+      "date": "2025-05-18T00:00:00",
+      "cum_pnl": -15.34
+    },
+    {
+      "date": "2025-05-19T00:00:00",
+      "cum_pnl": -16.34
+    },
+    {
+      "date": "2025-05-25T00:00:00",
+      "cum_pnl": -16.09
+    },
+    {
+      "date": "2025-05-25T00:00:00",
+      "cum_pnl": -17.09
+    },
+    {
+      "date": "2025-05-25T00:00:00",
+      "cum_pnl": -18.09
+    },
+    {
+      "date": "2025-05-25T00:00:00",
+      "cum_pnl": -16.86
+    },
+    {
+      "date": "2025-05-25T00:00:00",
+      "cum_pnl": -17.86
+    }
+  ],
+  "picks_detail": [
+    {
+      "date": "2024-10-05T00:00:00",
+      "match": "Everton vs Newcastle",
+      "pick": "A",
+      "odds": 2.0,
+      "model_p": 0.615,
+      "imp_p": 0.483,
+      "edge": 0.132,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-10-05T00:00:00",
+      "match": "Crystal Palace vs Liverpool",
+      "pick": "A",
+      "odds": 1.69,
+      "model_p": 0.798,
+      "imp_p": 0.574,
+      "edge": 0.224,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.69
+    },
+    {
+      "date": "2024-10-05T00:00:00",
+      "match": "West Ham vs Ipswich",
+      "pick": "D",
+      "odds": 3.84,
+      "model_p": 0.417,
+      "imp_p": 0.253,
+      "edge": 0.164,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-10-06T00:00:00",
+      "match": "Brighton vs Tottenham",
+      "pick": "A",
+      "odds": 2.3,
+      "model_p": 0.543,
+      "imp_p": 0.423,
+      "edge": 0.12,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-10-06T00:00:00",
+      "match": "Chelsea vs Nott'm Forest",
+      "pick": "D",
+      "odds": 4.7,
+      "model_p": 0.386,
+      "imp_p": 0.207,
+      "edge": 0.179,
+      "actual": "D",
+      "won": true,
+      "pnl": 3.7
+    },
+    {
+      "date": "2024-10-19T00:00:00",
+      "match": "Ipswich vs Everton",
+      "pick": "D",
+      "odds": 3.43,
+      "model_p": 0.375,
+      "imp_p": 0.284,
+      "edge": 0.091,
+      "actual": "A",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-10-19T00:00:00",
+      "match": "Man United vs Brentford",
+      "pick": "A",
+      "odds": 4.92,
+      "model_p": 0.407,
+      "imp_p": 0.198,
+      "edge": 0.209,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-10-19T00:00:00",
+      "match": "Newcastle vs Brighton",
+      "pick": "A",
+      "odds": 4.67,
+      "model_p": 0.414,
+      "imp_p": 0.208,
+      "edge": 0.206,
+      "actual": "A",
+      "won": true,
+      "pnl": 3.67
+    },
+    {
+      "date": "2024-10-19T00:00:00",
+      "match": "Southampton vs Leicester",
+      "pick": "A",
+      "odds": 3.41,
+      "model_p": 0.735,
+      "imp_p": 0.285,
+      "edge": 0.45,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.41
+    },
+    {
+      "date": "2024-10-19T00:00:00",
+      "match": "Bournemouth vs Arsenal",
+      "pick": "A",
+      "odds": 1.76,
+      "model_p": 0.672,
+      "imp_p": 0.551,
+      "edge": 0.121,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-10-21T00:00:00",
+      "match": "Nott'm Forest vs Crystal Palace",
+      "pick": "D",
+      "odds": 3.3,
+      "model_p": 0.44,
+      "imp_p": 0.295,
+      "edge": 0.145,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-10-25T00:00:00",
+      "match": "Leicester vs Nott'm Forest",
+      "pick": "D",
+      "odds": 3.4,
+      "model_p": 0.38,
+      "imp_p": 0.287,
+      "edge": 0.093,
+      "actual": "A",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "match": "Brentford vs Ipswich",
+      "pick": "H",
+      "odds": 1.68,
+      "model_p": 0.645,
+      "imp_p": 0.579,
+      "edge": 0.067,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.68
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "match": "Brighton vs Wolves",
+      "pick": "H",
+      "odds": 1.58,
+      "model_p": 0.75,
+      "imp_p": 0.613,
+      "edge": 0.137,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "match": "Man City vs Southampton",
+      "pick": "H",
+      "odds": 1.12,
+      "model_p": 0.916,
+      "imp_p": 0.866,
+      "edge": 0.05,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.12
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "match": "Everton vs Fulham",
+      "pick": "A",
+      "odds": 2.73,
+      "model_p": 0.53,
+      "imp_p": 0.355,
+      "edge": 0.175,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "match": "Crystal Palace vs Tottenham",
+      "pick": "A",
+      "odds": 1.95,
+      "model_p": 0.682,
+      "imp_p": 0.498,
+      "edge": 0.184,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "match": "West Ham vs Man United",
+      "pick": "D",
+      "odds": 3.72,
+      "model_p": 0.357,
+      "imp_p": 0.261,
+      "edge": 0.096,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-10-27T00:00:00",
+      "match": "Arsenal vs Liverpool",
+      "pick": "A",
+      "odds": 3.35,
+      "model_p": 0.499,
+      "imp_p": 0.29,
+      "edge": 0.208,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "match": "Southampton vs Everton",
+      "pick": "A",
+      "odds": 2.8,
+      "model_p": 0.507,
+      "imp_p": 0.348,
+      "edge": 0.159,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "match": "Ipswich vs Leicester",
+      "pick": "A",
+      "odds": 3.09,
+      "model_p": 0.535,
+      "imp_p": 0.314,
+      "edge": 0.22,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-11-03T00:00:00",
+      "match": "Man United vs Chelsea",
+      "pick": "A",
+      "odds": 2.59,
+      "model_p": 0.629,
+      "imp_p": 0.376,
+      "edge": 0.254,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-11-04T00:00:00",
+      "match": "Fulham vs Brentford",
+      "pick": "A",
+      "odds": 3.73,
+      "model_p": 0.353,
+      "imp_p": 0.261,
+      "edge": 0.092,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "match": "Brentford vs Bournemouth",
+      "pick": "A",
+      "odds": 2.74,
+      "model_p": 0.459,
+      "imp_p": 0.355,
+      "edge": 0.104,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "match": "Crystal Palace vs Fulham",
+      "pick": "D",
+      "odds": 3.3,
+      "model_p": 0.367,
+      "imp_p": 0.295,
+      "edge": 0.072,
+      "actual": "A",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "match": "West Ham vs Everton",
+      "pick": "H",
+      "odds": 2.17,
+      "model_p": 0.536,
+      "imp_p": 0.448,
+      "edge": 0.088,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "match": "Wolves vs Southampton",
+      "pick": "H",
+      "odds": 1.95,
+      "model_p": 0.673,
+      "imp_p": 0.498,
+      "edge": 0.175,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.95
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "match": "Liverpool vs Aston Villa",
+      "pick": "H",
+      "odds": 1.47,
+      "model_p": 0.733,
+      "imp_p": 0.662,
+      "edge": 0.071,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.47
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "match": "Chelsea vs Arsenal",
+      "pick": "H",
+      "odds": 3.0,
+      "model_p": 0.458,
+      "imp_p": 0.324,
+      "edge": 0.134,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "match": "Tottenham vs Ipswich",
+      "pick": "H",
+      "odds": 1.26,
+      "model_p": 0.843,
+      "imp_p": 0.766,
+      "edge": 0.077,
+      "actual": "A",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "match": "Nott'm Forest vs Newcastle",
+      "pick": "D",
+      "odds": 3.3,
+      "model_p": 0.419,
+      "imp_p": 0.295,
+      "edge": 0.123,
+      "actual": "A",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "match": "Leicester vs Chelsea",
+      "pick": "A",
+      "odds": 1.45,
+      "model_p": 0.8,
+      "imp_p": 0.669,
+      "edge": 0.131,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.45
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "match": "Arsenal vs Nott'm Forest",
+      "pick": "D",
+      "odds": 4.8,
+      "model_p": 0.356,
+      "imp_p": 0.202,
+      "edge": 0.154,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "match": "Bournemouth vs Brighton",
+      "pick": "A",
+      "odds": 2.88,
+      "model_p": 0.43,
+      "imp_p": 0.338,
+      "edge": 0.092,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.88
+    },
+    {
+      "date": "2024-11-23T00:00:00",
+      "match": "Everton vs Brentford",
+      "pick": "A",
+      "odds": 3.18,
+      "model_p": 0.555,
+      "imp_p": 0.306,
+      "edge": 0.249,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-11-24T00:00:00",
+      "match": "Southampton vs Liverpool",
+      "pick": "A",
+      "odds": 1.31,
+      "model_p": 0.86,
+      "imp_p": 0.74,
+      "edge": 0.12,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.31
+    },
+    {
+      "date": "2024-11-29T00:00:00",
+      "match": "Brighton vs Southampton",
+      "pick": "H",
+      "odds": 1.38,
+      "model_p": 0.819,
+      "imp_p": 0.698,
+      "edge": 0.121,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "match": "Crystal Palace vs Newcastle",
+      "pick": "D",
+      "odds": 3.53,
+      "model_p": 0.396,
+      "imp_p": 0.276,
+      "edge": 0.12,
+      "actual": "D",
+      "won": true,
+      "pnl": 2.53
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "match": "Wolves vs Bournemouth",
+      "pick": "A",
+      "odds": 2.66,
+      "model_p": 0.431,
+      "imp_p": 0.366,
+      "edge": 0.065,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.66
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "match": "Tottenham vs Fulham",
+      "pick": "H",
+      "odds": 1.98,
+      "model_p": 0.678,
+      "imp_p": 0.491,
+      "edge": 0.187,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "match": "Liverpool vs Man City",
+      "pick": "H",
+      "odds": 2.06,
+      "model_p": 0.619,
+      "imp_p": 0.472,
+      "edge": 0.148,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.06
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "match": "Chelsea vs Aston Villa",
+      "pick": "H",
+      "odds": 1.75,
+      "model_p": 0.614,
+      "imp_p": 0.555,
+      "edge": 0.06,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.75
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "match": "Man United vs Everton",
+      "pick": "D",
+      "odds": 4.07,
+      "model_p": 0.373,
+      "imp_p": 0.238,
+      "edge": 0.135,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-12-03T00:00:00",
+      "match": "Ipswich vs Crystal Palace",
+      "pick": "D",
+      "odds": 3.39,
+      "model_p": 0.373,
+      "imp_p": 0.287,
+      "edge": 0.086,
+      "actual": "A",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-12-04T00:00:00",
+      "match": "Everton vs Wolves",
+      "pick": "A",
+      "odds": 3.8,
+      "model_p": 0.566,
+      "imp_p": 0.256,
+      "edge": 0.31,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-12-04T00:00:00",
+      "match": "Aston Villa vs Brentford",
+      "pick": "A",
+      "odds": 5.06,
+      "model_p": 0.356,
+      "imp_p": 0.192,
+      "edge": 0.164,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-12-05T00:00:00",
+      "match": "Bournemouth vs Tottenham",
+      "pick": "A",
+      "odds": 3.06,
+      "model_p": 0.474,
+      "imp_p": 0.317,
+      "edge": 0.157,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-12-05T00:00:00",
+      "match": "Fulham vs Brighton",
+      "pick": "A",
+      "odds": 2.7,
+      "model_p": 0.462,
+      "imp_p": 0.362,
+      "edge": 0.1,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "match": "Man United vs Nott'm Forest",
+      "pick": "D",
+      "odds": 3.98,
+      "model_p": 0.382,
+      "imp_p": 0.244,
+      "edge": 0.138,
+      "actual": "A",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-12-08T00:00:00",
+      "match": "Ipswich vs Bournemouth",
+      "pick": "A",
+      "odds": 1.95,
+      "model_p": 0.555,
+      "imp_p": 0.498,
+      "edge": 0.057,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.95
+    },
+    {
+      "date": "2024-12-14T00:00:00",
+      "match": "Wolves vs Ipswich",
+      "pick": "H",
+      "odds": 2.0,
+      "model_p": 0.539,
+      "imp_p": 0.486,
+      "edge": 0.053,
+      "actual": "A",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-12-14T00:00:00",
+      "match": "Nott'm Forest vs Aston Villa",
+      "pick": "H",
+      "odds": 2.73,
+      "model_p": 0.429,
+      "imp_p": 0.357,
+      "edge": 0.073,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.73
+    },
+    {
+      "date": "2024-12-15T00:00:00",
+      "match": "Southampton vs Tottenham",
+      "pick": "A",
+      "odds": 1.79,
+      "model_p": 0.759,
+      "imp_p": 0.543,
+      "edge": 0.216,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.79
+    },
+    {
+      "date": "2024-12-21T00:00:00",
+      "match": "West Ham vs Brighton",
+      "pick": "A",
+      "odds": 2.48,
+      "model_p": 0.462,
+      "imp_p": 0.392,
+      "edge": 0.07,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-12-22T00:00:00",
+      "match": "Leicester vs Wolves",
+      "pick": "H",
+      "odds": 3.05,
+      "model_p": 0.426,
+      "imp_p": 0.319,
+      "edge": 0.107,
+      "actual": "A",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-12-22T00:00:00",
+      "match": "Everton vs Chelsea",
+      "pick": "A",
+      "odds": 1.69,
+      "model_p": 0.69,
+      "imp_p": 0.572,
+      "edge": 0.118,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-12-22T00:00:00",
+      "match": "Fulham vs Southampton",
+      "pick": "H",
+      "odds": 1.68,
+      "model_p": 0.712,
+      "imp_p": 0.592,
+      "edge": 0.121,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-12-26T00:00:00",
+      "match": "Bournemouth vs Crystal Palace",
+      "pick": "H",
+      "odds": 2.13,
+      "model_p": 0.526,
+      "imp_p": 0.457,
+      "edge": 0.069,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-12-26T00:00:00",
+      "match": "Nott'm Forest vs Tottenham",
+      "pick": "A",
+      "odds": 3.22,
+      "model_p": 0.416,
+      "imp_p": 0.302,
+      "edge": 0.114,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-12-26T00:00:00",
+      "match": "Southampton vs West Ham",
+      "pick": "A",
+      "odds": 2.31,
+      "model_p": 0.549,
+      "imp_p": 0.421,
+      "edge": 0.129,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.31
+    },
+    {
+      "date": "2024-12-29T00:00:00",
+      "match": "Tottenham vs Wolves",
+      "pick": "H",
+      "odds": 1.68,
+      "model_p": 0.725,
+      "imp_p": 0.579,
+      "edge": 0.146,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-12-29T00:00:00",
+      "match": "Fulham vs Bournemouth",
+      "pick": "A",
+      "odds": 3.31,
+      "model_p": 0.357,
+      "imp_p": 0.294,
+      "edge": 0.063,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-12-29T00:00:00",
+      "match": "Everton vs Nott'm Forest",
+      "pick": "A",
+      "odds": 3.0,
+      "model_p": 0.456,
+      "imp_p": 0.324,
+      "edge": 0.131,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.0
+    },
+    {
+      "date": "2024-12-30T00:00:00",
+      "match": "Aston Villa vs Brighton",
+      "pick": "A",
+      "odds": 4.25,
+      "model_p": 0.389,
+      "imp_p": 0.228,
+      "edge": 0.161,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-12-30T00:00:00",
+      "match": "Ipswich vs Chelsea",
+      "pick": "A",
+      "odds": 1.4,
+      "model_p": 0.763,
+      "imp_p": 0.689,
+      "edge": 0.073,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2024-12-30T00:00:00",
+      "match": "Man United vs Newcastle",
+      "pick": "A",
+      "odds": 2.58,
+      "model_p": 0.457,
+      "imp_p": 0.375,
+      "edge": 0.082,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.58
+    },
+    {
+      "date": "2025-01-04T00:00:00",
+      "match": "Southampton vs Brentford",
+      "pick": "A",
+      "odds": 2.16,
+      "model_p": 0.684,
+      "imp_p": 0.451,
+      "edge": 0.233,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.16
+    },
+    {
+      "date": "2025-01-04T00:00:00",
+      "match": "Tottenham vs Newcastle",
+      "pick": "H",
+      "odds": 3.9,
+      "model_p": 0.371,
+      "imp_p": 0.249,
+      "edge": 0.122,
+      "actual": "A",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-01-04T00:00:00",
+      "match": "Crystal Palace vs Chelsea",
+      "pick": "A",
+      "odds": 2.0,
+      "model_p": 0.578,
+      "imp_p": 0.486,
+      "edge": 0.092,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-01-06T00:00:00",
+      "match": "Wolves vs Nott'm Forest",
+      "pick": "A",
+      "odds": 2.01,
+      "model_p": 0.538,
+      "imp_p": 0.483,
+      "edge": 0.054,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.01
+    },
+    {
+      "date": "2025-01-14T00:00:00",
+      "match": "West Ham vs Fulham",
+      "pick": "A",
+      "odds": 2.42,
+      "model_p": 0.504,
+      "imp_p": 0.402,
+      "edge": 0.102,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "match": "Nott'm Forest vs Southampton",
+      "pick": "H",
+      "odds": 1.37,
+      "model_p": 0.76,
+      "imp_p": 0.707,
+      "edge": 0.053,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.37
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "match": "Everton vs Tottenham",
+      "pick": "A",
+      "odds": 2.85,
+      "model_p": 0.601,
+      "imp_p": 0.342,
+      "edge": 0.259,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "match": "Man United vs Brighton",
+      "pick": "A",
+      "odds": 3.25,
+      "model_p": 0.394,
+      "imp_p": 0.3,
+      "edge": 0.094,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.25
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "match": "Southampton vs Newcastle",
+      "pick": "A",
+      "odds": 1.47,
+      "model_p": 0.783,
+      "imp_p": 0.661,
+      "edge": 0.122,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.47
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "match": "Wolves vs Arsenal",
+      "pick": "A",
+      "odds": 1.61,
+      "model_p": 0.748,
+      "imp_p": 0.603,
+      "edge": 0.145,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.61
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "match": "Man City vs Chelsea",
+      "pick": "A",
+      "odds": 2.85,
+      "model_p": 0.4,
+      "imp_p": 0.342,
+      "edge": 0.058,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "match": "Crystal Palace vs Brentford",
+      "pick": "A",
+      "odds": 3.84,
+      "model_p": 0.409,
+      "imp_p": 0.253,
+      "edge": 0.157,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.84
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "match": "Tottenham vs Leicester",
+      "pick": "H",
+      "odds": 1.51,
+      "model_p": 0.755,
+      "imp_p": 0.642,
+      "edge": 0.113,
+      "actual": "A",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "match": "Wolves vs Aston Villa",
+      "pick": "A",
+      "odds": 2.28,
+      "model_p": 0.49,
+      "imp_p": 0.427,
+      "edge": 0.063,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "match": "Brentford vs Tottenham",
+      "pick": "A",
+      "odds": 3.51,
+      "model_p": 0.436,
+      "imp_p": 0.277,
+      "edge": 0.159,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.51
+    },
+    {
+      "date": "2025-02-14T00:00:00",
+      "match": "Brighton vs Chelsea",
+      "pick": "A",
+      "odds": 2.36,
+      "model_p": 0.526,
+      "imp_p": 0.412,
+      "edge": 0.114,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "match": "Leicester vs Arsenal",
+      "pick": "A",
+      "odds": 1.33,
+      "model_p": 0.809,
+      "imp_p": 0.729,
+      "edge": 0.08,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.33
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "match": "Fulham vs Nott'm Forest",
+      "pick": "A",
+      "odds": 3.63,
+      "model_p": 0.437,
+      "imp_p": 0.268,
+      "edge": 0.17,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "match": "Man City vs Newcastle",
+      "pick": "A",
+      "odds": 3.29,
+      "model_p": 0.363,
+      "imp_p": 0.296,
+      "edge": 0.067,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "match": "Southampton vs Bournemouth",
+      "pick": "A",
+      "odds": 1.51,
+      "model_p": 0.779,
+      "imp_p": 0.643,
+      "edge": 0.136,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.51
+    },
+    {
+      "date": "2025-02-15T00:00:00",
+      "match": "West Ham vs Brentford",
+      "pick": "A",
+      "odds": 2.93,
+      "model_p": 0.517,
+      "imp_p": 0.332,
+      "edge": 0.185,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.93
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "match": "Tottenham vs Man United",
+      "pick": "H",
+      "odds": 2.21,
+      "model_p": 0.538,
+      "imp_p": 0.44,
+      "edge": 0.098,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.21
+    },
+    {
+      "date": "2025-02-19T00:00:00",
+      "match": "Aston Villa vs Liverpool",
+      "pick": "A",
+      "odds": 1.88,
+      "model_p": 0.689,
+      "imp_p": 0.516,
+      "edge": 0.173,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-02-21T00:00:00",
+      "match": "Leicester vs Brentford",
+      "pick": "A",
+      "odds": 1.99,
+      "model_p": 0.631,
+      "imp_p": 0.488,
+      "edge": 0.143,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.99
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "match": "Bournemouth vs Wolves",
+      "pick": "H",
+      "odds": 1.66,
+      "model_p": 0.662,
+      "imp_p": 0.585,
+      "edge": 0.077,
+      "actual": "A",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "match": "Ipswich vs Tottenham",
+      "pick": "A",
+      "odds": 2.1,
+      "model_p": 0.706,
+      "imp_p": 0.463,
+      "edge": 0.243,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.1
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "match": "Southampton vs Brighton",
+      "pick": "A",
+      "odds": 1.57,
+      "model_p": 0.703,
+      "imp_p": 0.618,
+      "edge": 0.085,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.57
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "match": "Aston Villa vs Chelsea",
+      "pick": "A",
+      "odds": 2.65,
+      "model_p": 0.515,
+      "imp_p": 0.367,
+      "edge": 0.148,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "match": "Newcastle vs Nott'm Forest",
+      "pick": "A",
+      "odds": 4.01,
+      "model_p": 0.385,
+      "imp_p": 0.243,
+      "edge": 0.142,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "match": "Man City vs Liverpool",
+      "pick": "A",
+      "odds": 2.21,
+      "model_p": 0.532,
+      "imp_p": 0.444,
+      "edge": 0.088,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.21
+    },
+    {
+      "date": "2025-02-25T00:00:00",
+      "match": "Wolves vs Fulham",
+      "pick": "A",
+      "odds": 3.2,
+      "model_p": 0.473,
+      "imp_p": 0.304,
+      "edge": 0.169,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.2
+    },
+    {
+      "date": "2025-02-25T00:00:00",
+      "match": "Brighton vs Bournemouth",
+      "pick": "A",
+      "odds": 3.63,
+      "model_p": 0.46,
+      "imp_p": 0.268,
+      "edge": 0.192,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-02-26T00:00:00",
+      "match": "Tottenham vs Man City",
+      "pick": "H",
+      "odds": 3.96,
+      "model_p": 0.372,
+      "imp_p": 0.245,
+      "edge": 0.128,
+      "actual": "A",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "match": "Wolves vs Everton",
+      "pick": "A",
+      "odds": 2.88,
+      "model_p": 0.399,
+      "imp_p": 0.338,
+      "edge": 0.061,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "match": "Nott'm Forest vs Man City",
+      "pick": "H",
+      "odds": 3.91,
+      "model_p": 0.356,
+      "imp_p": 0.248,
+      "edge": 0.108,
+      "actual": "H",
+      "won": true,
+      "pnl": 2.91
+    },
+    {
+      "date": "2025-03-09T00:00:00",
+      "match": "Man United vs Arsenal",
+      "pick": "A",
+      "odds": 1.78,
+      "model_p": 0.615,
+      "imp_p": 0.546,
+      "edge": 0.069,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-03-10T00:00:00",
+      "match": "West Ham vs Newcastle",
+      "pick": "A",
+      "odds": 2.22,
+      "model_p": 0.551,
+      "imp_p": 0.439,
+      "edge": 0.113,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.22
+    },
+    {
+      "date": "2025-03-15T00:00:00",
+      "match": "Southampton vs Wolves",
+      "pick": "A",
+      "odds": 2.07,
+      "model_p": 0.644,
+      "imp_p": 0.471,
+      "edge": 0.174,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.07
+    },
+    {
+      "date": "2025-03-15T00:00:00",
+      "match": "Ipswich vs Nott'm Forest",
+      "pick": "A",
+      "odds": 2.0,
+      "model_p": 0.694,
+      "imp_p": 0.485,
+      "edge": 0.209,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.0
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "match": "Fulham vs Tottenham",
+      "pick": "A",
+      "odds": 4.08,
+      "model_p": 0.46,
+      "imp_p": 0.238,
+      "edge": 0.222,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-04-01T00:00:00",
+      "match": "Nott'm Forest vs Man United",
+      "pick": "H",
+      "odds": 2.35,
+      "model_p": 0.515,
+      "imp_p": 0.414,
+      "edge": 0.101,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.35
+    },
+    {
+      "date": "2025-04-02T00:00:00",
+      "match": "Brighton vs Aston Villa",
+      "pick": "H",
+      "odds": 2.38,
+      "model_p": 0.473,
+      "imp_p": 0.409,
+      "edge": 0.064,
+      "actual": "A",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-04-02T00:00:00",
+      "match": "Southampton vs Crystal Palace",
+      "pick": "A",
+      "odds": 1.63,
+      "model_p": 0.68,
+      "imp_p": 0.595,
+      "edge": 0.085,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "match": "Aston Villa vs Nott'm Forest",
+      "pick": "A",
+      "odds": 3.66,
+      "model_p": 0.49,
+      "imp_p": 0.266,
+      "edge": 0.224,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "match": "West Ham vs Bournemouth",
+      "pick": "A",
+      "odds": 2.4,
+      "model_p": 0.559,
+      "imp_p": 0.406,
+      "edge": 0.153,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "match": "Everton vs Arsenal",
+      "pick": "A",
+      "odds": 2.1,
+      "model_p": 0.574,
+      "imp_p": 0.463,
+      "edge": 0.111,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "match": "Ipswich vs Wolves",
+      "pick": "A",
+      "odds": 2.7,
+      "model_p": 0.506,
+      "imp_p": 0.361,
+      "edge": 0.145,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.7
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "match": "Brentford vs Chelsea",
+      "pick": "A",
+      "odds": 2.42,
+      "model_p": 0.463,
+      "imp_p": 0.402,
+      "edge": 0.06,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "match": "Fulham vs Liverpool",
+      "pick": "A",
+      "odds": 1.94,
+      "model_p": 0.627,
+      "imp_p": 0.5,
+      "edge": 0.127,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "match": "Tottenham vs Southampton",
+      "pick": "H",
+      "odds": 1.37,
+      "model_p": 0.814,
+      "imp_p": 0.706,
+      "edge": 0.108,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.37
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "match": "Man United vs Man City",
+      "pick": "A",
+      "odds": 2.11,
+      "model_p": 0.514,
+      "imp_p": 0.461,
+      "edge": 0.053,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-04-07T00:00:00",
+      "match": "Leicester vs Newcastle",
+      "pick": "A",
+      "odds": 1.45,
+      "model_p": 0.729,
+      "imp_p": 0.67,
+      "edge": 0.06,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.45
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "match": "Southampton vs Aston Villa",
+      "pick": "A",
+      "odds": 1.53,
+      "model_p": 0.701,
+      "imp_p": 0.635,
+      "edge": 0.066,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.53
+    },
+    {
+      "date": "2025-04-13T00:00:00",
+      "match": "Wolves vs Tottenham",
+      "pick": "A",
+      "odds": 3.16,
+      "model_p": 0.572,
+      "imp_p": 0.308,
+      "edge": 0.264,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-04-19T00:00:00",
+      "match": "Aston Villa vs Newcastle",
+      "pick": "A",
+      "odds": 2.71,
+      "model_p": 0.486,
+      "imp_p": 0.356,
+      "edge": 0.129,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-04-19T00:00:00",
+      "match": "Brentford vs Brighton",
+      "pick": "H",
+      "odds": 2.7,
+      "model_p": 0.432,
+      "imp_p": 0.36,
+      "edge": 0.072,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.7
+    },
+    {
+      "date": "2025-04-19T00:00:00",
+      "match": "Crystal Palace vs Bournemouth",
+      "pick": "A",
+      "odds": 2.79,
+      "model_p": 0.465,
+      "imp_p": 0.349,
+      "edge": 0.116,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-04-20T00:00:00",
+      "match": "Leicester vs Liverpool",
+      "pick": "A",
+      "odds": 1.22,
+      "model_p": 0.868,
+      "imp_p": 0.795,
+      "edge": 0.073,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.22
+    },
+    {
+      "date": "2025-04-21T00:00:00",
+      "match": "Tottenham vs Nott'm Forest",
+      "pick": "A",
+      "odds": 3.06,
+      "model_p": 0.404,
+      "imp_p": 0.319,
+      "edge": 0.085,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.06
+    },
+    {
+      "date": "2025-04-26T00:00:00",
+      "match": "Southampton vs Fulham",
+      "pick": "A",
+      "odds": 1.68,
+      "model_p": 0.709,
+      "imp_p": 0.575,
+      "edge": 0.134,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.68
+    },
+    {
+      "date": "2025-05-04T00:00:00",
+      "match": "Brighton vs Newcastle",
+      "pick": "A",
+      "odds": 2.26,
+      "model_p": 0.497,
+      "imp_p": 0.43,
+      "edge": 0.067,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-05-04T00:00:00",
+      "match": "West Ham vs Tottenham",
+      "pick": "A",
+      "odds": 4.22,
+      "model_p": 0.527,
+      "imp_p": 0.23,
+      "edge": 0.297,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-05-04T00:00:00",
+      "match": "Chelsea vs Liverpool",
+      "pick": "A",
+      "odds": 2.95,
+      "model_p": 0.52,
+      "imp_p": 0.33,
+      "edge": 0.19,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-05-05T00:00:00",
+      "match": "Crystal Palace vs Nott'm Forest",
+      "pick": "A",
+      "odds": 3.5,
+      "model_p": 0.452,
+      "imp_p": 0.278,
+      "edge": 0.174,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "match": "Bournemouth vs Aston Villa",
+      "pick": "H",
+      "odds": 2.62,
+      "model_p": 0.441,
+      "imp_p": 0.372,
+      "edge": 0.07,
+      "actual": "A",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-05-11T00:00:00",
+      "match": "Newcastle vs Chelsea",
+      "pick": "A",
+      "odds": 3.1,
+      "model_p": 0.366,
+      "imp_p": 0.314,
+      "edge": 0.052,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-05-11T00:00:00",
+      "match": "Tottenham vs Crystal Palace",
+      "pick": "H",
+      "odds": 3.13,
+      "model_p": 0.465,
+      "imp_p": 0.31,
+      "edge": 0.155,
+      "actual": "A",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-05-18T00:00:00",
+      "match": "Leicester vs Ipswich",
+      "pick": "A",
+      "odds": 3.11,
+      "model_p": 0.394,
+      "imp_p": 0.313,
+      "edge": 0.081,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-05-18T00:00:00",
+      "match": "West Ham vs Nott'm Forest",
+      "pick": "A",
+      "odds": 2.44,
+      "model_p": 0.513,
+      "imp_p": 0.399,
+      "edge": 0.115,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.44
+    },
+    {
+      "date": "2025-05-19T00:00:00",
+      "match": "Brighton vs Liverpool",
+      "pick": "A",
+      "odds": 3.09,
+      "model_p": 0.631,
+      "imp_p": 0.315,
+      "edge": 0.317,
+      "actual": "H",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-05-25T00:00:00",
+      "match": "Southampton vs Arsenal",
+      "pick": "A",
+      "odds": 1.25,
+      "model_p": 0.838,
+      "imp_p": 0.771,
+      "edge": 0.068,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.25
+    },
+    {
+      "date": "2025-05-25T00:00:00",
+      "match": "Nott'm Forest vs Chelsea",
+      "pick": "H",
+      "odds": 3.5,
+      "model_p": 0.35,
+      "imp_p": 0.278,
+      "edge": 0.072,
+      "actual": "A",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-05-25T00:00:00",
+      "match": "Tottenham vs Brighton",
+      "pick": "H",
+      "odds": 3.83,
+      "model_p": 0.409,
+      "imp_p": 0.254,
+      "edge": 0.155,
+      "actual": "A",
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-05-25T00:00:00",
+      "match": "Ipswich vs West Ham",
+      "pick": "A",
+      "odds": 2.23,
+      "model_p": 0.491,
+      "imp_p": 0.436,
+      "edge": 0.055,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.23
+    },
+    {
+      "date": "2025-05-25T00:00:00",
+      "match": "Wolves vs Brentford",
+      "pick": "A",
+      "odds": 2.31,
+      "model_p": 0.512,
+      "imp_p": 0.421,
+      "edge": 0.09,
+      "actual": "D",
+      "won": false,
+      "pnl": -1
+    }
+  ]
+}

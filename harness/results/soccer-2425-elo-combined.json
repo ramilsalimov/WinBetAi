@@ -1,0 +1,56 @@
+{
+  "model": "elo",
+  "season": "2425",
+  "total_picks": 1195,
+  "total_wins": 254,
+  "total_winrate": 21.26,
+  "total_pnl": -72.69,
+  "total_roi_pct": -6.08,
+  "by_league": [
+    {
+      "model": "elo",
+      "league": "E0",
+      "picks": 256,
+      "wins": 60,
+      "winrate": 23.44,
+      "pnl": 24.96,
+      "roi_pct": 9.75
+    },
+    {
+      "model": "elo",
+      "league": "SP1",
+      "picks": 280,
+      "wins": 55,
+      "winrate": 19.64,
+      "pnl": -49.29,
+      "roi_pct": -17.6
+    },
+    {
+      "model": "elo",
+      "league": "I1",
+      "picks": 275,
+      "wins": 48,
+      "winrate": 17.45,
+      "pnl": -78.07,
+      "roi_pct": -28.39
+    },
+    {
+      "model": "elo",
+      "league": "D1",
+      "picks": 182,
+      "wins": 40,
+      "winrate": 21.98,
+      "pnl": -3.97,
+      "roi_pct": -2.18
+    },
+    {
+      "model": "elo",
+      "league": "F1",
+      "picks": 202,
+      "wins": 51,
+      "winrate": 25.25,
+      "pnl": 33.68,
+      "roi_pct": 16.67
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# third-party clones — tracked via clone-all.sh, not as submodules
+*/
+!README.md
+!clone-all.sh
+!.gitignore
