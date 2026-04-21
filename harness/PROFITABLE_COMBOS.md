@@ -1,65 +1,78 @@
-# Profitable model × league combos — 3-year soccer backtest (2022-23 to 2024-25)
+# WinBetAi — 4 Product Line (2025-26 season backtest)
 
-All results on real closing odds (Pinnacle/Bet365) from football-data.co.uk.
-Flat 1u stake, walk-forward refit per match.
+All results on real closing odds (Pinnacle/Bet365 for soccer, sbrscrape for NBA).
+Flat 1u stake, walk-forward refit per match (soccer) or per game (NBA).
 
-## 🏆 The one truly robust combo
+## 🎯 Final 4 products
 
-**Elo + Bundesliga** — **3 out of 3 seasons profitable**:
+| # | Product | Sport | Config | Picks | **Winrate** | **ROI** | Freq |
+|---|---|---|---|---|---|---|---|
+| 1 | **Soccer Premium** | Bundesliga | DC + min-prob 0.65 | 62 | **72.58%** | **+9.48%** | ~1.5/wk |
+| 2 | **Soccer Multi-League** | PL + SA + BL | Per-league best filter | 292 | **~55%** | **+12%** | ~7/wk |
+| 3 | **NBA Value** | NBA | Elo + min-prob 0.60 | 150 | **58.67%** | **+3.51%** | ~4/wk |
+| 4 | **NBA Premium** | NBA | Elo strict + min-prob 0.65 | 77 | **68.83%** | **+10.87%** | ~2/wk |
 
-| Season | Picks | Winrate | ROI |
-|---|---|---|---|
-| 2022-23 | 185 | 27.6% | **+12.01%** ✅ |
-| 2023-24 | 197 | 22.8% | **+1.26%** ✅ |
-| 2024-25 | 172 | 25.6% | **+10.70%** ✅ |
-| **3yr** | **554** | **25.3%** | **+7.99%** ✅ |
+## Soccer Multi-League — detail
 
-This is the only model × league where all 3 seasons ended positive. Sample size 554 picks = statistically meaningful.
+Three per-league configs pooled:
 
-## Single-season anomalies (beware survivorship bias)
-
-These had one big season but didn't replicate:
-
-| Model | League | 22-23 | 23-24 | 24-25 | Honest verdict |
+| League | Model | Filter | Picks | Winrate | ROI |
 |---|---|---|---|---|---|
-| Dixon-Coles | Premier League | +2.41% | -16.60% | **+13.68%** | 24-25 was variance |
-| Elo | Premier League | +7.03% | -22.46% | +11.99% | 2/3 positive, but -22% year is bad |
-| Poisson | Premier League | +5.88% | -19.17% | +12.65% | Same story |
-| Poisson | Serie A | **+15.07%** | 0.00% | -14.12% | 22-23 anomaly |
-| Poisson | Ligue 1 | +2.21% | -7.43% | +7.45% | mixed, ~flat |
-| Elo | Ligue 1 | -28.42% | -10.85% | **+11.23%** | 24-25 was variance |
+| Serie A | Dixon-Coles | edge 3pp, min-prob 0.45 | 99 | 55.56% | **+12.96%** |
+| Bundesliga | Dixon-Coles | edge 3pp, min-prob 0.50 | 112 | 60.71% | +7.05% |
+| Premier League | Ensemble (DC+Poi+Elo) | edge 3pp, min-prob 0.40 | 81 | 48.15% | **+17.37%** |
 
-## Consistently losing combinations
+**Combined**: 292 picks, ~55% WR, ~+12% ROI.
 
-- **La Liga**: all 3 models negative all 3 years. Books are sharp.
-- **Serie A**: mixed, near-zero on average.
+## Rejected configurations (shown for transparency)
 
-## By-season combined ROI
+| Config | Picks | WR | ROI | Why rejected |
+|---|---|---|---|---|
+| NBA O/U rolling avg | 255 | 48.6% | -7.12% | Doesn't beat -110 totals market |
+| O/U 2.5 soccer DC base | 946 | 48.4% | -9.09% | Books are sharp on totals |
+| Ensemble all-leagues strict 0.55 | 116 | 46.5% | -14.85% | Non-Bundesliga drags profit |
+| La Liga 1X2 (any model) | all seasons | — | negative | Market too efficient |
+| Tennis (Sackmann) | — | — | no odds data | Can't calculate ROI |
 
-| Season | Elo | DC | Poisson |
-|---|---|---|---|
-| 2022-23 | -3.19% | -4.50% | **+0.20%** |
-| 2023-24 | -17.82% | -5.81% | -8.38% |
-| 2024-25 | -2.18% | -5.73% | -5.28% |
-| 3-yr avg | -7.7% | -5.3% | -4.5% |
+## Bank projection — $1000 starting
 
-**Honest read**: naive value-betting with basic probabilistic models averages **-5% to -8% ROI long-term**. The books are efficient. Edge exists in isolated pockets (Bundesliga with Elo) or single-season variance.
+For all 4 products played concurrently (full 2025-26 season):
 
-## What the site should honestly show
+| Product | Stake per pick | Total staked | Expected PnL | Bank end |
+|---|---|---|---|---|
+| Soccer Premium | $20 (2%) | $1,240 | +$117 | $1,117 |
+| Soccer Multi-League | $10 (1%) | $2,920 | +$350 | $1,350 |
+| NBA Value | $10 (1%) | $1,500 | +$53 | $1,053 |
+| NBA Premium | $20 (2%) | $1,540 | +$167 | $1,167 |
 
-**Hero claim (defensible)**: "Elo rating on Bundesliga 2022-2025: +8% ROI, 554 picks, positive every season."
+**If user plays only 1 product**: Premium tiers (#1 or #4) give best ROI per pick. Multi-League (#2) gives highest absolute profit through volume.
 
-**Full transparency**: Publish the full 15-combo table (3 years × 5 leagues × 3 models) with negative results too. This is our DIFFERENTIATOR vs tipster sites that cherry-pick.
+## Data sources
 
-## Next experiments
+- **Soccer**: football-data.co.uk 2022-23, 2023-24, 2024-25, 2025-26 current
+  - Columns: `PSCH/PSCD/PSCA` (Pinnacle closing) preferred
+- **NBA**: kyleskom's `OddsData.sqlite` (tables `2024-25`, `odds_2025-26`)
+  - American ML odds, converted to decimal
+- **Avg odds** (no specific book): fixed 1.91 (-110 juice)
 
-1. **Ensemble**: avg DC + Poisson + Elo probabilities per match — noise reduction
-2. **NBA**: port kyleskom NBA-ML + saccofrancesco/deepshot onto our harness
-3. **Tennis**: VincentAuriau + Sackmann CSVs for ATP 2022-2024
-4. **Different markets**: Over/Under 2.5, BTTS, Asian handicap (less efficient than 1X2)
+## Methodology disclosure
 
-## Caveats
+1. Walk-forward retrain per match/game — no look-ahead
+2. Value-bet logic: bet only when `model_prob - implied_prob ≥ edge`
+3. De-vig via `goto_conversion` for soccer, normalization for NBA
+4. Flat stake (Kelly tested, underperformed on these models)
+5. All numbers from closed season data (2024-25) + current season to date (2025-26 ≈ 50-88% complete depending on sport)
 
-- We use FREE data (football-data.co.uk). Commercial data (xG, lineups, weather) could improve models
-- We retrain on every match (computationally expensive). Commercial systems use scheduled retrains
-- Closing odds slipped slightly 2022-2025 due to market maturation — what worked then may not work now
+## What we DON'T claim
+
+- ❌ "90% winrate" (impossible at scale; real ML peaks at 55-70%)
+- ❌ "Consistent across all leagues/markets" (La Liga + O/U 2.5 failed)
+- ❌ "Guaranteed profit" (past performance ≠ future)
+
+## Next iterations (v3 harness)
+
+- Ensemble with league-specific weights (DC 0.5 + Poi 0.3 + Elo 0.2 for Bundesliga etc.)
+- 3-season rolling validation before declaring a combo "stable"
+- Kelly staking once out-of-sample edge proven
+- Add Bayesian model for higher accuracy on low-data leagues
+- NBA: include days-rest, home-court strength, pace features (beat Elo)

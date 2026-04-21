@@ -2,1590 +2,538 @@
   "model": "elo",
   "sport": "NBA",
   "market": "moneyline",
-  "picks": 388,
-  "wins": 159,
-  "winrate": 40.98,
-  "pnl": 36.587,
-  "roi_pct": 9.43,
+  "picks": 131,
+  "wins": 71,
+  "winrate": 54.2,
+  "pnl": 0.607,
+  "roi_pct": 0.46,
   "equity_curve": [
     {
       "date": "2025-11-03",
       "cum_pnl": -1
     },
     {
-      "date": "2025-11-03",
-      "cum_pnl": 2.1
-    },
-    {
-      "date": "2025-11-03",
-      "cum_pnl": 1.1
+      "date": "2025-11-04",
+      "cum_pnl": 0.38
     },
     {
       "date": "2025-11-04",
-      "cum_pnl": 2.48
-    },
-    {
-      "date": "2025-11-04",
-      "cum_pnl": 3.226
-    },
-    {
-      "date": "2025-11-04",
-      "cum_pnl": 2.226
-    },
-    {
-      "date": "2025-11-04",
-      "cum_pnl": 1.226
+      "cum_pnl": 1.126
     },
     {
       "date": "2025-11-05",
-      "cum_pnl": 0.226
-    },
-    {
-      "date": "2025-11-05",
-      "cum_pnl": -0.774
-    },
-    {
-      "date": "2025-11-05",
-      "cum_pnl": -0.164
-    },
-    {
-      "date": "2025-11-05",
-      "cum_pnl": -1.164
-    },
-    {
-      "date": "2025-11-05",
-      "cum_pnl": -2.164
-    },
-    {
-      "date": "2025-11-05",
-      "cum_pnl": 0.336
-    },
-    {
-      "date": "2025-11-05",
-      "cum_pnl": -0.664
-    },
-    {
-      "date": "2025-11-05",
-      "cum_pnl": 0.576
-    },
-    {
-      "date": "2025-11-05",
-      "cum_pnl": 1.576
+      "cum_pnl": 2.126
     },
     {
       "date": "2025-11-06",
-      "cum_pnl": 2.217
+      "cum_pnl": 2.767
     },
     {
       "date": "2025-11-07",
-      "cum_pnl": 2.827
-    },
-    {
-      "date": "2025-11-07",
-      "cum_pnl": 1.827
-    },
-    {
-      "date": "2025-11-07",
-      "cum_pnl": 0.827
-    },
-    {
-      "date": "2025-11-07",
-      "cum_pnl": 2.787
-    },
-    {
-      "date": "2025-11-07",
-      "cum_pnl": 1.787
-    },
-    {
-      "date": "2025-11-07",
-      "cum_pnl": 2.343
-    },
-    {
-      "date": "2025-11-07",
-      "cum_pnl": 1.343
-    },
-    {
-      "date": "2025-11-07",
-      "cum_pnl": 0.343
+      "cum_pnl": 4.727
     },
     {
       "date": "2025-11-08",
-      "cum_pnl": -0.657
+      "cum_pnl": 3.727
     },
     {
       "date": "2025-11-08",
-      "cum_pnl": -1.657
-    },
-    {
-      "date": "2025-11-08",
-      "cum_pnl": -0.217
-    },
-    {
-      "date": "2025-11-08",
-      "cum_pnl": 1.163
-    },
-    {
-      "date": "2025-11-08",
-      "cum_pnl": 0.163
+      "cum_pnl": 5.107
     },
     {
       "date": "2025-11-09",
-      "cum_pnl": -0.837
+      "cum_pnl": 4.107
     },
     {
       "date": "2025-11-09",
-      "cum_pnl": -1.837
+      "cum_pnl": 3.107
     },
     {
       "date": "2025-11-09",
-      "cum_pnl": -2.837
+      "cum_pnl": 2.107
     },
     {
       "date": "2025-11-09",
-      "cum_pnl": -3.837
-    },
-    {
-      "date": "2025-11-09",
-      "cum_pnl": -4.837
-    },
-    {
-      "date": "2025-11-09",
-      "cum_pnl": -5.837
-    },
-    {
-      "date": "2025-11-09",
-      "cum_pnl": -6.837
+      "cum_pnl": 1.107
     },
     {
       "date": "2025-11-10",
-      "cum_pnl": -6.559
+      "cum_pnl": 1.94
     },
     {
       "date": "2025-11-10",
-      "cum_pnl": -5.726
+      "cum_pnl": 4.84
     },
     {
       "date": "2025-11-10",
-      "cum_pnl": -6.726
-    },
-    {
-      "date": "2025-11-10",
-      "cum_pnl": -3.826
-    },
-    {
-      "date": "2025-11-10",
-      "cum_pnl": -4.826
-    },
-    {
-      "date": "2025-11-10",
-      "cum_pnl": -5.826
-    },
-    {
-      "date": "2025-11-10",
-      "cum_pnl": -6.826
-    },
-    {
-      "date": "2025-11-10",
-      "cum_pnl": -7.826
+      "cum_pnl": 3.84
     },
     {
       "date": "2025-11-11",
-      "cum_pnl": -8.826
+      "cum_pnl": 4.86
     },
     {
       "date": "2025-11-11",
-      "cum_pnl": -9.826
-    },
-    {
-      "date": "2025-11-11",
-      "cum_pnl": -8.806
-    },
-    {
-      "date": "2025-11-11",
-      "cum_pnl": -6.506
-    },
-    {
-      "date": "2025-11-11",
-      "cum_pnl": -7.506
+      "cum_pnl": 7.16
     },
     {
       "date": "2025-11-12",
-      "cum_pnl": -8.506
+      "cum_pnl": 6.16
     },
     {
       "date": "2025-11-12",
-      "cum_pnl": -7.206
+      "cum_pnl": 7.46
     },
     {
       "date": "2025-11-12",
-      "cum_pnl": -6.006
-    },
-    {
-      "date": "2025-11-12",
-      "cum_pnl": -7.006
-    },
-    {
-      "date": "2025-11-12",
-      "cum_pnl": -4.356
-    },
-    {
-      "date": "2025-11-12",
-      "cum_pnl": -5.356
-    },
-    {
-      "date": "2025-11-12",
-      "cum_pnl": -6.356
-    },
-    {
-      "date": "2025-11-12",
-      "cum_pnl": -7.356
-    },
-    {
-      "date": "2025-11-12",
-      "cum_pnl": -8.356
-    },
-    {
-      "date": "2025-11-12",
-      "cum_pnl": -9.356
-    },
-    {
-      "date": "2025-11-12",
-      "cum_pnl": -10.356
+      "cum_pnl": 6.46
     },
     {
       "date": "2025-11-13",
-      "cum_pnl": -8.206
-    },
-    {
-      "date": "2025-11-13",
-      "cum_pnl": -7.644
-    },
-    {
-      "date": "2025-11-13",
-      "cum_pnl": -8.644
+      "cum_pnl": 7.022
     },
     {
       "date": "2025-11-14",
-      "cum_pnl": -9.644
+      "cum_pnl": 7.726
     },
     {
       "date": "2025-11-14",
-      "cum_pnl": -10.644
+      "cum_pnl": 6.726
     },
     {
       "date": "2025-11-14",
-      "cum_pnl": -9.94
-    },
-    {
-      "date": "2025-11-14",
-      "cum_pnl": -10.94
-    },
-    {
-      "date": "2025-11-14",
-      "cum_pnl": -11.94
-    },
-    {
-      "date": "2025-11-14",
-      "cum_pnl": -12.94
-    },
-    {
-      "date": "2025-11-14",
-      "cum_pnl": -13.94
-    },
-    {
-      "date": "2025-11-14",
-      "cum_pnl": -14.94
-    },
-    {
-      "date": "2025-11-14",
-      "cum_pnl": -15.94
+      "cum_pnl": 5.726
     },
     {
       "date": "2025-11-15",
-      "cum_pnl": -16.94
-    },
-    {
-      "date": "2025-11-15",
-      "cum_pnl": -17.94
-    },
-    {
-      "date": "2025-11-15",
-      "cum_pnl": -18.94
-    },
-    {
-      "date": "2025-11-15",
-      "cum_pnl": -19.94
-    },
-    {
-      "date": "2025-11-15",
-      "cum_pnl": -20.94
+      "cum_pnl": 4.726
     },
     {
       "date": "2025-11-16",
-      "cum_pnl": -20.485
+      "cum_pnl": 3.726
     },
     {
       "date": "2025-11-16",
-      "cum_pnl": -21.485
-    },
-    {
-      "date": "2025-11-16",
-      "cum_pnl": -22.485
-    },
-    {
-      "date": "2025-11-16",
-      "cum_pnl": -21.185
-    },
-    {
-      "date": "2025-11-16",
-      "cum_pnl": -19.585
-    },
-    {
-      "date": "2025-11-16",
-      "cum_pnl": -20.585
+      "cum_pnl": 2.726
     },
     {
       "date": "2025-11-17",
-      "cum_pnl": -20.109
+      "cum_pnl": 3.202
     },
     {
       "date": "2025-11-17",
-      "cum_pnl": -19.815
+      "cum_pnl": 3.496
     },
     {
       "date": "2025-11-17",
-      "cum_pnl": -19.015
-    },
-    {
-      "date": "2025-11-17",
-      "cum_pnl": -20.015
-    },
-    {
-      "date": "2025-11-17",
-      "cum_pnl": -21.015
-    },
-    {
-      "date": "2025-11-17",
-      "cum_pnl": -16.115
+      "cum_pnl": 4.296
     },
     {
       "date": "2025-11-18",
-      "cum_pnl": -14.955
+      "cum_pnl": 3.296
     },
     {
       "date": "2025-11-18",
-      "cum_pnl": -15.955
+      "cum_pnl": 3.713
     },
     {
       "date": "2025-11-18",
-      "cum_pnl": -16.955
-    },
-    {
-      "date": "2025-11-18",
-      "cum_pnl": -16.538
-    },
-    {
-      "date": "2025-11-18",
-      "cum_pnl": -17.538
-    },
-    {
-      "date": "2025-11-18",
-      "cum_pnl": -18.538
+      "cum_pnl": 2.713
     },
     {
       "date": "2025-11-19",
-      "cum_pnl": -17.458
+      "cum_pnl": 1.713
     },
     {
       "date": "2025-11-19",
-      "cum_pnl": -18.458
+      "cum_pnl": 0.713
     },
     {
       "date": "2025-11-19",
-      "cum_pnl": -19.458
-    },
-    {
-      "date": "2025-11-19",
-      "cum_pnl": -20.458
-    },
-    {
-      "date": "2025-11-19",
-      "cum_pnl": -21.458
-    },
-    {
-      "date": "2025-11-19",
-      "cum_pnl": -22.458
-    },
-    {
-      "date": "2025-11-19",
-      "cum_pnl": -23.458
-    },
-    {
-      "date": "2025-11-19",
-      "cum_pnl": -24.458
-    },
-    {
-      "date": "2025-11-19",
-      "cum_pnl": -25.458
+      "cum_pnl": -0.287
     },
     {
       "date": "2025-11-20",
-      "cum_pnl": -25.066
+      "cum_pnl": -1.287
     },
     {
       "date": "2025-11-20",
-      "cum_pnl": -26.066
+      "cum_pnl": -0.325
     },
     {
       "date": "2025-11-20",
-      "cum_pnl": -25.104
-    },
-    {
-      "date": "2025-11-20",
-      "cum_pnl": -24.428
+      "cum_pnl": 0.351
     },
     {
       "date": "2025-11-21",
-      "cum_pnl": -25.428
+      "cum_pnl": -0.649
     },
     {
       "date": "2025-11-21",
-      "cum_pnl": -20.128
+      "cum_pnl": -0.0
     },
     {
       "date": "2025-11-21",
-      "cum_pnl": -21.128
+      "cum_pnl": 1.6
     },
     {
       "date": "2025-11-21",
-      "cum_pnl": -20.479
-    },
-    {
-      "date": "2025-11-21",
-      "cum_pnl": -18.879
-    },
-    {
-      "date": "2025-11-21",
-      "cum_pnl": -19.879
-    },
-    {
-      "date": "2025-11-21",
-      "cum_pnl": -20.879
-    },
-    {
-      "date": "2025-11-21",
-      "cum_pnl": -17.729
+      "cum_pnl": 0.6
     },
     {
       "date": "2025-11-22",
-      "cum_pnl": -18.729
+      "cum_pnl": -0.4
     },
     {
       "date": "2025-11-22",
-      "cum_pnl": -17.935
+      "cum_pnl": 0.394
     },
     {
       "date": "2025-11-22",
-      "cum_pnl": -18.935
-    },
-    {
-      "date": "2025-11-22",
-      "cum_pnl": -19.935
-    },
-    {
-      "date": "2025-11-22",
-      "cum_pnl": -20.935
-    },
-    {
-      "date": "2025-11-22",
-      "cum_pnl": -21.935
+      "cum_pnl": -0.606
     },
     {
       "date": "2025-11-23",
-      "cum_pnl": -22.935
+      "cum_pnl": -1.606
     },
     {
       "date": "2025-11-23",
-      "cum_pnl": -22.596
+      "cum_pnl": -1.267
     },
     {
       "date": "2025-11-23",
-      "cum_pnl": -23.596
-    },
-    {
-      "date": "2025-11-23",
-      "cum_pnl": -22.802
-    },
-    {
-      "date": "2025-11-23",
-      "cum_pnl": -23.802
+      "cum_pnl": -0.473
     },
     {
       "date": "2025-11-24",
-      "cum_pnl": -22.982
+      "cum_pnl": 0.347
     },
     {
       "date": "2025-11-24",
-      "cum_pnl": -23.982
+      "cum_pnl": 0.732
     },
     {
       "date": "2025-11-24",
-      "cum_pnl": -24.982
+      "cum_pnl": -0.268
     },
     {
       "date": "2025-11-24",
-      "cum_pnl": -24.597
-    },
-    {
-      "date": "2025-11-24",
-      "cum_pnl": -25.597
-    },
-    {
-      "date": "2025-11-24",
-      "cum_pnl": -23.917
-    },
-    {
-      "date": "2025-11-24",
-      "cum_pnl": -24.917
-    },
-    {
-      "date": "2025-11-24",
-      "cum_pnl": -25.917
-    },
-    {
-      "date": "2025-11-24",
-      "cum_pnl": -26.917
-    },
-    {
-      "date": "2025-11-24",
-      "cum_pnl": -23.067
+      "cum_pnl": -1.268
     },
     {
       "date": "2025-11-25",
-      "cum_pnl": -18.867
+      "cum_pnl": -2.268
     },
     {
       "date": "2025-11-25",
-      "cum_pnl": -19.867
-    },
-    {
-      "date": "2025-11-25",
-      "cum_pnl": -19.475
-    },
-    {
-      "date": "2025-11-26",
-      "cum_pnl": -20.475
-    },
-    {
-      "date": "2025-11-26",
-      "cum_pnl": -21.475
-    },
-    {
-      "date": "2025-11-26",
-      "cum_pnl": -21.242
-    },
-    {
-      "date": "2025-11-26",
-      "cum_pnl": -22.242
-    },
-    {
-      "date": "2025-11-26",
-      "cum_pnl": -23.242
-    },
-    {
-      "date": "2025-11-26",
-      "cum_pnl": -21.762
+      "cum_pnl": -1.876
     },
     {
       "date": "2025-11-28",
-      "cum_pnl": -22.762
+      "cum_pnl": -2.876
     },
     {
       "date": "2025-11-28",
-      "cum_pnl": -23.762
+      "cum_pnl": -0.826
     },
     {
       "date": "2025-11-28",
-      "cum_pnl": -22.562
+      "cum_pnl": -0.141
     },
     {
       "date": "2025-11-28",
-      "cum_pnl": -20.512
-    },
-    {
-      "date": "2025-11-28",
-      "cum_pnl": -21.512
-    },
-    {
-      "date": "2025-11-28",
-      "cum_pnl": -20.827
-    },
-    {
-      "date": "2025-11-28",
-      "cum_pnl": -21.827
-    },
-    {
-      "date": "2025-11-28",
-      "cum_pnl": -21.589
-    },
-    {
-      "date": "2025-11-28",
-      "cum_pnl": -19.389
+      "cum_pnl": 0.097
     },
     {
       "date": "2025-11-29",
-      "cum_pnl": -20.389
-    },
-    {
-      "date": "2025-11-29",
-      "cum_pnl": -18.139
-    },
-    {
-      "date": "2025-11-29",
-      "cum_pnl": -16.839
-    },
-    {
-      "date": "2025-11-29",
-      "cum_pnl": -17.839
-    },
-    {
-      "date": "2025-11-29",
-      "cum_pnl": -18.839
-    },
-    {
-      "date": "2025-11-29",
-      "cum_pnl": -15.639
-    },
-    {
-      "date": "2025-11-30",
-      "cum_pnl": -16.639
-    },
-    {
-      "date": "2025-11-30",
-      "cum_pnl": -17.639
-    },
-    {
-      "date": "2025-11-30",
-      "cum_pnl": -18.639
-    },
-    {
-      "date": "2025-11-30",
-      "cum_pnl": -16.239
-    },
-    {
-      "date": "2025-11-30",
-      "cum_pnl": -17.239
-    },
-    {
-      "date": "2025-11-30",
-      "cum_pnl": -18.239
-    },
-    {
-      "date": "2025-11-30",
-      "cum_pnl": -19.239
+      "cum_pnl": -0.903
     },
     {
       "date": "2025-12-01",
-      "cum_pnl": -15.839
+      "cum_pnl": -0.495
     },
     {
       "date": "2025-12-01",
-      "cum_pnl": -16.839
-    },
-    {
-      "date": "2025-12-01",
-      "cum_pnl": -17.839
-    },
-    {
-      "date": "2025-12-01",
-      "cum_pnl": -17.431
-    },
-    {
-      "date": "2025-12-01",
-      "cum_pnl": -15.751
-    },
-    {
-      "date": "2025-12-01",
-      "cum_pnl": -16.751
-    },
-    {
-      "date": "2025-12-01",
-      "cum_pnl": -12.251
-    },
-    {
-      "date": "2025-12-01",
-      "cum_pnl": -13.251
+      "cum_pnl": -1.495
     },
     {
       "date": "2025-12-02",
-      "cum_pnl": -14.251
+      "cum_pnl": -1.007
     },
     {
       "date": "2025-12-02",
-      "cum_pnl": -13.763
+      "cum_pnl": -0.007
     },
     {
       "date": "2025-12-02",
-      "cum_pnl": -14.763
-    },
-    {
-      "date": "2025-12-02",
-      "cum_pnl": -13.763
-    },
-    {
-      "date": "2025-12-02",
-      "cum_pnl": -13.275
-    },
-    {
-      "date": "2025-12-02",
-      "cum_pnl": -14.275
+      "cum_pnl": 0.481
     },
     {
       "date": "2025-12-03",
-      "cum_pnl": -11.575
-    },
-    {
-      "date": "2025-12-03",
-      "cum_pnl": -12.575
-    },
-    {
-      "date": "2025-12-03",
-      "cum_pnl": -9.175
-    },
-    {
-      "date": "2025-12-03",
-      "cum_pnl": -10.175
-    },
-    {
-      "date": "2025-12-03",
-      "cum_pnl": -11.175
-    },
-    {
-      "date": "2025-12-03",
-      "cum_pnl": -9.555
-    },
-    {
-      "date": "2025-12-03",
-      "cum_pnl": -8.015
+      "cum_pnl": -0.519
     },
     {
       "date": "2025-12-04",
-      "cum_pnl": -9.015
+      "cum_pnl": -1.519
     },
     {
       "date": "2025-12-04",
-      "cum_pnl": -8.42
-    },
-    {
-      "date": "2025-12-04",
-      "cum_pnl": -9.42
-    },
-    {
-      "date": "2025-12-04",
-      "cum_pnl": -10.42
-    },
-    {
-      "date": "2025-12-04",
-      "cum_pnl": -11.42
+      "cum_pnl": -2.519
     },
     {
       "date": "2025-12-05",
-      "cum_pnl": -12.42
+      "cum_pnl": -3.519
     },
     {
       "date": "2025-12-05",
-      "cum_pnl": -13.42
+      "cum_pnl": -4.519
     },
     {
       "date": "2025-12-05",
-      "cum_pnl": -14.42
-    },
-    {
-      "date": "2025-12-05",
-      "cum_pnl": -15.42
-    },
-    {
-      "date": "2025-12-05",
-      "cum_pnl": -16.42
-    },
-    {
-      "date": "2025-12-05",
-      "cum_pnl": -17.42
-    },
-    {
-      "date": "2025-12-05",
-      "cum_pnl": -16.32
-    },
-    {
-      "date": "2025-12-05",
-      "cum_pnl": -17.32
-    },
-    {
-      "date": "2025-12-05",
-      "cum_pnl": -18.32
-    },
-    {
-      "date": "2025-12-05",
-      "cum_pnl": -19.32
+      "cum_pnl": -3.419
     },
     {
       "date": "2025-12-06",
-      "cum_pnl": -18.752
-    },
-    {
-      "date": "2025-12-06",
-      "cum_pnl": -19.752
-    },
-    {
-      "date": "2025-12-06",
-      "cum_pnl": -16.652
-    },
-    {
-      "date": "2025-12-06",
-      "cum_pnl": -16.349
-    },
-    {
-      "date": "2025-12-06",
-      "cum_pnl": -14.299
+      "cum_pnl": -2.851
     },
     {
       "date": "2025-12-07",
-      "cum_pnl": -13.493
+      "cum_pnl": -2.045
     },
     {
       "date": "2025-12-07",
-      "cum_pnl": -14.493
+      "cum_pnl": -3.045
     },
     {
       "date": "2025-12-07",
-      "cum_pnl": -15.493
-    },
-    {
-      "date": "2025-12-07",
-      "cum_pnl": -14.747
-    },
-    {
-      "date": "2025-12-07",
-      "cum_pnl": -15.747
-    },
-    {
-      "date": "2025-12-07",
-      "cum_pnl": -16.747
-    },
-    {
-      "date": "2025-12-07",
-      "cum_pnl": -17.747
-    },
-    {
-      "date": "2025-12-08",
-      "cum_pnl": -14.997
-    },
-    {
-      "date": "2025-12-08",
-      "cum_pnl": -15.997
+      "cum_pnl": -2.299
     },
     {
       "date": "2025-12-09",
-      "cum_pnl": -15.164
-    },
-    {
-      "date": "2025-12-09",
-      "cum_pnl": -16.164
-    },
-    {
-      "date": "2025-12-10",
-      "cum_pnl": -17.164
-    },
-    {
-      "date": "2025-12-10",
-      "cum_pnl": -14.964
+      "cum_pnl": -1.466
     },
     {
       "date": "2025-12-11",
-      "cum_pnl": -11.814
-    },
-    {
-      "date": "2025-12-11",
-      "cum_pnl": -11.547
-    },
-    {
-      "date": "2025-12-11",
-      "cum_pnl": -10.087
-    },
-    {
-      "date": "2025-12-11",
-      "cum_pnl": -11.087
+      "cum_pnl": -1.199
     },
     {
       "date": "2025-12-12",
-      "cum_pnl": -12.087
+      "cum_pnl": -0.755
     },
     {
       "date": "2025-12-12",
-      "cum_pnl": -11.643
-    },
-    {
-      "date": "2025-12-12",
-      "cum_pnl": -12.643
+      "cum_pnl": -1.755
     },
     {
       "date": "2025-12-13",
-      "cum_pnl": -13.643
-    },
-    {
-      "date": "2025-12-13",
-      "cum_pnl": -9.843
+      "cum_pnl": -2.755
     },
     {
       "date": "2025-12-14",
-      "cum_pnl": -6.543
-    },
-    {
-      "date": "2025-12-14",
-      "cum_pnl": -1.743
-    },
-    {
-      "date": "2025-12-14",
-      "cum_pnl": -0.723
-    },
-    {
-      "date": "2025-12-14",
-      "cum_pnl": -1.723
-    },
-    {
-      "date": "2025-12-14",
-      "cum_pnl": -2.723
-    },
-    {
-      "date": "2025-12-14",
-      "cum_pnl": -1.043
+      "cum_pnl": -3.755
     },
     {
       "date": "2025-12-15",
-      "cum_pnl": -2.043
+      "cum_pnl": -2.775
     },
     {
       "date": "2025-12-15",
-      "cum_pnl": -1.063
-    },
-    {
-      "date": "2025-12-15",
-      "cum_pnl": -0.083
-    },
-    {
-      "date": "2025-12-15",
-      "cum_pnl": 1.757
+      "cum_pnl": -1.795
     },
     {
       "date": "2025-12-16",
-      "cum_pnl": 2.492
-    },
-    {
-      "date": "2025-12-17",
-      "cum_pnl": 4.372
+      "cum_pnl": -1.06
     },
     {
       "date": "2025-12-18",
-      "cum_pnl": 5.021
+      "cum_pnl": -0.411
     },
     {
       "date": "2025-12-18",
-      "cum_pnl": 4.021
+      "cum_pnl": 0.033
     },
     {
       "date": "2025-12-18",
-      "cum_pnl": 3.021
-    },
-    {
-      "date": "2025-12-18",
-      "cum_pnl": 2.021
-    },
-    {
-      "date": "2025-12-18",
-      "cum_pnl": 1.021
-    },
-    {
-      "date": "2025-12-18",
-      "cum_pnl": 4.171
-    },
-    {
-      "date": "2025-12-18",
-      "cum_pnl": 3.171
-    },
-    {
-      "date": "2025-12-18",
-      "cum_pnl": 3.615
-    },
-    {
-      "date": "2025-12-18",
-      "cum_pnl": 2.615
-    },
-    {
-      "date": "2025-12-18",
-      "cum_pnl": 3.635
+      "cum_pnl": 1.053
     },
     {
       "date": "2025-12-19",
-      "cum_pnl": 2.635
-    },
-    {
-      "date": "2025-12-19",
-      "cum_pnl": 1.635
-    },
-    {
-      "date": "2025-12-19",
-      "cum_pnl": 0.635
-    },
-    {
-      "date": "2025-12-19",
-      "cum_pnl": 3.185
-    },
-    {
-      "date": "2025-12-19",
-      "cum_pnl": 5.085
+      "cum_pnl": 0.053
     },
     {
       "date": "2025-12-20",
-      "cum_pnl": 4.085
+      "cum_pnl": -0.947
     },
     {
       "date": "2025-12-20",
-      "cum_pnl": 5.325
+      "cum_pnl": 0.293
     },
     {
       "date": "2025-12-20",
-      "cum_pnl": 5.595
+      "cum_pnl": 0.563
     },
     {
       "date": "2025-12-20",
-      "cum_pnl": 10.395
-    },
-    {
-      "date": "2025-12-20",
-      "cum_pnl": 9.395
-    },
-    {
-      "date": "2025-12-20",
-      "cum_pnl": 8.395
-    },
-    {
-      "date": "2025-12-20",
-      "cum_pnl": 7.395
+      "cum_pnl": -0.437
     },
     {
       "date": "2025-12-21",
-      "cum_pnl": 6.395
+      "cum_pnl": -1.437
     },
     {
       "date": "2025-12-21",
-      "cum_pnl": 6.91
-    },
-    {
-      "date": "2025-12-21",
-      "cum_pnl": 8.35
-    },
-    {
-      "date": "2025-12-21",
-      "cum_pnl": 7.35
-    },
-    {
-      "date": "2025-12-21",
-      "cum_pnl": 7.653
-    },
-    {
-      "date": "2025-12-21",
-      "cum_pnl": 11.853
-    },
-    {
-      "date": "2025-12-22",
-      "cum_pnl": 10.853
-    },
-    {
-      "date": "2025-12-22",
-      "cum_pnl": 11.053
-    },
-    {
-      "date": "2025-12-22",
-      "cum_pnl": 10.053
-    },
-    {
-      "date": "2025-12-22",
-      "cum_pnl": 9.053
-    },
-    {
-      "date": "2025-12-22",
-      "cum_pnl": 8.053
+      "cum_pnl": -0.922
     },
     {
       "date": "2025-12-23",
-      "cum_pnl": 7.053
-    },
-    {
-      "date": "2025-12-23",
-      "cum_pnl": 6.053
-    },
-    {
-      "date": "2025-12-23",
-      "cum_pnl": 5.053
-    },
-    {
-      "date": "2025-12-23",
-      "cum_pnl": 4.053
-    },
-    {
-      "date": "2025-12-23",
-      "cum_pnl": 5.933
-    },
-    {
-      "date": "2025-12-23",
-      "cum_pnl": 4.933
-    },
-    {
-      "date": "2025-12-23",
-      "cum_pnl": 3.933
-    },
-    {
-      "date": "2025-12-23",
-      "cum_pnl": 5.573
-    },
-    {
-      "date": "2025-12-23",
-      "cum_pnl": 4.573
-    },
-    {
-      "date": "2025-12-23",
-      "cum_pnl": 3.573
-    },
-    {
-      "date": "2025-12-23",
-      "cum_pnl": 2.573
-    },
-    {
-      "date": "2025-12-23",
-      "cum_pnl": 1.573
-    },
-    {
-      "date": "2025-12-23",
-      "cum_pnl": 3.923
+      "cum_pnl": -1.922
     },
     {
       "date": "2025-12-25",
-      "cum_pnl": 5.423
+      "cum_pnl": -0.422
     },
     {
       "date": "2025-12-25",
-      "cum_pnl": 9.123
+      "cum_pnl": -1.422
     },
     {
       "date": "2025-12-25",
-      "cum_pnl": 8.123
-    },
-    {
-      "date": "2025-12-25",
-      "cum_pnl": 7.123
-    },
-    {
-      "date": "2025-12-25",
-      "cum_pnl": 8.008
+      "cum_pnl": -0.537
     },
     {
       "date": "2025-12-26",
-      "cum_pnl": 7.008
+      "cum_pnl": -1.537
     },
     {
       "date": "2025-12-26",
-      "cum_pnl": 9.558
+      "cum_pnl": -2.537
     },
     {
       "date": "2025-12-26",
-      "cum_pnl": 8.558
+      "cum_pnl": -0.537
     },
     {
       "date": "2025-12-26",
-      "cum_pnl": 10.558
+      "cum_pnl": 0.13
     },
     {
       "date": "2025-12-26",
-      "cum_pnl": 11.225
-    },
-    {
-      "date": "2025-12-26",
-      "cum_pnl": 10.225
-    },
-    {
-      "date": "2025-12-26",
-      "cum_pnl": 12.525
-    },
-    {
-      "date": "2025-12-26",
-      "cum_pnl": 11.525
+      "cum_pnl": -0.87
     },
     {
       "date": "2025-12-27",
-      "cum_pnl": 12.585
+      "cum_pnl": -0.194
     },
     {
       "date": "2025-12-27",
-      "cum_pnl": 13.565
+      "cum_pnl": 0.151
     },
     {
       "date": "2025-12-27",
-      "cum_pnl": 12.565
-    },
-    {
-      "date": "2025-12-27",
-      "cum_pnl": 16.565
-    },
-    {
-      "date": "2025-12-27",
-      "cum_pnl": 17.241
-    },
-    {
-      "date": "2025-12-27",
-      "cum_pnl": 17.586
-    },
-    {
-      "date": "2025-12-27",
-      "cum_pnl": 16.586
-    },
-    {
-      "date": "2025-12-27",
-      "cum_pnl": 15.586
+      "cum_pnl": -0.849
     },
     {
       "date": "2025-12-28",
-      "cum_pnl": 17.486
+      "cum_pnl": 1.051
     },
     {
       "date": "2025-12-28",
-      "cum_pnl": 16.486
-    },
-    {
-      "date": "2025-12-28",
-      "cum_pnl": 19.286
-    },
-    {
-      "date": "2025-12-28",
-      "cum_pnl": 21.436
-    },
-    {
-      "date": "2025-12-28",
-      "cum_pnl": 20.436
+      "cum_pnl": 0.051
     },
     {
       "date": "2025-12-29",
-      "cum_pnl": 19.436
+      "cum_pnl": -0.949
     },
     {
       "date": "2025-12-29",
-      "cum_pnl": 18.436
+      "cum_pnl": 1.051
     },
     {
       "date": "2025-12-29",
-      "cum_pnl": 17.436
+      "cum_pnl": 0.051
     },
     {
       "date": "2025-12-29",
-      "cum_pnl": 19.436
-    },
-    {
-      "date": "2025-12-29",
-      "cum_pnl": 20.337
-    },
-    {
-      "date": "2025-12-29",
-      "cum_pnl": 19.337
-    },
-    {
-      "date": "2025-12-29",
-      "cum_pnl": 18.337
-    },
-    {
-      "date": "2025-12-29",
-      "cum_pnl": 17.337
-    },
-    {
-      "date": "2025-12-29",
-      "cum_pnl": 16.337
-    },
-    {
-      "date": "2025-12-29",
-      "cum_pnl": 15.337
-    },
-    {
-      "date": "2025-12-29",
-      "cum_pnl": 16.041
+      "cum_pnl": 0.755
     },
     {
       "date": "2025-12-30",
-      "cum_pnl": 15.041
-    },
-    {
-      "date": "2025-12-30",
-      "cum_pnl": 14.041
-    },
-    {
-      "date": "2025-12-30",
-      "cum_pnl": 13.041
+      "cum_pnl": -0.245
     },
     {
       "date": "2025-12-31",
-      "cum_pnl": 12.041
+      "cum_pnl": 0.49
     },
     {
       "date": "2025-12-31",
-      "cum_pnl": 13.341
-    },
-    {
-      "date": "2025-12-31",
-      "cum_pnl": 12.341
-    },
-    {
-      "date": "2025-12-31",
-      "cum_pnl": 11.341
-    },
-    {
-      "date": "2025-12-31",
-      "cum_pnl": 12.076
-    },
-    {
-      "date": "2025-12-31",
-      "cum_pnl": 12.453
-    },
-    {
-      "date": "2025-12-31",
-      "cum_pnl": 14.133
-    },
-    {
-      "date": "2025-12-31",
-      "cum_pnl": 13.133
-    },
-    {
-      "date": "2025-12-31",
-      "cum_pnl": 20.633
+      "cum_pnl": 0.867
     },
     {
       "date": "2026-01-01",
-      "cum_pnl": 19.633
-    },
-    {
-      "date": "2026-01-01",
-      "cum_pnl": 18.633
-    },
-    {
-      "date": "2026-01-01",
-      "cum_pnl": 17.633
-    },
-    {
-      "date": "2026-01-01",
-      "cum_pnl": 16.633
+      "cum_pnl": -0.133
     },
     {
       "date": "2026-01-02",
-      "cum_pnl": 15.633
+      "cum_pnl": 0.7
     },
     {
       "date": "2026-01-02",
-      "cum_pnl": 16.466
-    },
-    {
-      "date": "2026-01-02",
-      "cum_pnl": 15.466
-    },
-    {
-      "date": "2026-01-02",
-      "cum_pnl": 14.466
-    },
-    {
-      "date": "2026-01-02",
-      "cum_pnl": 13.466
-    },
-    {
-      "date": "2026-01-02",
-      "cum_pnl": 16.666
-    },
-    {
-      "date": "2026-01-02",
-      "cum_pnl": 15.666
-    },
-    {
-      "date": "2026-01-02",
-      "cum_pnl": 14.666
+      "cum_pnl": -0.3
     },
     {
       "date": "2026-01-03",
-      "cum_pnl": 13.666
+      "cum_pnl": -1.3
     },
     {
       "date": "2026-01-03",
-      "cum_pnl": 12.666
+      "cum_pnl": -2.3
     },
     {
       "date": "2026-01-03",
-      "cum_pnl": 13.154
+      "cum_pnl": -1.812
     },
     {
       "date": "2026-01-03",
-      "cum_pnl": 12.154
+      "cum_pnl": -2.812
     },
     {
       "date": "2026-01-03",
-      "cum_pnl": 11.154
-    },
-    {
-      "date": "2026-01-03",
-      "cum_pnl": 14.654
-    },
-    {
-      "date": "2026-01-03",
-      "cum_pnl": 13.654
+      "cum_pnl": -3.812
     },
     {
       "date": "2026-01-04",
-      "cum_pnl": 14.994
+      "cum_pnl": -3.412
     },
     {
       "date": "2026-01-04",
-      "cum_pnl": 15.394
+      "cum_pnl": -3.067
     },
     {
       "date": "2026-01-04",
-      "cum_pnl": 14.394
-    },
-    {
-      "date": "2026-01-04",
-      "cum_pnl": 13.394
-    },
-    {
-      "date": "2026-01-04",
-      "cum_pnl": 13.739
-    },
-    {
-      "date": "2026-01-04",
-      "cum_pnl": 18.139
-    },
-    {
-      "date": "2026-01-04",
-      "cum_pnl": 17.139
-    },
-    {
-      "date": "2026-01-04",
-      "cum_pnl": 17.756
+      "cum_pnl": -2.45
     },
     {
       "date": "2026-01-05",
-      "cum_pnl": 18.796
+      "cum_pnl": -1.41
     },
     {
       "date": "2026-01-05",
-      "cum_pnl": 19.5
-    },
-    {
-      "date": "2026-01-05",
-      "cum_pnl": 18.5
-    },
-    {
-      "date": "2026-01-05",
-      "cum_pnl": 25.5
-    },
-    {
-      "date": "2026-01-05",
-      "cum_pnl": 31.9
-    },
-    {
-      "date": "2026-01-05",
-      "cum_pnl": 32.344
-    },
-    {
-      "date": "2026-01-05",
-      "cum_pnl": 33.844
+      "cum_pnl": -0.706
     },
     {
       "date": "2026-01-06",
-      "cum_pnl": 32.844
-    },
-    {
-      "date": "2026-01-06",
-      "cum_pnl": 35.044
-    },
-    {
-      "date": "2026-01-06",
-      "cum_pnl": 37.024
-    },
-    {
-      "date": "2026-01-06",
-      "cum_pnl": 37.529
-    },
-    {
-      "date": "2026-01-06",
-      "cum_pnl": 36.529
+      "cum_pnl": -0.201
     },
     {
       "date": "2026-01-07",
-      "cum_pnl": 36.832
+      "cum_pnl": 0.102
     },
     {
       "date": "2026-01-07",
-      "cum_pnl": 39.832
-    },
-    {
-      "date": "2026-01-07",
-      "cum_pnl": 38.832
-    },
-    {
-      "date": "2026-01-07",
-      "cum_pnl": 37.832
-    },
-    {
-      "date": "2026-01-07",
-      "cum_pnl": 38.337
-    },
-    {
-      "date": "2026-01-07",
-      "cum_pnl": 37.337
-    },
-    {
-      "date": "2026-01-07",
-      "cum_pnl": 36.337
-    },
-    {
-      "date": "2026-01-07",
-      "cum_pnl": 35.337
-    },
-    {
-      "date": "2026-01-07",
-      "cum_pnl": 34.337
-    },
-    {
-      "date": "2026-01-07",
-      "cum_pnl": 36.587
+      "cum_pnl": 0.607
     }
   ],
   "picks_detail": [
-    {
-      "date": "2025-11-03",
-      "match": "Denver Nuggets vs Sacramento Kings",
-      "pick": "AWAY",
-      "odds": 5.6,
-      "model_p": 0.331,
-      "imp_p": 0.172,
-      "edge": 0.159,
-      "margin": 6,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-03",
-      "match": "Portland Trail Blazers vs Los Angeles Lakers",
-      "pick": "AWAY",
-      "odds": 4.1,
-      "model_p": 0.367,
-      "imp_p": 0.235,
-      "edge": 0.133,
-      "margin": -8,
-      "won": true,
-      "pnl": 3.1
-    },
     {
       "date": "2025-11-03",
       "match": "LA Clippers vs Miami Heat",
@@ -1623,126 +571,6 @@
       "pnl": 0.746
     },
     {
-      "date": "2025-11-04",
-      "match": "Golden State Warriors vs Phoenix Suns",
-      "pick": "AWAY",
-      "odds": 4.8,
-      "model_p": 0.334,
-      "imp_p": 0.201,
-      "edge": 0.134,
-      "margin": 11,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-04",
-      "match": "LA Clippers vs Oklahoma City Thunder",
-      "pick": "HOME",
-      "odds": 3.7,
-      "model_p": 0.549,
-      "imp_p": 0.26,
-      "edge": 0.289,
-      "margin": -19,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-05",
-      "match": "Detroit Pistons vs Utah Jazz",
-      "pick": "AWAY",
-      "odds": 4.3,
-      "model_p": 0.318,
-      "imp_p": 0.224,
-      "edge": 0.094,
-      "margin": 11,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-05",
-      "match": "Cleveland Cavaliers vs Philadelphia 76ers",
-      "pick": "AWAY",
-      "odds": 10.0,
-      "model_p": 0.382,
-      "imp_p": 0.094,
-      "edge": 0.288,
-      "margin": 11,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-05",
-      "match": "New York Knicks vs Minnesota Timberwolves",
-      "pick": "HOME",
-      "odds": 1.61,
-      "model_p": 0.637,
-      "imp_p": 0.597,
-      "edge": 0.041,
-      "margin": 23,
-      "won": true,
-      "pnl": 0.61
-    },
-    {
-      "date": "2025-11-05",
-      "match": "Boston Celtics vs Washington Wizards",
-      "pick": "AWAY",
-      "odds": 5.5,
-      "model_p": 0.326,
-      "imp_p": 0.172,
-      "edge": 0.154,
-      "margin": 29,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-05",
-      "match": "Memphis Grizzlies vs Houston Rockets",
-      "pick": "HOME",
-      "odds": 4.2,
-      "model_p": 0.579,
-      "imp_p": 0.225,
-      "edge": 0.354,
-      "margin": -15,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-05",
-      "match": "Dallas Mavericks vs New Orleans Pelicans",
-      "pick": "AWAY",
-      "odds": 3.5,
-      "model_p": 0.351,
-      "imp_p": 0.274,
-      "edge": 0.077,
-      "margin": -2,
-      "won": true,
-      "pnl": 2.5
-    },
-    {
-      "date": "2025-11-05",
-      "match": "Denver Nuggets vs Miami Heat",
-      "pick": "AWAY",
-      "odds": 4.0,
-      "model_p": 0.361,
-      "imp_p": 0.241,
-      "edge": 0.12,
-      "margin": 10,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-05",
-      "match": "Portland Trail Blazers vs Oklahoma City Thunder",
-      "pick": "HOME",
-      "odds": 2.24,
-      "model_p": 0.555,
-      "imp_p": 0.422,
-      "edge": 0.134,
-      "margin": 2,
-      "won": true,
-      "pnl": 1.24
-    },
-    {
       "date": "2025-11-05",
       "match": "Los Angeles Lakers vs San Antonio Spurs",
       "pick": "HOME",
@@ -1768,42 +596,6 @@
     },
     {
       "date": "2025-11-07",
-      "match": "Orlando Magic vs Boston Celtics",
-      "pick": "HOME",
-      "odds": 1.61,
-      "model_p": 0.638,
-      "imp_p": 0.597,
-      "edge": 0.042,
-      "margin": 13,
-      "won": true,
-      "pnl": 0.61
-    },
-    {
-      "date": "2025-11-07",
-      "match": "Washington Wizards vs Cleveland Cavaliers",
-      "pick": "HOME",
-      "odds": 9.0,
-      "model_p": 0.545,
-      "imp_p": 0.105,
-      "edge": 0.44,
-      "margin": -33,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-07",
-      "match": "Brooklyn Nets vs Detroit Pistons",
-      "pick": "HOME",
-      "odds": 3.65,
-      "model_p": 0.521,
-      "imp_p": 0.258,
-      "edge": 0.263,
-      "margin": -18,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-07",
       "match": "San Antonio Spurs vs Houston Rockets",
       "pick": "HOME",
       "odds": 2.96,
@@ -1813,54 +605,6 @@
       "margin": 11,
       "won": true,
       "pnl": 1.96
-    },
-    {
-      "date": "2025-11-07",
-      "match": "Minnesota Timberwolves vs Utah Jazz",
-      "pick": "AWAY",
-      "odds": 5.6,
-      "model_p": 0.338,
-      "imp_p": 0.172,
-      "edge": 0.166,
-      "margin": 40,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-07",
-      "match": "Memphis Grizzlies vs Dallas Mavericks",
-      "pick": "HOME",
-      "odds": 1.556,
-      "model_p": 0.653,
-      "imp_p": 0.618,
-      "edge": 0.035,
-      "margin": 14,
-      "won": true,
-      "pnl": 0.556
-    },
-    {
-      "date": "2025-11-07",
-      "match": "Sacramento Kings vs Oklahoma City Thunder",
-      "pick": "HOME",
-      "odds": 5.4,
-      "model_p": 0.542,
-      "imp_p": 0.178,
-      "edge": 0.364,
-      "margin": -31,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-07",
-      "match": "Denver Nuggets vs Golden State Warriors",
-      "pick": "AWAY",
-      "odds": 3.85,
-      "model_p": 0.336,
-      "imp_p": 0.245,
-      "edge": 0.091,
-      "margin": 25,
-      "won": false,
-      "pnl": -1
     },
     {
       "date": "2025-11-08",
@@ -1876,30 +620,6 @@
     },
     {
       "date": "2025-11-08",
-      "match": "Cleveland Cavaliers vs Chicago Bulls",
-      "pick": "AWAY",
-      "odds": 3.95,
-      "model_p": 0.36,
-      "imp_p": 0.243,
-      "edge": 0.117,
-      "margin": 6,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-08",
-      "match": "Atlanta Hawks vs Los Angeles Lakers",
-      "pick": "HOME",
-      "odds": 2.44,
-      "model_p": 0.566,
-      "imp_p": 0.387,
-      "edge": 0.179,
-      "margin": 20,
-      "won": true,
-      "pnl": 1.44
-    },
-    {
-      "date": "2025-11-08",
       "match": "Miami Heat vs Portland Trail Blazers",
       "pick": "HOME",
       "odds": 2.38,
@@ -1911,18 +631,6 @@
       "pnl": 1.38
     },
     {
-      "date": "2025-11-08",
-      "match": "San Antonio Spurs vs New Orleans Pelicans",
-      "pick": "AWAY",
-      "odds": 4.9,
-      "model_p": 0.281,
-      "imp_p": 0.193,
-      "edge": 0.088,
-      "margin": 7,
-      "won": false,
-      "pnl": -1
-    },
-    {
       "date": "2025-11-09",
       "match": "Milwaukee Bucks vs Houston Rockets",
       "pick": "HOME",
@@ -1931,30 +639,6 @@
       "imp_p": 0.403,
       "edge": 0.238,
       "margin": -7,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-09",
-      "match": "New York Knicks vs Brooklyn Nets",
-      "pick": "AWAY",
-      "odds": 7.8,
-      "model_p": 0.262,
-      "imp_p": 0.121,
-      "edge": 0.141,
-      "margin": 36,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-09",
-      "match": "Memphis Grizzlies vs Oklahoma City Thunder",
-      "pick": "HOME",
-      "odds": 4.2,
-      "model_p": 0.496,
-      "imp_p": 0.225,
-      "edge": 0.271,
-      "margin": -14,
       "won": false,
       "pnl": -1
     },
@@ -1984,18 +668,6 @@
     },
     {
       "date": "2025-11-09",
-      "match": "Golden State Warriors vs Indiana Pacers",
-      "pick": "AWAY",
-      "odds": 5.6,
-      "model_p": 0.276,
-      "imp_p": 0.172,
-      "edge": 0.105,
-      "margin": 31,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-09",
       "match": "Sacramento Kings vs Minnesota Timberwolves",
       "pick": "HOME",
       "odds": 2.64,
@@ -2008,18 +680,6 @@
     },
     {
       "date": "2025-11-10",
-      "match": "Detroit Pistons vs Washington Wizards",
-      "pick": "HOME",
-      "odds": 1.278,
-      "model_p": 0.787,
-      "imp_p": 0.738,
-      "edge": 0.049,
-      "margin": 2,
-      "won": true,
-      "pnl": 0.278
-    },
-    {
-      "date": "2025-11-10",
       "match": "Orlando Magic vs Portland Trail Blazers",
       "pick": "HOME",
       "odds": 1.833,
@@ -2029,18 +689,6 @@
       "margin": 3,
       "won": true,
       "pnl": 0.833
-    },
-    {
-      "date": "2025-11-10",
-      "match": "Charlotte Hornets vs Los Angeles Lakers",
-      "pick": "HOME",
-      "odds": 3.7,
-      "model_p": 0.548,
-      "imp_p": 0.26,
-      "edge": 0.288,
-      "margin": -10,
-      "won": false,
-      "pnl": -1
     },
     {
       "date": "2025-11-10",
@@ -2063,66 +711,6 @@
       "imp_p": 0.359,
       "edge": 0.256,
       "margin": -4,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-10",
-      "match": "Dallas Mavericks vs Milwaukee Bucks",
-      "pick": "HOME",
-      "odds": 2.38,
-      "model_p": 0.567,
-      "imp_p": 0.403,
-      "edge": 0.164,
-      "margin": -2,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-10",
-      "match": "Utah Jazz vs Minnesota Timberwolves",
-      "pick": "HOME",
-      "odds": 3.1,
-      "model_p": 0.582,
-      "imp_p": 0.304,
-      "edge": 0.277,
-      "margin": -7,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-10",
-      "match": "Phoenix Suns vs New Orleans Pelicans",
-      "pick": "AWAY",
-      "odds": 3.6,
-      "model_p": 0.313,
-      "imp_p": 0.262,
-      "edge": 0.051,
-      "margin": 23,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-11",
-      "match": "Brooklyn Nets vs Toronto Raptors",
-      "pick": "HOME",
-      "odds": 3.2,
-      "model_p": 0.531,
-      "imp_p": 0.295,
-      "edge": 0.236,
-      "margin": -10,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-11",
-      "match": "New York Knicks vs Memphis Grizzlies",
-      "pick": "AWAY",
-      "odds": 4.2,
-      "model_p": 0.284,
-      "imp_p": 0.225,
-      "edge": 0.06,
-      "margin": 13,
       "won": false,
       "pnl": -1
     },
@@ -2151,18 +739,6 @@
       "pnl": 2.3
     },
     {
-      "date": "2025-11-11",
-      "match": "Sacramento Kings vs Denver Nuggets",
-      "pick": "HOME",
-      "odds": 3.4,
-      "model_p": 0.544,
-      "imp_p": 0.277,
-      "edge": 0.267,
-      "margin": -14,
-      "won": false,
-      "pnl": -1
-    },
-    {
       "date": "2025-11-12",
       "match": "New York Knicks vs Orlando Magic",
       "pick": "HOME",
@@ -2188,54 +764,6 @@
     },
     {
       "date": "2025-11-12",
-      "match": "Charlotte Hornets vs Milwaukee Bucks",
-      "pick": "HOME",
-      "odds": 2.2,
-      "model_p": 0.555,
-      "imp_p": 0.437,
-      "edge": 0.119,
-      "margin": 11,
-      "won": true,
-      "pnl": 1.2
-    },
-    {
-      "date": "2025-11-12",
-      "match": "Boston Celtics vs Memphis Grizzlies",
-      "pick": "AWAY",
-      "odds": 4.4,
-      "model_p": 0.316,
-      "imp_p": 0.214,
-      "edge": 0.101,
-      "margin": 36,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-12",
-      "match": "Miami Heat vs Cleveland Cavaliers",
-      "pick": "AWAY",
-      "odds": 3.65,
-      "model_p": 0.355,
-      "imp_p": 0.258,
-      "edge": 0.096,
-      "margin": -14,
-      "won": true,
-      "pnl": 2.65
-    },
-    {
-      "date": "2025-11-12",
-      "match": "New Orleans Pelicans vs Portland Trail Blazers",
-      "pick": "HOME",
-      "odds": 3.75,
-      "model_p": 0.581,
-      "imp_p": 0.257,
-      "edge": 0.325,
-      "margin": -8,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-12",
       "match": "San Antonio Spurs vs Golden State Warriors",
       "pick": "HOME",
       "odds": 1.595,
@@ -2245,66 +773,6 @@
       "margin": -5,
       "won": false,
       "pnl": -1
-    },
-    {
-      "date": "2025-11-12",
-      "match": "Houston Rockets vs Washington Wizards",
-      "pick": "AWAY",
-      "odds": 11.4,
-      "model_p": 0.226,
-      "imp_p": 0.084,
-      "edge": 0.141,
-      "margin": 23,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-12",
-      "match": "Oklahoma City Thunder vs Los Angeles Lakers",
-      "pick": "AWAY",
-      "odds": 3.6,
-      "model_p": 0.311,
-      "imp_p": 0.262,
-      "edge": 0.049,
-      "margin": 29,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-12",
-      "match": "Sacramento Kings vs Atlanta Hawks",
-      "pick": "HOME",
-      "odds": 2.44,
-      "model_p": 0.563,
-      "imp_p": 0.393,
-      "edge": 0.169,
-      "margin": -33,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-12",
-      "match": "LA Clippers vs Denver Nuggets",
-      "pick": "HOME",
-      "odds": 2.52,
-      "model_p": 0.504,
-      "imp_p": 0.375,
-      "edge": 0.13,
-      "margin": -14,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-13",
-      "match": "Cleveland Cavaliers vs Toronto Raptors",
-      "pick": "AWAY",
-      "odds": 3.15,
-      "model_p": 0.33,
-      "imp_p": 0.299,
-      "edge": 0.03,
-      "margin": -13,
-      "won": true,
-      "pnl": 2.15
     },
     {
       "date": "2025-11-13",
@@ -2319,42 +787,6 @@
       "pnl": 0.562
     },
     {
-      "date": "2025-11-13",
-      "match": "Utah Jazz vs Atlanta Hawks",
-      "pick": "HOME",
-      "odds": 2.04,
-      "model_p": 0.569,
-      "imp_p": 0.463,
-      "edge": 0.106,
-      "margin": -10,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-14",
-      "match": "Orlando Magic vs Brooklyn Nets",
-      "pick": "AWAY",
-      "odds": 7.4,
-      "model_p": 0.257,
-      "imp_p": 0.13,
-      "edge": 0.127,
-      "margin": 7,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-14",
-      "match": "New York Knicks vs Miami Heat",
-      "pick": "AWAY",
-      "odds": 3.1,
-      "model_p": 0.371,
-      "imp_p": 0.31,
-      "edge": 0.061,
-      "margin": 8,
-      "won": false,
-      "pnl": -1
-    },
-    {
       "date": "2025-11-14",
       "match": "Detroit Pistons vs Philadelphia 76ers",
       "pick": "HOME",
@@ -2365,54 +797,6 @@
       "margin": 9,
       "won": true,
       "pnl": 0.704
-    },
-    {
-      "date": "2025-11-14",
-      "match": "Houston Rockets vs Portland Trail Blazers",
-      "pick": "AWAY",
-      "odds": 3.6,
-      "model_p": 0.326,
-      "imp_p": 0.267,
-      "edge": 0.059,
-      "margin": 24,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-14",
-      "match": "Milwaukee Bucks vs Charlotte Hornets",
-      "pick": "AWAY",
-      "odds": 4.0,
-      "model_p": 0.304,
-      "imp_p": 0.236,
-      "edge": 0.069,
-      "margin": 13,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-14",
-      "match": "Minnesota Timberwolves vs Sacramento Kings",
-      "pick": "AWAY",
-      "odds": 4.4,
-      "model_p": 0.254,
-      "imp_p": 0.214,
-      "edge": 0.04,
-      "margin": 14,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-14",
-      "match": "New Orleans Pelicans vs Los Angeles Lakers",
-      "pick": "HOME",
-      "odds": 4.5,
-      "model_p": 0.507,
-      "imp_p": 0.214,
-      "edge": 0.294,
-      "margin": -14,
-      "won": false,
-      "pnl": -1
     },
     {
       "date": "2025-11-14",
@@ -2440,54 +824,6 @@
     },
     {
       "date": "2025-11-15",
-      "match": "Cleveland Cavaliers vs Memphis Grizzlies",
-      "pick": "AWAY",
-      "odds": 4.7,
-      "model_p": 0.261,
-      "imp_p": 0.205,
-      "edge": 0.056,
-      "margin": 8,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-15",
-      "match": "Indiana Pacers vs Toronto Raptors",
-      "pick": "HOME",
-      "odds": 3.05,
-      "model_p": 0.478,
-      "imp_p": 0.315,
-      "edge": 0.164,
-      "margin": -18,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-15",
-      "match": "Charlotte Hornets vs Oklahoma City Thunder",
-      "pick": "HOME",
-      "odds": 12.0,
-      "model_p": 0.457,
-      "imp_p": 0.08,
-      "edge": 0.377,
-      "margin": -13,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-15",
-      "match": "Milwaukee Bucks vs Los Angeles Lakers",
-      "pick": "HOME",
-      "odds": 1.794,
-      "model_p": 0.594,
-      "imp_p": 0.537,
-      "edge": 0.057,
-      "margin": -24,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-15",
       "match": "Minnesota Timberwolves vs Denver Nuggets",
       "pick": "HOME",
       "odds": 1.962,
@@ -2500,18 +836,6 @@
     },
     {
       "date": "2025-11-16",
-      "match": "Boston Celtics vs LA Clippers",
-      "pick": "HOME",
-      "odds": 1.455,
-      "model_p": 0.692,
-      "imp_p": 0.661,
-      "edge": 0.031,
-      "margin": 3,
-      "won": true,
-      "pnl": 0.455
-    },
-    {
-      "date": "2025-11-16",
       "match": "Washington Wizards vs Brooklyn Nets",
       "pick": "HOME",
       "odds": 1.725,
@@ -2521,42 +845,6 @@
       "margin": -23,
       "won": false,
       "pnl": -1
-    },
-    {
-      "date": "2025-11-16",
-      "match": "New Orleans Pelicans vs Golden State Warriors",
-      "pick": "HOME",
-      "odds": 4.8,
-      "model_p": 0.513,
-      "imp_p": 0.2,
-      "edge": 0.313,
-      "margin": -18,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-16",
-      "match": "Dallas Mavericks vs Portland Trail Blazers",
-      "pick": "HOME",
-      "odds": 2.3,
-      "model_p": 0.522,
-      "imp_p": 0.418,
-      "edge": 0.104,
-      "margin": 5,
-      "won": true,
-      "pnl": 1.3
-    },
-    {
-      "date": "2025-11-16",
-      "match": "Utah Jazz vs Chicago Bulls",
-      "pick": "HOME",
-      "odds": 2.6,
-      "model_p": 0.582,
-      "imp_p": 0.37,
-      "edge": 0.212,
-      "margin": 3,
-      "won": true,
-      "pnl": 1.6
     },
     {
       "date": "2025-11-16",
@@ -2607,66 +895,6 @@
       "pnl": 0.8
     },
     {
-      "date": "2025-11-17",
-      "match": "Minnesota Timberwolves vs Dallas Mavericks",
-      "pick": "AWAY",
-      "odds": 7.6,
-      "model_p": 0.248,
-      "imp_p": 0.126,
-      "edge": 0.121,
-      "margin": 24,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-17",
-      "match": "New Orleans Pelicans vs Oklahoma City Thunder",
-      "pick": "HOME",
-      "odds": 14.0,
-      "model_p": 0.393,
-      "imp_p": 0.068,
-      "edge": 0.325,
-      "margin": -17,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-17",
-      "match": "Denver Nuggets vs Chicago Bulls",
-      "pick": "AWAY",
-      "odds": 5.9,
-      "model_p": 0.267,
-      "imp_p": 0.163,
-      "edge": 0.104,
-      "margin": -3,
-      "won": true,
-      "pnl": 4.9
-    },
-    {
-      "date": "2025-11-18",
-      "match": "Orlando Magic vs Golden State Warriors",
-      "pick": "HOME",
-      "odds": 2.16,
-      "model_p": 0.591,
-      "imp_p": 0.447,
-      "edge": 0.144,
-      "margin": 8,
-      "won": true,
-      "pnl": 1.16
-    },
-    {
-      "date": "2025-11-18",
-      "match": "Brooklyn Nets vs Boston Celtics",
-      "pick": "HOME",
-      "odds": 5.2,
-      "model_p": 0.538,
-      "imp_p": 0.185,
-      "edge": 0.353,
-      "margin": -14,
-      "won": false,
-      "pnl": -1
-    },
-    {
       "date": "2025-11-18",
       "match": "Atlanta Hawks vs Detroit Pistons",
       "pick": "HOME",
@@ -2692,18 +920,6 @@
     },
     {
       "date": "2025-11-18",
-      "match": "Los Angeles Lakers vs Utah Jazz",
-      "pick": "AWAY",
-      "odds": 6.3,
-      "model_p": 0.246,
-      "imp_p": 0.152,
-      "edge": 0.093,
-      "margin": 14,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-18",
       "match": "Portland Trail Blazers vs Phoenix Suns",
       "pick": "HOME",
       "odds": 1.794,
@@ -2713,18 +929,6 @@
       "margin": -17,
       "won": false,
       "pnl": -1
-    },
-    {
-      "date": "2025-11-19",
-      "match": "Indiana Pacers vs Charlotte Hornets",
-      "pick": "HOME",
-      "odds": 2.08,
-      "model_p": 0.578,
-      "imp_p": 0.463,
-      "edge": 0.114,
-      "margin": 9,
-      "won": true,
-      "pnl": 1.08
     },
     {
       "date": "2025-11-19",
@@ -2752,66 +956,6 @@
     },
     {
       "date": "2025-11-19",
-      "match": "Miami Heat vs Golden State Warriors",
-      "pick": "AWAY",
-      "odds": 4.4,
-      "model_p": 0.374,
-      "imp_p": 0.219,
-      "edge": 0.155,
-      "margin": 14,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-19",
-      "match": "Minnesota Timberwolves vs Washington Wizards",
-      "pick": "AWAY",
-      "odds": 9.3,
-      "model_p": 0.214,
-      "imp_p": 0.103,
-      "edge": 0.111,
-      "margin": 11,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-19",
-      "match": "Oklahoma City Thunder vs Sacramento Kings",
-      "pick": "AWAY",
-      "odds": 14.0,
-      "model_p": 0.17,
-      "imp_p": 0.069,
-      "edge": 0.102,
-      "margin": 14,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-19",
-      "match": "New Orleans Pelicans vs Denver Nuggets",
-      "pick": "HOME",
-      "odds": 5.0,
-      "model_p": 0.448,
-      "imp_p": 0.193,
-      "edge": 0.255,
-      "margin": -7,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-19",
-      "match": "Dallas Mavericks vs New York Knicks",
-      "pick": "HOME",
-      "odds": 4.0,
-      "model_p": 0.522,
-      "imp_p": 0.241,
-      "edge": 0.282,
-      "margin": -2,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-19",
       "match": "Portland Trail Blazers vs Chicago Bulls",
       "pick": "HOME",
       "odds": 2.34,
@@ -2821,18 +965,6 @@
       "margin": -1,
       "won": false,
       "pnl": -1
-    },
-    {
-      "date": "2025-11-20",
-      "match": "Orlando Magic vs LA Clippers",
-      "pick": "HOME",
-      "odds": 1.392,
-      "model_p": 0.725,
-      "imp_p": 0.69,
-      "edge": 0.035,
-      "margin": 28,
-      "won": true,
-      "pnl": 0.392
     },
     {
       "date": "2025-11-20",
@@ -2869,30 +1001,6 @@
       "margin": 41,
       "won": true,
       "pnl": 0.676
-    },
-    {
-      "date": "2025-11-21",
-      "match": "Cleveland Cavaliers vs Indiana Pacers",
-      "pick": "AWAY",
-      "odds": 6.7,
-      "model_p": 0.224,
-      "imp_p": 0.143,
-      "edge": 0.081,
-      "margin": 11,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-21",
-      "match": "Boston Celtics vs Brooklyn Nets",
-      "pick": "AWAY",
-      "odds": 6.3,
-      "model_p": 0.245,
-      "imp_p": 0.152,
-      "edge": 0.093,
-      "margin": -8,
-      "won": true,
-      "pnl": 5.3
     },
     {
       "date": "2025-11-21",
@@ -2943,30 +1051,6 @@
       "pnl": -1
     },
     {
-      "date": "2025-11-21",
-      "match": "Utah Jazz vs Oklahoma City Thunder",
-      "pick": "HOME",
-      "odds": 10.8,
-      "model_p": 0.43,
-      "imp_p": 0.089,
-      "edge": 0.341,
-      "margin": -32,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-21",
-      "match": "Golden State Warriors vs Portland Trail Blazers",
-      "pick": "AWAY",
-      "odds": 4.15,
-      "model_p": 0.297,
-      "imp_p": 0.231,
-      "edge": 0.066,
-      "margin": -4,
-      "won": true,
-      "pnl": 3.15
-    },
-    {
       "date": "2025-11-22",
       "match": "Charlotte Hornets vs LA Clippers",
       "pick": "HOME",
@@ -2989,42 +1073,6 @@
       "margin": 12,
       "won": true,
       "pnl": 0.794
-    },
-    {
-      "date": "2025-11-22",
-      "match": "New Orleans Pelicans vs Atlanta Hawks",
-      "pick": "HOME",
-      "odds": 4.5,
-      "model_p": 0.463,
-      "imp_p": 0.214,
-      "edge": 0.25,
-      "margin": -17,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-22",
-      "match": "Milwaukee Bucks vs Detroit Pistons",
-      "pick": "HOME",
-      "odds": 3.7,
-      "model_p": 0.504,
-      "imp_p": 0.26,
-      "edge": 0.244,
-      "margin": -13,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-22",
-      "match": "Chicago Bulls vs Washington Wizards",
-      "pick": "AWAY",
-      "odds": 5.8,
-      "model_p": 0.227,
-      "imp_p": 0.166,
-      "edge": 0.061,
-      "margin": 1,
-      "won": false,
-      "pnl": -1
     },
     {
       "date": "2025-11-22",
@@ -3064,18 +1112,6 @@
     },
     {
       "date": "2025-11-23",
-      "match": "Oklahoma City Thunder vs Portland Trail Blazers",
-      "pick": "AWAY",
-      "odds": 9.7,
-      "model_p": 0.205,
-      "imp_p": 0.099,
-      "edge": 0.106,
-      "margin": 27,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-23",
       "match": "Phoenix Suns vs San Antonio Spurs",
       "pick": "HOME",
       "odds": 1.794,
@@ -3085,18 +1121,6 @@
       "margin": 9,
       "won": true,
       "pnl": 0.794
-    },
-    {
-      "date": "2025-11-23",
-      "match": "Utah Jazz vs Los Angeles Lakers",
-      "pick": "HOME",
-      "odds": 4.15,
-      "model_p": 0.481,
-      "imp_p": 0.231,
-      "edge": 0.249,
-      "margin": -2,
-      "won": false,
-      "pnl": -1
     },
     {
       "date": "2025-11-24",
@@ -3112,30 +1136,6 @@
     },
     {
       "date": "2025-11-24",
-      "match": "Indiana Pacers vs Detroit Pistons",
-      "pick": "HOME",
-      "odds": 4.15,
-      "model_p": 0.376,
-      "imp_p": 0.231,
-      "edge": 0.145,
-      "margin": -5,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-24",
-      "match": "Brooklyn Nets vs New York Knicks",
-      "pick": "HOME",
-      "odds": 5.9,
-      "model_p": 0.517,
-      "imp_p": 0.162,
-      "edge": 0.355,
-      "margin": -13,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-24",
       "match": "Miami Heat vs Dallas Mavericks",
       "pick": "HOME",
       "odds": 1.385,
@@ -3145,30 +1145,6 @@
       "margin": 4,
       "won": true,
       "pnl": 0.385
-    },
-    {
-      "date": "2025-11-24",
-      "match": "Memphis Grizzlies vs Denver Nuggets",
-      "pick": "HOME",
-      "odds": 3.2,
-      "model_p": 0.493,
-      "imp_p": 0.3,
-      "edge": 0.193,
-      "margin": -10,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-24",
-      "match": "New Orleans Pelicans vs Chicago Bulls",
-      "pick": "HOME",
-      "odds": 2.68,
-      "model_p": 0.472,
-      "imp_p": 0.359,
-      "edge": 0.113,
-      "margin": 13,
-      "won": true,
-      "pnl": 1.68
     },
     {
       "date": "2025-11-24",
@@ -3195,42 +1171,6 @@
       "pnl": -1
     },
     {
-      "date": "2025-11-24",
-      "match": "Golden State Warriors vs Utah Jazz",
-      "pick": "AWAY",
-      "odds": 6.2,
-      "model_p": 0.282,
-      "imp_p": 0.155,
-      "edge": 0.127,
-      "margin": 17,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-24",
-      "match": "Sacramento Kings vs Minnesota Timberwolves",
-      "pick": "HOME",
-      "odds": 4.85,
-      "model_p": 0.52,
-      "imp_p": 0.198,
-      "edge": 0.322,
-      "margin": 5,
-      "won": true,
-      "pnl": 3.85
-    },
-    {
-      "date": "2025-11-25",
-      "match": "Washington Wizards vs Atlanta Hawks",
-      "pick": "HOME",
-      "odds": 5.2,
-      "model_p": 0.427,
-      "imp_p": 0.185,
-      "edge": 0.242,
-      "margin": 19,
-      "won": true,
-      "pnl": 4.2
-    },
-    {
       "date": "2025-11-25",
       "match": "Philadelphia 76ers vs Orlando Magic",
       "pick": "HOME",
@@ -3255,90 +1195,6 @@
       "pnl": 0.392
     },
     {
-      "date": "2025-11-26",
-      "match": "Charlotte Hornets vs New York Knicks",
-      "pick": "HOME",
-      "odds": 3.15,
-      "model_p": 0.497,
-      "imp_p": 0.305,
-      "edge": 0.192,
-      "margin": -28,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-26",
-      "match": "Miami Heat vs Milwaukee Bucks",
-      "pick": "AWAY",
-      "odds": 4.5,
-      "model_p": 0.25,
-      "imp_p": 0.214,
-      "edge": 0.036,
-      "margin": 3,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-26",
-      "match": "Toronto Raptors vs Indiana Pacers",
-      "pick": "HOME",
-      "odds": 1.233,
-      "model_p": 0.828,
-      "imp_p": 0.781,
-      "edge": 0.047,
-      "margin": 2,
-      "won": true,
-      "pnl": 0.233
-    },
-    {
-      "date": "2025-11-26",
-      "match": "New Orleans Pelicans vs Memphis Grizzlies",
-      "pick": "HOME",
-      "odds": 2.32,
-      "model_p": 0.583,
-      "imp_p": 0.414,
-      "edge": 0.169,
-      "margin": -5,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-26",
-      "match": "Sacramento Kings vs Phoenix Suns",
-      "pick": "HOME",
-      "odds": 2.52,
-      "model_p": 0.535,
-      "imp_p": 0.382,
-      "edge": 0.153,
-      "margin": -12,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-26",
-      "match": "Golden State Warriors vs Houston Rockets",
-      "pick": "AWAY",
-      "odds": 2.48,
-      "model_p": 0.429,
-      "imp_p": 0.387,
-      "edge": 0.042,
-      "margin": -4,
-      "won": true,
-      "pnl": 1.48
-    },
-    {
-      "date": "2025-11-28",
-      "match": "Indiana Pacers vs Washington Wizards",
-      "pick": "AWAY",
-      "odds": 2.94,
-      "model_p": 0.369,
-      "imp_p": 0.327,
-      "edge": 0.042,
-      "margin": 33,
-      "won": false,
-      "pnl": -1
-    },
-    {
       "date": "2025-11-28",
       "match": "Detroit Pistons vs Orlando Magic",
       "pick": "HOME",
@@ -3349,18 +1205,6 @@
       "margin": -3,
       "won": false,
       "pnl": -1
-    },
-    {
-      "date": "2025-11-28",
-      "match": "Charlotte Hornets vs Chicago Bulls",
-      "pick": "HOME",
-      "odds": 2.2,
-      "model_p": 0.514,
-      "imp_p": 0.428,
-      "edge": 0.086,
-      "margin": 7,
-      "won": true,
-      "pnl": 1.2
     },
     {
       "date": "2025-11-28",
@@ -3376,18 +1220,6 @@
     },
     {
       "date": "2025-11-28",
-      "match": "Brooklyn Nets vs Philadelphia 76ers",
-      "pick": "HOME",
-      "odds": 3.2,
-      "model_p": 0.53,
-      "imp_p": 0.3,
-      "edge": 0.23,
-      "margin": -12,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-28",
       "match": "Utah Jazz vs Sacramento Kings",
       "pick": "HOME",
       "odds": 1.685,
@@ -3397,18 +1229,6 @@
       "margin": 9,
       "won": true,
       "pnl": 0.685
-    },
-    {
-      "date": "2025-11-28",
-      "match": "Oklahoma City Thunder vs Phoenix Suns",
-      "pick": "AWAY",
-      "odds": 7.0,
-      "model_p": 0.247,
-      "imp_p": 0.135,
-      "edge": 0.112,
-      "margin": 4,
-      "won": false,
-      "pnl": -1
     },
     {
       "date": "2025-11-28",
@@ -3423,66 +1243,6 @@
       "pnl": 0.238
     },
     {
-      "date": "2025-11-28",
-      "match": "LA Clippers vs Memphis Grizzlies",
-      "pick": "AWAY",
-      "odds": 3.2,
-      "model_p": 0.384,
-      "imp_p": 0.3,
-      "edge": 0.084,
-      "margin": -5,
-      "won": true,
-      "pnl": 2.2
-    },
-    {
-      "date": "2025-11-29",
-      "match": "Minnesota Timberwolves vs Boston Celtics",
-      "pick": "AWAY",
-      "odds": 2.9,
-      "model_p": 0.362,
-      "imp_p": 0.331,
-      "edge": 0.031,
-      "margin": 4,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-29",
-      "match": "Charlotte Hornets vs Toronto Raptors",
-      "pick": "HOME",
-      "odds": 3.25,
-      "model_p": 0.424,
-      "imp_p": 0.296,
-      "edge": 0.128,
-      "margin": 7,
-      "won": true,
-      "pnl": 2.25
-    },
-    {
-      "date": "2025-11-29",
-      "match": "Indiana Pacers vs Chicago Bulls",
-      "pick": "HOME",
-      "odds": 2.3,
-      "model_p": 0.515,
-      "imp_p": 0.418,
-      "edge": 0.097,
-      "margin": 2,
-      "won": true,
-      "pnl": 1.3
-    },
-    {
-      "date": "2025-11-29",
-      "match": "Milwaukee Bucks vs Brooklyn Nets",
-      "pick": "AWAY",
-      "odds": 5.2,
-      "model_p": 0.297,
-      "imp_p": 0.185,
-      "edge": 0.113,
-      "margin": 17,
-      "won": false,
-      "pnl": -1
-    },
-    {
       "date": "2025-11-29",
       "match": "Phoenix Suns vs Denver Nuggets",
       "pick": "HOME",
@@ -3491,138 +1251,6 @@
       "imp_p": 0.4,
       "edge": 0.205,
       "margin": -18,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-29",
-      "match": "LA Clippers vs Dallas Mavericks",
-      "pick": "AWAY",
-      "odds": 4.2,
-      "model_p": 0.329,
-      "imp_p": 0.229,
-      "edge": 0.1,
-      "margin": -4,
-      "won": true,
-      "pnl": 3.2
-    },
-    {
-      "date": "2025-11-30",
-      "match": "Utah Jazz vs Houston Rockets",
-      "pick": "HOME",
-      "odds": 5.1,
-      "model_p": 0.459,
-      "imp_p": 0.188,
-      "edge": 0.271,
-      "margin": -28,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-30",
-      "match": "New York Knicks vs Toronto Raptors",
-      "pick": "AWAY",
-      "odds": 3.6,
-      "model_p": 0.393,
-      "imp_p": 0.267,
-      "edge": 0.125,
-      "margin": 22,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-30",
-      "match": "Portland Trail Blazers vs Oklahoma City Thunder",
-      "pick": "HOME",
-      "odds": 5.6,
-      "model_p": 0.426,
-      "imp_p": 0.172,
-      "edge": 0.254,
-      "margin": -8,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-30",
-      "match": "Cleveland Cavaliers vs Boston Celtics",
-      "pick": "AWAY",
-      "odds": 3.4,
-      "model_p": 0.338,
-      "imp_p": 0.283,
-      "edge": 0.055,
-      "margin": -2,
-      "won": true,
-      "pnl": 2.4
-    },
-    {
-      "date": "2025-11-30",
-      "match": "Minnesota Timberwolves vs San Antonio Spurs",
-      "pick": "AWAY",
-      "odds": 2.58,
-      "model_p": 0.415,
-      "imp_p": 0.373,
-      "edge": 0.042,
-      "margin": 13,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-30",
-      "match": "Sacramento Kings vs Memphis Grizzlies",
-      "pick": "HOME",
-      "odds": 2.22,
-      "model_p": 0.589,
-      "imp_p": 0.433,
-      "edge": 0.156,
-      "margin": -8,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-11-30",
-      "match": "Los Angeles Lakers vs New Orleans Pelicans",
-      "pick": "AWAY",
-      "odds": 8.5,
-      "model_p": 0.152,
-      "imp_p": 0.113,
-      "edge": 0.039,
-      "margin": 12,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-12-01",
-      "match": "Washington Wizards vs Milwaukee Bucks",
-      "pick": "HOME",
-      "odds": 4.4,
-      "model_p": 0.55,
-      "imp_p": 0.219,
-      "edge": 0.331,
-      "margin": 3,
-      "won": true,
-      "pnl": 3.4
-    },
-    {
-      "date": "2025-12-01",
-      "match": "Detroit Pistons vs Atlanta Hawks",
-      "pick": "AWAY",
-      "odds": 4.0,
-      "model_p": 0.308,
-      "imp_p": 0.241,
-      "edge": 0.068,
-      "margin": 1,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-12-01",
-      "match": "Indiana Pacers vs Cleveland Cavaliers",
-      "pick": "HOME",
-      "odds": 2.58,
-      "model_p": 0.505,
-      "imp_p": 0.373,
-      "edge": 0.132,
-      "margin": -16,
       "won": false,
       "pnl": -1
     },
@@ -3640,42 +1268,6 @@
     },
     {
       "date": "2025-12-01",
-      "match": "Brooklyn Nets vs Charlotte Hornets",
-      "pick": "HOME",
-      "odds": 2.68,
-      "model_p": 0.593,
-      "imp_p": 0.359,
-      "edge": 0.234,
-      "margin": 13,
-      "won": true,
-      "pnl": 1.68
-    },
-    {
-      "date": "2025-12-01",
-      "match": "Orlando Magic vs Chicago Bulls",
-      "pick": "AWAY",
-      "odds": 4.15,
-      "model_p": 0.287,
-      "imp_p": 0.231,
-      "edge": 0.055,
-      "margin": 5,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-12-01",
-      "match": "Utah Jazz vs Houston Rockets",
-      "pick": "HOME",
-      "odds": 5.5,
-      "model_p": 0.433,
-      "imp_p": 0.175,
-      "edge": 0.258,
-      "margin": 8,
-      "won": true,
-      "pnl": 4.5
-    },
-    {
-      "date": "2025-12-01",
       "match": "Los Angeles Lakers vs Phoenix Suns",
       "pick": "HOME",
       "odds": 1.444,
@@ -3683,18 +1275,6 @@
       "imp_p": 0.653,
       "edge": 0.073,
       "margin": -17,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-12-02",
-      "match": "Philadelphia 76ers vs Washington Wizards",
-      "pick": "AWAY",
-      "odds": 7.1,
-      "model_p": 0.251,
-      "imp_p": 0.135,
-      "edge": 0.116,
-      "margin": 19,
       "won": false,
       "pnl": -1
     },
@@ -3709,18 +1289,6 @@
       "margin": 3,
       "won": true,
       "pnl": 0.488
-    },
-    {
-      "date": "2025-12-02",
-      "match": "New Orleans Pelicans vs Minnesota Timberwolves",
-      "pick": "HOME",
-      "odds": 6.0,
-      "model_p": 0.439,
-      "imp_p": 0.16,
-      "edge": 0.279,
-      "margin": -7,
-      "won": false,
-      "pnl": -1
     },
     {
       "date": "2025-12-02",
@@ -3747,54 +1315,6 @@
       "pnl": 0.488
     },
     {
-      "date": "2025-12-02",
-      "match": "Golden State Warriors vs Oklahoma City Thunder",
-      "pick": "HOME",
-      "odds": 5.1,
-      "model_p": 0.447,
-      "imp_p": 0.188,
-      "edge": 0.259,
-      "margin": -12,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-12-03",
-      "match": "Orlando Magic vs San Antonio Spurs",
-      "pick": "AWAY",
-      "odds": 3.7,
-      "model_p": 0.373,
-      "imp_p": 0.26,
-      "edge": 0.113,
-      "margin": -2,
-      "won": true,
-      "pnl": 2.7
-    },
-    {
-      "date": "2025-12-03",
-      "match": "Indiana Pacers vs Denver Nuggets",
-      "pick": "HOME",
-      "odds": 3.45,
-      "model_p": 0.428,
-      "imp_p": 0.279,
-      "edge": 0.149,
-      "margin": -15,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-12-03",
-      "match": "Cleveland Cavaliers vs Portland Trail Blazers",
-      "pick": "AWAY",
-      "odds": 4.4,
-      "model_p": 0.297,
-      "imp_p": 0.219,
-      "edge": 0.078,
-      "margin": -12,
-      "won": true,
-      "pnl": 3.4
-    },
-    {
       "date": "2025-12-03",
       "match": "Atlanta Hawks vs LA Clippers",
       "pick": "HOME",
@@ -3805,66 +1325,6 @@
       "margin": -23,
       "won": false,
       "pnl": -1
-    },
-    {
-      "date": "2025-12-03",
-      "match": "Houston Rockets vs Sacramento Kings",
-      "pick": "AWAY",
-      "odds": 9.3,
-      "model_p": 0.189,
-      "imp_p": 0.103,
-      "edge": 0.086,
-      "margin": 26,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-12-03",
-      "match": "Milwaukee Bucks vs Detroit Pistons",
-      "pick": "HOME",
-      "odds": 2.62,
-      "model_p": 0.436,
-      "imp_p": 0.366,
-      "edge": 0.069,
-      "margin": 4,
-      "won": true,
-      "pnl": 1.62
-    },
-    {
-      "date": "2025-12-03",
-      "match": "Dallas Mavericks vs Miami Heat",
-      "pick": "HOME",
-      "odds": 2.54,
-      "model_p": 0.472,
-      "imp_p": 0.378,
-      "edge": 0.094,
-      "margin": 10,
-      "won": true,
-      "pnl": 1.54
-    },
-    {
-      "date": "2025-12-04",
-      "match": "Washington Wizards vs Boston Celtics",
-      "pick": "HOME",
-      "odds": 4.5,
-      "model_p": 0.459,
-      "imp_p": 0.214,
-      "edge": 0.246,
-      "margin": -45,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-12-04",
-      "match": "Philadelphia 76ers vs Golden State Warriors",
-      "pick": "HOME",
-      "odds": 1.595,
-      "model_p": 0.641,
-      "imp_p": 0.603,
-      "edge": 0.039,
-      "margin": 1,
-      "won": true,
-      "pnl": 0.595
     },
     {
       "date": "2025-12-04",
@@ -3891,66 +1351,6 @@
       "pnl": -1
     },
     {
-      "date": "2025-12-04",
-      "match": "New Orleans Pelicans vs Minnesota Timberwolves",
-      "pick": "HOME",
-      "odds": 5.5,
-      "model_p": 0.414,
-      "imp_p": 0.175,
-      "edge": 0.239,
-      "margin": -9,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-12-05",
-      "match": "Boston Celtics vs Los Angeles Lakers",
-      "pick": "AWAY",
-      "odds": 3.8,
-      "model_p": 0.429,
-      "imp_p": 0.253,
-      "edge": 0.176,
-      "margin": 21,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-12-05",
-      "match": "Orlando Magic vs Miami Heat",
-      "pick": "AWAY",
-      "odds": 3.1,
-      "model_p": 0.369,
-      "imp_p": 0.31,
-      "edge": 0.059,
-      "margin": 1,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-12-05",
-      "match": "New York Knicks vs Utah Jazz",
-      "pick": "AWAY",
-      "odds": 8.5,
-      "model_p": 0.259,
-      "imp_p": 0.113,
-      "edge": 0.146,
-      "margin": 34,
-      "won": false,
-      "pnl": -1
-    },
-    {
-      "date": "2025-12-05",
-      "match": "Cleveland Cavaliers vs San Antonio Spurs",
-      "pick": "AWAY",
-      "odds": 2.72,
-      "model_p": 0.448,
-      "imp_p": 0.354,
-      "edge": 0.094,
-      "margin": 13,
-      "won": false,
-      "pnl": -1
-    },
-    {
       "date": "2025-12-05",
       "match": "Toronto Raptors vs Charlotte Hornets",
       "pick": "HOME",
@@ -3961,6 +1361,750 @@
       "margin": -25,
       "won": false,
       "pnl": -1
+    },
+    {
+      "date": "2025-12-05",
+      "match": "Chicago Bulls vs Indiana Pacers",
+      "pick": "HOME",
+      "odds": 1.5,
+      "model_p": 0.725,
+      "imp_p": 0.641,
+      "edge": 0.084,
+      "margin": -15,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-05",
+      "match": "Memphis Grizzlies vs LA Clippers",
+      "pick": "HOME",
+      "odds": 2.1,
+      "model_p": 0.704,
+      "imp_p": 0.457,
+      "edge": 0.247,
+      "margin": 9,
+      "won": true,
+      "pnl": 1.1
+    },
+    {
+      "date": "2025-12-06",
+      "match": "Brooklyn Nets vs New Orleans Pelicans",
+      "pick": "HOME",
+      "odds": 1.568,
+      "model_p": 0.694,
+      "imp_p": 0.613,
+      "edge": 0.081,
+      "margin": 18,
+      "won": true,
+      "pnl": 0.568
+    },
+    {
+      "date": "2025-12-07",
+      "match": "New York Knicks vs Orlando Magic",
+      "pick": "HOME",
+      "odds": 1.806,
+      "model_p": 0.65,
+      "imp_p": 0.533,
+      "edge": 0.117,
+      "margin": 6,
+      "won": true,
+      "pnl": 0.806
+    },
+    {
+      "date": "2025-12-07",
+      "match": "Toronto Raptors vs Boston Celtics",
+      "pick": "HOME",
+      "odds": 4.0,
+      "model_p": 0.624,
+      "imp_p": 0.236,
+      "edge": 0.389,
+      "margin": -8,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-07",
+      "match": "Memphis Grizzlies vs Portland Trail Blazers",
+      "pick": "HOME",
+      "odds": 1.746,
+      "model_p": 0.644,
+      "imp_p": 0.551,
+      "edge": 0.093,
+      "margin": 23,
+      "won": true,
+      "pnl": 0.746
+    },
+    {
+      "date": "2025-12-09",
+      "match": "Orlando Magic vs Miami Heat",
+      "pick": "HOME",
+      "odds": 1.833,
+      "model_p": 0.661,
+      "imp_p": 0.524,
+      "edge": 0.137,
+      "margin": 9,
+      "won": true,
+      "pnl": 0.833
+    },
+    {
+      "date": "2025-12-11",
+      "match": "Houston Rockets vs LA Clippers",
+      "pick": "HOME",
+      "odds": 1.267,
+      "model_p": 0.814,
+      "imp_p": 0.759,
+      "edge": 0.055,
+      "margin": 2,
+      "won": true,
+      "pnl": 0.267
+    },
+    {
+      "date": "2025-12-12",
+      "match": "Philadelphia 76ers vs Indiana Pacers",
+      "pick": "HOME",
+      "odds": 1.444,
+      "model_p": 0.749,
+      "imp_p": 0.666,
+      "edge": 0.083,
+      "margin": 10,
+      "won": true,
+      "pnl": 0.444
+    },
+    {
+      "date": "2025-12-12",
+      "match": "Charlotte Hornets vs Chicago Bulls",
+      "pick": "HOME",
+      "odds": 2.2,
+      "model_p": 0.628,
+      "imp_p": 0.437,
+      "edge": 0.191,
+      "margin": -3,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-13",
+      "match": "Orlando Magic vs New York Knicks",
+      "pick": "HOME",
+      "odds": 2.5,
+      "model_p": 0.605,
+      "imp_p": 0.385,
+      "edge": 0.22,
+      "margin": -12,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-14",
+      "match": "Chicago Bulls vs New Orleans Pelicans",
+      "pick": "HOME",
+      "odds": 1.581,
+      "model_p": 0.744,
+      "imp_p": 0.607,
+      "edge": 0.137,
+      "margin": -10,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-15",
+      "match": "Utah Jazz vs Dallas Mavericks",
+      "pick": "HOME",
+      "odds": 1.98,
+      "model_p": 0.646,
+      "imp_p": 0.485,
+      "edge": 0.162,
+      "margin": 7,
+      "won": true,
+      "pnl": 0.98
+    },
+    {
+      "date": "2025-12-15",
+      "match": "Denver Nuggets vs Houston Rockets",
+      "pick": "HOME",
+      "odds": 1.98,
+      "model_p": 0.66,
+      "imp_p": 0.485,
+      "edge": 0.175,
+      "margin": 3,
+      "won": true,
+      "pnl": 0.98
+    },
+    {
+      "date": "2025-12-16",
+      "match": "New York Knicks vs San Antonio Spurs",
+      "pick": "HOME",
+      "odds": 1.735,
+      "model_p": 0.619,
+      "imp_p": 0.555,
+      "edge": 0.065,
+      "margin": 11,
+      "won": true,
+      "pnl": 0.735
+    },
+    {
+      "date": "2025-12-18",
+      "match": "Indiana Pacers vs New York Knicks",
+      "pick": "AWAY",
+      "odds": 1.649,
+      "model_p": 0.627,
+      "imp_p": 0.572,
+      "edge": 0.055,
+      "margin": -1,
+      "won": true,
+      "pnl": 0.649
+    },
+    {
+      "date": "2025-12-18",
+      "match": "Denver Nuggets vs Orlando Magic",
+      "pick": "HOME",
+      "odds": 1.444,
+      "model_p": 0.724,
+      "imp_p": 0.653,
+      "edge": 0.071,
+      "margin": 11,
+      "won": true,
+      "pnl": 0.444
+    },
+    {
+      "date": "2025-12-18",
+      "match": "Phoenix Suns vs Golden State Warriors",
+      "pick": "HOME",
+      "odds": 2.02,
+      "model_p": 0.679,
+      "imp_p": 0.467,
+      "edge": 0.212,
+      "margin": 1,
+      "won": true,
+      "pnl": 1.02
+    },
+    {
+      "date": "2025-12-19",
+      "match": "New York Knicks vs Philadelphia 76ers",
+      "pick": "HOME",
+      "odds": 1.641,
+      "model_p": 0.75,
+      "imp_p": 0.575,
+      "edge": 0.175,
+      "margin": -9,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-20",
+      "match": "Denver Nuggets vs Houston Rockets",
+      "pick": "HOME",
+      "odds": 2.16,
+      "model_p": 0.699,
+      "imp_p": 0.437,
+      "edge": 0.262,
+      "margin": -14,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-20",
+      "match": "Philadelphia 76ers vs Dallas Mavericks",
+      "pick": "HOME",
+      "odds": 2.24,
+      "model_p": 0.711,
+      "imp_p": 0.422,
+      "edge": 0.29,
+      "margin": 7,
+      "won": true,
+      "pnl": 1.24
+    },
+    {
+      "date": "2025-12-20",
+      "match": "Detroit Pistons vs Charlotte Hornets",
+      "pick": "HOME",
+      "odds": 1.27,
+      "model_p": 0.816,
+      "imp_p": 0.742,
+      "edge": 0.074,
+      "margin": 26,
+      "won": true,
+      "pnl": 0.27
+    },
+    {
+      "date": "2025-12-20",
+      "match": "LA Clippers vs Los Angeles Lakers",
+      "pick": "AWAY",
+      "odds": 2.46,
+      "model_p": 0.639,
+      "imp_p": 0.384,
+      "edge": 0.255,
+      "margin": 15,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-21",
+      "match": "Atlanta Hawks vs Chicago Bulls",
+      "pick": "HOME",
+      "odds": 1.885,
+      "model_p": 0.701,
+      "imp_p": 0.5,
+      "edge": 0.201,
+      "margin": -2,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-21",
+      "match": "New York Knicks vs Miami Heat",
+      "pick": "HOME",
+      "odds": 1.515,
+      "model_p": 0.735,
+      "imp_p": 0.623,
+      "edge": 0.112,
+      "margin": 7,
+      "won": true,
+      "pnl": 0.515
+    },
+    {
+      "date": "2025-12-23",
+      "match": "Atlanta Hawks vs Chicago Bulls",
+      "pick": "HOME",
+      "odds": 1.649,
+      "model_p": 0.666,
+      "imp_p": 0.582,
+      "edge": 0.084,
+      "margin": -3,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-25",
+      "match": "New York Knicks vs Cleveland Cavaliers",
+      "pick": "HOME",
+      "odds": 2.5,
+      "model_p": 0.752,
+      "imp_p": 0.377,
+      "edge": 0.375,
+      "margin": 2,
+      "won": true,
+      "pnl": 1.5
+    },
+    {
+      "date": "2025-12-25",
+      "match": "Los Angeles Lakers vs Houston Rockets",
+      "pick": "HOME",
+      "odds": 2.96,
+      "model_p": 0.677,
+      "imp_p": 0.319,
+      "edge": 0.358,
+      "margin": -23,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-25",
+      "match": "Denver Nuggets vs Minnesota Timberwolves",
+      "pick": "HOME",
+      "odds": 1.885,
+      "model_p": 0.667,
+      "imp_p": 0.5,
+      "edge": 0.167,
+      "margin": 4,
+      "won": true,
+      "pnl": 0.885
+    },
+    {
+      "date": "2025-12-26",
+      "match": "Atlanta Hawks vs Miami Heat",
+      "pick": "HOME",
+      "odds": 1.735,
+      "model_p": 0.631,
+      "imp_p": 0.543,
+      "edge": 0.088,
+      "margin": -15,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-26",
+      "match": "Orlando Magic vs Charlotte Hornets",
+      "pick": "HOME",
+      "odds": 1.667,
+      "model_p": 0.762,
+      "imp_p": 0.567,
+      "edge": 0.195,
+      "margin": -15,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-26",
+      "match": "Chicago Bulls vs Philadelphia 76ers",
+      "pick": "HOME",
+      "odds": 3.0,
+      "model_p": 0.606,
+      "imp_p": 0.315,
+      "edge": 0.292,
+      "margin": 7,
+      "won": true,
+      "pnl": 2.0
+    },
+    {
+      "date": "2025-12-26",
+      "match": "Memphis Grizzlies vs Milwaukee Bucks",
+      "pick": "HOME",
+      "odds": 1.667,
+      "model_p": 0.702,
+      "imp_p": 0.567,
+      "edge": 0.135,
+      "margin": 21,
+      "won": true,
+      "pnl": 0.667
+    },
+    {
+      "date": "2025-12-26",
+      "match": "Portland Trail Blazers vs LA Clippers",
+      "pick": "HOME",
+      "odds": 1.685,
+      "model_p": 0.695,
+      "imp_p": 0.559,
+      "edge": 0.136,
+      "margin": -16,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-27",
+      "match": "Houston Rockets vs Cleveland Cavaliers",
+      "pick": "HOME",
+      "odds": 1.676,
+      "model_p": 0.739,
+      "imp_p": 0.563,
+      "edge": 0.176,
+      "margin": 17,
+      "won": true,
+      "pnl": 0.676
+    },
+    {
+      "date": "2025-12-27",
+      "match": "Miami Heat vs Indiana Pacers",
+      "pick": "HOME",
+      "odds": 1.345,
+      "model_p": 0.797,
+      "imp_p": 0.701,
+      "edge": 0.096,
+      "margin": 26,
+      "won": true,
+      "pnl": 0.345
+    },
+    {
+      "date": "2025-12-27",
+      "match": "Chicago Bulls vs Milwaukee Bucks",
+      "pick": "HOME",
+      "odds": 1.685,
+      "model_p": 0.708,
+      "imp_p": 0.559,
+      "edge": 0.149,
+      "margin": -9,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-28",
+      "match": "Toronto Raptors vs Golden State Warriors",
+      "pick": "HOME",
+      "odds": 2.9,
+      "model_p": 0.64,
+      "imp_p": 0.326,
+      "edge": 0.314,
+      "margin": 14,
+      "won": true,
+      "pnl": 1.9
+    },
+    {
+      "date": "2025-12-28",
+      "match": "LA Clippers vs Detroit Pistons",
+      "pick": "AWAY",
+      "odds": 2.1,
+      "model_p": 0.6,
+      "imp_p": 0.449,
+      "edge": 0.151,
+      "margin": 13,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-29",
+      "match": "Charlotte Hornets vs Milwaukee Bucks",
+      "pick": "HOME",
+      "odds": 2.46,
+      "model_p": 0.639,
+      "imp_p": 0.384,
+      "edge": 0.255,
+      "margin": -10,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-29",
+      "match": "Toronto Raptors vs Orlando Magic",
+      "pick": "HOME",
+      "odds": 3.0,
+      "model_p": 0.621,
+      "imp_p": 0.315,
+      "edge": 0.307,
+      "margin": 1,
+      "won": true,
+      "pnl": 2.0
+    },
+    {
+      "date": "2025-12-29",
+      "match": "San Antonio Spurs vs Cleveland Cavaliers",
+      "pick": "HOME",
+      "odds": 1.885,
+      "model_p": 0.799,
+      "imp_p": 0.5,
+      "edge": 0.299,
+      "margin": -12,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-29",
+      "match": "Portland Trail Blazers vs Dallas Mavericks",
+      "pick": "HOME",
+      "odds": 1.704,
+      "model_p": 0.662,
+      "imp_p": 0.554,
+      "edge": 0.108,
+      "margin": 3,
+      "won": true,
+      "pnl": 0.704
+    },
+    {
+      "date": "2025-12-30",
+      "match": "Los Angeles Lakers vs Detroit Pistons",
+      "pick": "HOME",
+      "odds": 2.32,
+      "model_p": 0.601,
+      "imp_p": 0.406,
+      "edge": 0.194,
+      "margin": -22,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-31",
+      "match": "San Antonio Spurs vs New York Knicks",
+      "pick": "HOME",
+      "odds": 1.735,
+      "model_p": 0.639,
+      "imp_p": 0.543,
+      "edge": 0.096,
+      "margin": 2,
+      "won": true,
+      "pnl": 0.735
+    },
+    {
+      "date": "2025-12-31",
+      "match": "Chicago Bulls vs New Orleans Pelicans",
+      "pick": "HOME",
+      "odds": 1.377,
+      "model_p": 0.749,
+      "imp_p": 0.685,
+      "edge": 0.063,
+      "margin": 16,
+      "won": true,
+      "pnl": 0.377
+    },
+    {
+      "date": "2026-01-01",
+      "match": "Detroit Pistons vs Miami Heat",
+      "pick": "HOME",
+      "odds": 1.704,
+      "model_p": 0.755,
+      "imp_p": 0.554,
+      "edge": 0.201,
+      "margin": -6,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2026-01-02",
+      "match": "Indiana Pacers vs San Antonio Spurs",
+      "pick": "AWAY",
+      "odds": 1.833,
+      "model_p": 0.714,
+      "imp_p": 0.515,
+      "edge": 0.2,
+      "margin": -10,
+      "won": true,
+      "pnl": 0.833
+    },
+    {
+      "date": "2026-01-02",
+      "match": "New York Knicks vs Atlanta Hawks",
+      "pick": "HOME",
+      "odds": 1.426,
+      "model_p": 0.789,
+      "imp_p": 0.663,
+      "edge": 0.126,
+      "margin": -12,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2026-01-03",
+      "match": "Miami Heat vs Minnesota Timberwolves",
+      "pick": "HOME",
+      "odds": 3.3,
+      "model_p": 0.622,
+      "imp_p": 0.286,
+      "edge": 0.336,
+      "margin": -10,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2026-01-03",
+      "match": "New York Knicks vs Philadelphia 76ers",
+      "pick": "HOME",
+      "odds": 1.581,
+      "model_p": 0.709,
+      "imp_p": 0.597,
+      "edge": 0.113,
+      "margin": -11,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2026-01-03",
+      "match": "Toronto Raptors vs Atlanta Hawks",
+      "pick": "HOME",
+      "odds": 1.488,
+      "model_p": 0.686,
+      "imp_p": 0.634,
+      "edge": 0.051,
+      "margin": 17,
+      "won": true,
+      "pnl": 0.488
+    },
+    {
+      "date": "2026-01-03",
+      "match": "Chicago Bulls vs Charlotte Hornets",
+      "pick": "HOME",
+      "odds": 1.649,
+      "model_p": 0.715,
+      "imp_p": 0.572,
+      "edge": 0.143,
+      "margin": -13,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2026-01-03",
+      "match": "San Antonio Spurs vs Portland Trail Blazers",
+      "pick": "HOME",
+      "odds": 1.532,
+      "model_p": 0.795,
+      "imp_p": 0.616,
+      "edge": 0.179,
+      "margin": -5,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2026-01-04",
+      "match": "Orlando Magic vs Indiana Pacers",
+      "pick": "HOME",
+      "odds": 1.4,
+      "model_p": 0.837,
+      "imp_p": 0.674,
+      "edge": 0.162,
+      "margin": 8,
+      "won": true,
+      "pnl": 0.4
+    },
+    {
+      "date": "2026-01-04",
+      "match": "Miami Heat vs New Orleans Pelicans",
+      "pick": "HOME",
+      "odds": 1.345,
+      "model_p": 0.81,
+      "imp_p": 0.701,
+      "edge": 0.109,
+      "margin": 19,
+      "won": true,
+      "pnl": 0.345
+    },
+    {
+      "date": "2026-01-04",
+      "match": "Los Angeles Lakers vs Memphis Grizzlies",
+      "pick": "HOME",
+      "odds": 1.617,
+      "model_p": 0.747,
+      "imp_p": 0.583,
+      "edge": 0.164,
+      "margin": 6,
+      "won": true,
+      "pnl": 0.617
+    },
+    {
+      "date": "2026-01-05",
+      "match": "Detroit Pistons vs New York Knicks",
+      "pick": "HOME",
+      "odds": 2.04,
+      "model_p": 0.692,
+      "imp_p": 0.471,
+      "edge": 0.22,
+      "margin": 31,
+      "won": true,
+      "pnl": 1.04
+    },
+    {
+      "date": "2026-01-05",
+      "match": "Toronto Raptors vs Atlanta Hawks",
+      "pick": "HOME",
+      "odds": 1.704,
+      "model_p": 0.701,
+      "imp_p": 0.563,
+      "edge": 0.138,
+      "margin": 18,
+      "won": true,
+      "pnl": 0.704
+    },
+    {
+      "date": "2026-01-06",
+      "match": "Minnesota Timberwolves vs Miami Heat",
+      "pick": "HOME",
+      "odds": 1.505,
+      "model_p": 0.695,
+      "imp_p": 0.639,
+      "edge": 0.057,
+      "margin": 28,
+      "won": true,
+      "pnl": 0.505
+    },
+    {
+      "date": "2026-01-07",
+      "match": "Detroit Pistons vs Chicago Bulls",
+      "pick": "HOME",
+      "odds": 1.303,
+      "model_p": 0.805,
+      "imp_p": 0.737,
+      "edge": 0.068,
+      "margin": 15,
+      "won": true,
+      "pnl": 0.303
+    },
+    {
+      "date": "2026-01-07",
+      "match": "New York Knicks vs LA Clippers",
+      "pick": "HOME",
+      "odds": 1.505,
+      "model_p": 0.754,
+      "imp_p": 0.639,
+      "edge": 0.116,
+      "margin": 12,
+      "won": true,
+      "pnl": 0.505
     }
   ]
 }

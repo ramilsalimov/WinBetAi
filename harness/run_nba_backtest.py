@@ -47,7 +47,7 @@ def load_games(season='2024-25'):
     conn.close()
     return rows
 
-def backtest(games, train_min=100, min_edge=0.03, min_prob=0.0, K=20, home_adv=100):
+def backtest(games, train_min=100, min_edge=0.03, min_prob=0.0, max_odds=99.0, K=20, home_adv=100):
     elo = {}
     def rat(t): return elo.get(t, 1500)
     picks = []
@@ -71,7 +71,7 @@ def backtest(games, train_min=100, min_edge=0.03, min_prob=0.0, K=20, home_adv=1
             ]
             best = max(cands, key=lambda e: e[1] - e[2])
             side, model_p, imp_p, odds = best
-            if (model_p - imp_p) >= min_edge and model_p >= min_prob:
+            if (model_p - imp_p) >= min_edge and model_p >= min_prob and odds <= max_odds:
                 actual_home_won = (margin is not None and margin > 0)
                 won = (side == 'HOME' and actual_home_won) or (side == 'AWAY' and not actual_home_won)
                 pnl = (odds - 1) if won else -1
@@ -109,6 +109,7 @@ def main():
     ap.add_argument('--season', default='2024-25')
     ap.add_argument('--edge', type=float, default=0.03)
     ap.add_argument('--min-prob', type=float, default=0.0)
+    ap.add_argument('--max-odds', type=float, default=99.0)
     ap.add_argument('--train-min', type=int, default=100)
     args = ap.parse_args()
 
@@ -118,16 +119,10 @@ def main():
         print(f'No games for {args.season}'); return
     print(f'NBA {args.season}: {len(games)} games loaded')
 
-    r = backtest(games, train_min=args.train_min, min_edge=args.edge, min_prob=args.min_prob)
+    r = backtest(games, train_min=args.train_min, min_edge=args.edge, min_prob=args.min_prob, max_odds=args.max_odds)
     if not r: print('No picks'); return
+    print(f'  config edge={args.edge} minP={args.min_prob} maxO={args.max_odds}')
     print(f'  picks={r["picks"]} winrate={r["winrate"]}% ROI={r["roi_pct"]:+.2f}%')
-
-    # Try strict filter
-    r2 = backtest(games, train_min=args.train_min, min_edge=args.edge, min_prob=0.55)
-    if r2: print(f'  strict (min-prob 0.55): picks={r2["picks"]} winrate={r2["winrate"]}% ROI={r2["roi_pct"]:+.2f}%')
-
-    r3 = backtest(games, train_min=args.train_min, min_edge=args.edge, min_prob=0.65)
-    if r3: print(f'  strict (min-prob 0.65): picks={r3["picks"]} winrate={r3["winrate"]}% ROI={r3["roi_pct"]:+.2f}%')
 
     season_safe = args.season.replace('-','_')
     with open(RESULTS / f'nba-{season_safe}-elo.json', 'w') as f:

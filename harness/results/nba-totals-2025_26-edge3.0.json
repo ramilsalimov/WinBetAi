@@ -1,0 +1,3234 @@
+{
+  "model": "rolling_avg",
+  "sport": "NBA",
+  "market": "O/U",
+  "picks": 255,
+  "wins": 124,
+  "winrate": 48.63,
+  "pnl": -18.16,
+  "roi_pct": -7.12,
+  "equity_curve": [
+    {
+      "date": "2025-11-03",
+      "cum_pnl": 0.91
+    },
+    {
+      "date": "2025-11-04",
+      "cum_pnl": 1.82
+    },
+    {
+      "date": "2025-11-04",
+      "cum_pnl": 2.73
+    },
+    {
+      "date": "2025-11-04",
+      "cum_pnl": 3.64
+    },
+    {
+      "date": "2025-11-05",
+      "cum_pnl": 2.64
+    },
+    {
+      "date": "2025-11-05",
+      "cum_pnl": 3.55
+    },
+    {
+      "date": "2025-11-05",
+      "cum_pnl": 4.46
+    },
+    {
+      "date": "2025-11-05",
+      "cum_pnl": 5.37
+    },
+    {
+      "date": "2025-11-06",
+      "cum_pnl": 4.37
+    },
+    {
+      "date": "2025-11-07",
+      "cum_pnl": 3.37
+    },
+    {
+      "date": "2025-11-07",
+      "cum_pnl": 2.37
+    },
+    {
+      "date": "2025-11-07",
+      "cum_pnl": 3.28
+    },
+    {
+      "date": "2025-11-07",
+      "cum_pnl": 4.19
+    },
+    {
+      "date": "2025-11-07",
+      "cum_pnl": 3.19
+    },
+    {
+      "date": "2025-11-07",
+      "cum_pnl": 4.1
+    },
+    {
+      "date": "2025-11-07",
+      "cum_pnl": 5.01
+    },
+    {
+      "date": "2025-11-08",
+      "cum_pnl": 4.01
+    },
+    {
+      "date": "2025-11-08",
+      "cum_pnl": 3.01
+    },
+    {
+      "date": "2025-11-08",
+      "cum_pnl": 3.92
+    },
+    {
+      "date": "2025-11-08",
+      "cum_pnl": 2.92
+    },
+    {
+      "date": "2025-11-09",
+      "cum_pnl": 3.83
+    },
+    {
+      "date": "2025-11-09",
+      "cum_pnl": 4.74
+    },
+    {
+      "date": "2025-11-09",
+      "cum_pnl": 3.74
+    },
+    {
+      "date": "2025-11-10",
+      "cum_pnl": 4.65
+    },
+    {
+      "date": "2025-11-10",
+      "cum_pnl": 3.65
+    },
+    {
+      "date": "2025-11-10",
+      "cum_pnl": 2.65
+    },
+    {
+      "date": "2025-11-11",
+      "cum_pnl": 1.65
+    },
+    {
+      "date": "2025-11-11",
+      "cum_pnl": 0.65
+    },
+    {
+      "date": "2025-11-11",
+      "cum_pnl": -0.35
+    },
+    {
+      "date": "2025-11-11",
+      "cum_pnl": 0.56
+    },
+    {
+      "date": "2025-11-12",
+      "cum_pnl": 1.47
+    },
+    {
+      "date": "2025-11-12",
+      "cum_pnl": 2.38
+    },
+    {
+      "date": "2025-11-12",
+      "cum_pnl": 1.38
+    },
+    {
+      "date": "2025-11-12",
+      "cum_pnl": 2.29
+    },
+    {
+      "date": "2025-11-12",
+      "cum_pnl": 1.29
+    },
+    {
+      "date": "2025-11-12",
+      "cum_pnl": 2.2
+    },
+    {
+      "date": "2025-11-13",
+      "cum_pnl": 3.11
+    },
+    {
+      "date": "2025-11-14",
+      "cum_pnl": 2.11
+    },
+    {
+      "date": "2025-11-14",
+      "cum_pnl": 1.11
+    },
+    {
+      "date": "2025-11-14",
+      "cum_pnl": 2.02
+    },
+    {
+      "date": "2025-11-15",
+      "cum_pnl": 2.93
+    },
+    {
+      "date": "2025-11-15",
+      "cum_pnl": 1.93
+    },
+    {
+      "date": "2025-11-15",
+      "cum_pnl": 0.93
+    },
+    {
+      "date": "2025-11-15",
+      "cum_pnl": -0.07
+    },
+    {
+      "date": "2025-11-16",
+      "cum_pnl": 0.84
+    },
+    {
+      "date": "2025-11-16",
+      "cum_pnl": 1.75
+    },
+    {
+      "date": "2025-11-16",
+      "cum_pnl": 2.66
+    },
+    {
+      "date": "2025-11-16",
+      "cum_pnl": 3.57
+    },
+    {
+      "date": "2025-11-16",
+      "cum_pnl": 2.57
+    },
+    {
+      "date": "2025-11-16",
+      "cum_pnl": 1.57
+    },
+    {
+      "date": "2025-11-16",
+      "cum_pnl": 2.48
+    },
+    {
+      "date": "2025-11-17",
+      "cum_pnl": 1.48
+    },
+    {
+      "date": "2025-11-17",
+      "cum_pnl": 0.48
+    },
+    {
+      "date": "2025-11-17",
+      "cum_pnl": 1.39
+    },
+    {
+      "date": "2025-11-18",
+      "cum_pnl": 2.3
+    },
+    {
+      "date": "2025-11-18",
+      "cum_pnl": 1.3
+    },
+    {
+      "date": "2025-11-18",
+      "cum_pnl": 2.21
+    },
+    {
+      "date": "2025-11-18",
+      "cum_pnl": 3.12
+    },
+    {
+      "date": "2025-11-18",
+      "cum_pnl": 2.12
+    },
+    {
+      "date": "2025-11-19",
+      "cum_pnl": 1.12
+    },
+    {
+      "date": "2025-11-19",
+      "cum_pnl": 0.12
+    },
+    {
+      "date": "2025-11-19",
+      "cum_pnl": -0.88
+    },
+    {
+      "date": "2025-11-20",
+      "cum_pnl": 0.03
+    },
+    {
+      "date": "2025-11-20",
+      "cum_pnl": 0.94
+    },
+    {
+      "date": "2025-11-21",
+      "cum_pnl": 1.85
+    },
+    {
+      "date": "2025-11-21",
+      "cum_pnl": 0.85
+    },
+    {
+      "date": "2025-11-21",
+      "cum_pnl": 1.76
+    },
+    {
+      "date": "2025-11-21",
+      "cum_pnl": 2.67
+    },
+    {
+      "date": "2025-11-22",
+      "cum_pnl": 3.58
+    },
+    {
+      "date": "2025-11-22",
+      "cum_pnl": 4.49
+    },
+    {
+      "date": "2025-11-22",
+      "cum_pnl": 5.4
+    },
+    {
+      "date": "2025-11-23",
+      "cum_pnl": 4.4
+    },
+    {
+      "date": "2025-11-23",
+      "cum_pnl": 3.4
+    },
+    {
+      "date": "2025-11-23",
+      "cum_pnl": 2.4
+    },
+    {
+      "date": "2025-11-23",
+      "cum_pnl": 1.4
+    },
+    {
+      "date": "2025-11-23",
+      "cum_pnl": 2.31
+    },
+    {
+      "date": "2025-11-24",
+      "cum_pnl": 1.31
+    },
+    {
+      "date": "2025-11-24",
+      "cum_pnl": 0.31
+    },
+    {
+      "date": "2025-11-24",
+      "cum_pnl": -0.69
+    },
+    {
+      "date": "2025-11-24",
+      "cum_pnl": -1.69
+    },
+    {
+      "date": "2025-11-24",
+      "cum_pnl": -2.69
+    },
+    {
+      "date": "2025-11-24",
+      "cum_pnl": -3.69
+    },
+    {
+      "date": "2025-11-24",
+      "cum_pnl": -4.69
+    },
+    {
+      "date": "2025-11-25",
+      "cum_pnl": -5.69
+    },
+    {
+      "date": "2025-11-25",
+      "cum_pnl": -4.78
+    },
+    {
+      "date": "2025-11-26",
+      "cum_pnl": -3.87
+    },
+    {
+      "date": "2025-11-26",
+      "cum_pnl": -4.87
+    },
+    {
+      "date": "2025-11-26",
+      "cum_pnl": -5.87
+    },
+    {
+      "date": "2025-11-26",
+      "cum_pnl": -4.96
+    },
+    {
+      "date": "2025-11-26",
+      "cum_pnl": -5.96
+    },
+    {
+      "date": "2025-11-28",
+      "cum_pnl": -5.05
+    },
+    {
+      "date": "2025-11-28",
+      "cum_pnl": -6.05
+    },
+    {
+      "date": "2025-11-28",
+      "cum_pnl": -5.14
+    },
+    {
+      "date": "2025-11-28",
+      "cum_pnl": -6.14
+    },
+    {
+      "date": "2025-11-28",
+      "cum_pnl": -7.14
+    },
+    {
+      "date": "2025-11-28",
+      "cum_pnl": -8.14
+    },
+    {
+      "date": "2025-11-28",
+      "cum_pnl": -9.14
+    },
+    {
+      "date": "2025-11-28",
+      "cum_pnl": -10.14
+    },
+    {
+      "date": "2025-11-29",
+      "cum_pnl": -11.14
+    },
+    {
+      "date": "2025-11-29",
+      "cum_pnl": -12.14
+    },
+    {
+      "date": "2025-11-29",
+      "cum_pnl": -13.14
+    },
+    {
+      "date": "2025-11-30",
+      "cum_pnl": -14.14
+    },
+    {
+      "date": "2025-11-30",
+      "cum_pnl": -13.23
+    },
+    {
+      "date": "2025-11-30",
+      "cum_pnl": -12.32
+    },
+    {
+      "date": "2025-11-30",
+      "cum_pnl": -11.41
+    },
+    {
+      "date": "2025-12-01",
+      "cum_pnl": -12.41
+    },
+    {
+      "date": "2025-12-01",
+      "cum_pnl": -11.5
+    },
+    {
+      "date": "2025-12-03",
+      "cum_pnl": -10.59
+    },
+    {
+      "date": "2025-12-03",
+      "cum_pnl": -11.59
+    },
+    {
+      "date": "2025-12-03",
+      "cum_pnl": -12.59
+    },
+    {
+      "date": "2025-12-04",
+      "cum_pnl": -11.68
+    },
+    {
+      "date": "2025-12-04",
+      "cum_pnl": -12.68
+    },
+    {
+      "date": "2025-12-04",
+      "cum_pnl": -11.77
+    },
+    {
+      "date": "2025-12-04",
+      "cum_pnl": -10.86
+    },
+    {
+      "date": "2025-12-05",
+      "cum_pnl": -9.95
+    },
+    {
+      "date": "2025-12-05",
+      "cum_pnl": -9.04
+    },
+    {
+      "date": "2025-12-05",
+      "cum_pnl": -10.04
+    },
+    {
+      "date": "2025-12-05",
+      "cum_pnl": -9.13
+    },
+    {
+      "date": "2025-12-05",
+      "cum_pnl": -10.13
+    },
+    {
+      "date": "2025-12-05",
+      "cum_pnl": -11.13
+    },
+    {
+      "date": "2025-12-05",
+      "cum_pnl": -12.13
+    },
+    {
+      "date": "2025-12-05",
+      "cum_pnl": -13.13
+    },
+    {
+      "date": "2025-12-06",
+      "cum_pnl": -14.13
+    },
+    {
+      "date": "2025-12-06",
+      "cum_pnl": -13.22
+    },
+    {
+      "date": "2025-12-06",
+      "cum_pnl": -14.22
+    },
+    {
+      "date": "2025-12-06",
+      "cum_pnl": -13.31
+    },
+    {
+      "date": "2025-12-06",
+      "cum_pnl": -12.4
+    },
+    {
+      "date": "2025-12-07",
+      "cum_pnl": -13.4
+    },
+    {
+      "date": "2025-12-07",
+      "cum_pnl": -12.49
+    },
+    {
+      "date": "2025-12-07",
+      "cum_pnl": -13.49
+    },
+    {
+      "date": "2025-12-08",
+      "cum_pnl": -14.49
+    },
+    {
+      "date": "2025-12-10",
+      "cum_pnl": -13.58
+    },
+    {
+      "date": "2025-12-10",
+      "cum_pnl": -14.58
+    },
+    {
+      "date": "2025-12-11",
+      "cum_pnl": -15.58
+    },
+    {
+      "date": "2025-12-11",
+      "cum_pnl": -14.67
+    },
+    {
+      "date": "2025-12-11",
+      "cum_pnl": -15.67
+    },
+    {
+      "date": "2025-12-12",
+      "cum_pnl": -16.67
+    },
+    {
+      "date": "2025-12-12",
+      "cum_pnl": -15.76
+    },
+    {
+      "date": "2025-12-12",
+      "cum_pnl": -16.76
+    },
+    {
+      "date": "2025-12-12",
+      "cum_pnl": -17.76
+    },
+    {
+      "date": "2025-12-12",
+      "cum_pnl": -16.85
+    },
+    {
+      "date": "2025-12-13",
+      "cum_pnl": -15.94
+    },
+    {
+      "date": "2025-12-13",
+      "cum_pnl": -16.94
+    },
+    {
+      "date": "2025-12-14",
+      "cum_pnl": -17.94
+    },
+    {
+      "date": "2025-12-14",
+      "cum_pnl": -17.03
+    },
+    {
+      "date": "2025-12-14",
+      "cum_pnl": -16.12
+    },
+    {
+      "date": "2025-12-14",
+      "cum_pnl": -17.12
+    },
+    {
+      "date": "2025-12-15",
+      "cum_pnl": -18.12
+    },
+    {
+      "date": "2025-12-15",
+      "cum_pnl": -17.21
+    },
+    {
+      "date": "2025-12-15",
+      "cum_pnl": -18.21
+    },
+    {
+      "date": "2025-12-17",
+      "cum_pnl": -17.3
+    },
+    {
+      "date": "2025-12-17",
+      "cum_pnl": -18.3
+    },
+    {
+      "date": "2025-12-18",
+      "cum_pnl": -19.3
+    },
+    {
+      "date": "2025-12-18",
+      "cum_pnl": -18.39
+    },
+    {
+      "date": "2025-12-18",
+      "cum_pnl": -17.48
+    },
+    {
+      "date": "2025-12-18",
+      "cum_pnl": -16.57
+    },
+    {
+      "date": "2025-12-18",
+      "cum_pnl": -17.57
+    },
+    {
+      "date": "2025-12-18",
+      "cum_pnl": -16.66
+    },
+    {
+      "date": "2025-12-18",
+      "cum_pnl": -17.66
+    },
+    {
+      "date": "2025-12-19",
+      "cum_pnl": -16.75
+    },
+    {
+      "date": "2025-12-19",
+      "cum_pnl": -17.75
+    },
+    {
+      "date": "2025-12-19",
+      "cum_pnl": -18.75
+    },
+    {
+      "date": "2025-12-20",
+      "cum_pnl": -19.75
+    },
+    {
+      "date": "2025-12-20",
+      "cum_pnl": -20.75
+    },
+    {
+      "date": "2025-12-20",
+      "cum_pnl": -19.84
+    },
+    {
+      "date": "2025-12-20",
+      "cum_pnl": -18.93
+    },
+    {
+      "date": "2025-12-20",
+      "cum_pnl": -18.02
+    },
+    {
+      "date": "2025-12-20",
+      "cum_pnl": -17.11
+    },
+    {
+      "date": "2025-12-20",
+      "cum_pnl": -18.11
+    },
+    {
+      "date": "2025-12-20",
+      "cum_pnl": -19.11
+    },
+    {
+      "date": "2025-12-20",
+      "cum_pnl": -20.11
+    },
+    {
+      "date": "2025-12-21",
+      "cum_pnl": -21.11
+    },
+    {
+      "date": "2025-12-21",
+      "cum_pnl": -22.11
+    },
+    {
+      "date": "2025-12-22",
+      "cum_pnl": -23.11
+    },
+    {
+      "date": "2025-12-22",
+      "cum_pnl": -22.2
+    },
+    {
+      "date": "2025-12-22",
+      "cum_pnl": -21.29
+    },
+    {
+      "date": "2025-12-23",
+      "cum_pnl": -22.29
+    },
+    {
+      "date": "2025-12-23",
+      "cum_pnl": -23.29
+    },
+    {
+      "date": "2025-12-23",
+      "cum_pnl": -22.38
+    },
+    {
+      "date": "2025-12-23",
+      "cum_pnl": -21.47
+    },
+    {
+      "date": "2025-12-23",
+      "cum_pnl": -20.56
+    },
+    {
+      "date": "2025-12-23",
+      "cum_pnl": -21.56
+    },
+    {
+      "date": "2025-12-23",
+      "cum_pnl": -20.65
+    },
+    {
+      "date": "2025-12-25",
+      "cum_pnl": -19.74
+    },
+    {
+      "date": "2025-12-25",
+      "cum_pnl": -18.83
+    },
+    {
+      "date": "2025-12-25",
+      "cum_pnl": -19.83
+    },
+    {
+      "date": "2025-12-25",
+      "cum_pnl": -18.92
+    },
+    {
+      "date": "2025-12-26",
+      "cum_pnl": -18.01
+    },
+    {
+      "date": "2025-12-26",
+      "cum_pnl": -17.1
+    },
+    {
+      "date": "2025-12-26",
+      "cum_pnl": -18.1
+    },
+    {
+      "date": "2025-12-26",
+      "cum_pnl": -17.19
+    },
+    {
+      "date": "2025-12-26",
+      "cum_pnl": -16.28
+    },
+    {
+      "date": "2025-12-26",
+      "cum_pnl": -17.28
+    },
+    {
+      "date": "2025-12-27",
+      "cum_pnl": -18.28
+    },
+    {
+      "date": "2025-12-27",
+      "cum_pnl": -19.28
+    },
+    {
+      "date": "2025-12-27",
+      "cum_pnl": -20.28
+    },
+    {
+      "date": "2025-12-28",
+      "cum_pnl": -21.28
+    },
+    {
+      "date": "2025-12-28",
+      "cum_pnl": -22.28
+    },
+    {
+      "date": "2025-12-28",
+      "cum_pnl": -21.37
+    },
+    {
+      "date": "2025-12-28",
+      "cum_pnl": -22.37
+    },
+    {
+      "date": "2025-12-29",
+      "cum_pnl": -21.46
+    },
+    {
+      "date": "2025-12-29",
+      "cum_pnl": -22.46
+    },
+    {
+      "date": "2025-12-29",
+      "cum_pnl": -23.46
+    },
+    {
+      "date": "2025-12-29",
+      "cum_pnl": -24.46
+    },
+    {
+      "date": "2025-12-29",
+      "cum_pnl": -23.55
+    },
+    {
+      "date": "2025-12-29",
+      "cum_pnl": -22.64
+    },
+    {
+      "date": "2025-12-29",
+      "cum_pnl": -21.73
+    },
+    {
+      "date": "2025-12-30",
+      "cum_pnl": -22.73
+    },
+    {
+      "date": "2025-12-30",
+      "cum_pnl": -21.82
+    },
+    {
+      "date": "2025-12-30",
+      "cum_pnl": -20.91
+    },
+    {
+      "date": "2025-12-30",
+      "cum_pnl": -20.0
+    },
+    {
+      "date": "2025-12-31",
+      "cum_pnl": -21.0
+    },
+    {
+      "date": "2025-12-31",
+      "cum_pnl": -20.09
+    },
+    {
+      "date": "2025-12-31",
+      "cum_pnl": -21.09
+    },
+    {
+      "date": "2025-12-31",
+      "cum_pnl": -22.09
+    },
+    {
+      "date": "2025-12-31",
+      "cum_pnl": -21.18
+    },
+    {
+      "date": "2026-01-01",
+      "cum_pnl": -22.18
+    },
+    {
+      "date": "2026-01-01",
+      "cum_pnl": -21.27
+    },
+    {
+      "date": "2026-01-01",
+      "cum_pnl": -22.27
+    },
+    {
+      "date": "2026-01-01",
+      "cum_pnl": -21.36
+    },
+    {
+      "date": "2026-01-01",
+      "cum_pnl": -22.36
+    },
+    {
+      "date": "2026-01-02",
+      "cum_pnl": -21.45
+    },
+    {
+      "date": "2026-01-02",
+      "cum_pnl": -20.54
+    },
+    {
+      "date": "2026-01-02",
+      "cum_pnl": -21.54
+    },
+    {
+      "date": "2026-01-02",
+      "cum_pnl": -20.63
+    },
+    {
+      "date": "2026-01-02",
+      "cum_pnl": -21.63
+    },
+    {
+      "date": "2026-01-02",
+      "cum_pnl": -20.72
+    },
+    {
+      "date": "2026-01-02",
+      "cum_pnl": -19.81
+    },
+    {
+      "date": "2026-01-02",
+      "cum_pnl": -20.81
+    },
+    {
+      "date": "2026-01-03",
+      "cum_pnl": -19.9
+    },
+    {
+      "date": "2026-01-03",
+      "cum_pnl": -18.99
+    },
+    {
+      "date": "2026-01-03",
+      "cum_pnl": -18.08
+    },
+    {
+      "date": "2026-01-03",
+      "cum_pnl": -17.17
+    },
+    {
+      "date": "2026-01-03",
+      "cum_pnl": -18.17
+    },
+    {
+      "date": "2026-01-03",
+      "cum_pnl": -17.26
+    },
+    {
+      "date": "2026-01-04",
+      "cum_pnl": -16.35
+    },
+    {
+      "date": "2026-01-04",
+      "cum_pnl": -15.44
+    },
+    {
+      "date": "2026-01-04",
+      "cum_pnl": -16.44
+    },
+    {
+      "date": "2026-01-04",
+      "cum_pnl": -15.53
+    },
+    {
+      "date": "2026-01-04",
+      "cum_pnl": -16.53
+    },
+    {
+      "date": "2026-01-05",
+      "cum_pnl": -15.62
+    },
+    {
+      "date": "2026-01-05",
+      "cum_pnl": -16.62
+    },
+    {
+      "date": "2026-01-05",
+      "cum_pnl": -15.71
+    },
+    {
+      "date": "2026-01-05",
+      "cum_pnl": -14.8
+    },
+    {
+      "date": "2026-01-05",
+      "cum_pnl": -15.8
+    },
+    {
+      "date": "2026-01-05",
+      "cum_pnl": -16.8
+    },
+    {
+      "date": "2026-01-06",
+      "cum_pnl": -15.89
+    },
+    {
+      "date": "2026-01-06",
+      "cum_pnl": -14.98
+    },
+    {
+      "date": "2026-01-07",
+      "cum_pnl": -15.98
+    },
+    {
+      "date": "2026-01-07",
+      "cum_pnl": -16.98
+    },
+    {
+      "date": "2026-01-07",
+      "cum_pnl": -16.07
+    },
+    {
+      "date": "2026-01-07",
+      "cum_pnl": -15.16
+    },
+    {
+      "date": "2026-01-07",
+      "cum_pnl": -16.16
+    },
+    {
+      "date": "2026-01-07",
+      "cum_pnl": -17.16
+    },
+    {
+      "date": "2026-01-07",
+      "cum_pnl": -18.16
+    }
+  ],
+  "picks_detail": [
+    {
+      "date": "2025-11-03",
+      "match": "Portland Trail Blazers vs Los Angeles Lakers",
+      "side": "OVER",
+      "line": 227.5,
+      "model_total": 237.0,
+      "edge_pts": 9.49,
+      "actual": 238.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-04",
+      "match": "New Orleans Pelicans vs Charlotte Hornets",
+      "side": "OVER",
+      "line": 226.5,
+      "model_total": 238.0,
+      "edge_pts": 11.54,
+      "actual": 228.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-04",
+      "match": "Atlanta Hawks vs Orlando Magic",
+      "side": "OVER",
+      "line": 228.5,
+      "model_total": 233.2,
+      "edge_pts": 4.71,
+      "actual": 239.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-04",
+      "match": "LA Clippers vs Oklahoma City Thunder",
+      "side": "OVER",
+      "line": 219.5,
+      "model_total": 228.8,
+      "edge_pts": 9.35,
+      "actual": 233.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-05",
+      "match": "Indiana Pacers vs Brooklyn Nets",
+      "side": "OVER",
+      "line": 230.5,
+      "model_total": 236.4,
+      "edge_pts": 5.93,
+      "actual": 215.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-05",
+      "match": "Memphis Grizzlies vs Houston Rockets",
+      "side": "OVER",
+      "line": 230.5,
+      "model_total": 236.4,
+      "edge_pts": 5.94,
+      "actual": 233.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-05",
+      "match": "Portland Trail Blazers vs Oklahoma City Thunder",
+      "side": "OVER",
+      "line": 229.5,
+      "model_total": 234.9,
+      "edge_pts": 5.43,
+      "actual": 240.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-05",
+      "match": "Sacramento Kings vs Golden State Warriors",
+      "side": "OVER",
+      "line": 225.5,
+      "model_total": 234.8,
+      "edge_pts": 9.27,
+      "actual": 237.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-06",
+      "match": "Phoenix Suns vs LA Clippers",
+      "side": "OVER",
+      "line": 224.5,
+      "model_total": 232.0,
+      "edge_pts": 7.49,
+      "actual": 217.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-07",
+      "match": "Washington Wizards vs Cleveland Cavaliers",
+      "side": "UNDER",
+      "line": 241.5,
+      "model_total": 235.6,
+      "edge_pts": -5.94,
+      "actual": 263.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-07",
+      "match": "Atlanta Hawks vs Toronto Raptors",
+      "side": "OVER",
+      "line": 232.5,
+      "model_total": 236.2,
+      "edge_pts": 3.75,
+      "actual": 206.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-07",
+      "match": "San Antonio Spurs vs Houston Rockets",
+      "side": "OVER",
+      "line": 223.5,
+      "model_total": 231.9,
+      "edge_pts": 8.43,
+      "actual": 231.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-07",
+      "match": "Memphis Grizzlies vs Dallas Mavericks",
+      "side": "UNDER",
+      "line": 232.5,
+      "model_total": 227.8,
+      "edge_pts": -4.72,
+      "actual": 222.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-07",
+      "match": "Miami Heat vs Charlotte Hornets",
+      "side": "OVER",
+      "line": 235.5,
+      "model_total": 240.4,
+      "edge_pts": 4.88,
+      "actual": 234.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-07",
+      "match": "Milwaukee Bucks vs Chicago Bulls",
+      "side": "UNDER",
+      "line": 240.5,
+      "model_total": 237.5,
+      "edge_pts": -3.0,
+      "actual": 236.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-07",
+      "match": "Denver Nuggets vs Golden State Warriors",
+      "side": "OVER",
+      "line": 230.5,
+      "model_total": 235.5,
+      "edge_pts": 4.96,
+      "actual": 233.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-08",
+      "match": "Cleveland Cavaliers vs Chicago Bulls",
+      "side": "UNDER",
+      "line": 239.5,
+      "model_total": 235.3,
+      "edge_pts": -4.17,
+      "actual": 250.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-08",
+      "match": "Atlanta Hawks vs Los Angeles Lakers",
+      "side": "OVER",
+      "line": 228.5,
+      "model_total": 233.5,
+      "edge_pts": 5.0,
+      "actual": 224.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-08",
+      "match": "San Antonio Spurs vs New Orleans Pelicans",
+      "side": "OVER",
+      "line": 219.5,
+      "model_total": 228.2,
+      "edge_pts": 8.75,
+      "actual": 245.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-08",
+      "match": "LA Clippers vs Phoenix Suns",
+      "side": "OVER",
+      "line": 226.5,
+      "model_total": 230.3,
+      "edge_pts": 3.76,
+      "actual": 217.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-09",
+      "match": "Milwaukee Bucks vs Houston Rockets",
+      "side": "OVER",
+      "line": 231.5,
+      "model_total": 237.2,
+      "edge_pts": 5.71,
+      "actual": 237.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-09",
+      "match": "New York Knicks vs Brooklyn Nets",
+      "side": "OVER",
+      "line": 222.5,
+      "model_total": 234.2,
+      "edge_pts": 11.69,
+      "actual": 232.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-09",
+      "match": "Golden State Warriors vs Indiana Pacers",
+      "side": "OVER",
+      "line": 220.5,
+      "model_total": 231.2,
+      "edge_pts": 10.68,
+      "actual": 197.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-10",
+      "match": "Charlotte Hornets vs Los Angeles Lakers",
+      "side": "OVER",
+      "line": 230.5,
+      "model_total": 237.4,
+      "edge_pts": 6.95,
+      "actual": 232.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-10",
+      "match": "Phoenix Suns vs New Orleans Pelicans",
+      "side": "OVER",
+      "line": 223.5,
+      "model_total": 231.8,
+      "edge_pts": 8.27,
+      "actual": 219.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-10",
+      "match": "LA Clippers vs Atlanta Hawks",
+      "side": "OVER",
+      "line": 221.5,
+      "model_total": 227.4,
+      "edge_pts": 5.93,
+      "actual": 207.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-11",
+      "match": "Brooklyn Nets vs Toronto Raptors",
+      "side": "OVER",
+      "line": 231.5,
+      "model_total": 235.9,
+      "edge_pts": 4.45,
+      "actual": 228.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-11",
+      "match": "New York Knicks vs Memphis Grizzlies",
+      "side": "UNDER",
+      "line": 238.5,
+      "model_total": 231.5,
+      "edge_pts": -6.98,
+      "actual": 253.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-11",
+      "match": "Utah Jazz vs Indiana Pacers",
+      "side": "UNDER",
+      "line": 243.5,
+      "model_total": 229.3,
+      "edge_pts": -14.2,
+      "actual": 280.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-11",
+      "match": "Sacramento Kings vs Denver Nuggets",
+      "side": "UNDER",
+      "line": 243.5,
+      "model_total": 237.2,
+      "edge_pts": -6.29,
+      "actual": 230.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-12",
+      "match": "New York Knicks vs Orlando Magic",
+      "side": "OVER",
+      "line": 227.5,
+      "model_total": 232.4,
+      "edge_pts": 4.9,
+      "actual": 231.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-12",
+      "match": "Detroit Pistons vs Chicago Bulls",
+      "side": "OVER",
+      "line": 229.5,
+      "model_total": 234.4,
+      "edge_pts": 4.9,
+      "actual": 237.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-12",
+      "match": "Charlotte Hornets vs Milwaukee Bucks",
+      "side": "OVER",
+      "line": 228.5,
+      "model_total": 237.7,
+      "edge_pts": 9.2,
+      "actual": 211.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-12",
+      "match": "Miami Heat vs Cleveland Cavaliers",
+      "side": "UNDER",
+      "line": 247.5,
+      "model_total": 243.2,
+      "edge_pts": -4.35,
+      "actual": 246.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-12",
+      "match": "San Antonio Spurs vs Golden State Warriors",
+      "side": "UNDER",
+      "line": 232.5,
+      "model_total": 228.2,
+      "edge_pts": -4.35,
+      "actual": 245.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-12",
+      "match": "LA Clippers vs Denver Nuggets",
+      "side": "OVER",
+      "line": 221.5,
+      "model_total": 228.8,
+      "edge_pts": 7.3,
+      "actual": 246.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-13",
+      "match": "Phoenix Suns vs Indiana Pacers",
+      "side": "UNDER",
+      "line": 232.5,
+      "model_total": 229.3,
+      "edge_pts": -3.15,
+      "actual": 231.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-14",
+      "match": "Orlando Magic vs Brooklyn Nets",
+      "side": "OVER",
+      "line": 224.5,
+      "model_total": 232.3,
+      "edge_pts": 7.8,
+      "actual": 203.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-14",
+      "match": "New Orleans Pelicans vs Los Angeles Lakers",
+      "side": "OVER",
+      "line": 227.5,
+      "model_total": 230.7,
+      "edge_pts": 3.15,
+      "actual": 222.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-14",
+      "match": "San Antonio Spurs vs Golden State Warriors",
+      "side": "UNDER",
+      "line": 233.5,
+      "model_total": 228.9,
+      "edge_pts": -4.6,
+      "actual": 217.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-15",
+      "match": "Cleveland Cavaliers vs Memphis Grizzlies",
+      "side": "UNDER",
+      "line": 241.5,
+      "model_total": 235.1,
+      "edge_pts": -6.35,
+      "actual": 208.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-15",
+      "match": "Indiana Pacers vs Toronto Raptors",
+      "side": "UNDER",
+      "line": 235.5,
+      "model_total": 230.2,
+      "edge_pts": -5.3,
+      "actual": 240.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-15",
+      "match": "Charlotte Hornets vs Oklahoma City Thunder",
+      "side": "OVER",
+      "line": 224.5,
+      "model_total": 231.3,
+      "edge_pts": 6.85,
+      "actual": 205.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-15",
+      "match": "Milwaukee Bucks vs Los Angeles Lakers",
+      "side": "OVER",
+      "line": 229.5,
+      "model_total": 234.4,
+      "edge_pts": 4.9,
+      "actual": 214.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-16",
+      "match": "Boston Celtics vs LA Clippers",
+      "side": "OVER",
+      "line": 218.5,
+      "model_total": 224.2,
+      "edge_pts": 5.75,
+      "actual": 239.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-16",
+      "match": "San Antonio Spurs vs Sacramento Kings",
+      "side": "UNDER",
+      "line": 244.5,
+      "model_total": 235.6,
+      "edge_pts": -8.9,
+      "actual": 233.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-16",
+      "match": "Washington Wizards vs Brooklyn Nets",
+      "side": "OVER",
+      "line": 231.5,
+      "model_total": 235.9,
+      "edge_pts": 4.45,
+      "actual": 235.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-16",
+      "match": "Houston Rockets vs Orlando Magic",
+      "side": "OVER",
+      "line": 223.5,
+      "model_total": 234.4,
+      "edge_pts": 10.9,
+      "actual": 230.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-16",
+      "match": "Dallas Mavericks vs Portland Trail Blazers",
+      "side": "UNDER",
+      "line": 236.5,
+      "model_total": 231.1,
+      "edge_pts": -5.35,
+      "actual": 271.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-16",
+      "match": "Utah Jazz vs Chicago Bulls",
+      "side": "UNDER",
+      "line": 245.5,
+      "model_total": 239.9,
+      "edge_pts": -5.6,
+      "actual": 297.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-16",
+      "match": "Phoenix Suns vs Atlanta Hawks",
+      "side": "OVER",
+      "line": 226.5,
+      "model_total": 230.6,
+      "edge_pts": 4.1,
+      "actual": 246.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-17",
+      "match": "Cleveland Cavaliers vs Milwaukee Bucks",
+      "side": "OVER",
+      "line": 234.5,
+      "model_total": 238.7,
+      "edge_pts": 4.15,
+      "actual": 224.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-17",
+      "match": "Philadelphia 76ers vs LA Clippers",
+      "side": "OVER",
+      "line": 221.5,
+      "model_total": 231.8,
+      "edge_pts": 10.3,
+      "actual": 218.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-17",
+      "match": "Toronto Raptors vs Charlotte Hornets",
+      "side": "UNDER",
+      "line": 242.5,
+      "model_total": 232.3,
+      "edge_pts": -10.15,
+      "actual": 218.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-18",
+      "match": "Orlando Magic vs Golden State Warriors",
+      "side": "OVER",
+      "line": 223.5,
+      "model_total": 227.3,
+      "edge_pts": 3.8,
+      "actual": 234.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-18",
+      "match": "Brooklyn Nets vs Boston Celtics",
+      "side": "OVER",
+      "line": 222.5,
+      "model_total": 226.7,
+      "edge_pts": 4.15,
+      "actual": 212.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-18",
+      "match": "Atlanta Hawks vs Detroit Pistons",
+      "side": "OVER",
+      "line": 226.5,
+      "model_total": 231.9,
+      "edge_pts": 5.4,
+      "actual": 232.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-18",
+      "match": "San Antonio Spurs vs Memphis Grizzlies",
+      "side": "UNDER",
+      "line": 234.5,
+      "model_total": 228.8,
+      "edge_pts": -5.7,
+      "actual": 212.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-18",
+      "match": "Los Angeles Lakers vs Utah Jazz",
+      "side": "UNDER",
+      "line": 240.5,
+      "model_total": 236.1,
+      "edge_pts": -4.35,
+      "actual": 266.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-19",
+      "match": "Indiana Pacers vs Charlotte Hornets",
+      "side": "UNDER",
+      "line": 237.5,
+      "model_total": 230.2,
+      "edge_pts": -7.25,
+      "actual": 245.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-19",
+      "match": "Cleveland Cavaliers vs Houston Rockets",
+      "side": "OVER",
+      "line": 232.5,
+      "model_total": 239.0,
+      "edge_pts": 6.55,
+      "actual": 218.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-19",
+      "match": "Oklahoma City Thunder vs Sacramento Kings",
+      "side": "OVER",
+      "line": 231.5,
+      "model_total": 235.0,
+      "edge_pts": 3.55,
+      "actual": 212.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-20",
+      "match": "Orlando Magic vs LA Clippers",
+      "side": "OVER",
+      "line": 218.5,
+      "model_total": 229.5,
+      "edge_pts": 11.0,
+      "actual": 230.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-20",
+      "match": "Milwaukee Bucks vs Philadelphia 76ers",
+      "side": "OVER",
+      "line": 223.5,
+      "model_total": 231.5,
+      "edge_pts": 8.0,
+      "actual": 237.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-21",
+      "match": "Cleveland Cavaliers vs Indiana Pacers",
+      "side": "UNDER",
+      "line": 241.5,
+      "model_total": 236.2,
+      "edge_pts": -5.3,
+      "actual": 229.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-21",
+      "match": "Toronto Raptors vs Washington Wizards",
+      "side": "UNDER",
+      "line": 239.5,
+      "model_total": 232.8,
+      "edge_pts": -6.7,
+      "actual": 250.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-21",
+      "match": "Chicago Bulls vs Miami Heat",
+      "side": "UNDER",
+      "line": 250.5,
+      "model_total": 247.0,
+      "edge_pts": -3.5,
+      "actual": 250.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-21",
+      "match": "Dallas Mavericks vs New Orleans Pelicans",
+      "side": "UNDER",
+      "line": 233.5,
+      "model_total": 229.7,
+      "edge_pts": -3.75,
+      "actual": 233.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-22",
+      "match": "Charlotte Hornets vs LA Clippers",
+      "side": "OVER",
+      "line": 227.5,
+      "model_total": 230.8,
+      "edge_pts": 3.3,
+      "actual": 247.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-22",
+      "match": "Orlando Magic vs New York Knicks",
+      "side": "OVER",
+      "line": 230.5,
+      "model_total": 234.0,
+      "edge_pts": 3.5,
+      "actual": 254.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-22",
+      "match": "Milwaukee Bucks vs Detroit Pistons",
+      "side": "OVER",
+      "line": 225.5,
+      "model_total": 232.4,
+      "edge_pts": 6.95,
+      "actual": 245.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-23",
+      "match": "Philadelphia 76ers vs Miami Heat",
+      "side": "UNDER",
+      "line": 240.5,
+      "model_total": 237.2,
+      "edge_pts": -3.35,
+      "actual": 244.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-23",
+      "match": "Cleveland Cavaliers vs LA Clippers",
+      "side": "OVER",
+      "line": 229.5,
+      "model_total": 236.1,
+      "edge_pts": 6.6,
+      "actual": 225.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-23",
+      "match": "Atlanta Hawks vs Charlotte Hornets",
+      "side": "OVER",
+      "line": 228.5,
+      "model_total": 232.2,
+      "edge_pts": 3.75,
+      "actual": 223.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-23",
+      "match": "Oklahoma City Thunder vs Portland Trail Blazers",
+      "side": "OVER",
+      "line": 233.5,
+      "model_total": 237.0,
+      "edge_pts": 3.5,
+      "actual": 217.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-23",
+      "match": "Utah Jazz vs Los Angeles Lakers",
+      "side": "UNDER",
+      "line": 245.5,
+      "model_total": 239.8,
+      "edge_pts": -5.7,
+      "actual": 214.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-24",
+      "match": "Toronto Raptors vs Cleveland Cavaliers",
+      "side": "OVER",
+      "line": 231.5,
+      "model_total": 235.0,
+      "edge_pts": 3.5,
+      "actual": 209.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-24",
+      "match": "Indiana Pacers vs Detroit Pistons",
+      "side": "UNDER",
+      "line": 236.5,
+      "model_total": 232.9,
+      "edge_pts": -3.65,
+      "actual": 239.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-24",
+      "match": "Brooklyn Nets vs New York Knicks",
+      "side": "OVER",
+      "line": 228.5,
+      "model_total": 232.4,
+      "edge_pts": 3.85,
+      "actual": 213.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-24",
+      "match": "Memphis Grizzlies vs Denver Nuggets",
+      "side": "UNDER",
+      "line": 235.5,
+      "model_total": 229.3,
+      "edge_pts": -6.2,
+      "actual": 240.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-24",
+      "match": "New Orleans Pelicans vs Chicago Bulls",
+      "side": "UNDER",
+      "line": 243.5,
+      "model_total": 237.8,
+      "edge_pts": -5.75,
+      "actual": 273.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-24",
+      "match": "Milwaukee Bucks vs Portland Trail Blazers",
+      "side": "OVER",
+      "line": 230.5,
+      "model_total": 239.7,
+      "edge_pts": 9.15,
+      "actual": 218.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-24",
+      "match": "Phoenix Suns vs Houston Rockets",
+      "side": "OVER",
+      "line": 222.5,
+      "model_total": 229.2,
+      "edge_pts": 6.65,
+      "actual": 206.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-25",
+      "match": "Washington Wizards vs Atlanta Hawks",
+      "side": "UNDER",
+      "line": 240.5,
+      "model_total": 235.8,
+      "edge_pts": -4.7,
+      "actual": 245.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-25",
+      "match": "Los Angeles Lakers vs LA Clippers",
+      "side": "OVER",
+      "line": 227.5,
+      "model_total": 230.7,
+      "edge_pts": 3.15,
+      "actual": 253.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-26",
+      "match": "Charlotte Hornets vs New York Knicks",
+      "side": "UNDER",
+      "line": 242.5,
+      "model_total": 235.2,
+      "edge_pts": -7.35,
+      "actual": 230.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-26",
+      "match": "Oklahoma City Thunder vs Minnesota Timberwolves",
+      "side": "OVER",
+      "line": 226.5,
+      "model_total": 230.1,
+      "edge_pts": 3.6,
+      "actual": 218.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-26",
+      "match": "New Orleans Pelicans vs Memphis Grizzlies",
+      "side": "UNDER",
+      "line": 235.5,
+      "model_total": 229.7,
+      "edge_pts": -5.8,
+      "actual": 261.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-26",
+      "match": "Sacramento Kings vs Phoenix Suns",
+      "side": "UNDER",
+      "line": 233.5,
+      "model_total": 229.9,
+      "edge_pts": -3.55,
+      "actual": 212.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-26",
+      "match": "Golden State Warriors vs Houston Rockets",
+      "side": "OVER",
+      "line": 224.5,
+      "model_total": 229.1,
+      "edge_pts": 4.6,
+      "actual": 204.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-28",
+      "match": "Indiana Pacers vs Washington Wizards",
+      "side": "UNDER",
+      "line": 240.5,
+      "model_total": 237.5,
+      "edge_pts": -3.0,
+      "actual": 205.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-28",
+      "match": "Detroit Pistons vs Orlando Magic",
+      "side": "OVER",
+      "line": 230.5,
+      "model_total": 235.3,
+      "edge_pts": 4.8,
+      "actual": 221.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-28",
+      "match": "Charlotte Hornets vs Chicago Bulls",
+      "side": "UNDER",
+      "line": 249.5,
+      "model_total": 242.4,
+      "edge_pts": -7.1,
+      "actual": 239.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-28",
+      "match": "New York Knicks vs Milwaukee Bucks",
+      "side": "OVER",
+      "line": 231.5,
+      "model_total": 234.7,
+      "edge_pts": 3.2,
+      "actual": 227.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-28",
+      "match": "Atlanta Hawks vs Cleveland Cavaliers",
+      "side": "UNDER",
+      "line": 236.5,
+      "model_total": 233.2,
+      "edge_pts": -3.3,
+      "actual": 253.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-28",
+      "match": "Brooklyn Nets vs Philadelphia 76ers",
+      "side": "OVER",
+      "line": 222.5,
+      "model_total": 226.9,
+      "edge_pts": 4.4,
+      "actual": 218.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-28",
+      "match": "Denver Nuggets vs San Antonio Spurs",
+      "side": "UNDER",
+      "line": 238.5,
+      "model_total": 234.2,
+      "edge_pts": -4.25,
+      "actual": 275.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-28",
+      "match": "LA Clippers vs Memphis Grizzlies",
+      "side": "OVER",
+      "line": 224.5,
+      "model_total": 230.4,
+      "edge_pts": 5.95,
+      "actual": 219.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-29",
+      "match": "Milwaukee Bucks vs Brooklyn Nets",
+      "side": "OVER",
+      "line": 217.5,
+      "model_total": 225.8,
+      "edge_pts": 8.25,
+      "actual": 215.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-29",
+      "match": "Golden State Warriors vs New Orleans Pelicans",
+      "side": "OVER",
+      "line": 228.5,
+      "model_total": 231.7,
+      "edge_pts": 3.15,
+      "actual": 200.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-29",
+      "match": "LA Clippers vs Dallas Mavericks",
+      "side": "OVER",
+      "line": 224.5,
+      "model_total": 233.4,
+      "edge_pts": 8.95,
+      "actual": 224.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-30",
+      "match": "Utah Jazz vs Houston Rockets",
+      "side": "OVER",
+      "line": 233.5,
+      "model_total": 240.8,
+      "edge_pts": 7.25,
+      "actual": 230.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-11-30",
+      "match": "Cleveland Cavaliers vs Boston Celtics",
+      "side": "UNDER",
+      "line": 235.5,
+      "model_total": 230.4,
+      "edge_pts": -5.05,
+      "actual": 232.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-30",
+      "match": "Sacramento Kings vs Memphis Grizzlies",
+      "side": "UNDER",
+      "line": 233.5,
+      "model_total": 228.9,
+      "edge_pts": -4.6,
+      "actual": 222.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-11-30",
+      "match": "Los Angeles Lakers vs New Orleans Pelicans",
+      "side": "OVER",
+      "line": 228.5,
+      "model_total": 233.6,
+      "edge_pts": 5.1,
+      "actual": 254.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-01",
+      "match": "Detroit Pistons vs Atlanta Hawks",
+      "side": "OVER",
+      "line": 232.5,
+      "model_total": 242.2,
+      "edge_pts": 9.7,
+      "actual": 197.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-01",
+      "match": "Utah Jazz vs Houston Rockets",
+      "side": "OVER",
+      "line": 235.5,
+      "model_total": 240.4,
+      "edge_pts": 4.9,
+      "actual": 258.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-03",
+      "match": "Cleveland Cavaliers vs Portland Trail Blazers",
+      "side": "UNDER",
+      "line": 243.5,
+      "model_total": 233.9,
+      "edge_pts": -9.65,
+      "actual": 232.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-03",
+      "match": "Atlanta Hawks vs LA Clippers",
+      "side": "OVER",
+      "line": 225.5,
+      "model_total": 238.9,
+      "edge_pts": 13.4,
+      "actual": 207.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-03",
+      "match": "Milwaukee Bucks vs Detroit Pistons",
+      "side": "OVER",
+      "line": 228.5,
+      "model_total": 232.9,
+      "edge_pts": 4.4,
+      "actual": 222.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-04",
+      "match": "Washington Wizards vs Boston Celtics",
+      "side": "OVER",
+      "line": 231.5,
+      "model_total": 235.1,
+      "edge_pts": 3.65,
+      "actual": 247.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-04",
+      "match": "Philadelphia 76ers vs Golden State Warriors",
+      "side": "OVER",
+      "line": 223.5,
+      "model_total": 229.5,
+      "edge_pts": 6.0,
+      "actual": 197.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-04",
+      "match": "Brooklyn Nets vs Utah Jazz",
+      "side": "OVER",
+      "line": 231.5,
+      "model_total": 236.5,
+      "edge_pts": 5.0,
+      "actual": 233.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-04",
+      "match": "New Orleans Pelicans vs Minnesota Timberwolves",
+      "side": "OVER",
+      "line": 232.5,
+      "model_total": 239.2,
+      "edge_pts": 6.65,
+      "actual": 241.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-05",
+      "match": "Boston Celtics vs Los Angeles Lakers",
+      "side": "OVER",
+      "line": 227.5,
+      "model_total": 235.3,
+      "edge_pts": 7.8,
+      "actual": 231.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-05",
+      "match": "Orlando Magic vs Miami Heat",
+      "side": "UNDER",
+      "line": 241.5,
+      "model_total": 236.8,
+      "edge_pts": -4.7,
+      "actual": 211.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-05",
+      "match": "Cleveland Cavaliers vs San Antonio Spurs",
+      "side": "UNDER",
+      "line": 238.5,
+      "model_total": 231.0,
+      "edge_pts": -7.5,
+      "actual": 247.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-05",
+      "match": "Toronto Raptors vs Charlotte Hornets",
+      "side": "UNDER",
+      "line": 230.5,
+      "model_total": 226.4,
+      "edge_pts": -4.05,
+      "actual": 197.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-05",
+      "match": "Atlanta Hawks vs Denver Nuggets",
+      "side": "UNDER",
+      "line": 245.5,
+      "model_total": 241.2,
+      "edge_pts": -4.3,
+      "actual": 267.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-05",
+      "match": "Memphis Grizzlies vs LA Clippers",
+      "side": "OVER",
+      "line": 222.5,
+      "model_total": 229.4,
+      "edge_pts": 6.95,
+      "actual": 205.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-05",
+      "match": "Milwaukee Bucks vs Philadelphia 76ers",
+      "side": "OVER",
+      "line": 221.5,
+      "model_total": 228.9,
+      "edge_pts": 7.4,
+      "actual": 217.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-05",
+      "match": "Houston Rockets vs Phoenix Suns",
+      "side": "OVER",
+      "line": 218.5,
+      "model_total": 228.8,
+      "edge_pts": 10.25,
+      "actual": 215.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-06",
+      "match": "Brooklyn Nets vs New Orleans Pelicans",
+      "side": "OVER",
+      "line": 227.5,
+      "model_total": 232.6,
+      "edge_pts": 5.05,
+      "actual": 220.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-06",
+      "match": "Detroit Pistons vs Milwaukee Bucks",
+      "side": "OVER",
+      "line": 221.5,
+      "model_total": 230.3,
+      "edge_pts": 8.8,
+      "actual": 236.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-06",
+      "match": "Minnesota Timberwolves vs LA Clippers",
+      "side": "OVER",
+      "line": 227.5,
+      "model_total": 232.4,
+      "edge_pts": 4.9,
+      "actual": 215.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-06",
+      "match": "Miami Heat vs Sacramento Kings",
+      "side": "UNDER",
+      "line": 241.5,
+      "model_total": 230.3,
+      "edge_pts": -11.15,
+      "actual": 238.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-06",
+      "match": "Dallas Mavericks vs Houston Rockets",
+      "side": "OVER",
+      "line": 221.5,
+      "model_total": 226.3,
+      "edge_pts": 4.8,
+      "actual": 231.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-07",
+      "match": "New York Knicks vs Orlando Magic",
+      "side": "OVER",
+      "line": 229.5,
+      "model_total": 233.6,
+      "edge_pts": 4.1,
+      "actual": 206.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-07",
+      "match": "Memphis Grizzlies vs Portland Trail Blazers",
+      "side": "UNDER",
+      "line": 232.5,
+      "model_total": 228.6,
+      "edge_pts": -3.9,
+      "actual": 215.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-07",
+      "match": "Utah Jazz vs Oklahoma City Thunder",
+      "side": "OVER",
+      "line": 232.5,
+      "model_total": 240.6,
+      "edge_pts": 8.1,
+      "actual": 232.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-08",
+      "match": "Minnesota Timberwolves vs Phoenix Suns",
+      "side": "OVER",
+      "line": 226.5,
+      "model_total": 230.5,
+      "edge_pts": 4.0,
+      "actual": 213.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-10",
+      "match": "Oklahoma City Thunder vs Phoenix Suns",
+      "side": "OVER",
+      "line": 221.5,
+      "model_total": 228.5,
+      "edge_pts": 6.95,
+      "actual": 227.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-10",
+      "match": "Los Angeles Lakers vs San Antonio Spurs",
+      "side": "UNDER",
+      "line": 242.5,
+      "model_total": 238.8,
+      "edge_pts": -3.7,
+      "actual": 251.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-11",
+      "match": "Milwaukee Bucks vs Boston Celtics",
+      "side": "OVER",
+      "line": 223.5,
+      "model_total": 231.3,
+      "edge_pts": 7.85,
+      "actual": 217.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-11",
+      "match": "Houston Rockets vs LA Clippers",
+      "side": "OVER",
+      "line": 221.5,
+      "model_total": 225.9,
+      "edge_pts": 4.35,
+      "actual": 228.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-11",
+      "match": "New Orleans Pelicans vs Portland Trail Blazers",
+      "side": "UNDER",
+      "line": 242.5,
+      "model_total": 238.0,
+      "edge_pts": -4.5,
+      "actual": 263.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-12",
+      "match": "Washington Wizards vs Cleveland Cavaliers",
+      "side": "UNDER",
+      "line": 245.5,
+      "model_total": 233.4,
+      "edge_pts": -12.05,
+      "actual": 256.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-12",
+      "match": "Detroit Pistons vs Atlanta Hawks",
+      "side": "OVER",
+      "line": 232.5,
+      "model_total": 236.2,
+      "edge_pts": 3.65,
+      "actual": 257.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-12",
+      "match": "Philadelphia 76ers vs Indiana Pacers",
+      "side": "OVER",
+      "line": 221.5,
+      "model_total": 229.1,
+      "edge_pts": 7.55,
+      "actual": 220.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-12",
+      "match": "Memphis Grizzlies vs Utah Jazz",
+      "side": "UNDER",
+      "line": 243.5,
+      "model_total": 234.8,
+      "edge_pts": -8.75,
+      "actual": 256.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-12",
+      "match": "Dallas Mavericks vs Brooklyn Nets",
+      "side": "OVER",
+      "line": 219.5,
+      "model_total": 223.9,
+      "edge_pts": 4.45,
+      "actual": 230.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-13",
+      "match": "Orlando Magic vs New York Knicks",
+      "side": "OVER",
+      "line": 225.5,
+      "model_total": 230.6,
+      "edge_pts": 5.05,
+      "actual": 252.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-13",
+      "match": "Oklahoma City Thunder vs San Antonio Spurs",
+      "side": "OVER",
+      "line": 232.5,
+      "model_total": 238.0,
+      "edge_pts": 5.5,
+      "actual": 220.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-14",
+      "match": "Brooklyn Nets vs Milwaukee Bucks",
+      "side": "OVER",
+      "line": 215.5,
+      "model_total": 223.5,
+      "edge_pts": 8.05,
+      "actual": 209.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-14",
+      "match": "Atlanta Hawks vs Philadelphia 76ers",
+      "side": "OVER",
+      "line": 226.5,
+      "model_total": 234.2,
+      "edge_pts": 7.7,
+      "actual": 237.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-14",
+      "match": "Chicago Bulls vs New Orleans Pelicans",
+      "side": "UNDER",
+      "line": 247.5,
+      "model_total": 242.2,
+      "edge_pts": -5.25,
+      "actual": 218.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-14",
+      "match": "Portland Trail Blazers vs Golden State Warriors",
+      "side": "UNDER",
+      "line": 237.5,
+      "model_total": 226.2,
+      "edge_pts": -11.25,
+      "actual": 267.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-15",
+      "match": "Boston Celtics vs Detroit Pistons",
+      "side": "OVER",
+      "line": 231.5,
+      "model_total": 235.5,
+      "edge_pts": 4.0,
+      "actual": 217.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-15",
+      "match": "Miami Heat vs Toronto Raptors",
+      "side": "UNDER",
+      "line": 234.5,
+      "model_total": 227.3,
+      "edge_pts": -7.2,
+      "actual": 202.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-15",
+      "match": "Utah Jazz vs Dallas Mavericks",
+      "side": "UNDER",
+      "line": 241.5,
+      "model_total": 236.4,
+      "edge_pts": -5.1,
+      "actual": 273.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-17",
+      "match": "Chicago Bulls vs Cleveland Cavaliers",
+      "side": "UNDER",
+      "line": 243.5,
+      "model_total": 233.1,
+      "edge_pts": -10.45,
+      "actual": 238.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-17",
+      "match": "Minnesota Timberwolves vs Memphis Grizzlies",
+      "side": "OVER",
+      "line": 226.5,
+      "model_total": 231.5,
+      "edge_pts": 5.0,
+      "actual": 226.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-18",
+      "match": "Charlotte Hornets vs Atlanta Hawks",
+      "side": "UNDER",
+      "line": 246.5,
+      "model_total": 233.8,
+      "edge_pts": -12.75,
+      "actual": 259.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-18",
+      "match": "Brooklyn Nets vs Miami Heat",
+      "side": "UNDER",
+      "line": 235.5,
+      "model_total": 225.0,
+      "edge_pts": -10.5,
+      "actual": 201.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-18",
+      "match": "Oklahoma City Thunder vs LA Clippers",
+      "side": "OVER",
+      "line": 221.5,
+      "model_total": 229.6,
+      "edge_pts": 8.1,
+      "actual": 223.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-18",
+      "match": "Denver Nuggets vs Orlando Magic",
+      "side": "OVER",
+      "line": 238.5,
+      "model_total": 242.6,
+      "edge_pts": 4.05,
+      "actual": 241.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-18",
+      "match": "Utah Jazz vs Los Angeles Lakers",
+      "side": "UNDER",
+      "line": 248.5,
+      "model_total": 241.4,
+      "edge_pts": -7.05,
+      "actual": 278.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-18",
+      "match": "Phoenix Suns vs Golden State Warriors",
+      "side": "UNDER",
+      "line": 231.5,
+      "model_total": 224.6,
+      "edge_pts": -6.9,
+      "actual": 197.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-18",
+      "match": "Portland Trail Blazers vs Sacramento Kings",
+      "side": "UNDER",
+      "line": 243.5,
+      "model_total": 232.1,
+      "edge_pts": -11.45,
+      "actual": 267.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-19",
+      "match": "New York Knicks vs Philadelphia 76ers",
+      "side": "UNDER",
+      "line": 234.5,
+      "model_total": 229.9,
+      "edge_pts": -4.65,
+      "actual": 223.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-19",
+      "match": "Atlanta Hawks vs San Antonio Spurs",
+      "side": "OVER",
+      "line": 237.5,
+      "model_total": 243.2,
+      "edge_pts": 5.65,
+      "actual": 224.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-19",
+      "match": "Cleveland Cavaliers vs Chicago Bulls",
+      "side": "UNDER",
+      "line": 238.5,
+      "model_total": 233.6,
+      "edge_pts": -4.95,
+      "actual": 261.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-20",
+      "match": "Denver Nuggets vs Houston Rockets",
+      "side": "OVER",
+      "line": 234.5,
+      "model_total": 239.4,
+      "edge_pts": 4.95,
+      "actual": 216.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-20",
+      "match": "Toronto Raptors vs Boston Celtics",
+      "side": "OVER",
+      "line": 216.5,
+      "model_total": 225.4,
+      "edge_pts": 8.9,
+      "actual": 208.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-20",
+      "match": "Philadelphia 76ers vs Dallas Mavericks",
+      "side": "OVER",
+      "line": 228.5,
+      "model_total": 232.1,
+      "edge_pts": 3.65,
+      "actual": 235.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-20",
+      "match": "New Orleans Pelicans vs Indiana Pacers",
+      "side": "UNDER",
+      "line": 238.5,
+      "model_total": 233.8,
+      "edge_pts": -4.7,
+      "actual": 237.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-20",
+      "match": "Detroit Pistons vs Charlotte Hornets",
+      "side": "UNDER",
+      "line": 239.5,
+      "model_total": 231.2,
+      "edge_pts": -8.3,
+      "actual": 198.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-20",
+      "match": "Memphis Grizzlies vs Washington Wizards",
+      "side": "OVER",
+      "line": 228.5,
+      "model_total": 232.1,
+      "edge_pts": 3.6,
+      "actual": 252.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-20",
+      "match": "Golden State Warriors vs Phoenix Suns",
+      "side": "UNDER",
+      "line": 233.5,
+      "model_total": 221.2,
+      "edge_pts": -12.35,
+      "actual": 235.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-20",
+      "match": "Sacramento Kings vs Portland Trail Blazers",
+      "side": "OVER",
+      "line": 229.5,
+      "model_total": 235.3,
+      "edge_pts": 5.85,
+      "actual": 191.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-20",
+      "match": "LA Clippers vs Los Angeles Lakers",
+      "side": "OVER",
+      "line": 224.5,
+      "model_total": 235.1,
+      "edge_pts": 10.6,
+      "actual": 191.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-21",
+      "match": "Atlanta Hawks vs Chicago Bulls",
+      "side": "UNDER",
+      "line": 260.5,
+      "model_total": 236.9,
+      "edge_pts": -23.55,
+      "actual": 302.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-21",
+      "match": "Minnesota Timberwolves vs Milwaukee Bucks",
+      "side": "OVER",
+      "line": 222.5,
+      "model_total": 228.3,
+      "edge_pts": 5.8,
+      "actual": 203.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-22",
+      "match": "Cleveland Cavaliers vs Charlotte Hornets",
+      "side": "UNDER",
+      "line": 252.5,
+      "model_total": 233.3,
+      "edge_pts": -19.2,
+      "actual": 271.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-22",
+      "match": "Boston Celtics vs Indiana Pacers",
+      "side": "UNDER",
+      "line": 231.5,
+      "model_total": 227.5,
+      "edge_pts": -4.0,
+      "actual": 198.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-22",
+      "match": "Golden State Warriors vs Orlando Magic",
+      "side": "UNDER",
+      "line": 230.5,
+      "model_total": 225.9,
+      "edge_pts": -4.55,
+      "actual": 217.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-23",
+      "match": "Cleveland Cavaliers vs New Orleans Pelicans",
+      "side": "UNDER",
+      "line": 248.5,
+      "model_total": 244.9,
+      "edge_pts": -3.6,
+      "actual": 259.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-23",
+      "match": "Indiana Pacers vs Milwaukee Bucks",
+      "side": "OVER",
+      "line": 216.5,
+      "model_total": 222.8,
+      "edge_pts": 6.25,
+      "actual": 205.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-23",
+      "match": "Atlanta Hawks vs Chicago Bulls",
+      "side": "UNDER",
+      "line": 254.5,
+      "model_total": 242.6,
+      "edge_pts": -11.95,
+      "actual": 249.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-23",
+      "match": "Miami Heat vs Toronto Raptors",
+      "side": "UNDER",
+      "line": 227.5,
+      "model_total": 224.2,
+      "edge_pts": -3.25,
+      "actual": 203.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-23",
+      "match": "Dallas Mavericks vs Denver Nuggets",
+      "side": "OVER",
+      "line": 234.5,
+      "model_total": 240.6,
+      "edge_pts": 6.05,
+      "actual": 261.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-23",
+      "match": "San Antonio Spurs vs Oklahoma City Thunder",
+      "side": "UNDER",
+      "line": 236.5,
+      "model_total": 233.5,
+      "edge_pts": -3.05,
+      "actual": 240.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-23",
+      "match": "LA Clippers vs Houston Rockets",
+      "side": "OVER",
+      "line": 216.5,
+      "model_total": 227.8,
+      "edge_pts": 11.3,
+      "actual": 236.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-25",
+      "match": "Oklahoma City Thunder vs San Antonio Spurs",
+      "side": "UNDER",
+      "line": 246.5,
+      "model_total": 233.1,
+      "edge_pts": -13.4,
+      "actual": 219.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-25",
+      "match": "Golden State Warriors vs Dallas Mavericks",
+      "side": "OVER",
+      "line": 227.5,
+      "model_total": 230.8,
+      "edge_pts": 3.3,
+      "actual": 242.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-25",
+      "match": "Los Angeles Lakers vs Houston Rockets",
+      "side": "OVER",
+      "line": 233.5,
+      "model_total": 236.7,
+      "edge_pts": 3.2,
+      "actual": 215.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-25",
+      "match": "Denver Nuggets vs Minnesota Timberwolves",
+      "side": "OVER",
+      "line": 232.5,
+      "model_total": 237.4,
+      "edge_pts": 4.9,
+      "actual": 280.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-26",
+      "match": "Atlanta Hawks vs Miami Heat",
+      "side": "UNDER",
+      "line": 254.5,
+      "model_total": 235.8,
+      "edge_pts": -18.65,
+      "actual": 237.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-26",
+      "match": "Orlando Magic vs Charlotte Hornets",
+      "side": "UNDER",
+      "line": 236.5,
+      "model_total": 230.1,
+      "edge_pts": -6.4,
+      "actual": 225.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-26",
+      "match": "Indiana Pacers vs Boston Celtics",
+      "side": "UNDER",
+      "line": 230.5,
+      "model_total": 225.4,
+      "edge_pts": -5.1,
+      "actual": 262.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-26",
+      "match": "Chicago Bulls vs Philadelphia 76ers",
+      "side": "UNDER",
+      "line": 239.5,
+      "model_total": 234.6,
+      "edge_pts": -4.95,
+      "actual": 211.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-26",
+      "match": "Memphis Grizzlies vs Milwaukee Bucks",
+      "side": "UNDER",
+      "line": 229.5,
+      "model_total": 226.3,
+      "edge_pts": -3.15,
+      "actual": 229.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-26",
+      "match": "Utah Jazz vs Detroit Pistons",
+      "side": "UNDER",
+      "line": 248.5,
+      "model_total": 241.2,
+      "edge_pts": -7.25,
+      "actual": 260.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-27",
+      "match": "Minnesota Timberwolves vs Brooklyn Nets",
+      "side": "UNDER",
+      "line": 225.5,
+      "model_total": 221.2,
+      "edge_pts": -4.35,
+      "actual": 230.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-27",
+      "match": "Houston Rockets vs Cleveland Cavaliers",
+      "side": "OVER",
+      "line": 230.5,
+      "model_total": 237.9,
+      "edge_pts": 7.35,
+      "actual": 217.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-27",
+      "match": "Miami Heat vs Indiana Pacers",
+      "side": "UNDER",
+      "line": 237.5,
+      "model_total": 224.6,
+      "edge_pts": -12.9,
+      "actual": 258.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-28",
+      "match": "Toronto Raptors vs Golden State Warriors",
+      "side": "UNDER",
+      "line": 233.5,
+      "model_total": 219.9,
+      "edge_pts": -13.6,
+      "actual": 268.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-28",
+      "match": "Oklahoma City Thunder vs Philadelphia 76ers",
+      "side": "UNDER",
+      "line": 230.5,
+      "model_total": 224.2,
+      "edge_pts": -6.3,
+      "actual": 233.0,
+      "won": false,
+      "pnl": -1
+    },
+    {
+      "date": "2025-12-28",
+      "match": "Washington Wizards vs Memphis Grizzlies",
+      "side": "UNDER",
+      "line": 245.5,
+      "model_total": 235.1,
+      "edge_pts": -10.45,
+      "actual": 228.0,
+      "won": true,
+      "pnl": 0.91
+    },
+    {
+      "date": "2025-12-28",
+      "match": "Los Angeles Lakers vs Sacramento Kings",
+      "side": "OVER",
+      "line": 229.5,
+      "model_total": 232.9,
+      "edge_pts": 3.4,
+      "actual": 226.0,
+      "won": false,
+      "pnl": -1
+    }
+  ]
+}
