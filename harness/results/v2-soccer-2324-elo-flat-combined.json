@@ -1,0 +1,77 @@
+{
+  "model": "elo",
+  "stake": "flat",
+  "devig": "goto",
+  "total_picks": 1164,
+  "total_wins": 227,
+  "total_winrate": 19.5,
+  "total_pnl": -207.41,
+  "total_roi_pct": -17.82,
+  "by_league": [
+    {
+      "model": "elo",
+      "stake_mode": "flat",
+      "picks": 263,
+      "wins": 44,
+      "winrate": 16.73,
+      "total_staked": 263.0,
+      "total_pnl": -59.08,
+      "roi_pct": -22.46,
+      "final_bankroll": 40.92,
+      "bankroll_growth_pct": -59.08,
+      "league": "E0"
+    },
+    {
+      "model": "elo",
+      "stake_mode": "flat",
+      "picks": 258,
+      "wins": 44,
+      "winrate": 17.05,
+      "total_staked": 258.0,
+      "total_pnl": -89.27,
+      "roi_pct": -34.6,
+      "final_bankroll": 10.73,
+      "bankroll_growth_pct": -89.27,
+      "league": "SP1"
+    },
+    {
+      "model": "elo",
+      "stake_mode": "flat",
+      "picks": 249,
+      "wins": 50,
+      "winrate": 20.08,
+      "total_staked": 249.0,
+      "total_pnl": -40.18,
+      "roi_pct": -16.14,
+      "final_bankroll": 59.82,
+      "bankroll_growth_pct": -40.18,
+      "league": "I1"
+    },
+    {
+      "model": "elo",
+      "stake_mode": "flat",
+      "picks": 197,
+      "wins": 45,
+      "winrate": 22.84,
+      "total_staked": 197.0,
+      "total_pnl": 2.49,
+      "roi_pct": 1.26,
+      "final_bankroll": 102.49,
+      "bankroll_growth_pct": 2.49,
+      "league": "D1"
+    },
+    {
+      "model": "elo",
+      "stake_mode": "flat",
+      "picks": 197,
+      "wins": 44,
+      "winrate": 22.34,
+      "total_staked": 197.0,
+      "total_pnl": -21.37,
+      "roi_pct": -10.85,
+      "final_bankroll": 78.63,
+      "bankroll_growth_pct": -21.37,
+      "league": "F1"
+    }
+  ]
+}

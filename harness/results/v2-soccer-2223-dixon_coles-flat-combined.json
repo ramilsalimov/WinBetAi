@@ -1,0 +1,77 @@
+{
+  "model": "dixon_coles",
+  "stake": "flat",
+  "devig": "goto",
+  "total_picks": 1294,
+  "total_wins": 490,
+  "total_winrate": 37.87,
+  "total_pnl": -58.19,
+  "total_roi_pct": -4.5,
+  "by_league": [
+    {
+      "model": "dixon_coles",
+      "stake_mode": "flat",
+      "picks": 275,
+      "wins": 114,
+      "winrate": 41.45,
+      "total_staked": 275.0,
+      "total_pnl": 6.64,
+      "roi_pct": 2.41,
+      "final_bankroll": 106.64,
+      "bankroll_growth_pct": 6.64,
+      "league": "E0"
+    },
+    {
+      "model": "dixon_coles",
+      "stake_mode": "flat",
+      "picks": 280,
+      "wins": 101,
+      "winrate": 36.07,
+      "total_staked": 280.0,
+      "total_pnl": -28.3,
+      "roi_pct": -10.11,
+      "final_bankroll": 71.7,
+      "bankroll_growth_pct": -28.3,
+      "league": "SP1"
+    },
+    {
+      "model": "dixon_coles",
+      "stake_mode": "flat",
+      "picks": 262,
+      "wins": 99,
+      "winrate": 37.79,
+      "total_staked": 262.0,
+      "total_pnl": -6.92,
+      "roi_pct": -2.64,
+      "final_bankroll": 93.08,
+      "bankroll_growth_pct": -6.92,
+      "league": "I1"
+    },
+    {
+      "model": "dixon_coles",
+      "stake_mode": "flat",
+      "picks": 207,
+      "wins": 74,
+      "winrate": 35.75,
+      "total_staked": 207.0,
+      "total_pnl": -27.64,
+      "roi_pct": -13.35,
+      "final_bankroll": 72.36,
+      "bankroll_growth_pct": -27.64,
+      "league": "D1"
+    },
+    {
+      "model": "dixon_coles",
+      "stake_mode": "flat",
+      "picks": 270,
+      "wins": 102,
+      "winrate": 37.78,
+      "total_staked": 270.0,
+      "total_pnl": -1.97,
+      "roi_pct": -0.73,
+      "final_bankroll": 98.03,
+      "bankroll_growth_pct": -1.97,
+      "league": "F1"
+    }
+  ]
+}

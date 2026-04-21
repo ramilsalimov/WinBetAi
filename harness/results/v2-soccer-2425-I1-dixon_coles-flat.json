@@ -1,14 +1,14 @@
 {
   "model": "dixon_coles",
   "stake_mode": "flat",
-  "picks": 131,
-  "wins": 71,
-  "winrate": 54.2,
-  "total_staked": 131.0,
-  "total_pnl": 10.4,
-  "roi_pct": 7.94,
-  "final_bankroll": 110.4,
-  "bankroll_growth_pct": 10.4,
+  "picks": 251,
+  "wins": 94,
+  "winrate": 37.45,
+  "total_staked": 251.0,
+  "total_pnl": -17.01,
+  "roi_pct": -6.78,
+  "final_bankroll": 82.99,
+  "bankroll_growth_pct": -17.01,
   "equity_curve": [
     {
       "date": "2024-10-04T00:00:00",
@@ -19,520 +19,1000 @@
       "bankroll": 102.13
     },
     {
+      "date": "2024-10-05T00:00:00",
+      "bankroll": 101.13
+    },
+    {
       "date": "2024-10-06T00:00:00",
-      "bankroll": 104.51
+      "bankroll": 100.13
+    },
+    {
+      "date": "2024-10-06T00:00:00",
+      "bankroll": 102.51
+    },
+    {
+      "date": "2024-10-06T00:00:00",
+      "bankroll": 101.51
     },
     {
       "date": "2024-10-19T00:00:00",
-      "bankroll": 105.63
+      "bankroll": 102.63
+    },
+    {
+      "date": "2024-10-19T00:00:00",
+      "bankroll": 104.82
     },
     {
       "date": "2024-10-20T00:00:00",
-      "bankroll": 104.63
+      "bankroll": 103.82
     },
     {
       "date": "2024-10-20T00:00:00",
-      "bankroll": 106.01
+      "bankroll": 105.2
     },
     {
       "date": "2024-10-20T00:00:00",
-      "bankroll": 105.01
+      "bankroll": 104.2
+    },
+    {
+      "date": "2024-10-20T00:00:00",
+      "bankroll": 103.2
+    },
+    {
+      "date": "2024-10-20T00:00:00",
+      "bankroll": 102.2
     },
     {
       "date": "2024-10-21T00:00:00",
-      "bankroll": 104.01
+      "bankroll": 101.2
     },
     {
       "date": "2024-10-25T00:00:00",
-      "bankroll": 105.27
+      "bankroll": 102.46
     },
     {
       "date": "2024-10-25T00:00:00",
-      "bankroll": 107.01
+      "bankroll": 104.2
     },
     {
       "date": "2024-10-26T00:00:00",
-      "bankroll": 107.34
+      "bankroll": 103.2
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "bankroll": 103.53
     },
     {
       "date": "2024-10-27T00:00:00",
-      "bankroll": 106.34
+      "bankroll": 102.53
     },
     {
       "date": "2024-10-27T00:00:00",
-      "bankroll": 106.78
+      "bankroll": 102.97
     },
     {
       "date": "2024-10-27T00:00:00",
-      "bankroll": 105.78
+      "bankroll": 101.97
     },
     {
       "date": "2024-10-27T00:00:00",
-      "bankroll": 104.78
+      "bankroll": 100.97
     },
     {
       "date": "2024-10-27T00:00:00",
-      "bankroll": 106.35
+      "bankroll": 102.54
     },
     {
       "date": "2024-10-29T00:00:00",
-      "bankroll": 105.35
+      "bankroll": 101.54
+    },
+    {
+      "date": "2024-10-29T00:00:00",
+      "bankroll": 100.54
+    },
+    {
+      "date": "2024-10-29T00:00:00",
+      "bankroll": 99.54
     },
     {
       "date": "2024-10-30T00:00:00",
-      "bankroll": 104.35
+      "bankroll": 98.54
+    },
+    {
+      "date": "2024-10-30T00:00:00",
+      "bankroll": 97.54
+    },
+    {
+      "date": "2024-10-30T00:00:00",
+      "bankroll": 96.54
     },
     {
       "date": "2024-10-31T00:00:00",
-      "bankroll": 105.06
+      "bankroll": 97.25
     },
     {
       "date": "2024-10-31T00:00:00",
-      "bankroll": 106.58
+      "bankroll": 98.77
+    },
+    {
+      "date": "2024-10-31T00:00:00",
+      "bankroll": 97.77
     },
     {
       "date": "2024-11-02T00:00:00",
-      "bankroll": 107.39
+      "bankroll": 98.58
     },
     {
       "date": "2024-11-02T00:00:00",
-      "bankroll": 108.5
+      "bankroll": 99.69
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "bankroll": 98.69
     },
     {
       "date": "2024-11-03T00:00:00",
-      "bankroll": 107.5
+      "bankroll": 102.78
     },
     {
       "date": "2024-11-03T00:00:00",
-      "bankroll": 108.77
+      "bankroll": 101.78
+    },
+    {
+      "date": "2024-11-03T00:00:00",
+      "bankroll": 103.05
     },
     {
       "date": "2024-11-04T00:00:00",
-      "bankroll": 110.76
+      "bankroll": 105.04
     },
     {
       "date": "2024-11-04T00:00:00",
-      "bankroll": 109.76
+      "bankroll": 104.04
     },
     {
       "date": "2024-11-04T00:00:00",
-      "bankroll": 110.32
+      "bankroll": 104.6
     },
     {
       "date": "2024-11-08T00:00:00",
-      "bankroll": 109.32
+      "bankroll": 103.6
     },
     {
       "date": "2024-11-09T00:00:00",
-      "bankroll": 108.32
+      "bankroll": 105.96
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "bankroll": 104.96
     },
     {
       "date": "2024-11-10T00:00:00",
-      "bankroll": 108.78
+      "bankroll": 103.96
     },
     {
       "date": "2024-11-10T00:00:00",
-      "bankroll": 109.29
+      "bankroll": 106.75
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "bankroll": 105.75
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "bankroll": 106.21
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "bankroll": 106.72
     },
     {
       "date": "2024-11-23T00:00:00",
-      "bankroll": 109.75
+      "bankroll": 107.18
     },
     {
       "date": "2024-11-23T00:00:00",
-      "bankroll": 108.75
+      "bankroll": 106.18
     },
     {
       "date": "2024-11-23T00:00:00",
-      "bankroll": 109.34
+      "bankroll": 106.77
     },
     {
       "date": "2024-11-24T00:00:00",
-      "bankroll": 110.3
+      "bankroll": 105.77
     },
     {
       "date": "2024-11-24T00:00:00",
-      "bankroll": 111.02
+      "bankroll": 106.73
     },
     {
       "date": "2024-11-24T00:00:00",
-      "bankroll": 111.87
+      "bankroll": 108.83
+    },
+    {
+      "date": "2024-11-24T00:00:00",
+      "bankroll": 109.55
+    },
+    {
+      "date": "2024-11-24T00:00:00",
+      "bankroll": 110.4
+    },
+    {
+      "date": "2024-11-25T00:00:00",
+      "bankroll": 109.4
+    },
+    {
+      "date": "2024-11-25T00:00:00",
+      "bankroll": 111.2
+    },
+    {
+      "date": "2024-11-29T00:00:00",
+      "bankroll": 110.2
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "bankroll": 109.2
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "bankroll": 108.2
     },
     {
       "date": "2024-12-01T00:00:00",
-      "bankroll": 110.87
+      "bankroll": 107.2
     },
     {
       "date": "2024-12-01T00:00:00",
-      "bankroll": 109.87
+      "bankroll": 106.2
     },
     {
       "date": "2024-12-01T00:00:00",
-      "bankroll": 108.87
+      "bankroll": 105.2
     },
     {
       "date": "2024-12-02T00:00:00",
-      "bankroll": 110.01
+      "bankroll": 106.34
+    },
+    {
+      "date": "2024-12-06T00:00:00",
+      "bankroll": 105.34
+    },
+    {
+      "date": "2024-12-06T00:00:00",
+      "bankroll": 104.34
     },
     {
       "date": "2024-12-07T00:00:00",
-      "bankroll": 109.01
+      "bankroll": 103.34
     },
     {
       "date": "2024-12-07T00:00:00",
-      "bankroll": 108.01
+      "bankroll": 102.34
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "bankroll": 101.34
     },
     {
       "date": "2024-12-08T00:00:00",
-      "bankroll": 108.58
+      "bankroll": 101.91
     },
     {
       "date": "2024-12-08T00:00:00",
-      "bankroll": 110.76
+      "bankroll": 104.09
     },
     {
       "date": "2024-12-14T00:00:00",
-      "bankroll": 111.36
+      "bankroll": 104.69
     },
     {
       "date": "2024-12-15T00:00:00",
-      "bankroll": 110.36
+      "bankroll": 103.69
     },
     {
       "date": "2024-12-15T00:00:00",
-      "bankroll": 109.36
+      "bankroll": 106.61
     },
     {
       "date": "2024-12-15T00:00:00",
-      "bankroll": 108.36
+      "bankroll": 105.61
     },
     {
       "date": "2024-12-15T00:00:00",
-      "bankroll": 107.36
+      "bankroll": 104.61
+    },
+    {
+      "date": "2024-12-15T00:00:00",
+      "bankroll": 103.61
+    },
+    {
+      "date": "2024-12-16T00:00:00",
+      "bankroll": 102.61
     },
     {
       "date": "2024-12-20T00:00:00",
-      "bankroll": 108.02
+      "bankroll": 103.27
     },
     {
       "date": "2024-12-21T00:00:00",
-      "bankroll": 108.77
+      "bankroll": 102.27
     },
     {
       "date": "2024-12-21T00:00:00",
-      "bankroll": 109.39
+      "bankroll": 103.02
+    },
+    {
+      "date": "2024-12-21T00:00:00",
+      "bankroll": 103.64
+    },
+    {
+      "date": "2024-12-22T00:00:00",
+      "bankroll": 102.64
+    },
+    {
+      "date": "2024-12-22T00:00:00",
+      "bankroll": 101.64
+    },
+    {
+      "date": "2024-12-22T00:00:00",
+      "bankroll": 100.64
     },
     {
       "date": "2024-12-23T00:00:00",
-      "bankroll": 108.39
+      "bankroll": 99.64
     },
     {
       "date": "2024-12-23T00:00:00",
-      "bankroll": 108.74
+      "bankroll": 99.99
     },
     {
       "date": "2024-12-28T00:00:00",
-      "bankroll": 107.74
+      "bankroll": 98.99
     },
     {
       "date": "2024-12-28T00:00:00",
-      "bankroll": 108.15
+      "bankroll": 99.4
     },
     {
       "date": "2024-12-28T00:00:00",
-      "bankroll": 107.15
+      "bankroll": 98.4
     },
     {
       "date": "2024-12-29T00:00:00",
-      "bankroll": 106.15
+      "bankroll": 97.4
+    },
+    {
+      "date": "2024-12-29T00:00:00",
+      "bankroll": 96.4
+    },
+    {
+      "date": "2024-12-29T00:00:00",
+      "bankroll": 95.4
+    },
+    {
+      "date": "2024-12-29T00:00:00",
+      "bankroll": 94.4
     },
     {
       "date": "2024-12-30T00:00:00",
-      "bankroll": 105.15
+      "bankroll": 93.4
+    },
+    {
+      "date": "2024-12-30T00:00:00",
+      "bankroll": 92.4
     },
     {
       "date": "2025-01-04T00:00:00",
-      "bankroll": 104.15
+      "bankroll": 91.4
     },
     {
       "date": "2025-01-04T00:00:00",
-      "bankroll": 103.15
+      "bankroll": 90.4
     },
     {
       "date": "2025-01-05T00:00:00",
-      "bankroll": 102.15
+      "bankroll": 89.4
     },
     {
       "date": "2025-01-05T00:00:00",
-      "bankroll": 101.15
+      "bankroll": 88.4
+    },
+    {
+      "date": "2025-01-05T00:00:00",
+      "bankroll": 87.4
+    },
+    {
+      "date": "2025-01-05T00:00:00",
+      "bankroll": 86.4
     },
     {
       "date": "2025-01-10T00:00:00",
-      "bankroll": 100.15
+      "bankroll": 85.4
     },
     {
       "date": "2025-01-11T00:00:00",
-      "bankroll": 99.15
+      "bankroll": 84.4
     },
     {
       "date": "2025-01-11T00:00:00",
-      "bankroll": 98.15
+      "bankroll": 88.95
+    },
+    {
+      "date": "2025-01-11T00:00:00",
+      "bankroll": 87.95
+    },
+    {
+      "date": "2025-01-11T00:00:00",
+      "bankroll": 86.95
     },
     {
       "date": "2025-01-12T00:00:00",
-      "bankroll": 98.48
+      "bankroll": 85.95
     },
     {
       "date": "2025-01-12T00:00:00",
-      "bankroll": 98.84
+      "bankroll": 86.28
+    },
+    {
+      "date": "2025-01-12T00:00:00",
+      "bankroll": 86.64
     },
     {
       "date": "2025-01-13T00:00:00",
-      "bankroll": 97.84
+      "bankroll": 85.64
+    },
+    {
+      "date": "2025-01-14T00:00:00",
+      "bankroll": 84.64
     },
     {
       "date": "2025-01-15T00:00:00",
-      "bankroll": 96.84
+      "bankroll": 83.64
+    },
+    {
+      "date": "2025-01-17T00:00:00",
+      "bankroll": 82.64
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "bankroll": 85.27
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "bankroll": 84.27
     },
     {
       "date": "2025-01-19T00:00:00",
-      "bankroll": 97.65
+      "bankroll": 83.27
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "bankroll": 84.08
+    },
+    {
+      "date": "2025-01-20T00:00:00",
+      "bankroll": 83.08
     },
     {
       "date": "2025-01-25T00:00:00",
-      "bankroll": 98.59
+      "bankroll": 84.02
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "bankroll": 83.02
     },
     {
       "date": "2025-01-26T00:00:00",
-      "bankroll": 98.95
+      "bankroll": 85.75
     },
     {
       "date": "2025-01-26T00:00:00",
-      "bankroll": 100.49
+      "bankroll": 86.11
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "bankroll": 85.11
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "bankroll": 86.65
+    },
+    {
+      "date": "2025-01-27T00:00:00",
+      "bankroll": 85.65
     },
     {
       "date": "2025-01-31T00:00:00",
-      "bankroll": 99.49
+      "bankroll": 84.65
     },
     {
       "date": "2025-02-01T00:00:00",
-      "bankroll": 100.5
+      "bankroll": 83.65
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "bankroll": 84.66
     },
     {
       "date": "2025-02-02T00:00:00",
-      "bankroll": 101.41
+      "bankroll": 85.57
     },
     {
       "date": "2025-02-02T00:00:00",
-      "bankroll": 100.41
+      "bankroll": 84.57
     },
     {
       "date": "2025-02-02T00:00:00",
-      "bankroll": 99.41
+      "bankroll": 83.57
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "bankroll": 82.57
     },
     {
       "date": "2025-02-03T00:00:00",
-      "bankroll": 100.45
+      "bankroll": 83.61
     },
     {
       "date": "2025-02-07T00:00:00",
-      "bankroll": 101.73
+      "bankroll": 84.89
     },
     {
       "date": "2025-02-08T00:00:00",
-      "bankroll": 102.18
+      "bankroll": 83.89
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "bankroll": 84.34
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "bankroll": 86.27
     },
     {
       "date": "2025-02-09T00:00:00",
-      "bankroll": 101.18
+      "bankroll": 85.27
+    },
+    {
+      "date": "2025-02-09T00:00:00",
+      "bankroll": 84.27
+    },
+    {
+      "date": "2025-02-09T00:00:00",
+      "bankroll": 83.27
+    },
+    {
+      "date": "2025-02-10T00:00:00",
+      "bankroll": 82.27
+    },
+    {
+      "date": "2025-02-14T00:00:00",
+      "bankroll": 81.27
     },
     {
       "date": "2025-02-15T00:00:00",
-      "bankroll": 100.18
+      "bankroll": 80.27
     },
     {
       "date": "2025-02-15T00:00:00",
-      "bankroll": 99.18
+      "bankroll": 79.27
     },
     {
       "date": "2025-02-16T00:00:00",
-      "bankroll": 100.27
+      "bankroll": 82.28
     },
     {
       "date": "2025-02-16T00:00:00",
-      "bankroll": 99.27
+      "bankroll": 81.28
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "bankroll": 82.37
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "bankroll": 81.37
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "bankroll": 80.37
+    },
+    {
+      "date": "2025-02-17T00:00:00",
+      "bankroll": 79.37
     },
     {
       "date": "2025-02-21T00:00:00",
-      "bankroll": 101.02
+      "bankroll": 81.12
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "bankroll": 80.12
     },
     {
       "date": "2025-02-23T00:00:00",
-      "bankroll": 100.02
+      "bankroll": 79.12
     },
     {
       "date": "2025-02-23T00:00:00",
-      "bankroll": 99.02
+      "bankroll": 78.12
     },
     {
       "date": "2025-02-23T00:00:00",
-      "bankroll": 99.87
+      "bankroll": 78.97
+    },
+    {
+      "date": "2025-02-24T00:00:00",
+      "bankroll": 77.97
     },
     {
       "date": "2025-02-28T00:00:00",
-      "bankroll": 100.81
+      "bankroll": 78.91
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "bankroll": 77.91
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "bankroll": 76.91
     },
     {
       "date": "2025-03-02T00:00:00",
-      "bankroll": 101.8
+      "bankroll": 79.16
+    },
+    {
+      "date": "2025-03-02T00:00:00",
+      "bankroll": 80.15
+    },
+    {
+      "date": "2025-03-02T00:00:00",
+      "bankroll": 82.67
     },
     {
       "date": "2025-03-03T00:00:00",
-      "bankroll": 102.15
+      "bankroll": 83.02
     },
     {
       "date": "2025-03-08T00:00:00",
-      "bankroll": 103.0
+      "bankroll": 85.81
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "bankroll": 86.66
     },
     {
       "date": "2025-03-09T00:00:00",
-      "bankroll": 103.76
+      "bankroll": 87.42
     },
     {
       "date": "2025-03-09T00:00:00",
-      "bankroll": 104.87
+      "bankroll": 86.42
+    },
+    {
+      "date": "2025-03-09T00:00:00",
+      "bankroll": 87.53
+    },
+    {
+      "date": "2025-03-14T00:00:00",
+      "bankroll": 86.53
     },
     {
       "date": "2025-03-16T00:00:00",
-      "bankroll": 103.87
+      "bankroll": 89.83
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "bankroll": 88.83
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "bankroll": 87.83
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "bankroll": 86.83
     },
     {
       "date": "2025-03-29T00:00:00",
-      "bankroll": 104.64
+      "bankroll": 85.83
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "bankroll": 86.6
     },
     {
       "date": "2025-03-30T00:00:00",
-      "bankroll": 105.1
+      "bankroll": 85.6
+    },
+    {
+      "date": "2025-03-30T00:00:00",
+      "bankroll": 86.06
+    },
+    {
+      "date": "2025-03-30T00:00:00",
+      "bankroll": 85.06
+    },
+    {
+      "date": "2025-03-30T00:00:00",
+      "bankroll": 87.95
+    },
+    {
+      "date": "2025-03-31T00:00:00",
+      "bankroll": 86.95
+    },
+    {
+      "date": "2025-03-31T00:00:00",
+      "bankroll": 85.95
+    },
+    {
+      "date": "2025-04-04T00:00:00",
+      "bankroll": 84.95
     },
     {
       "date": "2025-04-05T00:00:00",
-      "bankroll": 104.1
+      "bankroll": 83.95
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "bankroll": 82.95
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "bankroll": 81.95
     },
     {
       "date": "2025-04-06T00:00:00",
-      "bankroll": 103.1
+      "bankroll": 80.95
     },
     {
       "date": "2025-04-06T00:00:00",
-      "bankroll": 102.1
+      "bankroll": 79.95
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "bankroll": 78.95
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "bankroll": 77.95
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "bankroll": 76.95
     },
     {
       "date": "2025-04-07T00:00:00",
-      "bankroll": 101.1
+      "bankroll": 75.95
+    },
+    {
+      "date": "2025-04-11T00:00:00",
+      "bankroll": 74.95
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "bankroll": 73.95
     },
     {
       "date": "2025-04-13T00:00:00",
-      "bankroll": 102.02
+      "bankroll": 74.87
     },
     {
       "date": "2025-04-13T00:00:00",
-      "bankroll": 101.02
+      "bankroll": 73.87
+    },
+    {
+      "date": "2025-04-13T00:00:00",
+      "bankroll": 72.87
+    },
+    {
+      "date": "2025-04-13T00:00:00",
+      "bankroll": 71.87
+    },
+    {
+      "date": "2025-04-13T00:00:00",
+      "bankroll": 70.87
     },
     {
       "date": "2025-04-19T00:00:00",
-      "bankroll": 102.13
+      "bankroll": 71.98
     },
     {
       "date": "2025-04-19T00:00:00",
-      "bankroll": 102.73
+      "bankroll": 72.58
     },
     {
       "date": "2025-04-20T00:00:00",
-      "bankroll": 101.73
+      "bankroll": 74.58
     },
     {
       "date": "2025-04-20T00:00:00",
-      "bankroll": 103.4
+      "bankroll": 73.58
+    },
+    {
+      "date": "2025-04-20T00:00:00",
+      "bankroll": 75.25
     },
     {
       "date": "2025-04-23T00:00:00",
-      "bankroll": 105.03
+      "bankroll": 76.88
     },
     {
       "date": "2025-04-23T00:00:00",
-      "bankroll": 106.23
+      "bankroll": 78.08
     },
     {
       "date": "2025-04-23T00:00:00",
-      "bankroll": 107.79
+      "bankroll": 79.64
     },
     {
       "date": "2025-04-27T00:00:00",
-      "bankroll": 106.79
+      "bankroll": 78.64
     },
     {
       "date": "2025-04-27T00:00:00",
-      "bankroll": 107.94
+      "bankroll": 77.64
+    },
+    {
+      "date": "2025-04-27T00:00:00",
+      "bankroll": 76.64
+    },
+    {
+      "date": "2025-04-27T00:00:00",
+      "bankroll": 75.64
+    },
+    {
+      "date": "2025-04-27T00:00:00",
+      "bankroll": 76.79
+    },
+    {
+      "date": "2025-04-27T00:00:00",
+      "bankroll": 75.79
+    },
+    {
+      "date": "2025-04-28T00:00:00",
+      "bankroll": 74.79
+    },
+    {
+      "date": "2025-04-28T00:00:00",
+      "bankroll": 73.79
+    },
+    {
+      "date": "2025-04-28T00:00:00",
+      "bankroll": 76.62
     },
     {
       "date": "2025-05-02T00:00:00",
-      "bankroll": 106.94
+      "bankroll": 75.62
     },
     {
       "date": "2025-05-03T00:00:00",
-      "bankroll": 107.41
+      "bankroll": 76.09
     },
     {
       "date": "2025-05-03T00:00:00",
-      "bankroll": 107.91
+      "bankroll": 78.36
+    },
+    {
+      "date": "2025-05-03T00:00:00",
+      "bankroll": 77.36
+    },
+    {
+      "date": "2025-05-03T00:00:00",
+      "bankroll": 77.86
     },
     {
       "date": "2025-05-04T00:00:00",
-      "bankroll": 108.79
+      "bankroll": 76.86
+    },
+    {
+      "date": "2025-05-04T00:00:00",
+      "bankroll": 75.86
+    },
+    {
+      "date": "2025-05-04T00:00:00",
+      "bankroll": 76.74
+    },
+    {
+      "date": "2025-05-05T00:00:00",
+      "bankroll": 75.74
+    },
+    {
+      "date": "2025-05-09T00:00:00",
+      "bankroll": 74.74
     },
     {
       "date": "2025-05-10T00:00:00",
-      "bankroll": 107.79
+      "bankroll": 73.74
     },
     {
       "date": "2025-05-10T00:00:00",
-      "bankroll": 106.79
+      "bankroll": 72.74
+    },
+    {
+      "date": "2025-05-10T00:00:00",
+      "bankroll": 71.74
+    },
+    {
+      "date": "2025-05-11T00:00:00",
+      "bankroll": 76.19
+    },
+    {
+      "date": "2025-05-11T00:00:00",
+      "bankroll": 75.19
     },
     {
       "date": "2025-05-12T00:00:00",
-      "bankroll": 105.79
+      "bankroll": 74.19
     },
     {
       "date": "2025-05-17T00:00:00",
-      "bankroll": 107.13
+      "bankroll": 75.53
     },
     {
       "date": "2025-05-18T00:00:00",
-      "bankroll": 106.13
+      "bankroll": 74.53
     },
     {
       "date": "2025-05-18T00:00:00",
-      "bankroll": 105.13
+      "bankroll": 73.53
     },
     {
       "date": "2025-05-18T00:00:00",
-      "bankroll": 107.27
+      "bankroll": 72.53
     },
     {
       "date": "2025-05-18T00:00:00",
-      "bankroll": 109.19
+      "bankroll": 71.53
+    },
+    {
+      "date": "2025-05-18T00:00:00",
+      "bankroll": 73.67
+    },
+    {
+      "date": "2025-05-18T00:00:00",
+      "bankroll": 75.59
+    },
+    {
+      "date": "2025-05-18T00:00:00",
+      "bankroll": 74.59
     },
     {
       "date": "2025-05-23T00:00:00",
-      "bankroll": 109.97
+      "bankroll": 75.37
+    },
+    {
+      "date": "2025-05-23T00:00:00",
+      "bankroll": 74.37
+    },
+    {
+      "date": "2025-05-24T00:00:00",
+      "bankroll": 81.37
+    },
+    {
+      "date": "2025-05-24T00:00:00",
+      "bankroll": 80.37
     },
     {
       "date": "2025-05-25T00:00:00",
-      "bankroll": 111.4
+      "bankroll": 81.8
     },
     {
       "date": "2025-05-25T00:00:00",
-      "bankroll": 110.4
+      "bankroll": 80.8
+    },
+    {
+      "date": "2025-05-25T00:00:00",
+      "bankroll": 84.99
+    },
+    {
+      "date": "2025-05-25T00:00:00",
+      "bankroll": 83.99
+    },
+    {
+      "date": "2025-05-25T00:00:00",
+      "bankroll": 82.99
     }
   ],
   "picks_detail": [
@@ -565,6 +1045,34 @@
       "bankroll": 102.13
     },
     {
+      "date": "2024-10-05T00:00:00",
+      "match": "Inter vs Torino",
+      "pick": "A",
+      "odds": 10.42,
+      "model_p": 0.221,
+      "imp_p": 0.082,
+      "edge": 0.138,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 101.13
+    },
+    {
+      "date": "2024-10-06T00:00:00",
+      "match": "Lazio vs Empoli",
+      "pick": "A",
+      "odds": 6.21,
+      "model_p": 0.375,
+      "imp_p": 0.15,
+      "edge": 0.225,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 100.13
+    },
+    {
       "date": "2024-10-06T00:00:00",
       "match": "Monza vs Roma",
       "pick": "D",
@@ -576,7 +1084,21 @@
       "actual": "D",
       "won": true,
       "pnl": 2.38,
-      "bankroll": 104.51
+      "bankroll": 102.51
+    },
+    {
+      "date": "2024-10-06T00:00:00",
+      "match": "Fiorentina vs Milan",
+      "pick": "D",
+      "odds": 3.7,
+      "model_p": 0.363,
+      "imp_p": 0.26,
+      "edge": 0.103,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 101.51
     },
     {
       "date": "2024-10-19T00:00:00",
@@ -590,7 +1112,21 @@
       "actual": "H",
       "won": true,
       "pnl": 1.12,
-      "bankroll": 105.63
+      "bankroll": 102.63
+    },
+    {
+      "date": "2024-10-19T00:00:00",
+      "match": "Genoa vs Bologna",
+      "pick": "D",
+      "odds": 3.19,
+      "model_p": 0.397,
+      "imp_p": 0.304,
+      "edge": 0.093,
+      "stake": 1.0,
+      "actual": "D",
+      "won": true,
+      "pnl": 2.19,
+      "bankroll": 104.82
     },
     {
       "date": "2024-10-20T00:00:00",
@@ -604,7 +1140,7 @@
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 104.63
+      "bankroll": 103.82
     },
     {
       "date": "2024-10-20T00:00:00",
@@ -618,7 +1154,21 @@
       "actual": "A",
       "won": true,
       "pnl": 1.38,
-      "bankroll": 106.01
+      "bankroll": 105.2
+    },
+    {
+      "date": "2024-10-20T00:00:00",
+      "match": "Venezia vs Atalanta",
+      "pick": "D",
+      "odds": 4.67,
+      "model_p": 0.319,
+      "imp_p": 0.203,
+      "edge": 0.116,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 104.2
     },
     {
       "date": "2024-10-20T00:00:00",
@@ -632,7 +1182,21 @@
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 105.01
+      "bankroll": 103.2
+    },
+    {
+      "date": "2024-10-20T00:00:00",
+      "match": "Roma vs Inter",
+      "pick": "H",
+      "odds": 4.08,
+      "model_p": 0.385,
+      "imp_p": 0.234,
+      "edge": 0.151,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 102.2
     },
     {
       "date": "2024-10-21T00:00:00",
@@ -646,7 +1210,7 @@
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 104.01
+      "bankroll": 101.2
     },
     {
       "date": "2024-10-25T00:00:00",
@@ -660,7 +1224,7 @@
       "actual": "H",
       "won": true,
       "pnl": 1.26,
-      "bankroll": 105.27
+      "bankroll": 102.46
     },
     {
       "date": "2024-10-25T00:00:00",
@@ -674,7 +1238,21 @@
       "actual": "H",
       "won": true,
       "pnl": 1.74,
-      "bankroll": 107.01
+      "bankroll": 104.2
+    },
+    {
+      "date": "2024-10-26T00:00:00",
+      "match": "Atalanta vs Verona",
+      "pick": "A",
+      "odds": 12.21,
+      "model_p": 0.231,
+      "imp_p": 0.067,
+      "edge": 0.164,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 103.2
     },
     {
       "date": "2024-10-26T00:00:00",
@@ -688,7 +1266,7 @@
       "actual": "H",
       "won": true,
       "pnl": 0.33,
-      "bankroll": 107.34
+      "bankroll": 103.53
     },
     {
       "date": "2024-10-27T00:00:00",
@@ -702,7 +1280,7 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 106.34
+      "bankroll": 102.53
     },
     {
       "date": "2024-10-27T00:00:00",
@@ -716,7 +1294,7 @@
       "actual": "H",
       "won": true,
       "pnl": 0.44,
-      "bankroll": 106.78
+      "bankroll": 102.97
     },
     {
       "date": "2024-10-27T00:00:00",
@@ -730,7 +1308,7 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 105.78
+      "bankroll": 101.97
     },
     {
       "date": "2024-10-27T00:00:00",
@@ -744,7 +1322,7 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 104.78
+      "bankroll": 100.97
     },
     {
       "date": "2024-10-27T00:00:00",
@@ -758,7 +1336,21 @@
       "actual": "H",
       "won": true,
       "pnl": 1.57,
-      "bankroll": 106.35
+      "bankroll": 102.54
+    },
+    {
+      "date": "2024-10-29T00:00:00",
+      "match": "Cagliari vs Bologna",
+      "pick": "D",
+      "odds": 3.34,
+      "model_p": 0.328,
+      "imp_p": 0.29,
+      "edge": 0.038,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 101.54
     },
     {
       "date": "2024-10-29T00:00:00",
@@ -772,7 +1364,35 @@
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 105.35
+      "bankroll": 100.54
+    },
+    {
+      "date": "2024-10-29T00:00:00",
+      "match": "Milan vs Napoli",
+      "pick": "D",
+      "odds": 3.22,
+      "model_p": 0.357,
+      "imp_p": 0.301,
+      "edge": 0.056,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 99.54
+    },
+    {
+      "date": "2024-10-30T00:00:00",
+      "match": "Atalanta vs Monza",
+      "pick": "A",
+      "odds": 12.08,
+      "model_p": 0.168,
+      "imp_p": 0.07,
+      "edge": 0.098,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 98.54
     },
     {
       "date": "2024-10-30T00:00:00",
@@ -786,7 +1406,21 @@
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 104.35
+      "bankroll": 97.54
+    },
+    {
+      "date": "2024-10-30T00:00:00",
+      "match": "Empoli vs Inter",
+      "pick": "H",
+      "odds": 9.07,
+      "model_p": 0.366,
+      "imp_p": 0.099,
+      "edge": 0.267,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 96.54
     },
     {
       "date": "2024-10-31T00:00:00",
@@ -800,7 +1434,7 @@
       "actual": "A",
       "won": true,
       "pnl": 0.71,
-      "bankroll": 105.06
+      "bankroll": 97.25
     },
     {
       "date": "2024-10-31T00:00:00",
@@ -814,7 +1448,21 @@
       "actual": "A",
       "won": true,
       "pnl": 1.52,
-      "bankroll": 106.58
+      "bankroll": 98.77
+    },
+    {
+      "date": "2024-10-31T00:00:00",
+      "match": "Roma vs Torino",
+      "pick": "A",
+      "odds": 5.01,
+      "model_p": 0.35,
+      "imp_p": 0.189,
+      "edge": 0.161,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 97.77
     },
     {
       "date": "2024-11-02T00:00:00",
@@ -828,7 +1476,7 @@
       "actual": "H",
       "won": true,
       "pnl": 0.81,
-      "bankroll": 107.39
+      "bankroll": 98.58
     },
     {
       "date": "2024-11-02T00:00:00",
@@ -842,7 +1490,35 @@
       "actual": "A",
       "won": true,
       "pnl": 1.11,
-      "bankroll": 108.5
+      "bankroll": 99.69
+    },
+    {
+      "date": "2024-11-02T00:00:00",
+      "match": "Monza vs Milan",
+      "pick": "D",
+      "odds": 3.89,
+      "model_p": 0.314,
+      "imp_p": 0.243,
+      "edge": 0.071,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 98.69
+    },
+    {
+      "date": "2024-11-03T00:00:00",
+      "match": "Verona vs Roma",
+      "pick": "H",
+      "odds": 5.09,
+      "model_p": 0.276,
+      "imp_p": 0.186,
+      "edge": 0.091,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 4.09,
+      "bankroll": 102.78
     },
     {
       "date": "2024-11-03T00:00:00",
@@ -856,7 +1532,7 @@
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 107.5
+      "bankroll": 101.78
     },
     {
       "date": "2024-11-03T00:00:00",
@@ -870,7 +1546,7 @@
       "actual": "A",
       "won": true,
       "pnl": 1.27,
-      "bankroll": 108.77
+      "bankroll": 103.05
     },
     {
       "date": "2024-11-04T00:00:00",
@@ -884,7 +1560,7 @@
       "actual": "H",
       "won": true,
       "pnl": 1.99,
-      "bankroll": 110.76
+      "bankroll": 105.04
     },
     {
       "date": "2024-11-04T00:00:00",
@@ -898,7 +1574,7 @@
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 109.76
+      "bankroll": 104.04
     },
     {
       "date": "2024-11-04T00:00:00",
@@ -912,7 +1588,7 @@
       "actual": "H",
       "won": true,
       "pnl": 0.56,
-      "bankroll": 110.32
+      "bankroll": 104.6
     },
     {
       "date": "2024-11-08T00:00:00",
@@ -926,7 +1602,21 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 109.32
+      "bankroll": 103.6
+    },
+    {
+      "date": "2024-11-09T00:00:00",
+      "match": "Venezia vs Parma",
+      "pick": "A",
+      "odds": 3.36,
+      "model_p": 0.379,
+      "imp_p": 0.288,
+      "edge": 0.091,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.36,
+      "bankroll": 105.96
     },
     {
       "date": "2024-11-09T00:00:00",
@@ -940,7 +1630,49 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 108.32
+      "bankroll": 104.96
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "match": "Inter vs Napoli",
+      "pick": "A",
+      "odds": 4.69,
+      "model_p": 0.366,
+      "imp_p": 0.202,
+      "edge": 0.163,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 103.96
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "match": "Roma vs Bologna",
+      "pick": "A",
+      "odds": 3.79,
+      "model_p": 0.326,
+      "imp_p": 0.254,
+      "edge": 0.072,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.79,
+      "bankroll": 106.75
+    },
+    {
+      "date": "2024-11-10T00:00:00",
+      "match": "Monza vs Lazio",
+      "pick": "H",
+      "odds": 5.35,
+      "model_p": 0.212,
+      "imp_p": 0.176,
+      "edge": 0.036,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 105.75
     },
     {
       "date": "2024-11-10T00:00:00",
@@ -954,7 +1686,7 @@
       "actual": "H",
       "won": true,
       "pnl": 0.46,
-      "bankroll": 108.78
+      "bankroll": 106.21
     },
     {
       "date": "2024-11-10T00:00:00",
@@ -968,7 +1700,7 @@
       "actual": "H",
       "won": true,
       "pnl": 0.51,
-      "bankroll": 109.29
+      "bankroll": 106.72
     },
     {
       "date": "2024-11-23T00:00:00",
@@ -982,7 +1714,7 @@
       "actual": "A",
       "won": true,
       "pnl": 0.46,
-      "bankroll": 109.75
+      "bankroll": 107.18
     },
     {
       "date": "2024-11-23T00:00:00",
@@ -996,7 +1728,7 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 108.75
+      "bankroll": 106.18
     },
     {
       "date": "2024-11-23T00:00:00",
@@ -1010,7 +1742,21 @@
       "actual": "A",
       "won": true,
       "pnl": 0.59,
-      "bankroll": 109.34
+      "bankroll": 106.77
+    },
+    {
+      "date": "2024-11-24T00:00:00",
+      "match": "Genoa vs Cagliari",
+      "pick": "A",
+      "odds": 3.1,
+      "model_p": 0.374,
+      "imp_p": 0.314,
+      "edge": 0.06,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 105.77
     },
     {
       "date": "2024-11-24T00:00:00",
@@ -1024,7 +1770,21 @@
       "actual": "A",
       "won": true,
       "pnl": 0.96,
-      "bankroll": 110.3
+      "bankroll": 106.73
+    },
+    {
+      "date": "2024-11-24T00:00:00",
+      "match": "Torino vs Monza",
+      "pick": "D",
+      "odds": 3.1,
+      "model_p": 0.354,
+      "imp_p": 0.313,
+      "edge": 0.041,
+      "stake": 1.0,
+      "actual": "D",
+      "won": true,
+      "pnl": 2.1,
+      "bankroll": 108.83
     },
     {
       "date": "2024-11-24T00:00:00",
@@ -1038,7 +1798,7 @@
       "actual": "H",
       "won": true,
       "pnl": 0.72,
-      "bankroll": 111.02
+      "bankroll": 109.55
     },
     {
       "date": "2024-11-24T00:00:00",
@@ -1052,7 +1812,77 @@
       "actual": "H",
       "won": true,
       "pnl": 0.85,
-      "bankroll": 111.87
+      "bankroll": 110.4
+    },
+    {
+      "date": "2024-11-25T00:00:00",
+      "match": "Venezia vs Lecce",
+      "pick": "D",
+      "odds": 3.41,
+      "model_p": 0.364,
+      "imp_p": 0.283,
+      "edge": 0.081,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 109.4
+    },
+    {
+      "date": "2024-11-25T00:00:00",
+      "match": "Empoli vs Udinese",
+      "pick": "D",
+      "odds": 2.8,
+      "model_p": 0.384,
+      "imp_p": 0.348,
+      "edge": 0.036,
+      "stake": 1.0,
+      "actual": "D",
+      "won": true,
+      "pnl": 1.8,
+      "bankroll": 111.2
+    },
+    {
+      "date": "2024-11-29T00:00:00",
+      "match": "Cagliari vs Verona",
+      "pick": "A",
+      "odds": 4.28,
+      "model_p": 0.381,
+      "imp_p": 0.22,
+      "edge": 0.161,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 110.2
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "match": "Como vs Monza",
+      "pick": "A",
+      "odds": 4.56,
+      "model_p": 0.397,
+      "imp_p": 0.208,
+      "edge": 0.188,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 109.2
+    },
+    {
+      "date": "2024-11-30T00:00:00",
+      "match": "Milan vs Empoli",
+      "pick": "D",
+      "odds": 5.24,
+      "model_p": 0.333,
+      "imp_p": 0.178,
+      "edge": 0.155,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 108.2
     },
     {
       "date": "2024-12-01T00:00:00",
@@ -1066,7 +1896,7 @@
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 110.87
+      "bankroll": 107.2
     },
     {
       "date": "2024-12-01T00:00:00",
@@ -1080,7 +1910,7 @@
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 109.87
+      "bankroll": 106.2
     },
     {
       "date": "2024-12-01T00:00:00",
@@ -1094,7 +1924,7 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 108.87
+      "bankroll": 105.2
     },
     {
       "date": "2024-12-02T00:00:00",
@@ -1108,7 +1938,49 @@
       "actual": "A",
       "won": true,
       "pnl": 1.14,
-      "bankroll": 110.01
+      "bankroll": 106.34
+    },
+    {
+      "date": "2024-12-06T00:00:00",
+      "match": "Atalanta vs Milan",
+      "pick": "A",
+      "odds": 3.72,
+      "model_p": 0.297,
+      "imp_p": 0.258,
+      "edge": 0.039,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 105.34
+    },
+    {
+      "date": "2024-12-06T00:00:00",
+      "match": "Inter vs Parma",
+      "pick": "A",
+      "odds": 13.43,
+      "model_p": 0.112,
+      "imp_p": 0.058,
+      "edge": 0.054,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 104.34
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "match": "Roma vs Lecce",
+      "pick": "D",
+      "odds": 4.18,
+      "model_p": 0.34,
+      "imp_p": 0.227,
+      "edge": 0.113,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 103.34
     },
     {
       "date": "2024-12-07T00:00:00",
@@ -1122,7 +1994,7 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 109.01
+      "bankroll": 102.34
     },
     {
       "date": "2024-12-07T00:00:00",
@@ -1136,7 +2008,7 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 108.01
+      "bankroll": 101.34
     },
     {
       "date": "2024-12-08T00:00:00",
@@ -1150,7 +2022,7 @@
       "actual": "H",
       "won": true,
       "pnl": 0.57,
-      "bankroll": 108.58
+      "bankroll": 101.91
     },
     {
       "date": "2024-12-08T00:00:00",
@@ -1164,7 +2036,7 @@
       "actual": "A",
       "won": true,
       "pnl": 2.18,
-      "bankroll": 110.76
+      "bankroll": 104.09
     },
     {
       "date": "2024-12-14T00:00:00",
@@ -1178,7 +2050,7 @@
       "actual": "A",
       "won": true,
       "pnl": 0.6,
-      "bankroll": 111.36
+      "bankroll": 104.69
     },
     {
       "date": "2024-12-15T00:00:00",
@@ -1192,7 +2064,21 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 110.36
+      "bankroll": 103.69
+    },
+    {
+      "date": "2024-12-15T00:00:00",
+      "match": "Como vs Roma",
+      "pick": "H",
+      "odds": 3.92,
+      "model_p": 0.278,
+      "imp_p": 0.245,
+      "edge": 0.034,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 2.92,
+      "bankroll": 106.61
     },
     {
       "date": "2024-12-15T00:00:00",
@@ -1206,7 +2092,7 @@
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 109.36
+      "bankroll": 105.61
     },
     {
       "date": "2024-12-15T00:00:00",
@@ -1220,7 +2106,7 @@
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 108.36
+      "bankroll": 104.61
     },
     {
       "date": "2024-12-15T00:00:00",
@@ -1234,7 +2120,21 @@
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 107.36
+      "bankroll": 103.61
+    },
+    {
+      "date": "2024-12-16T00:00:00",
+      "match": "Lazio vs Inter",
+      "pick": "H",
+      "odds": 3.67,
+      "model_p": 0.343,
+      "imp_p": 0.263,
+      "edge": 0.08,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 102.61
     },
     {
       "date": "2024-12-20T00:00:00",
@@ -1248,7 +2148,21 @@
       "actual": "A",
       "won": true,
       "pnl": 0.66,
-      "bankroll": 108.02
+      "bankroll": 103.27
+    },
+    {
+      "date": "2024-12-21T00:00:00",
+      "match": "Torino vs Bologna",
+      "pick": "H",
+      "odds": 3.66,
+      "model_p": 0.314,
+      "imp_p": 0.263,
+      "edge": 0.051,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 102.27
     },
     {
       "date": "2024-12-21T00:00:00",
@@ -1262,7 +2176,7 @@
       "actual": "A",
       "won": true,
       "pnl": 0.75,
-      "bankroll": 108.77
+      "bankroll": 103.02
     },
     {
       "date": "2024-12-21T00:00:00",
@@ -1276,7 +2190,49 @@
       "actual": "A",
       "won": true,
       "pnl": 0.62,
-      "bankroll": 109.39
+      "bankroll": 103.64
+    },
+    {
+      "date": "2024-12-22T00:00:00",
+      "match": "Atalanta vs Empoli",
+      "pick": "D",
+      "odds": 6.13,
+      "model_p": 0.233,
+      "imp_p": 0.148,
+      "edge": 0.085,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 102.64
+    },
+    {
+      "date": "2024-12-22T00:00:00",
+      "match": "Venezia vs Cagliari",
+      "pick": "A",
+      "odds": 2.99,
+      "model_p": 0.356,
+      "imp_p": 0.325,
+      "edge": 0.03,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 101.64
+    },
+    {
+      "date": "2024-12-22T00:00:00",
+      "match": "Roma vs Parma",
+      "pick": "A",
+      "odds": 8.75,
+      "model_p": 0.39,
+      "imp_p": 0.1,
+      "edge": 0.289,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 100.64
     },
     {
       "date": "2024-12-23T00:00:00",
@@ -1290,7 +2246,7 @@
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 108.39
+      "bankroll": 99.64
     },
     {
       "date": "2024-12-23T00:00:00",
@@ -1304,7 +2260,7 @@
       "actual": "H",
       "won": true,
       "pnl": 0.35,
-      "bankroll": 108.74
+      "bankroll": 99.99
     },
     {
       "date": "2024-12-28T00:00:00",
@@ -1318,7 +2274,7 @@
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 107.74
+      "bankroll": 98.99
     },
     {
       "date": "2024-12-28T00:00:00",
@@ -1332,7 +2288,7 @@
       "actual": "A",
       "won": true,
       "pnl": 0.41,
-      "bankroll": 108.15
+      "bankroll": 99.4
     },
     {
       "date": "2024-12-28T00:00:00",
@@ -1346,7 +2302,7 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 107.15
+      "bankroll": 98.4
     },
     {
       "date": "2024-12-29T00:00:00",
@@ -1360,7 +2316,63 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 106.15
+      "bankroll": 97.4
+    },
+    {
+      "date": "2024-12-29T00:00:00",
+      "match": "Juventus vs Fiorentina",
+      "pick": "A",
+      "odds": 4.74,
+      "model_p": 0.313,
+      "imp_p": 0.2,
+      "edge": 0.113,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 96.4
+    },
+    {
+      "date": "2024-12-29T00:00:00",
+      "match": "Udinese vs Torino",
+      "pick": "A",
+      "odds": 3.9,
+      "model_p": 0.311,
+      "imp_p": 0.247,
+      "edge": 0.064,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 95.4
+    },
+    {
+      "date": "2024-12-29T00:00:00",
+      "match": "Napoli vs Venezia",
+      "pick": "D",
+      "odds": 6.06,
+      "model_p": 0.208,
+      "imp_p": 0.15,
+      "edge": 0.058,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 94.4
+    },
+    {
+      "date": "2024-12-30T00:00:00",
+      "match": "Como vs Lecce",
+      "pick": "A",
+      "odds": 6.02,
+      "model_p": 0.218,
+      "imp_p": 0.155,
+      "edge": 0.063,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 93.4
     },
     {
       "date": "2024-12-30T00:00:00",
@@ -1374,7 +2386,7 @@
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 105.15
+      "bankroll": 92.4
     },
     {
       "date": "2025-01-04T00:00:00",
@@ -1388,7 +2400,7 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 104.15
+      "bankroll": 91.4
     },
     {
       "date": "2025-01-04T00:00:00",
@@ -1402,7 +2414,35 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 103.15
+      "bankroll": 90.4
+    },
+    {
+      "date": "2025-01-05T00:00:00",
+      "match": "Torino vs Parma",
+      "pick": "A",
+      "odds": 5.24,
+      "model_p": 0.315,
+      "imp_p": 0.18,
+      "edge": 0.136,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 89.4
+    },
+    {
+      "date": "2025-01-05T00:00:00",
+      "match": "Monza vs Cagliari",
+      "pick": "D",
+      "odds": 3.23,
+      "model_p": 0.336,
+      "imp_p": 0.3,
+      "edge": 0.036,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 88.4
     },
     {
       "date": "2025-01-05T00:00:00",
@@ -1416,7 +2456,7 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 102.15
+      "bankroll": 87.4
     },
     {
       "date": "2025-01-05T00:00:00",
@@ -1430,7 +2470,7 @@
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 101.15
+      "bankroll": 86.4
     },
     {
       "date": "2025-01-10T00:00:00",
@@ -1444,7 +2484,7 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 100.15
+      "bankroll": 85.4
     },
     {
       "date": "2025-01-11T00:00:00",
@@ -1458,7 +2498,35 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 99.15
+      "bankroll": 84.4
+    },
+    {
+      "date": "2025-01-11T00:00:00",
+      "match": "Milan vs Cagliari",
+      "pick": "D",
+      "odds": 5.55,
+      "model_p": 0.233,
+      "imp_p": 0.167,
+      "edge": 0.065,
+      "stake": 1.0,
+      "actual": "D",
+      "won": true,
+      "pnl": 4.55,
+      "bankroll": 88.95
+    },
+    {
+      "date": "2025-01-11T00:00:00",
+      "match": "Empoli vs Lecce",
+      "pick": "D",
+      "odds": 3.17,
+      "model_p": 0.355,
+      "imp_p": 0.306,
+      "edge": 0.05,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 87.95
     },
     {
       "date": "2025-01-11T00:00:00",
@@ -1472,7 +2540,21 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 98.15
+      "bankroll": 86.95
+    },
+    {
+      "date": "2025-01-12T00:00:00",
+      "match": "Genoa vs Parma",
+      "pick": "A",
+      "odds": 4.24,
+      "model_p": 0.391,
+      "imp_p": 0.225,
+      "edge": 0.165,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 85.95
     },
     {
       "date": "2025-01-12T00:00:00",
@@ -1486,7 +2568,7 @@
       "actual": "A",
       "won": true,
       "pnl": 0.33,
-      "bankroll": 98.48
+      "bankroll": 86.28
     },
     {
       "date": "2025-01-12T00:00:00",
@@ -1500,7 +2582,7 @@
       "actual": "H",
       "won": true,
       "pnl": 0.36,
-      "bankroll": 98.84
+      "bankroll": 86.64
     },
     {
       "date": "2025-01-13T00:00:00",
@@ -1514,7 +2596,21 @@
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 97.84
+      "bankroll": 85.64
+    },
+    {
+      "date": "2025-01-14T00:00:00",
+      "match": "Atalanta vs Juventus",
+      "pick": "A",
+      "odds": 4.08,
+      "model_p": 0.297,
+      "imp_p": 0.234,
+      "edge": 0.063,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 84.64
     },
     {
       "date": "2025-01-15T00:00:00",
@@ -1528,7 +2624,63 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 96.84
+      "bankroll": 83.64
+    },
+    {
+      "date": "2025-01-17T00:00:00",
+      "match": "Roma vs Genoa",
+      "pick": "D",
+      "odds": 4.31,
+      "model_p": 0.308,
+      "imp_p": 0.221,
+      "edge": 0.087,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 82.64
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "match": "Atalanta vs Napoli",
+      "pick": "A",
+      "odds": 3.63,
+      "model_p": 0.369,
+      "imp_p": 0.265,
+      "edge": 0.103,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.63,
+      "bankroll": 85.27
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "match": "Bologna vs Monza",
+      "pick": "A",
+      "odds": 6.89,
+      "model_p": 0.195,
+      "imp_p": 0.132,
+      "edge": 0.063,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 84.27
+    },
+    {
+      "date": "2025-01-19T00:00:00",
+      "match": "Cagliari vs Lecce",
+      "pick": "D",
+      "odds": 3.32,
+      "model_p": 0.344,
+      "imp_p": 0.291,
+      "edge": 0.053,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 83.27
     },
     {
       "date": "2025-01-19T00:00:00",
@@ -1542,7 +2694,21 @@
       "actual": "A",
       "won": true,
       "pnl": 0.81,
-      "bankroll": 97.65
+      "bankroll": 84.08
+    },
+    {
+      "date": "2025-01-20T00:00:00",
+      "match": "Como vs Udinese",
+      "pick": "A",
+      "odds": 3.76,
+      "model_p": 0.388,
+      "imp_p": 0.256,
+      "edge": 0.132,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 83.08
     },
     {
       "date": "2025-01-25T00:00:00",
@@ -1556,7 +2722,35 @@
       "actual": "A",
       "won": true,
       "pnl": 0.94,
-      "bankroll": 98.59
+      "bankroll": 84.02
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "match": "Napoli vs Juventus",
+      "pick": "D",
+      "odds": 2.92,
+      "model_p": 0.373,
+      "imp_p": 0.333,
+      "edge": 0.04,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 83.02
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "match": "Lazio vs Fiorentina",
+      "pick": "A",
+      "odds": 3.73,
+      "model_p": 0.37,
+      "imp_p": 0.259,
+      "edge": 0.112,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.73,
+      "bankroll": 85.75
     },
     {
       "date": "2025-01-26T00:00:00",
@@ -1570,7 +2764,21 @@
       "actual": "A",
       "won": true,
       "pnl": 0.36,
-      "bankroll": 98.95
+      "bankroll": 86.11
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "match": "Milan vs Parma",
+      "pick": "D",
+      "odds": 6.27,
+      "model_p": 0.249,
+      "imp_p": 0.144,
+      "edge": 0.105,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 85.11
     },
     {
       "date": "2025-01-26T00:00:00",
@@ -1584,7 +2792,21 @@
       "actual": "A",
       "won": true,
       "pnl": 1.54,
-      "bankroll": 100.49
+      "bankroll": 86.65
+    },
+    {
+      "date": "2025-01-27T00:00:00",
+      "match": "Genoa vs Monza",
+      "pick": "A",
+      "odds": 3.64,
+      "model_p": 0.321,
+      "imp_p": 0.265,
+      "edge": 0.056,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 85.65
     },
     {
       "date": "2025-01-31T00:00:00",
@@ -1598,7 +2820,21 @@
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 99.49
+      "bankroll": 84.65
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "match": "Udinese vs Venezia",
+      "pick": "D",
+      "odds": 3.65,
+      "model_p": 0.324,
+      "imp_p": 0.263,
+      "edge": 0.061,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 83.65
     },
     {
       "date": "2025-02-01T00:00:00",
@@ -1612,7 +2848,7 @@
       "actual": "H",
       "won": true,
       "pnl": 1.01,
-      "bankroll": 100.5
+      "bankroll": 84.66
     },
     {
       "date": "2025-02-02T00:00:00",
@@ -1626,7 +2862,7 @@
       "actual": "H",
       "won": true,
       "pnl": 0.91,
-      "bankroll": 101.41
+      "bankroll": 85.57
     },
     {
       "date": "2025-02-02T00:00:00",
@@ -1640,7 +2876,21 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 100.41
+      "bankroll": 84.57
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "match": "Juventus vs Empoli",
+      "pick": "D",
+      "odds": 4.8,
+      "model_p": 0.29,
+      "imp_p": 0.197,
+      "edge": 0.093,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 83.57
     },
     {
       "date": "2025-02-02T00:00:00",
@@ -1654,7 +2904,7 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 99.41
+      "bankroll": 82.57
     },
     {
       "date": "2025-02-03T00:00:00",
@@ -1668,7 +2918,7 @@
       "actual": "A",
       "won": true,
       "pnl": 1.04,
-      "bankroll": 100.45
+      "bankroll": 83.61
     },
     {
       "date": "2025-02-07T00:00:00",
@@ -1682,7 +2932,21 @@
       "actual": "A",
       "won": true,
       "pnl": 1.28,
-      "bankroll": 101.73
+      "bankroll": 84.89
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "match": "Empoli vs Milan",
+      "pick": "D",
+      "odds": 3.94,
+      "model_p": 0.325,
+      "imp_p": 0.243,
+      "edge": 0.083,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 83.89
     },
     {
       "date": "2025-02-08T00:00:00",
@@ -1696,7 +2960,21 @@
       "actual": "A",
       "won": true,
       "pnl": 0.45,
-      "bankroll": 102.18
+      "bankroll": 84.34
+    },
+    {
+      "date": "2025-02-08T00:00:00",
+      "match": "Torino vs Genoa",
+      "pick": "D",
+      "odds": 2.93,
+      "model_p": 0.368,
+      "imp_p": 0.332,
+      "edge": 0.036,
+      "stake": 1.0,
+      "actual": "D",
+      "won": true,
+      "pnl": 1.93,
+      "bankroll": 86.27
     },
     {
       "date": "2025-02-09T00:00:00",
@@ -1710,7 +2988,63 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 101.18
+      "bankroll": 85.27
+    },
+    {
+      "date": "2025-02-09T00:00:00",
+      "match": "Lazio vs Monza",
+      "pick": "D",
+      "odds": 5.85,
+      "model_p": 0.263,
+      "imp_p": 0.159,
+      "edge": 0.104,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 84.27
+    },
+    {
+      "date": "2025-02-09T00:00:00",
+      "match": "Cagliari vs Parma",
+      "pick": "A",
+      "odds": 4.14,
+      "model_p": 0.336,
+      "imp_p": 0.231,
+      "edge": 0.105,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 83.27
+    },
+    {
+      "date": "2025-02-10T00:00:00",
+      "match": "Inter vs Fiorentina",
+      "pick": "A",
+      "odds": 7.24,
+      "model_p": 0.22,
+      "imp_p": 0.125,
+      "edge": 0.095,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 82.27
+    },
+    {
+      "date": "2025-02-14T00:00:00",
+      "match": "Bologna vs Torino",
+      "pick": "A",
+      "odds": 5.74,
+      "model_p": 0.238,
+      "imp_p": 0.163,
+      "edge": 0.075,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 81.27
     },
     {
       "date": "2025-02-15T00:00:00",
@@ -1724,7 +3058,7 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 100.18
+      "bankroll": 80.27
     },
     {
       "date": "2025-02-15T00:00:00",
@@ -1738,7 +3072,35 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 99.18
+      "bankroll": 79.27
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "match": "Juventus vs Inter",
+      "pick": "H",
+      "odds": 4.01,
+      "model_p": 0.311,
+      "imp_p": 0.239,
+      "edge": 0.072,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 3.01,
+      "bankroll": 82.28
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "match": "Udinese vs Empoli",
+      "pick": "D",
+      "odds": 3.43,
+      "model_p": 0.33,
+      "imp_p": 0.281,
+      "edge": 0.049,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 81.28
     },
     {
       "date": "2025-02-16T00:00:00",
@@ -1752,7 +3114,7 @@
       "actual": "A",
       "won": true,
       "pnl": 1.09,
-      "bankroll": 100.27
+      "bankroll": 82.37
     },
     {
       "date": "2025-02-16T00:00:00",
@@ -1766,7 +3128,35 @@
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 99.27
+      "bankroll": 81.37
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "match": "Monza vs Lecce",
+      "pick": "H",
+      "odds": 2.97,
+      "model_p": 0.392,
+      "imp_p": 0.328,
+      "edge": 0.064,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 80.37
+    },
+    {
+      "date": "2025-02-17T00:00:00",
+      "match": "Genoa vs Venezia",
+      "pick": "A",
+      "odds": 5.25,
+      "model_p": 0.257,
+      "imp_p": 0.179,
+      "edge": 0.078,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 79.37
     },
     {
       "date": "2025-02-21T00:00:00",
@@ -1780,7 +3170,21 @@
       "actual": "A",
       "won": true,
       "pnl": 1.75,
-      "bankroll": 101.02
+      "bankroll": 81.12
+    },
+    {
+      "date": "2025-02-22T00:00:00",
+      "match": "Torino vs Milan",
+      "pick": "D",
+      "odds": 3.75,
+      "model_p": 0.348,
+      "imp_p": 0.257,
+      "edge": 0.092,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 80.12
     },
     {
       "date": "2025-02-23T00:00:00",
@@ -1794,7 +3198,7 @@
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 100.02
+      "bankroll": 79.12
     },
     {
       "date": "2025-02-23T00:00:00",
@@ -1808,7 +3212,7 @@
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 99.02
+      "bankroll": 78.12
     },
     {
       "date": "2025-02-23T00:00:00",
@@ -1822,7 +3226,21 @@
       "actual": "A",
       "won": true,
       "pnl": 0.85,
-      "bankroll": 99.87
+      "bankroll": 78.97
+    },
+    {
+      "date": "2025-02-24T00:00:00",
+      "match": "Roma vs Monza",
+      "pick": "D",
+      "odds": 5.94,
+      "model_p": 0.26,
+      "imp_p": 0.153,
+      "edge": 0.107,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 77.97
     },
     {
       "date": "2025-02-28T00:00:00",
@@ -1836,7 +3254,49 @@
       "actual": "H",
       "won": true,
       "pnl": 0.94,
-      "bankroll": 100.81
+      "bankroll": 78.91
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "match": "Napoli vs Inter",
+      "pick": "H",
+      "odds": 3.19,
+      "model_p": 0.348,
+      "imp_p": 0.303,
+      "edge": 0.044,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 77.91
+    },
+    {
+      "date": "2025-03-01T00:00:00",
+      "match": "Udinese vs Parma",
+      "pick": "A",
+      "odds": 4.68,
+      "model_p": 0.242,
+      "imp_p": 0.202,
+      "edge": 0.04,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 76.91
+    },
+    {
+      "date": "2025-03-02T00:00:00",
+      "match": "Genoa vs Empoli",
+      "pick": "D",
+      "odds": 3.25,
+      "model_p": 0.351,
+      "imp_p": 0.298,
+      "edge": 0.053,
+      "stake": 1.0,
+      "actual": "D",
+      "won": true,
+      "pnl": 2.25,
+      "bankroll": 79.16
     },
     {
       "date": "2025-03-02T00:00:00",
@@ -1850,7 +3310,21 @@
       "actual": "H",
       "won": true,
       "pnl": 0.99,
-      "bankroll": 101.8
+      "bankroll": 80.15
+    },
+    {
+      "date": "2025-03-02T00:00:00",
+      "match": "Milan vs Lazio",
+      "pick": "A",
+      "odds": 3.52,
+      "model_p": 0.313,
+      "imp_p": 0.274,
+      "edge": 0.038,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.52,
+      "bankroll": 82.67
     },
     {
       "date": "2025-03-03T00:00:00",
@@ -1864,7 +3338,21 @@
       "actual": "H",
       "won": true,
       "pnl": 0.35,
-      "bankroll": 102.15
+      "bankroll": 83.02
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "match": "Como vs Venezia",
+      "pick": "D",
+      "odds": 3.79,
+      "model_p": 0.31,
+      "imp_p": 0.253,
+      "edge": 0.057,
+      "stake": 1.0,
+      "actual": "D",
+      "won": true,
+      "pnl": 2.79,
+      "bankroll": 85.81
     },
     {
       "date": "2025-03-08T00:00:00",
@@ -1878,7 +3366,7 @@
       "actual": "A",
       "won": true,
       "pnl": 0.85,
-      "bankroll": 103.0
+      "bankroll": 86.66
     },
     {
       "date": "2025-03-09T00:00:00",
@@ -1892,7 +3380,21 @@
       "actual": "A",
       "won": true,
       "pnl": 0.76,
-      "bankroll": 103.76
+      "bankroll": 87.42
+    },
+    {
+      "date": "2025-03-09T00:00:00",
+      "match": "Napoli vs Fiorentina",
+      "pick": "D",
+      "odds": 3.84,
+      "model_p": 0.33,
+      "imp_p": 0.249,
+      "edge": 0.081,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 86.42
     },
     {
       "date": "2025-03-09T00:00:00",
@@ -1906,7 +3408,63 @@
       "actual": "A",
       "won": true,
       "pnl": 1.11,
-      "bankroll": 104.87
+      "bankroll": 87.53
+    },
+    {
+      "date": "2025-03-14T00:00:00",
+      "match": "Genoa vs Lecce",
+      "pick": "D",
+      "odds": 3.04,
+      "model_p": 0.353,
+      "imp_p": 0.319,
+      "edge": 0.033,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 86.53
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "match": "Venezia vs Napoli",
+      "pick": "D",
+      "odds": 4.3,
+      "model_p": 0.268,
+      "imp_p": 0.222,
+      "edge": 0.046,
+      "stake": 1.0,
+      "actual": "D",
+      "won": true,
+      "pnl": 3.3,
+      "bankroll": 89.83
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "match": "Bologna vs Lazio",
+      "pick": "A",
+      "odds": 3.83,
+      "model_p": 0.376,
+      "imp_p": 0.251,
+      "edge": 0.125,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 88.83
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "match": "Roma vs Cagliari",
+      "pick": "D",
+      "odds": 4.3,
+      "model_p": 0.262,
+      "imp_p": 0.222,
+      "edge": 0.041,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 87.83
     },
     {
       "date": "2025-03-16T00:00:00",
@@ -1920,7 +3478,21 @@
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 103.87
+      "bankroll": 86.83
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "match": "Juventus vs Genoa",
+      "pick": "D",
+      "odds": 3.94,
+      "model_p": 0.277,
+      "imp_p": 0.243,
+      "edge": 0.034,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 85.83
     },
     {
       "date": "2025-03-29T00:00:00",
@@ -1934,7 +3506,21 @@
       "actual": "A",
       "won": true,
       "pnl": 0.77,
-      "bankroll": 104.64
+      "bankroll": 86.6
+    },
+    {
+      "date": "2025-03-30T00:00:00",
+      "match": "Napoli vs Milan",
+      "pick": "D",
+      "odds": 3.51,
+      "model_p": 0.306,
+      "imp_p": 0.275,
+      "edge": 0.031,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 85.6
     },
     {
       "date": "2025-03-30T00:00:00",
@@ -1948,7 +3534,91 @@
       "actual": "H",
       "won": true,
       "pnl": 0.46,
-      "bankroll": 105.1
+      "bankroll": 86.06
+    },
+    {
+      "date": "2025-03-30T00:00:00",
+      "match": "Cagliari vs Monza",
+      "pick": "A",
+      "odds": 5.18,
+      "model_p": 0.232,
+      "imp_p": 0.181,
+      "edge": 0.051,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 85.06
+    },
+    {
+      "date": "2025-03-30T00:00:00",
+      "match": "Fiorentina vs Atalanta",
+      "pick": "H",
+      "odds": 3.89,
+      "model_p": 0.279,
+      "imp_p": 0.249,
+      "edge": 0.03,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 2.89,
+      "bankroll": 87.95
+    },
+    {
+      "date": "2025-03-31T00:00:00",
+      "match": "Verona vs Parma",
+      "pick": "A",
+      "odds": 2.76,
+      "model_p": 0.4,
+      "imp_p": 0.353,
+      "edge": 0.046,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 86.95
+    },
+    {
+      "date": "2025-03-31T00:00:00",
+      "match": "Lazio vs Torino",
+      "pick": "A",
+      "odds": 5.06,
+      "model_p": 0.272,
+      "imp_p": 0.186,
+      "edge": 0.086,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 85.95
+    },
+    {
+      "date": "2025-04-04T00:00:00",
+      "match": "Genoa vs Udinese",
+      "pick": "A",
+      "odds": 3.6,
+      "model_p": 0.35,
+      "imp_p": 0.268,
+      "edge": 0.081,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 84.95
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "match": "Monza vs Como",
+      "pick": "D",
+      "odds": 3.9,
+      "model_p": 0.293,
+      "imp_p": 0.244,
+      "edge": 0.05,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 83.95
     },
     {
       "date": "2025-04-05T00:00:00",
@@ -1962,7 +3632,35 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 104.1
+      "bankroll": 82.95
+    },
+    {
+      "date": "2025-04-05T00:00:00",
+      "match": "Milan vs Fiorentina",
+      "pick": "A",
+      "odds": 4.9,
+      "model_p": 0.375,
+      "imp_p": 0.193,
+      "edge": 0.182,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 81.95
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "match": "Roma vs Juventus",
+      "pick": "A",
+      "odds": 3.28,
+      "model_p": 0.36,
+      "imp_p": 0.296,
+      "edge": 0.064,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 80.95
     },
     {
       "date": "2025-04-06T00:00:00",
@@ -1976,7 +3674,7 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 103.1
+      "bankroll": 79.95
     },
     {
       "date": "2025-04-06T00:00:00",
@@ -1990,7 +3688,35 @@
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 102.1
+      "bankroll": 78.95
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "match": "Lecce vs Venezia",
+      "pick": "A",
+      "odds": 3.47,
+      "model_p": 0.349,
+      "imp_p": 0.279,
+      "edge": 0.07,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 77.95
+    },
+    {
+      "date": "2025-04-06T00:00:00",
+      "match": "Empoli vs Cagliari",
+      "pick": "A",
+      "odds": 3.05,
+      "model_p": 0.369,
+      "imp_p": 0.319,
+      "edge": 0.05,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 76.95
     },
     {
       "date": "2025-04-07T00:00:00",
@@ -2004,7 +3730,35 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 101.1
+      "bankroll": 75.95
+    },
+    {
+      "date": "2025-04-11T00:00:00",
+      "match": "Udinese vs Milan",
+      "pick": "H",
+      "odds": 4.23,
+      "model_p": 0.272,
+      "imp_p": 0.226,
+      "edge": 0.046,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 74.95
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "match": "Venezia vs Monza",
+      "pick": "D",
+      "odds": 3.6,
+      "model_p": 0.357,
+      "imp_p": 0.268,
+      "edge": 0.089,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 73.95
     },
     {
       "date": "2025-04-13T00:00:00",
@@ -2018,7 +3772,7 @@
       "actual": "H",
       "won": true,
       "pnl": 0.92,
-      "bankroll": 102.02
+      "bankroll": 74.87
     },
     {
       "date": "2025-04-13T00:00:00",
@@ -2032,343 +3786,35 @@
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 101.02
+      "bankroll": 73.87
     },
     {
-      "date": "2025-04-19T00:00:00",
-      "match": "Lecce vs Como",
+      "date": "2025-04-13T00:00:00",
+      "match": "Verona vs Genoa",
       "pick": "A",
-      "odds": 2.11,
-      "model_p": 0.506,
-      "imp_p": 0.466,
-      "edge": 0.041,
-      "stake": 1.0,
-      "actual": "A",
-      "won": true,
-      "pnl": 1.11,
-      "bankroll": 102.13
-    },
-    {
-      "date": "2025-04-19T00:00:00",
-      "match": "Roma vs Verona",
-      "pick": "H",
-      "odds": 1.6,
-      "model_p": 0.675,
-      "imp_p": 0.617,
-      "edge": 0.058,
-      "stake": 1.0,
-      "actual": "H",
-      "won": true,
-      "pnl": 0.6,
-      "bankroll": 102.73
-    },
-    {
-      "date": "2025-04-20T00:00:00",
-      "match": "Bologna vs Inter",
-      "pick": "A",
-      "odds": 2.33,
-      "model_p": 0.517,
-      "imp_p": 0.42,
-      "edge": 0.097,
-      "stake": 1.0,
-      "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 101.73
-    },
-    {
-      "date": "2025-04-20T00:00:00",
-      "match": "Milan vs Atalanta",
-      "pick": "A",
-      "odds": 2.67,
-      "model_p": 0.476,
-      "imp_p": 0.366,
-      "edge": 0.11,
-      "stake": 1.0,
-      "actual": "A",
-      "won": true,
-      "pnl": 1.67,
-      "bankroll": 103.4
-    },
-    {
-      "date": "2025-04-23T00:00:00",
-      "match": "Cagliari vs Fiorentina",
-      "pick": "A",
-      "odds": 2.63,
-      "model_p": 0.544,
-      "imp_p": 0.371,
-      "edge": 0.173,
-      "stake": 1.0,
-      "actual": "A",
-      "won": true,
-      "pnl": 1.63,
-      "bankroll": 105.03
-    },
-    {
-      "date": "2025-04-23T00:00:00",
-      "match": "Genoa vs Lazio",
-      "pick": "A",
-      "odds": 2.2,
-      "model_p": 0.478,
-      "imp_p": 0.446,
-      "edge": 0.032,
-      "stake": 1.0,
-      "actual": "A",
-      "won": true,
-      "pnl": 1.2,
-      "bankroll": 106.23
-    },
-    {
-      "date": "2025-04-23T00:00:00",
-      "match": "Torino vs Udinese",
-      "pick": "H",
-      "odds": 2.56,
-      "model_p": 0.431,
-      "imp_p": 0.382,
-      "edge": 0.049,
-      "stake": 1.0,
-      "actual": "H",
-      "won": true,
-      "pnl": 1.56,
-      "bankroll": 107.79
-    },
-    {
-      "date": "2025-04-27T00:00:00",
-      "match": "Atalanta vs Lecce",
-      "pick": "H",
-      "odds": 1.25,
-      "model_p": 0.844,
-      "imp_p": 0.793,
-      "edge": 0.051,
+      "odds": 2.94,
+      "model_p": 0.393,
+      "imp_p": 0.33,
+      "edge": 0.063,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 106.79
+      "bankroll": 72.87
     },
     {
-      "date": "2025-04-27T00:00:00",
-      "match": "Fiorentina vs Empoli",
-      "pick": "H",
-      "odds": 2.15,
-      "model_p": 0.683,
-      "imp_p": 0.457,
-      "edge": 0.227,
-      "stake": 1.0,
-      "actual": "H",
-      "won": true,
-      "pnl": 1.15,
-      "bankroll": 107.94
-    },
-    {
-      "date": "2025-05-02T00:00:00",
-      "match": "Torino vs Venezia",
-      "pick": "H",
-      "odds": 2.58,
-      "model_p": 0.498,
-      "imp_p": 0.379,
-      "edge": 0.119,
-      "stake": 1.0,
-      "actual": "D",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 106.94
-    },
-    {
-      "date": "2025-05-03T00:00:00",
-      "match": "Inter vs Verona",
-      "pick": "H",
-      "odds": 1.47,
-      "model_p": 0.844,
-      "imp_p": 0.672,
-      "edge": 0.172,
-      "stake": 1.0,
-      "actual": "H",
-      "won": true,
-      "pnl": 0.47,
-      "bankroll": 107.41
-    },
-    {
-      "date": "2025-05-03T00:00:00",
-      "match": "Lecce vs Napoli",
+      "date": "2025-04-13T00:00:00",
+      "match": "Como vs Torino",
       "pick": "A",
-      "odds": 1.5,
-      "model_p": 0.725,
-      "imp_p": 0.658,
-      "edge": 0.067,
-      "stake": 1.0,
-      "actual": "A",
-      "won": true,
-      "pnl": 0.5,
-      "bankroll": 107.91
-    },
-    {
-      "date": "2025-05-04T00:00:00",
-      "match": "Empoli vs Lazio",
-      "pick": "A",
-      "odds": 1.88,
-      "model_p": 0.6,
-      "imp_p": 0.524,
-      "edge": 0.076,
-      "stake": 1.0,
-      "actual": "A",
-      "won": true,
-      "pnl": 0.88,
-      "bankroll": 108.79
-    },
-    {
-      "date": "2025-05-10T00:00:00",
-      "match": "Empoli vs Parma",
-      "pick": "A",
-      "odds": 3.48,
-      "model_p": 0.408,
-      "imp_p": 0.278,
-      "edge": 0.13,
+      "odds": 4.59,
+      "model_p": 0.354,
+      "imp_p": 0.207,
+      "edge": 0.148,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 107.79
-    },
-    {
-      "date": "2025-05-10T00:00:00",
-      "match": "Lazio vs Juventus",
-      "pick": "A",
-      "odds": 3.47,
-      "model_p": 0.403,
-      "imp_p": 0.279,
-      "edge": 0.124,
-      "stake": 1.0,
-      "actual": "D",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 106.79
-    },
-    {
-      "date": "2025-05-12T00:00:00",
-      "match": "Venezia vs Fiorentina",
-      "pick": "A",
-      "odds": 2.88,
-      "model_p": 0.577,
-      "imp_p": 0.336,
-      "edge": 0.24,
-      "stake": 1.0,
-      "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 105.79
-    },
-    {
-      "date": "2025-05-17T00:00:00",
-      "match": "Genoa vs Atalanta",
-      "pick": "A",
-      "odds": 2.34,
-      "model_p": 0.656,
-      "imp_p": 0.419,
-      "edge": 0.237,
-      "stake": 1.0,
-      "actual": "A",
-      "won": true,
-      "pnl": 1.34,
-      "bankroll": 107.13
-    },
-    {
-      "date": "2025-05-18T00:00:00",
-      "match": "Verona vs Como",
-      "pick": "A",
-      "odds": 2.49,
-      "model_p": 0.534,
-      "imp_p": 0.393,
-      "edge": 0.141,
-      "stake": 1.0,
-      "actual": "D",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 106.13
-    },
-    {
-      "date": "2025-05-18T00:00:00",
-      "match": "Lecce vs Torino",
-      "pick": "A",
-      "odds": 4.11,
-      "model_p": 0.495,
-      "imp_p": 0.232,
-      "edge": 0.263,
-      "stake": 1.0,
-      "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 105.13
-    },
-    {
-      "date": "2025-05-18T00:00:00",
-      "match": "Fiorentina vs Bologna",
-      "pick": "H",
-      "odds": 3.14,
-      "model_p": 0.419,
-      "imp_p": 0.309,
-      "edge": 0.11,
-      "stake": 1.0,
-      "actual": "H",
-      "won": true,
-      "pnl": 2.14,
-      "bankroll": 107.27
-    },
-    {
-      "date": "2025-05-18T00:00:00",
-      "match": "Cagliari vs Venezia",
-      "pick": "H",
-      "odds": 2.92,
-      "model_p": 0.401,
-      "imp_p": 0.333,
-      "edge": 0.068,
-      "stake": 1.0,
-      "actual": "H",
-      "won": true,
-      "pnl": 1.92,
-      "bankroll": 109.19
-    },
-    {
-      "date": "2025-05-23T00:00:00",
-      "match": "Como vs Inter",
-      "pick": "A",
-      "odds": 1.78,
-      "model_p": 0.598,
-      "imp_p": 0.553,
-      "edge": 0.045,
-      "stake": 1.0,
-      "actual": "A",
-      "won": true,
-      "pnl": 0.78,
-      "bankroll": 109.97
-    },
-    {
-      "date": "2025-05-25T00:00:00",
-      "match": "Udinese vs Fiorentina",
-      "pick": "A",
-      "odds": 2.43,
-      "model_p": 0.521,
-      "imp_p": 0.403,
-      "edge": 0.118,
-      "stake": 1.0,
-      "actual": "A",
-      "won": true,
-      "pnl": 1.43,
-      "bankroll": 111.4
-    },
-    {
-      "date": "2025-05-25T00:00:00",
-      "match": "Atalanta vs Parma",
-      "pick": "H",
-      "odds": 1.85,
-      "model_p": 0.757,
-      "imp_p": 0.532,
-      "edge": 0.226,
-      "stake": 1.0,
-      "actual": "A",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 110.4
+      "bankroll": 71.87
     }
   ],
   "league": "I1"

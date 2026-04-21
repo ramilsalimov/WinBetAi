@@ -1,3828 +1,3952 @@
 {
-  "model": "dixon_coles",
+  "model": "elo",
   "stake_mode": "flat",
-  "picks": 253,
-  "wins": 72,
-  "winrate": 28.46,
-  "total_staked": 253.0,
-  "total_pnl": -59.47,
-  "roi_pct": -23.51,
-  "final_bankroll": 40.53,
-  "bankroll_growth_pct": -59.47,
+  "picks": 284,
+  "wins": 60,
+  "winrate": 21.13,
+  "total_staked": 284.0,
+  "total_pnl": -41.32,
+  "roi_pct": -14.55,
+  "final_bankroll": 58.68,
+  "bankroll_growth_pct": -41.32,
   "equity_curve": [
     {
-      "date": "2024-09-23T00:00:00",
+      "date": "2024-09-22T00:00:00",
       "bankroll": 99.0
     },
     {
-      "date": "2024-09-24T00:00:00",
-      "bankroll": 98.0
+      "date": "2024-09-23T00:00:00",
+      "bankroll": 103.5
     },
     {
       "date": "2024-09-24T00:00:00",
-      "bankroll": 97.0
+      "bankroll": 102.5
     },
     {
       "date": "2024-09-24T00:00:00",
-      "bankroll": 96.0
+      "bankroll": 101.5
+    },
+    {
+      "date": "2024-09-24T00:00:00",
+      "bankroll": 100.5
     },
     {
       "date": "2024-09-25T00:00:00",
-      "bankroll": 95.0
+      "bankroll": 99.5
+    },
+    {
+      "date": "2024-09-25T00:00:00",
+      "bankroll": 98.5
     },
     {
       "date": "2024-09-26T00:00:00",
-      "bankroll": 97.36
+      "bankroll": 97.5
     },
     {
       "date": "2024-09-26T00:00:00",
-      "bankroll": 96.36
+      "bankroll": 96.5
+    },
+    {
+      "date": "2024-09-26T00:00:00",
+      "bankroll": 95.5
     },
     {
       "date": "2024-09-27T00:00:00",
-      "bankroll": 95.36
+      "bankroll": 94.5
     },
     {
       "date": "2024-09-28T00:00:00",
-      "bankroll": 94.36
+      "bankroll": 93.5
     },
     {
       "date": "2024-09-28T00:00:00",
-      "bankroll": 93.36
+      "bankroll": 92.5
     },
     {
       "date": "2024-09-28T00:00:00",
-      "bankroll": 92.36
+      "bankroll": 91.5
+    },
+    {
+      "date": "2024-09-28T00:00:00",
+      "bankroll": 94.97
     },
     {
       "date": "2024-09-29T00:00:00",
-      "bankroll": 91.36
+      "bankroll": 93.97
     },
     {
       "date": "2024-09-29T00:00:00",
-      "bankroll": 90.36
+      "bankroll": 92.97
+    },
+    {
+      "date": "2024-09-29T00:00:00",
+      "bankroll": 91.97
+    },
+    {
+      "date": "2024-09-29T00:00:00",
+      "bankroll": 90.97
+    },
+    {
+      "date": "2024-09-30T00:00:00",
+      "bankroll": 89.97
     },
     {
       "date": "2024-10-04T00:00:00",
-      "bankroll": 92.14
+      "bankroll": 88.97
     },
     {
       "date": "2024-10-05T00:00:00",
-      "bankroll": 91.14
+      "bankroll": 91.76
     },
     {
       "date": "2024-10-05T00:00:00",
-      "bankroll": 93.19
+      "bankroll": 90.76
     },
     {
       "date": "2024-10-05T00:00:00",
-      "bankroll": 94.7
+      "bankroll": 89.76
+    },
+    {
+      "date": "2024-10-05T00:00:00",
+      "bankroll": 88.76
+    },
+    {
+      "date": "2024-10-05T00:00:00",
+      "bankroll": 87.76
     },
     {
       "date": "2024-10-06T00:00:00",
-      "bankroll": 93.7
+      "bankroll": 86.76
     },
     {
       "date": "2024-10-06T00:00:00",
-      "bankroll": 92.7
-    },
-    {
-      "date": "2024-10-06T00:00:00",
-      "bankroll": 91.7
+      "bankroll": 88.53
     },
     {
       "date": "2024-10-18T00:00:00",
-      "bankroll": 90.7
+      "bankroll": 93.78
     },
     {
       "date": "2024-10-19T00:00:00",
-      "bankroll": 89.7
+      "bankroll": 92.78
     },
     {
       "date": "2024-10-19T00:00:00",
-      "bankroll": 88.7
+      "bankroll": 91.78
     },
     {
       "date": "2024-10-19T00:00:00",
-      "bankroll": 87.7
+      "bankroll": 90.78
     },
     {
       "date": "2024-10-19T00:00:00",
-      "bankroll": 86.7
+      "bankroll": 89.78
     },
     {
       "date": "2024-10-20T00:00:00",
-      "bankroll": 85.7
+      "bankroll": 88.78
     },
     {
       "date": "2024-10-20T00:00:00",
-      "bankroll": 86.11
+      "bankroll": 87.78
     },
     {
       "date": "2024-10-20T00:00:00",
-      "bankroll": 88.6
+      "bankroll": 86.78
+    },
+    {
+      "date": "2024-10-20T00:00:00",
+      "bankroll": 85.78
     },
     {
       "date": "2024-10-21T00:00:00",
-      "bankroll": 87.6
+      "bankroll": 89.43
     },
     {
       "date": "2024-10-25T00:00:00",
-      "bankroll": 86.6
+      "bankroll": 88.43
     },
     {
       "date": "2024-10-26T00:00:00",
-      "bankroll": 85.6
+      "bankroll": 91.06
     },
     {
       "date": "2024-10-26T00:00:00",
-      "bankroll": 84.6
+      "bankroll": 90.06
     },
     {
       "date": "2024-10-26T00:00:00",
-      "bankroll": 85.6
-    },
-    {
-      "date": "2024-10-26T00:00:00",
-      "bankroll": 86.69
+      "bankroll": 89.06
     },
     {
       "date": "2024-10-27T00:00:00",
-      "bankroll": 85.69
+      "bankroll": 91.93
     },
     {
       "date": "2024-10-27T00:00:00",
-      "bankroll": 87.58
+      "bankroll": 90.93
     },
     {
       "date": "2024-10-27T00:00:00",
-      "bankroll": 86.58
+      "bankroll": 93.57
     },
     {
       "date": "2024-10-27T00:00:00",
-      "bankroll": 85.58
+      "bankroll": 98.87
     },
     {
       "date": "2024-10-28T00:00:00",
-      "bankroll": 87.58
+      "bankroll": 97.87
     },
     {
       "date": "2024-11-01T00:00:00",
-      "bankroll": 86.58
+      "bankroll": 96.87
     },
     {
       "date": "2024-11-02T00:00:00",
-      "bankroll": 85.58
+      "bankroll": 95.87
     },
     {
       "date": "2024-11-02T00:00:00",
-      "bankroll": 86.3
+      "bankroll": 94.87
     },
     {
       "date": "2024-11-03T00:00:00",
-      "bankroll": 88.82
+      "bankroll": 93.87
     },
     {
       "date": "2024-11-03T00:00:00",
-      "bankroll": 87.82
+      "bankroll": 92.87
     },
     {
       "date": "2024-11-03T00:00:00",
-      "bankroll": 88.16
+      "bankroll": 91.87
+    },
+    {
+      "date": "2024-11-03T00:00:00",
+      "bankroll": 90.87
     },
     {
       "date": "2024-11-04T00:00:00",
-      "bankroll": 87.16
+      "bankroll": 89.87
     },
     {
       "date": "2024-11-08T00:00:00",
-      "bankroll": 86.16
+      "bankroll": 93.67
     },
     {
       "date": "2024-11-09T00:00:00",
-      "bankroll": 85.16
+      "bankroll": 92.67
     },
     {
       "date": "2024-11-09T00:00:00",
-      "bankroll": 85.74
+      "bankroll": 91.67
     },
     {
       "date": "2024-11-09T00:00:00",
-      "bankroll": 87.93
+      "bankroll": 93.86
     },
     {
       "date": "2024-11-10T00:00:00",
-      "bankroll": 86.93
+      "bankroll": 92.86
     },
     {
       "date": "2024-11-10T00:00:00",
-      "bankroll": 85.93
+      "bankroll": 95.23
     },
     {
       "date": "2024-11-10T00:00:00",
-      "bankroll": 84.93
+      "bankroll": 98.31
     },
     {
       "date": "2024-11-10T00:00:00",
-      "bankroll": 83.93
-    },
-    {
-      "date": "2024-11-10T00:00:00",
-      "bankroll": 82.93
+      "bankroll": 97.31
     },
     {
       "date": "2024-11-22T00:00:00",
-      "bankroll": 81.93
+      "bankroll": 96.31
     },
     {
       "date": "2024-11-23T00:00:00",
-      "bankroll": 80.93
+      "bankroll": 95.31
     },
     {
       "date": "2024-11-23T00:00:00",
-      "bankroll": 81.39
+      "bankroll": 94.31
     },
     {
       "date": "2024-11-23T00:00:00",
-      "bankroll": 82.18
+      "bankroll": 93.31
     },
     {
       "date": "2024-11-23T00:00:00",
-      "bankroll": 81.18
-    },
-    {
-      "date": "2024-11-23T00:00:00",
-      "bankroll": 80.18
+      "bankroll": 92.31
     },
     {
       "date": "2024-11-24T00:00:00",
-      "bankroll": 79.18
+      "bankroll": 91.31
     },
     {
       "date": "2024-11-24T00:00:00",
-      "bankroll": 78.18
+      "bankroll": 90.31
     },
     {
       "date": "2024-11-24T00:00:00",
-      "bankroll": 77.18
-    },
-    {
-      "date": "2024-11-24T00:00:00",
-      "bankroll": 78.61
+      "bankroll": 91.74
     },
     {
       "date": "2024-11-29T00:00:00",
-      "bankroll": 79.8
+      "bankroll": 90.74
     },
     {
       "date": "2024-11-30T00:00:00",
-      "bankroll": 78.8
+      "bankroll": 89.74
     },
     {
       "date": "2024-11-30T00:00:00",
-      "bankroll": 81.63
+      "bankroll": 92.57
     },
     {
       "date": "2024-11-30T00:00:00",
-      "bankroll": 80.63
+      "bankroll": 91.57
     },
     {
       "date": "2024-11-30T00:00:00",
-      "bankroll": 79.63
+      "bankroll": 90.57
     },
     {
       "date": "2024-12-01T00:00:00",
-      "bankroll": 78.63
+      "bankroll": 89.57
     },
     {
       "date": "2024-12-01T00:00:00",
-      "bankroll": 77.63
+      "bankroll": 88.57
     },
     {
       "date": "2024-12-01T00:00:00",
-      "bankroll": 76.63
+      "bankroll": 87.57
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "bankroll": 86.57
     },
     {
       "date": "2024-12-02T00:00:00",
-      "bankroll": 75.63
+      "bankroll": 85.57
     },
     {
       "date": "2024-12-03T00:00:00",
-      "bankroll": 74.63
+      "bankroll": 84.57
     },
     {
       "date": "2024-12-04T00:00:00",
-      "bankroll": 73.63
+      "bankroll": 86.95
     },
     {
       "date": "2024-12-06T00:00:00",
-      "bankroll": 72.63
+      "bankroll": 85.95
     },
     {
       "date": "2024-12-07T00:00:00",
-      "bankroll": 71.63
+      "bankroll": 84.95
     },
     {
       "date": "2024-12-07T00:00:00",
-      "bankroll": 74.66
+      "bankroll": 87.98
     },
     {
       "date": "2024-12-07T00:00:00",
-      "bankroll": 75.34
+      "bankroll": 86.98
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "bankroll": 85.98
     },
     {
       "date": "2024-12-08T00:00:00",
-      "bankroll": 74.34
+      "bankroll": 84.98
     },
     {
       "date": "2024-12-08T00:00:00",
-      "bankroll": 75.21
+      "bankroll": 83.98
     },
     {
       "date": "2024-12-08T00:00:00",
-      "bankroll": 74.21
+      "bankroll": 82.98
+    },
+    {
+      "date": "2024-12-08T00:00:00",
+      "bankroll": 81.98
     },
     {
       "date": "2024-12-09T00:00:00",
-      "bankroll": 73.21
+      "bankroll": 80.98
+    },
+    {
+      "date": "2024-12-13T00:00:00",
+      "bankroll": 83.33
     },
     {
       "date": "2024-12-14T00:00:00",
-      "bankroll": 72.21
+      "bankroll": 82.33
     },
     {
       "date": "2024-12-14T00:00:00",
-      "bankroll": 75.51
+      "bankroll": 84.12
+    },
+    {
+      "date": "2024-12-14T00:00:00",
+      "bankroll": 83.12
     },
     {
       "date": "2024-12-15T00:00:00",
-      "bankroll": 74.51
+      "bankroll": 82.12
     },
     {
       "date": "2024-12-15T00:00:00",
-      "bankroll": 73.51
+      "bankroll": 81.12
     },
     {
       "date": "2024-12-15T00:00:00",
-      "bankroll": 77.55
+      "bankroll": 80.12
+    },
+    {
+      "date": "2024-12-15T00:00:00",
+      "bankroll": 79.12
     },
     {
       "date": "2024-12-18T00:00:00",
-      "bankroll": 76.55
+      "bankroll": 78.12
     },
     {
       "date": "2024-12-18T00:00:00",
-      "bankroll": 75.55
+      "bankroll": 77.12
     },
     {
       "date": "2024-12-20T00:00:00",
-      "bankroll": 75.92
+      "bankroll": 76.12
     },
     {
       "date": "2024-12-21T00:00:00",
-      "bankroll": 74.92
+      "bankroll": 79.41
     },
     {
       "date": "2024-12-21T00:00:00",
-      "bankroll": 73.92
+      "bankroll": 81.17
     },
     {
       "date": "2024-12-21T00:00:00",
-      "bankroll": 72.92
+      "bankroll": 80.17
     },
     {
       "date": "2024-12-21T00:00:00",
-      "bankroll": 75.69
+      "bankroll": 82.94
     },
     {
       "date": "2024-12-22T00:00:00",
-      "bankroll": 74.69
+      "bankroll": 81.94
     },
     {
       "date": "2024-12-22T00:00:00",
-      "bankroll": 73.69
+      "bankroll": 80.94
     },
     {
       "date": "2024-12-22T00:00:00",
-      "bankroll": 72.69
+      "bankroll": 79.94
     },
     {
       "date": "2024-12-22T00:00:00",
-      "bankroll": 73.81
+      "bankroll": 78.94
+    },
+    {
+      "date": "2025-01-03T00:00:00",
+      "bankroll": 77.94
     },
     {
       "date": "2025-01-10T00:00:00",
-      "bankroll": 75.72
+      "bankroll": 79.85
     },
     {
       "date": "2025-01-11T00:00:00",
-      "bankroll": 74.72
+      "bankroll": 78.85
     },
     {
       "date": "2025-01-11T00:00:00",
-      "bankroll": 73.72
+      "bankroll": 82.95
     },
     {
       "date": "2025-01-11T00:00:00",
-      "bankroll": 72.72
+      "bankroll": 81.95
     },
     {
       "date": "2025-01-12T00:00:00",
-      "bankroll": 71.72
+      "bankroll": 80.95
     },
     {
       "date": "2025-01-12T00:00:00",
-      "bankroll": 72.05
+      "bankroll": 79.95
     },
     {
       "date": "2025-01-13T00:00:00",
-      "bankroll": 71.05
+      "bankroll": 78.95
+    },
+    {
+      "date": "2025-01-17T00:00:00",
+      "bankroll": 77.95
     },
     {
       "date": "2025-01-18T00:00:00",
-      "bankroll": 70.05
+      "bankroll": 81.34
     },
     {
       "date": "2025-01-18T00:00:00",
-      "bankroll": 73.62
+      "bankroll": 87.66
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "bankroll": 91.48
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "bankroll": 90.48
     },
     {
       "date": "2025-01-19T00:00:00",
-      "bankroll": 74.94
+      "bankroll": 89.48
     },
     {
       "date": "2025-01-19T00:00:00",
-      "bankroll": 73.94
-    },
-    {
-      "date": "2025-01-19T00:00:00",
-      "bankroll": 72.94
-    },
-    {
-      "date": "2025-01-19T00:00:00",
-      "bankroll": 71.94
+      "bankroll": 88.48
     },
     {
       "date": "2025-01-20T00:00:00",
-      "bankroll": 70.94
+      "bankroll": 87.48
     },
     {
       "date": "2025-01-24T00:00:00",
-      "bankroll": 69.94
+      "bankroll": 86.48
     },
     {
       "date": "2025-01-25T00:00:00",
-      "bankroll": 73.38
+      "bankroll": 85.48
     },
     {
       "date": "2025-01-25T00:00:00",
-      "bankroll": 72.38
+      "bankroll": 84.48
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "bankroll": 87.92
     },
     {
       "date": "2025-01-26T00:00:00",
-      "bankroll": 73.91
+      "bankroll": 89.45
     },
     {
       "date": "2025-01-26T00:00:00",
-      "bankroll": 72.91
+      "bankroll": 93.89
     },
     {
       "date": "2025-01-26T00:00:00",
-      "bankroll": 73.14
+      "bankroll": 92.89
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "bankroll": 91.89
     },
     {
       "date": "2025-01-27T00:00:00",
-      "bankroll": 72.14
+      "bankroll": 90.89
     },
     {
       "date": "2025-01-31T00:00:00",
-      "bankroll": 71.14
+      "bankroll": 89.89
     },
     {
       "date": "2025-02-01T00:00:00",
-      "bankroll": 71.63
+      "bankroll": 99.24
     },
     {
       "date": "2025-02-01T00:00:00",
-      "bankroll": 70.63
+      "bankroll": 98.24
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "bankroll": 97.24
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "bankroll": 96.24
     },
     {
       "date": "2025-02-02T00:00:00",
-      "bankroll": 69.63
+      "bankroll": 95.24
     },
     {
       "date": "2025-02-02T00:00:00",
-      "bankroll": 71.93
+      "bankroll": 94.24
     },
     {
       "date": "2025-02-02T00:00:00",
-      "bankroll": 70.93
+      "bankroll": 96.54
     },
     {
       "date": "2025-02-03T00:00:00",
-      "bankroll": 69.93
+      "bankroll": 95.54
     },
     {
       "date": "2025-02-07T00:00:00",
-      "bankroll": 70.36
+      "bankroll": 94.54
     },
     {
       "date": "2025-02-08T00:00:00",
-      "bankroll": 69.36
+      "bankroll": 93.54
     },
     {
       "date": "2025-02-08T00:00:00",
-      "bankroll": 68.36
-    },
-    {
-      "date": "2025-02-08T00:00:00",
-      "bankroll": 69.13
+      "bankroll": 92.54
     },
     {
       "date": "2025-02-09T00:00:00",
-      "bankroll": 72.17
+      "bankroll": 95.58
     },
     {
       "date": "2025-02-09T00:00:00",
-      "bankroll": 71.17
+      "bankroll": 94.58
     },
     {
       "date": "2025-02-09T00:00:00",
-      "bankroll": 70.17
+      "bankroll": 93.58
+    },
+    {
+      "date": "2025-02-09T00:00:00",
+      "bankroll": 92.58
     },
     {
       "date": "2025-02-10T00:00:00",
-      "bankroll": 69.17
+      "bankroll": 91.58
     },
     {
       "date": "2025-02-14T00:00:00",
-      "bankroll": 73.15
+      "bankroll": 95.56
     },
     {
       "date": "2025-02-15T00:00:00",
-      "bankroll": 72.15
+      "bankroll": 94.56
     },
     {
       "date": "2025-02-15T00:00:00",
-      "bankroll": 71.15
+      "bankroll": 93.56
     },
     {
       "date": "2025-02-15T00:00:00",
-      "bankroll": 70.15
-    },
-    {
-      "date": "2025-02-15T00:00:00",
-      "bankroll": 69.15
+      "bankroll": 92.56
     },
     {
       "date": "2025-02-16T00:00:00",
-      "bankroll": 68.15
+      "bankroll": 91.56
     },
     {
       "date": "2025-02-16T00:00:00",
-      "bankroll": 67.15
+      "bankroll": 90.56
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "bankroll": 89.56
     },
     {
       "date": "2025-02-17T00:00:00",
-      "bankroll": 66.15
+      "bankroll": 88.56
     },
     {
       "date": "2025-02-21T00:00:00",
-      "bankroll": 65.15
+      "bankroll": 87.56
     },
     {
       "date": "2025-02-22T00:00:00",
-      "bankroll": 69.66
+      "bankroll": 92.07
     },
     {
       "date": "2025-02-22T00:00:00",
-      "bankroll": 68.66
+      "bankroll": 91.07
     },
     {
       "date": "2025-02-22T00:00:00",
-      "bankroll": 69.77
-    },
-    {
-      "date": "2025-02-22T00:00:00",
-      "bankroll": 68.77
+      "bankroll": 90.07
     },
     {
       "date": "2025-02-23T00:00:00",
-      "bankroll": 67.77
+      "bankroll": 89.07
     },
     {
       "date": "2025-02-23T00:00:00",
-      "bankroll": 66.77
+      "bankroll": 88.07
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "bankroll": 87.07
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "bankroll": 86.07
     },
     {
       "date": "2025-02-24T00:00:00",
-      "bankroll": 65.77
+      "bankroll": 85.07
     },
     {
       "date": "2025-02-28T00:00:00",
-      "bankroll": 64.77
+      "bankroll": 84.07
     },
     {
       "date": "2025-03-01T00:00:00",
-      "bankroll": 63.77
+      "bankroll": 83.07
     },
     {
       "date": "2025-03-01T00:00:00",
-      "bankroll": 62.77
+      "bankroll": 82.07
     },
     {
       "date": "2025-03-01T00:00:00",
-      "bankroll": 61.77
-    },
-    {
-      "date": "2025-03-01T00:00:00",
-      "bankroll": 62.97
+      "bankroll": 84.91
     },
     {
       "date": "2025-03-02T00:00:00",
-      "bankroll": 61.97
+      "bankroll": 87.07
     },
     {
       "date": "2025-03-02T00:00:00",
-      "bankroll": 60.97
+      "bankroll": 86.07
     },
     {
       "date": "2025-03-02T00:00:00",
-      "bankroll": 59.97
+      "bankroll": 85.07
+    },
+    {
+      "date": "2025-03-02T00:00:00",
+      "bankroll": 84.07
     },
     {
       "date": "2025-03-08T00:00:00",
-      "bankroll": 58.97
+      "bankroll": 83.07
     },
     {
       "date": "2025-03-08T00:00:00",
-      "bankroll": 57.97
+      "bankroll": 82.07
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "bankroll": 81.07
     },
     {
       "date": "2025-03-09T00:00:00",
-      "bankroll": 56.97
+      "bankroll": 85.15
     },
     {
       "date": "2025-03-09T00:00:00",
-      "bankroll": 55.97
+      "bankroll": 84.15
     },
     {
       "date": "2025-03-09T00:00:00",
-      "bankroll": 54.97
+      "bankroll": 83.15
     },
     {
       "date": "2025-03-09T00:00:00",
-      "bankroll": 53.97
+      "bankroll": 82.15
     },
     {
       "date": "2025-03-10T00:00:00",
-      "bankroll": 52.97
+      "bankroll": 81.15
     },
     {
       "date": "2025-03-14T00:00:00",
-      "bankroll": 51.97
+      "bankroll": 80.15
     },
     {
       "date": "2025-03-15T00:00:00",
-      "bankroll": 50.97
+      "bankroll": 79.15
     },
     {
       "date": "2025-03-15T00:00:00",
-      "bankroll": 51.75
+      "bankroll": 78.15
     },
     {
       "date": "2025-03-15T00:00:00",
-      "bankroll": 50.75
+      "bankroll": 77.15
     },
     {
       "date": "2025-03-16T00:00:00",
-      "bankroll": 49.75
+      "bankroll": 76.15
     },
     {
       "date": "2025-03-16T00:00:00",
-      "bankroll": 51.89
+      "bankroll": 78.29
     },
     {
       "date": "2025-03-16T00:00:00",
-      "bankroll": 54.51
+      "bankroll": 77.29
     },
     {
       "date": "2025-03-16T00:00:00",
-      "bankroll": 53.51
+      "bankroll": 76.29
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "bankroll": 75.29
     },
     {
       "date": "2025-03-27T00:00:00",
-      "bankroll": 53.69
+      "bankroll": 74.29
     },
     {
       "date": "2025-03-29T00:00:00",
-      "bankroll": 56.93
+      "bankroll": 77.53
     },
     {
       "date": "2025-03-29T00:00:00",
-      "bankroll": 55.93
+      "bankroll": 76.53
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "bankroll": 75.53
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "bankroll": 74.53
     },
     {
       "date": "2025-03-30T00:00:00",
-      "bankroll": 54.93
+      "bankroll": 73.53
     },
     {
       "date": "2025-03-30T00:00:00",
-      "bankroll": 53.93
+      "bankroll": 72.53
     },
     {
       "date": "2025-03-30T00:00:00",
-      "bankroll": 54.22
+      "bankroll": 71.53
     },
     {
       "date": "2025-03-30T00:00:00",
-      "bankroll": 53.22
+      "bankroll": 70.53
+    },
+    {
+      "date": "2025-03-30T00:00:00",
+      "bankroll": 69.53
     },
     {
       "date": "2025-03-31T00:00:00",
-      "bankroll": 52.22
+      "bankroll": 68.53
+    },
+    {
+      "date": "2025-04-04T00:00:00",
+      "bankroll": 73.75
     },
     {
       "date": "2025-04-05T00:00:00",
-      "bankroll": 51.22
+      "bankroll": 72.75
     },
     {
       "date": "2025-04-05T00:00:00",
-      "bankroll": 50.22
+      "bankroll": 71.75
     },
     {
       "date": "2025-04-05T00:00:00",
-      "bankroll": 49.22
+      "bankroll": 76.39
     },
     {
       "date": "2025-04-06T00:00:00",
-      "bankroll": 50.26
+      "bankroll": 75.39
     },
     {
       "date": "2025-04-06T00:00:00",
-      "bankroll": 49.26
+      "bankroll": 74.39
     },
     {
       "date": "2025-04-06T00:00:00",
-      "bankroll": 48.26
-    },
-    {
-      "date": "2025-04-06T00:00:00",
-      "bankroll": 49.5
+      "bankroll": 73.39
     },
     {
       "date": "2025-04-07T00:00:00",
-      "bankroll": 48.5
-    },
-    {
-      "date": "2025-04-11T00:00:00",
-      "bankroll": 47.5
+      "bankroll": 72.39
     },
     {
       "date": "2025-04-12T00:00:00",
-      "bankroll": 51.01
+      "bankroll": 75.9
     },
     {
       "date": "2025-04-12T00:00:00",
-      "bankroll": 55.99
+      "bankroll": 80.71
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "bankroll": 85.69
+    },
+    {
+      "date": "2025-04-12T00:00:00",
+      "bankroll": 84.69
     },
     {
       "date": "2025-04-13T00:00:00",
-      "bankroll": 56.84
+      "bankroll": 86.29
     },
     {
-      "date": "2025-04-13T00:00:00",
-      "bankroll": 58.44
-    },
-    {
-      "date": "2025-04-13T00:00:00",
-      "bankroll": 60.92
+      "date": "2025-04-14T00:00:00",
+      "bankroll": 85.29
     },
     {
       "date": "2025-04-18T00:00:00",
-      "bankroll": 59.92
+      "bankroll": 87.17
     },
     {
       "date": "2025-04-19T00:00:00",
-      "bankroll": 58.92
+      "bankroll": 86.17
     },
     {
       "date": "2025-04-19T00:00:00",
-      "bankroll": 59.17
+      "bankroll": 85.17
     },
     {
       "date": "2025-04-19T00:00:00",
-      "bankroll": 58.17
+      "bankroll": 84.17
     },
     {
       "date": "2025-04-20T00:00:00",
-      "bankroll": 58.93
+      "bankroll": 83.17
     },
     {
       "date": "2025-04-20T00:00:00",
-      "bankroll": 57.93
+      "bankroll": 82.17
     },
     {
       "date": "2025-04-20T00:00:00",
-      "bankroll": 56.93
+      "bankroll": 81.17
     },
     {
       "date": "2025-04-21T00:00:00",
-      "bankroll": 58.76
+      "bankroll": 83.0
     },
     {
       "date": "2025-04-22T00:00:00",
-      "bankroll": 57.76
+      "bankroll": 82.0
+    },
+    {
+      "date": "2025-04-22T00:00:00",
+      "bankroll": 81.0
     },
     {
       "date": "2025-04-23T00:00:00",
-      "bankroll": 56.76
+      "bankroll": 80.0
     },
     {
       "date": "2025-04-23T00:00:00",
-      "bankroll": 55.76
+      "bankroll": 79.0
     },
     {
       "date": "2025-04-23T00:00:00",
-      "bankroll": 54.76
+      "bankroll": 78.0
+    },
+    {
+      "date": "2025-04-23T00:00:00",
+      "bankroll": 77.0
     },
     {
       "date": "2025-04-24T00:00:00",
-      "bankroll": 53.76
+      "bankroll": 76.0
     },
     {
       "date": "2025-04-24T00:00:00",
-      "bankroll": 52.76
+      "bankroll": 77.36
+    },
+    {
+      "date": "2025-04-24T00:00:00",
+      "bankroll": 76.36
+    },
+    {
+      "date": "2025-04-24T00:00:00",
+      "bankroll": 75.36
     },
     {
       "date": "2025-04-27T00:00:00",
-      "bankroll": 51.76
-    },
-    {
-      "date": "2025-05-02T00:00:00",
-      "bankroll": 50.76
+      "bankroll": 74.36
     },
     {
       "date": "2025-05-03T00:00:00",
-      "bankroll": 51.1
+      "bankroll": 73.36
     },
     {
       "date": "2025-05-03T00:00:00",
-      "bankroll": 50.1
+      "bankroll": 72.36
     },
     {
       "date": "2025-05-03T00:00:00",
-      "bankroll": 49.1
+      "bankroll": 71.36
     },
     {
       "date": "2025-05-03T00:00:00",
-      "bankroll": 48.1
+      "bankroll": 73.32
     },
     {
       "date": "2025-05-04T00:00:00",
-      "bankroll": 47.1
+      "bankroll": 72.32
     },
     {
       "date": "2025-05-04T00:00:00",
-      "bankroll": 46.1
+      "bankroll": 71.32
     },
     {
       "date": "2025-05-04T00:00:00",
-      "bankroll": 45.1
+      "bankroll": 70.32
+    },
+    {
+      "date": "2025-05-04T00:00:00",
+      "bankroll": 69.32
     },
     {
       "date": "2025-05-05T00:00:00",
-      "bankroll": 44.1
+      "bankroll": 68.32
+    },
+    {
+      "date": "2025-05-09T00:00:00",
+      "bankroll": 70.24
     },
     {
       "date": "2025-05-10T00:00:00",
-      "bankroll": 44.93
+      "bankroll": 71.07
     },
     {
       "date": "2025-05-10T00:00:00",
-      "bankroll": 43.93
+      "bankroll": 70.07
     },
     {
       "date": "2025-05-10T00:00:00",
-      "bankroll": 45.26
+      "bankroll": 69.07
     },
     {
       "date": "2025-05-10T00:00:00",
-      "bankroll": 44.26
+      "bankroll": 68.07
     },
     {
       "date": "2025-05-11T00:00:00",
-      "bankroll": 43.26
+      "bankroll": 67.07
     },
     {
       "date": "2025-05-11T00:00:00",
-      "bankroll": 44.14
+      "bankroll": 66.07
     },
     {
       "date": "2025-05-11T00:00:00",
-      "bankroll": 45.21
+      "bankroll": 67.14
     },
     {
       "date": "2025-05-11T00:00:00",
-      "bankroll": 44.21
+      "bankroll": 66.14
     },
     {
       "date": "2025-05-13T00:00:00",
-      "bankroll": 46.57
+      "bankroll": 65.14
     },
     {
       "date": "2025-05-13T00:00:00",
-      "bankroll": 45.57
+      "bankroll": 67.5
+    },
+    {
+      "date": "2025-05-13T00:00:00",
+      "bankroll": 66.5
     },
     {
       "date": "2025-05-14T00:00:00",
-      "bankroll": 44.57
+      "bankroll": 65.5
     },
     {
       "date": "2025-05-14T00:00:00",
-      "bankroll": 43.57
+      "bankroll": 64.5
+    },
+    {
+      "date": "2025-05-14T00:00:00",
+      "bankroll": 63.5
     },
     {
       "date": "2025-05-15T00:00:00",
-      "bankroll": 42.57
+      "bankroll": 62.5
     },
     {
       "date": "2025-05-15T00:00:00",
-      "bankroll": 41.57
+      "bankroll": 61.5
     },
     {
       "date": "2025-05-15T00:00:00",
-      "bankroll": 40.57
-    },
-    {
-      "date": "2025-05-15T00:00:00",
-      "bankroll": 42.57
+      "bankroll": 63.5
     },
     {
       "date": "2025-05-18T00:00:00",
-      "bankroll": 41.57
+      "bankroll": 62.5
     },
     {
       "date": "2025-05-18T00:00:00",
-      "bankroll": 40.57
+      "bankroll": 61.5
     },
     {
       "date": "2025-05-18T00:00:00",
-      "bankroll": 43.97
+      "bankroll": 60.5
     },
     {
       "date": "2025-05-18T00:00:00",
-      "bankroll": 42.97
+      "bankroll": 63.9
     },
     {
       "date": "2025-05-18T00:00:00",
-      "bankroll": 44.22
+      "bankroll": 62.9
     },
     {
       "date": "2025-05-18T00:00:00",
-      "bankroll": 43.22
+      "bankroll": 64.15
     },
     {
       "date": "2025-05-18T00:00:00",
-      "bankroll": 45.52
+      "bankroll": 63.15
     },
     {
-      "date": "2025-05-23T00:00:00",
-      "bankroll": 44.52
+      "date": "2025-05-18T00:00:00",
+      "bankroll": 65.45
+    },
+    {
+      "date": "2025-05-18T00:00:00",
+      "bankroll": 64.45
     },
     {
       "date": "2025-05-24T00:00:00",
-      "bankroll": 43.52
+      "bankroll": 63.45
     },
     {
       "date": "2025-05-24T00:00:00",
-      "bankroll": 42.52
+      "bankroll": 62.45
     },
     {
       "date": "2025-05-24T00:00:00",
-      "bankroll": 41.52
+      "bankroll": 61.45
     },
     {
       "date": "2025-05-24T00:00:00",
-      "bankroll": 40.52
+      "bankroll": 60.45
     },
     {
       "date": "2025-05-24T00:00:00",
-      "bankroll": 39.52
+      "bankroll": 59.45
+    },
+    {
+      "date": "2025-05-24T00:00:00",
+      "bankroll": 58.45
     },
     {
       "date": "2025-05-25T00:00:00",
-      "bankroll": 40.3
+      "bankroll": 59.68
     },
     {
       "date": "2025-05-25T00:00:00",
-      "bankroll": 41.53
-    },
-    {
-      "date": "2025-05-25T00:00:00",
-      "bankroll": 40.53
+      "bankroll": 58.68
     }
   ],
   "picks_detail": [
     {
-      "date": "2024-09-23T00:00:00",
-      "match": "Betis vs Mallorca",
-      "pick": "D",
-      "odds": 3.17,
-      "model_p": 0.496,
-      "imp_p": 0.305,
-      "edge": 0.19,
-      "stake": 1.0,
-      "actual": "A",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 99.0
-    },
-    {
-      "date": "2024-09-24T00:00:00",
-      "match": "Sevilla vs Valladolid",
-      "pick": "D",
-      "odds": 4.01,
-      "model_p": 0.423,
-      "imp_p": 0.238,
-      "edge": 0.185,
-      "stake": 1.0,
-      "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 98.0
-    },
-    {
-      "date": "2024-09-24T00:00:00",
-      "match": "Valencia vs Osasuna",
-      "pick": "H",
-      "odds": 2.0,
-      "model_p": 0.578,
-      "imp_p": 0.492,
-      "edge": 0.087,
-      "stake": 1.0,
-      "actual": "D",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 97.0
-    },
-    {
-      "date": "2024-09-24T00:00:00",
-      "match": "Real Madrid vs Alaves",
-      "pick": "D",
-      "odds": 8.11,
-      "model_p": 0.215,
-      "imp_p": 0.11,
+      "date": "2024-09-22T00:00:00",
+      "match": "Ath Bilbao vs Celta",
+      "pick": "A",
+      "odds": 4.82,
+      "model_p": 0.304,
+      "imp_p": 0.197,
       "edge": 0.106,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 96.0
+      "bankroll": 99.0
+    },
+    {
+      "date": "2024-09-23T00:00:00",
+      "match": "Betis vs Mallorca",
+      "pick": "A",
+      "odds": 5.5,
+      "model_p": 0.291,
+      "imp_p": 0.171,
+      "edge": 0.12,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 4.5,
+      "bankroll": 103.5
+    },
+    {
+      "date": "2024-09-24T00:00:00",
+      "match": "Sevilla vs Valladolid",
+      "pick": "A",
+      "odds": 6.2,
+      "model_p": 0.301,
+      "imp_p": 0.149,
+      "edge": 0.152,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 102.5
+    },
+    {
+      "date": "2024-09-24T00:00:00",
+      "match": "Valencia vs Osasuna",
+      "pick": "A",
+      "odds": 4.61,
+      "model_p": 0.344,
+      "imp_p": 0.207,
+      "edge": 0.138,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 101.5
+    },
+    {
+      "date": "2024-09-24T00:00:00",
+      "match": "Real Madrid vs Alaves",
+      "pick": "A",
+      "odds": 21.11,
+      "model_p": 0.272,
+      "imp_p": 0.033,
+      "edge": 0.239,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 100.5
+    },
+    {
+      "date": "2024-09-25T00:00:00",
+      "match": "Barcelona vs Getafe",
+      "pick": "A",
+      "odds": 11.99,
+      "model_p": 0.225,
+      "imp_p": 0.071,
+      "edge": 0.154,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 99.5
     },
     {
       "date": "2024-09-25T00:00:00",
       "match": "Girona vs Vallecano",
       "pick": "A",
       "odds": 5.44,
-      "model_p": 0.258,
+      "model_p": 0.312,
       "imp_p": 0.172,
-      "edge": 0.086,
+      "edge": 0.141,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 95.0
+      "bankroll": 98.5
     },
     {
       "date": "2024-09-26T00:00:00",
       "match": "Las Palmas vs Betis",
-      "pick": "D",
-      "odds": 3.36,
-      "model_p": 0.368,
-      "imp_p": 0.288,
-      "edge": 0.08,
+      "pick": "H",
+      "odds": 3.69,
+      "model_p": 0.386,
+      "imp_p": 0.261,
+      "edge": 0.125,
       "stake": 1.0,
       "actual": "D",
-      "won": true,
-      "pnl": 2.36,
-      "bankroll": 97.36
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 97.5
+    },
+    {
+      "date": "2024-09-26T00:00:00",
+      "match": "Celta vs Ath Madrid",
+      "pick": "H",
+      "odds": 4.22,
+      "model_p": 0.397,
+      "imp_p": 0.226,
+      "edge": 0.171,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 96.5
     },
     {
       "date": "2024-09-26T00:00:00",
       "match": "Espanol vs Villarreal",
       "pick": "H",
       "odds": 3.63,
-      "model_p": 0.336,
+      "model_p": 0.393,
       "imp_p": 0.266,
-      "edge": 0.07,
+      "edge": 0.127,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 96.36
+      "bankroll": 95.5
     },
     {
       "date": "2024-09-27T00:00:00",
       "match": "Valladolid vs Mallorca",
-      "pick": "D",
-      "odds": 2.93,
-      "model_p": 0.524,
-      "imp_p": 0.332,
-      "edge": 0.193,
+      "pick": "H",
+      "odds": 3.37,
+      "model_p": 0.386,
+      "imp_p": 0.287,
+      "edge": 0.099,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 95.36
+      "bankroll": 94.5
     },
     {
       "date": "2024-09-28T00:00:00",
       "match": "Getafe vs Alaves",
-      "pick": "D",
-      "odds": 2.71,
-      "model_p": 0.508,
-      "imp_p": 0.36,
-      "edge": 0.148,
+      "pick": "A",
+      "odds": 3.69,
+      "model_p": 0.335,
+      "imp_p": 0.261,
+      "edge": 0.073,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 94.36
+      "bankroll": 93.5
     },
     {
       "date": "2024-09-28T00:00:00",
       "match": "Vallecano vs Leganes",
-      "pick": "H",
-      "odds": 1.9,
-      "model_p": 0.769,
-      "imp_p": 0.518,
-      "edge": 0.251,
+      "pick": "A",
+      "odds": 5.45,
+      "model_p": 0.28,
+      "imp_p": 0.173,
+      "edge": 0.107,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 93.36
+      "bankroll": 92.5
     },
     {
       "date": "2024-09-28T00:00:00",
       "match": "Sociedad vs Valencia",
-      "pick": "D",
-      "odds": 3.31,
-      "model_p": 0.558,
-      "imp_p": 0.291,
-      "edge": 0.266,
+      "pick": "A",
+      "odds": 5.23,
+      "model_p": 0.305,
+      "imp_p": 0.18,
+      "edge": 0.125,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 92.36
+      "bankroll": 91.5
+    },
+    {
+      "date": "2024-09-28T00:00:00",
+      "match": "Osasuna vs Barcelona",
+      "pick": "H",
+      "odds": 4.47,
+      "model_p": 0.368,
+      "imp_p": 0.213,
+      "edge": 0.156,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 3.47,
+      "bankroll": 94.97
+    },
+    {
+      "date": "2024-09-29T00:00:00",
+      "match": "Celta vs Girona",
+      "pick": "H",
+      "odds": 2.6,
+      "model_p": 0.425,
+      "imp_p": 0.376,
+      "edge": 0.049,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 93.97
+    },
+    {
+      "date": "2024-09-29T00:00:00",
+      "match": "Ath Bilbao vs Sevilla",
+      "pick": "A",
+      "odds": 5.17,
+      "model_p": 0.273,
+      "imp_p": 0.178,
+      "edge": 0.094,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 92.97
     },
     {
       "date": "2024-09-29T00:00:00",
       "match": "Betis vs Espanol",
-      "pick": "D",
-      "odds": 4.23,
-      "model_p": 0.379,
-      "imp_p": 0.226,
-      "edge": 0.153,
+      "pick": "A",
+      "odds": 7.78,
+      "model_p": 0.282,
+      "imp_p": 0.118,
+      "edge": 0.164,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 91.36
+      "bankroll": 91.97
     },
     {
       "date": "2024-09-29T00:00:00",
       "match": "Ath Madrid vs Real Madrid",
       "pick": "H",
       "odds": 2.84,
-      "model_p": 0.575,
+      "model_p": 0.417,
       "imp_p": 0.343,
-      "edge": 0.233,
+      "edge": 0.074,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 90.36
+      "bankroll": 90.97
+    },
+    {
+      "date": "2024-09-30T00:00:00",
+      "match": "Villarreal vs Las Palmas",
+      "pick": "A",
+      "odds": 6.38,
+      "model_p": 0.232,
+      "imp_p": 0.149,
+      "edge": 0.083,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 89.97
     },
     {
       "date": "2024-10-04T00:00:00",
       "match": "Leganes vs Valencia",
-      "pick": "D",
-      "odds": 2.78,
-      "model_p": 0.505,
-      "imp_p": 0.351,
-      "edge": 0.154,
+      "pick": "H",
+      "odds": 3.0,
+      "model_p": 0.445,
+      "imp_p": 0.324,
+      "edge": 0.121,
       "stake": 1.0,
       "actual": "D",
-      "won": true,
-      "pnl": 1.78,
-      "bankroll": 92.14
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 88.97
     },
     {
       "date": "2024-10-05T00:00:00",
       "match": "Espanol vs Mallorca",
-      "pick": "D",
-      "odds": 2.93,
-      "model_p": 0.507,
-      "imp_p": 0.332,
-      "edge": 0.175,
+      "pick": "H",
+      "odds": 3.79,
+      "model_p": 0.375,
+      "imp_p": 0.254,
+      "edge": 0.12,
       "stake": 1.0,
       "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 91.14
+      "won": true,
+      "pnl": 2.79,
+      "bankroll": 91.76
     },
     {
       "date": "2024-10-05T00:00:00",
       "match": "Getafe vs Osasuna",
-      "pick": "D",
-      "odds": 3.05,
-      "model_p": 0.444,
-      "imp_p": 0.319,
-      "edge": 0.125,
+      "pick": "A",
+      "odds": 4.05,
+      "model_p": 0.349,
+      "imp_p": 0.237,
+      "edge": 0.111,
       "stake": 1.0,
       "actual": "D",
-      "won": true,
-      "pnl": 2.05,
-      "bankroll": 93.19
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 90.76
+    },
+    {
+      "date": "2024-10-05T00:00:00",
+      "match": "Las Palmas vs Celta",
+      "pick": "H",
+      "odds": 3.81,
+      "model_p": 0.384,
+      "imp_p": 0.252,
+      "edge": 0.132,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 89.76
     },
     {
       "date": "2024-10-05T00:00:00",
       "match": "Valladolid vs Vallecano",
-      "pick": "A",
-      "odds": 2.51,
-      "model_p": 0.54,
-      "imp_p": 0.394,
-      "edge": 0.146,
+      "pick": "H",
+      "odds": 3.56,
+      "model_p": 0.384,
+      "imp_p": 0.276,
+      "edge": 0.108,
       "stake": 1.0,
       "actual": "A",
-      "won": true,
-      "pnl": 1.51,
-      "bankroll": 94.7
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 88.76
     },
     {
-      "date": "2024-10-06T00:00:00",
-      "match": "Girona vs Ath Bilbao",
-      "pick": "D",
-      "odds": 3.32,
-      "model_p": 0.378,
-      "imp_p": 0.292,
-      "edge": 0.087,
+      "date": "2024-10-05T00:00:00",
+      "match": "Real Madrid vs Villarreal",
+      "pick": "A",
+      "odds": 10.25,
+      "model_p": 0.294,
+      "imp_p": 0.082,
+      "edge": 0.212,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 93.7
+      "bankroll": 87.76
+    },
+    {
+      "date": "2024-10-06T00:00:00",
+      "match": "Alaves vs Barcelona",
+      "pick": "H",
+      "odds": 4.89,
+      "model_p": 0.355,
+      "imp_p": 0.194,
+      "edge": 0.161,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 86.76
     },
     {
       "date": "2024-10-06T00:00:00",
       "match": "Sevilla vs Betis",
-      "pick": "D",
-      "odds": 3.23,
-      "model_p": 0.442,
-      "imp_p": 0.3,
-      "edge": 0.142,
+      "pick": "H",
+      "odds": 2.77,
+      "model_p": 0.406,
+      "imp_p": 0.352,
+      "edge": 0.054,
       "stake": 1.0,
       "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 92.7
-    },
-    {
-      "date": "2024-10-06T00:00:00",
-      "match": "Sociedad vs Ath Madrid",
-      "pick": "A",
-      "odds": 2.79,
-      "model_p": 0.507,
-      "imp_p": 0.35,
-      "edge": 0.157,
-      "stake": 1.0,
-      "actual": "D",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 91.7
+      "won": true,
+      "pnl": 1.77,
+      "bankroll": 88.53
     },
     {
       "date": "2024-10-18T00:00:00",
       "match": "Alaves vs Valladolid",
-      "pick": "H",
-      "odds": 1.62,
-      "model_p": 0.747,
-      "imp_p": 0.609,
-      "edge": 0.137,
+      "pick": "A",
+      "odds": 6.25,
+      "model_p": 0.272,
+      "imp_p": 0.148,
+      "edge": 0.124,
       "stake": 1.0,
       "actual": "A",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 90.7
+      "won": true,
+      "pnl": 5.25,
+      "bankroll": 93.78
     },
     {
       "date": "2024-10-19T00:00:00",
       "match": "Girona vs Sociedad",
       "pick": "H",
       "odds": 2.8,
-      "model_p": 0.508,
+      "model_p": 0.45,
       "imp_p": 0.348,
-      "edge": 0.16,
+      "edge": 0.102,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 89.7
+      "bankroll": 92.78
     },
     {
       "date": "2024-10-19T00:00:00",
       "match": "Celta vs Real Madrid",
-      "pick": "D",
-      "odds": 4.52,
-      "model_p": 0.296,
-      "imp_p": 0.21,
-      "edge": 0.086,
+      "pick": "H",
+      "odds": 5.95,
+      "model_p": 0.367,
+      "imp_p": 0.157,
+      "edge": 0.211,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 88.7
+      "bankroll": 91.78
     },
     {
       "date": "2024-10-19T00:00:00",
       "match": "Ath Bilbao vs Espanol",
-      "pick": "D",
-      "odds": 4.61,
-      "model_p": 0.251,
-      "imp_p": 0.205,
-      "edge": 0.047,
+      "pick": "A",
+      "odds": 9.4,
+      "model_p": 0.274,
+      "imp_p": 0.093,
+      "edge": 0.18,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 87.7
+      "bankroll": 90.78
     },
     {
       "date": "2024-10-19T00:00:00",
       "match": "Osasuna vs Betis",
       "pick": "H",
       "odds": 2.44,
-      "model_p": 0.443,
+      "model_p": 0.451,
       "imp_p": 0.401,
-      "edge": 0.042,
+      "edge": 0.05,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 86.7
+      "bankroll": 89.78
     },
     {
       "date": "2024-10-20T00:00:00",
       "match": "Mallorca vs Vallecano",
-      "pick": "D",
-      "odds": 3.16,
-      "model_p": 0.419,
-      "imp_p": 0.307,
-      "edge": 0.112,
+      "pick": "A",
+      "odds": 4.43,
+      "model_p": 0.304,
+      "imp_p": 0.216,
+      "edge": 0.088,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 85.7
+      "bankroll": 88.78
     },
     {
       "date": "2024-10-20T00:00:00",
       "match": "Ath Madrid vs Leganes",
-      "pick": "H",
-      "odds": 1.41,
-      "model_p": 0.746,
-      "imp_p": 0.702,
-      "edge": 0.044,
+      "pick": "A",
+      "odds": 9.53,
+      "model_p": 0.241,
+      "imp_p": 0.092,
+      "edge": 0.149,
       "stake": 1.0,
       "actual": "H",
-      "won": true,
-      "pnl": 0.41,
-      "bankroll": 86.11
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 87.78
     },
     {
       "date": "2024-10-20T00:00:00",
       "match": "Villarreal vs Getafe",
-      "pick": "D",
-      "odds": 3.49,
-      "model_p": 0.351,
-      "imp_p": 0.276,
-      "edge": 0.075,
+      "pick": "A",
+      "odds": 4.85,
+      "model_p": 0.252,
+      "imp_p": 0.195,
+      "edge": 0.057,
       "stake": 1.0,
       "actual": "D",
-      "won": true,
-      "pnl": 2.49,
-      "bankroll": 88.6
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 86.78
+    },
+    {
+      "date": "2024-10-20T00:00:00",
+      "match": "Barcelona vs Sevilla",
+      "pick": "A",
+      "odds": 10.2,
+      "model_p": 0.233,
+      "imp_p": 0.083,
+      "edge": 0.15,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 85.78
     },
     {
       "date": "2024-10-21T00:00:00",
       "match": "Valencia vs Las Palmas",
-      "pick": "D",
-      "odds": 3.39,
-      "model_p": 0.431,
-      "imp_p": 0.285,
-      "edge": 0.146,
+      "pick": "A",
+      "odds": 4.65,
+      "model_p": 0.281,
+      "imp_p": 0.205,
+      "edge": 0.077,
       "stake": 1.0,
       "actual": "A",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 87.6
+      "won": true,
+      "pnl": 3.65,
+      "bankroll": 89.43
     },
     {
       "date": "2024-10-25T00:00:00",
       "match": "Espanol vs Sevilla",
       "pick": "H",
       "odds": 3.09,
-      "model_p": 0.405,
+      "model_p": 0.409,
       "imp_p": 0.314,
-      "edge": 0.091,
+      "edge": 0.095,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 86.6
-    },
-    {
-      "date": "2024-10-26T00:00:00",
-      "match": "Las Palmas vs Girona",
-      "pick": "A",
-      "odds": 2.93,
-      "model_p": 0.368,
-      "imp_p": 0.334,
-      "edge": 0.034,
-      "stake": 1.0,
-      "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 85.6
+      "bankroll": 88.43
     },
     {
       "date": "2024-10-26T00:00:00",
       "match": "Real Madrid vs Barcelona",
-      "pick": "D",
-      "odds": 4.1,
-      "model_p": 0.284,
-      "imp_p": 0.239,
-      "edge": 0.045,
+      "pick": "A",
+      "odds": 3.63,
+      "model_p": 0.311,
+      "imp_p": 0.27,
+      "edge": 0.041,
       "stake": 1.0,
       "actual": "A",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 84.6
+      "won": true,
+      "pnl": 2.63,
+      "bankroll": 91.06
     },
     {
       "date": "2024-10-26T00:00:00",
       "match": "Valladolid vs Villarreal",
-      "pick": "A",
-      "odds": 2.0,
-      "model_p": 0.576,
-      "imp_p": 0.492,
-      "edge": 0.085,
+      "pick": "H",
+      "odds": 4.01,
+      "model_p": 0.355,
+      "imp_p": 0.239,
+      "edge": 0.116,
       "stake": 1.0,
       "actual": "A",
-      "won": true,
-      "pnl": 1.0,
-      "bankroll": 85.6
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 90.06
     },
     {
       "date": "2024-10-26T00:00:00",
       "match": "Vallecano vs Alaves",
-      "pick": "H",
-      "odds": 2.09,
-      "model_p": 0.62,
-      "imp_p": 0.47,
-      "edge": 0.15,
+      "pick": "A",
+      "odds": 4.41,
+      "model_p": 0.27,
+      "imp_p": 0.217,
+      "edge": 0.054,
       "stake": 1.0,
       "actual": "H",
-      "won": true,
-      "pnl": 1.09,
-      "bankroll": 86.69
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 89.06
     },
     {
       "date": "2024-10-27T00:00:00",
       "match": "Leganes vs Celta",
-      "pick": "D",
-      "odds": 3.25,
-      "model_p": 0.344,
-      "imp_p": 0.298,
-      "edge": 0.046,
+      "pick": "H",
+      "odds": 3.87,
+      "model_p": 0.401,
+      "imp_p": 0.248,
+      "edge": 0.152,
       "stake": 1.0,
       "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 85.69
+      "won": true,
+      "pnl": 2.87,
+      "bankroll": 91.93
     },
     {
       "date": "2024-10-27T00:00:00",
       "match": "Getafe vs Valencia",
-      "pick": "D",
-      "odds": 2.89,
-      "model_p": 0.425,
-      "imp_p": 0.337,
-      "edge": 0.088,
+      "pick": "A",
+      "odds": 4.66,
+      "model_p": 0.274,
+      "imp_p": 0.204,
+      "edge": 0.07,
       "stake": 1.0,
       "actual": "D",
-      "won": true,
-      "pnl": 1.89,
-      "bankroll": 87.58
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 90.93
     },
     {
       "date": "2024-10-27T00:00:00",
       "match": "Betis vs Ath Madrid",
-      "pick": "D",
-      "odds": 3.27,
-      "model_p": 0.406,
-      "imp_p": 0.298,
-      "edge": 0.108,
+      "pick": "H",
+      "odds": 3.64,
+      "model_p": 0.386,
+      "imp_p": 0.267,
+      "edge": 0.119,
       "stake": 1.0,
       "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 86.58
+      "won": true,
+      "pnl": 2.64,
+      "bankroll": 93.57
     },
     {
       "date": "2024-10-27T00:00:00",
       "match": "Sociedad vs Osasuna",
-      "pick": "D",
-      "odds": 3.81,
-      "model_p": 0.325,
-      "imp_p": 0.251,
-      "edge": 0.073,
+      "pick": "A",
+      "odds": 6.3,
+      "model_p": 0.326,
+      "imp_p": 0.147,
+      "edge": 0.179,
       "stake": 1.0,
       "actual": "A",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 85.58
+      "won": true,
+      "pnl": 5.3,
+      "bankroll": 98.87
     },
     {
       "date": "2024-10-28T00:00:00",
       "match": "Mallorca vs Ath Bilbao",
-      "pick": "D",
-      "odds": 3.0,
-      "model_p": 0.376,
-      "imp_p": 0.321,
-      "edge": 0.055,
+      "pick": "H",
+      "odds": 2.52,
+      "model_p": 0.43,
+      "imp_p": 0.385,
+      "edge": 0.045,
       "stake": 1.0,
       "actual": "D",
-      "won": true,
-      "pnl": 2.0,
-      "bankroll": 87.58
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 97.87
     },
     {
       "date": "2024-11-01T00:00:00",
       "match": "Alaves vs Mallorca",
       "pick": "A",
       "odds": 3.74,
-      "model_p": 0.328,
+      "model_p": 0.367,
       "imp_p": 0.258,
-      "edge": 0.07,
+      "edge": 0.109,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 86.58
+      "bankroll": 96.87
     },
     {
       "date": "2024-11-02T00:00:00",
       "match": "Girona vs Leganes",
-      "pick": "D",
-      "odds": 3.58,
-      "model_p": 0.356,
-      "imp_p": 0.268,
-      "edge": 0.088,
+      "pick": "A",
+      "odds": 5.86,
+      "model_p": 0.296,
+      "imp_p": 0.159,
+      "edge": 0.137,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 85.58
+      "bankroll": 95.87
     },
     {
       "date": "2024-11-02T00:00:00",
       "match": "Osasuna vs Valladolid",
-      "pick": "H",
-      "odds": 1.72,
-      "model_p": 0.748,
-      "imp_p": 0.573,
-      "edge": 0.175,
+      "pick": "A",
+      "odds": 5.68,
+      "model_p": 0.233,
+      "imp_p": 0.165,
+      "edge": 0.068,
       "stake": 1.0,
       "actual": "H",
-      "won": true,
-      "pnl": 0.72,
-      "bankroll": 86.3
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 94.87
+    },
+    {
+      "date": "2024-11-03T00:00:00",
+      "match": "Barcelona vs Espanol",
+      "pick": "D",
+      "odds": 8.5,
+      "model_p": 0.27,
+      "imp_p": 0.103,
+      "edge": 0.167,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 93.87
     },
     {
       "date": "2024-11-03T00:00:00",
       "match": "Ath Bilbao vs Betis",
-      "pick": "D",
-      "odds": 3.52,
-      "model_p": 0.341,
-      "imp_p": 0.273,
-      "edge": 0.068,
+      "pick": "A",
+      "odds": 4.38,
+      "model_p": 0.305,
+      "imp_p": 0.217,
+      "edge": 0.087,
       "stake": 1.0,
       "actual": "D",
-      "won": true,
-      "pnl": 2.52,
-      "bankroll": 88.82
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 92.87
     },
     {
       "date": "2024-11-03T00:00:00",
       "match": "Sevilla vs Sociedad",
       "pick": "H",
       "odds": 3.44,
-      "model_p": 0.451,
+      "model_p": 0.445,
       "imp_p": 0.281,
-      "edge": 0.17,
+      "edge": 0.164,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 87.82
+      "bankroll": 91.87
     },
     {
       "date": "2024-11-03T00:00:00",
       "match": "Ath Madrid vs Las Palmas",
-      "pick": "H",
-      "odds": 1.34,
-      "model_p": 0.775,
-      "imp_p": 0.739,
-      "edge": 0.036,
+      "pick": "A",
+      "odds": 9.57,
+      "model_p": 0.225,
+      "imp_p": 0.091,
+      "edge": 0.134,
       "stake": 1.0,
       "actual": "H",
-      "won": true,
-      "pnl": 0.34,
-      "bankroll": 88.16
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 90.87
     },
     {
       "date": "2024-11-04T00:00:00",
       "match": "Celta vs Getafe",
-      "pick": "D",
-      "odds": 3.0,
-      "model_p": 0.389,
-      "imp_p": 0.325,
-      "edge": 0.065,
+      "pick": "A",
+      "odds": 4.35,
+      "model_p": 0.296,
+      "imp_p": 0.22,
+      "edge": 0.076,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 87.16
+      "bankroll": 89.87
     },
     {
       "date": "2024-11-08T00:00:00",
       "match": "Vallecano vs Las Palmas",
-      "pick": "H",
-      "odds": 1.89,
-      "model_p": 0.621,
-      "imp_p": 0.52,
-      "edge": 0.101,
+      "pick": "A",
+      "odds": 4.8,
+      "model_p": 0.239,
+      "imp_p": 0.197,
+      "edge": 0.042,
       "stake": 1.0,
       "actual": "A",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 86.16
+      "won": true,
+      "pnl": 3.8,
+      "bankroll": 93.67
     },
     {
       "date": "2024-11-09T00:00:00",
       "match": "Real Madrid vs Osasuna",
-      "pick": "D",
-      "odds": 6.5,
-      "model_p": 0.19,
-      "imp_p": 0.142,
-      "edge": 0.048,
+      "pick": "A",
+      "odds": 12.0,
+      "model_p": 0.272,
+      "imp_p": 0.071,
+      "edge": 0.201,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 85.16
+      "bankroll": 92.67
     },
     {
       "date": "2024-11-09T00:00:00",
       "match": "Villarreal vs Alaves",
-      "pick": "H",
-      "odds": 1.58,
-      "model_p": 0.68,
-      "imp_p": 0.625,
-      "edge": 0.055,
+      "pick": "A",
+      "odds": 6.4,
+      "model_p": 0.233,
+      "imp_p": 0.144,
+      "edge": 0.088,
       "stake": 1.0,
       "actual": "H",
-      "won": true,
-      "pnl": 0.58,
-      "bankroll": 85.74
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 91.67
     },
     {
       "date": "2024-11-09T00:00:00",
       "match": "Leganes vs Sevilla",
       "pick": "H",
       "odds": 3.19,
-      "model_p": 0.419,
+      "model_p": 0.406,
       "imp_p": 0.304,
-      "edge": 0.115,
+      "edge": 0.102,
       "stake": 1.0,
       "actual": "H",
       "won": true,
       "pnl": 2.19,
-      "bankroll": 87.93
+      "bankroll": 93.86
     },
     {
       "date": "2024-11-10T00:00:00",
       "match": "Valladolid vs Ath Bilbao",
-      "pick": "A",
-      "odds": 1.93,
-      "model_p": 0.617,
-      "imp_p": 0.509,
-      "edge": 0.108,
+      "pick": "H",
+      "odds": 4.68,
+      "model_p": 0.345,
+      "imp_p": 0.203,
+      "edge": 0.143,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 86.93
+      "bankroll": 92.86
     },
     {
       "date": "2024-11-10T00:00:00",
       "match": "Getafe vs Girona",
-      "pick": "D",
-      "odds": 2.88,
-      "model_p": 0.416,
-      "imp_p": 0.338,
-      "edge": 0.078,
+      "pick": "A",
+      "odds": 3.37,
+      "model_p": 0.33,
+      "imp_p": 0.287,
+      "edge": 0.043,
       "stake": 1.0,
       "actual": "A",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 85.93
+      "won": true,
+      "pnl": 2.37,
+      "bankroll": 95.23
     },
     {
       "date": "2024-11-10T00:00:00",
       "match": "Sociedad vs Barcelona",
-      "pick": "A",
-      "odds": 1.93,
-      "model_p": 0.675,
-      "imp_p": 0.51,
-      "edge": 0.165,
+      "pick": "H",
+      "odds": 4.08,
+      "model_p": 0.317,
+      "imp_p": 0.235,
+      "edge": 0.082,
       "stake": 1.0,
       "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 84.93
-    },
-    {
-      "date": "2024-11-10T00:00:00",
-      "match": "Betis vs Celta",
-      "pick": "H",
-      "odds": 2.28,
-      "model_p": 0.57,
-      "imp_p": 0.432,
-      "edge": 0.138,
-      "stake": 1.0,
-      "actual": "D",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 83.93
+      "won": true,
+      "pnl": 3.08,
+      "bankroll": 98.31
     },
     {
       "date": "2024-11-10T00:00:00",
       "match": "Mallorca vs Ath Madrid",
-      "pick": "D",
-      "odds": 2.93,
-      "model_p": 0.445,
-      "imp_p": 0.332,
-      "edge": 0.113,
+      "pick": "H",
+      "odds": 3.57,
+      "model_p": 0.391,
+      "imp_p": 0.27,
+      "edge": 0.121,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 82.93
+      "bankroll": 97.31
     },
     {
       "date": "2024-11-22T00:00:00",
       "match": "Getafe vs Valladolid",
-      "pick": "D",
-      "odds": 3.5,
-      "model_p": 0.4,
-      "imp_p": 0.275,
-      "edge": 0.125,
+      "pick": "A",
+      "odds": 6.82,
+      "model_p": 0.287,
+      "imp_p": 0.135,
+      "edge": 0.152,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 81.93
+      "bankroll": 96.31
     },
     {
       "date": "2024-11-23T00:00:00",
       "match": "Valencia vs Betis",
       "pick": "A",
       "odds": 3.23,
-      "model_p": 0.399,
+      "model_p": 0.373,
       "imp_p": 0.3,
-      "edge": 0.099,
+      "edge": 0.073,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 80.93
+      "bankroll": 95.31
     },
     {
       "date": "2024-11-23T00:00:00",
       "match": "Ath Madrid vs Alaves",
-      "pick": "H",
-      "odds": 1.46,
-      "model_p": 0.79,
-      "imp_p": 0.677,
-      "edge": 0.112,
+      "pick": "A",
+      "odds": 8.32,
+      "model_p": 0.208,
+      "imp_p": 0.108,
+      "edge": 0.1,
       "stake": 1.0,
       "actual": "H",
-      "won": true,
-      "pnl": 0.46,
-      "bankroll": 81.39
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 94.31
     },
     {
       "date": "2024-11-23T00:00:00",
       "match": "Girona vs Espanol",
-      "pick": "H",
-      "odds": 1.79,
-      "model_p": 0.639,
-      "imp_p": 0.55,
-      "edge": 0.089,
+      "pick": "A",
+      "odds": 5.03,
+      "model_p": 0.248,
+      "imp_p": 0.187,
+      "edge": 0.061,
       "stake": 1.0,
       "actual": "H",
-      "won": true,
-      "pnl": 0.79,
-      "bankroll": 82.18
-    },
-    {
-      "date": "2024-11-23T00:00:00",
-      "match": "Las Palmas vs Mallorca",
-      "pick": "D",
-      "odds": 3.0,
-      "model_p": 0.371,
-      "imp_p": 0.324,
-      "edge": 0.047,
-      "stake": 1.0,
-      "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 81.18
+      "bankroll": 93.31
     },
     {
       "date": "2024-11-23T00:00:00",
       "match": "Celta vs Barcelona",
-      "pick": "A",
-      "odds": 1.75,
-      "model_p": 0.77,
-      "imp_p": 0.563,
-      "edge": 0.207,
+      "pick": "H",
+      "odds": 4.43,
+      "model_p": 0.326,
+      "imp_p": 0.215,
+      "edge": 0.112,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 80.18
-    },
-    {
-      "date": "2024-11-24T00:00:00",
-      "match": "Osasuna vs Villarreal",
-      "pick": "A",
-      "odds": 2.85,
-      "model_p": 0.386,
-      "imp_p": 0.342,
-      "edge": 0.044,
-      "stake": 1.0,
-      "actual": "D",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 79.18
+      "bankroll": 92.31
     },
     {
       "date": "2024-11-24T00:00:00",
       "match": "Sevilla vs Vallecano",
       "pick": "A",
       "odds": 4.24,
-      "model_p": 0.305,
+      "model_p": 0.327,
       "imp_p": 0.225,
-      "edge": 0.08,
+      "edge": 0.101,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 78.18
+      "bankroll": 91.31
     },
     {
       "date": "2024-11-24T00:00:00",
       "match": "Leganes vs Real Madrid",
       "pick": "H",
       "odds": 10.12,
-      "model_p": 0.185,
+      "model_p": 0.329,
       "imp_p": 0.086,
-      "edge": 0.1,
+      "edge": 0.244,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 77.18
+      "bankroll": 90.31
     },
     {
       "date": "2024-11-24T00:00:00",
       "match": "Ath Bilbao vs Sociedad",
       "pick": "H",
       "odds": 2.43,
-      "model_p": 0.465,
+      "model_p": 0.445,
       "imp_p": 0.403,
-      "edge": 0.062,
+      "edge": 0.042,
       "stake": 1.0,
       "actual": "H",
       "won": true,
       "pnl": 1.43,
-      "bankroll": 78.61
+      "bankroll": 91.74
     },
     {
       "date": "2024-11-29T00:00:00",
       "match": "Mallorca vs Valencia",
-      "pick": "H",
-      "odds": 2.19,
-      "model_p": 0.525,
-      "imp_p": 0.446,
-      "edge": 0.078,
+      "pick": "A",
+      "odds": 4.46,
+      "model_p": 0.252,
+      "imp_p": 0.212,
+      "edge": 0.04,
       "stake": 1.0,
       "actual": "H",
-      "won": true,
-      "pnl": 1.19,
-      "bankroll": 79.8
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 90.74
     },
     {
       "date": "2024-11-30T00:00:00",
       "match": "Valladolid vs Ath Madrid",
-      "pick": "D",
-      "odds": 4.57,
-      "model_p": 0.248,
-      "imp_p": 0.206,
-      "edge": 0.042,
+      "pick": "H",
+      "odds": 7.94,
+      "model_p": 0.287,
+      "imp_p": 0.112,
+      "edge": 0.175,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 78.8
+      "bankroll": 89.74
     },
     {
       "date": "2024-11-30T00:00:00",
       "match": "Espanol vs Celta",
       "pick": "H",
       "odds": 3.83,
-      "model_p": 0.319,
+      "model_p": 0.367,
       "imp_p": 0.251,
-      "edge": 0.068,
+      "edge": 0.116,
       "stake": 1.0,
       "actual": "H",
       "won": true,
       "pnl": 2.83,
-      "bankroll": 81.63
+      "bankroll": 92.57
     },
     {
       "date": "2024-11-30T00:00:00",
       "match": "Barcelona vs Las Palmas",
-      "pick": "H",
-      "odds": 1.13,
-      "model_p": 0.94,
-      "imp_p": 0.88,
-      "edge": 0.061,
+      "pick": "D",
+      "odds": 9.5,
+      "model_p": 0.27,
+      "imp_p": 0.091,
+      "edge": 0.179,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 80.63
+      "bankroll": 91.57
     },
     {
       "date": "2024-11-30T00:00:00",
       "match": "Alaves vs Leganes",
       "pick": "A",
       "odds": 5.77,
-      "model_p": 0.247,
+      "model_p": 0.327,
       "imp_p": 0.162,
-      "edge": 0.085,
+      "edge": 0.165,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 79.63
+      "bankroll": 90.57
     },
     {
       "date": "2024-12-01T00:00:00",
       "match": "Villarreal vs Girona",
       "pick": "A",
       "odds": 4.5,
-      "model_p": 0.25,
+      "model_p": 0.263,
       "imp_p": 0.211,
-      "edge": 0.039,
+      "edge": 0.052,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 78.63
+      "bankroll": 89.57
     },
     {
       "date": "2024-12-01T00:00:00",
       "match": "Real Madrid vs Getafe",
-      "pick": "D",
-      "odds": 5.03,
-      "model_p": 0.296,
-      "imp_p": 0.182,
-      "edge": 0.114,
+      "pick": "A",
+      "odds": 11.5,
+      "model_p": 0.194,
+      "imp_p": 0.069,
+      "edge": 0.124,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 77.63
+      "bankroll": 88.57
+    },
+    {
+      "date": "2024-12-01T00:00:00",
+      "match": "Vallecano vs Ath Bilbao",
+      "pick": "H",
+      "odds": 3.41,
+      "model_p": 0.388,
+      "imp_p": 0.284,
+      "edge": 0.104,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 87.57
     },
     {
       "date": "2024-12-01T00:00:00",
       "match": "Sociedad vs Betis",
-      "pick": "D",
-      "odds": 3.77,
-      "model_p": 0.396,
-      "imp_p": 0.254,
-      "edge": 0.141,
+      "pick": "A",
+      "odds": 5.89,
+      "model_p": 0.322,
+      "imp_p": 0.158,
+      "edge": 0.164,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 76.63
+      "bankroll": 86.57
     },
     {
       "date": "2024-12-02T00:00:00",
       "match": "Sevilla vs Osasuna",
       "pick": "A",
       "odds": 4.27,
-      "model_p": 0.292,
+      "model_p": 0.337,
       "imp_p": 0.223,
-      "edge": 0.068,
+      "edge": 0.113,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 75.63
+      "bankroll": 85.57
     },
     {
       "date": "2024-12-03T00:00:00",
       "match": "Mallorca vs Barcelona",
-      "pick": "D",
-      "odds": 4.14,
-      "model_p": 0.27,
-      "imp_p": 0.23,
-      "edge": 0.04,
+      "pick": "H",
+      "odds": 5.79,
+      "model_p": 0.371,
+      "imp_p": 0.161,
+      "edge": 0.21,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 74.63
+      "bankroll": 84.57
     },
     {
       "date": "2024-12-04T00:00:00",
       "match": "Ath Bilbao vs Real Madrid",
-      "pick": "D",
-      "odds": 3.47,
-      "model_p": 0.309,
-      "imp_p": 0.278,
-      "edge": 0.031,
+      "pick": "H",
+      "odds": 3.38,
+      "model_p": 0.375,
+      "imp_p": 0.286,
+      "edge": 0.089,
       "stake": 1.0,
       "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 73.63
+      "won": true,
+      "pnl": 2.38,
+      "bankroll": 86.95
     },
     {
       "date": "2024-12-06T00:00:00",
       "match": "Celta vs Mallorca",
       "pick": "A",
       "odds": 5.0,
-      "model_p": 0.257,
+      "model_p": 0.33,
       "imp_p": 0.189,
-      "edge": 0.069,
+      "edge": 0.142,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 72.63
+      "bankroll": 85.95
     },
     {
       "date": "2024-12-07T00:00:00",
       "match": "Girona vs Real Madrid",
       "pick": "H",
       "odds": 4.28,
-      "model_p": 0.262,
+      "model_p": 0.355,
       "imp_p": 0.223,
-      "edge": 0.039,
+      "edge": 0.132,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 71.63
+      "bankroll": 84.95
     },
     {
       "date": "2024-12-07T00:00:00",
       "match": "Valencia vs Vallecano",
       "pick": "A",
       "odds": 4.03,
-      "model_p": 0.296,
+      "model_p": 0.334,
       "imp_p": 0.238,
-      "edge": 0.058,
+      "edge": 0.096,
       "stake": 1.0,
       "actual": "A",
       "won": true,
       "pnl": 3.03,
-      "bankroll": 74.66
+      "bankroll": 87.98
     },
     {
       "date": "2024-12-07T00:00:00",
       "match": "Las Palmas vs Valladolid",
-      "pick": "H",
-      "odds": 1.68,
-      "model_p": 0.754,
-      "imp_p": 0.592,
-      "edge": 0.161,
+      "pick": "A",
+      "odds": 6.33,
+      "model_p": 0.274,
+      "imp_p": 0.154,
+      "edge": 0.12,
       "stake": 1.0,
       "actual": "H",
-      "won": true,
-      "pnl": 0.68,
-      "bankroll": 75.34
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 86.98
+    },
+    {
+      "date": "2024-12-07T00:00:00",
+      "match": "Betis vs Barcelona",
+      "pick": "H",
+      "odds": 5.98,
+      "model_p": 0.338,
+      "imp_p": 0.155,
+      "edge": 0.183,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 85.98
     },
     {
       "date": "2024-12-08T00:00:00",
       "match": "Leganes vs Sociedad",
       "pick": "H",
       "odds": 6.27,
-      "model_p": 0.251,
+      "model_p": 0.394,
       "imp_p": 0.149,
-      "edge": 0.101,
+      "edge": 0.245,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 74.34
+      "bankroll": 84.98
     },
     {
       "date": "2024-12-08T00:00:00",
       "match": "Ath Bilbao vs Villarreal",
-      "pick": "H",
-      "odds": 1.87,
-      "model_p": 0.597,
-      "imp_p": 0.527,
-      "edge": 0.07,
+      "pick": "A",
+      "odds": 4.7,
+      "model_p": 0.302,
+      "imp_p": 0.202,
+      "edge": 0.1,
       "stake": 1.0,
       "actual": "H",
-      "won": true,
-      "pnl": 0.87,
-      "bankroll": 75.21
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 83.98
     },
     {
       "date": "2024-12-08T00:00:00",
       "match": "Osasuna vs Alaves",
       "pick": "H",
       "odds": 2.26,
-      "model_p": 0.53,
+      "model_p": 0.5,
       "imp_p": 0.434,
-      "edge": 0.097,
+      "edge": 0.067,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 74.21
+      "bankroll": 82.98
+    },
+    {
+      "date": "2024-12-08T00:00:00",
+      "match": "Ath Madrid vs Sevilla",
+      "pick": "A",
+      "odds": 9.73,
+      "model_p": 0.216,
+      "imp_p": 0.09,
+      "edge": 0.126,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 81.98
     },
     {
       "date": "2024-12-09T00:00:00",
       "match": "Getafe vs Espanol",
-      "pick": "D",
-      "odds": 3.08,
-      "model_p": 0.374,
-      "imp_p": 0.315,
-      "edge": 0.059,
+      "pick": "A",
+      "odds": 6.09,
+      "model_p": 0.297,
+      "imp_p": 0.153,
+      "edge": 0.144,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 73.21
+      "bankroll": 80.98
+    },
+    {
+      "date": "2024-12-13T00:00:00",
+      "match": "Valladolid vs Valencia",
+      "pick": "H",
+      "odds": 3.35,
+      "model_p": 0.397,
+      "imp_p": 0.289,
+      "edge": 0.109,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 2.35,
+      "bankroll": 83.33
     },
     {
       "date": "2024-12-14T00:00:00",
       "match": "Espanol vs Osasuna",
-      "pick": "H",
-      "odds": 2.78,
-      "model_p": 0.392,
-      "imp_p": 0.351,
-      "edge": 0.041,
+      "pick": "A",
+      "odds": 2.85,
+      "model_p": 0.388,
+      "imp_p": 0.342,
+      "edge": 0.046,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 72.21
+      "bankroll": 82.33
+    },
+    {
+      "date": "2024-12-14T00:00:00",
+      "match": "Mallorca vs Girona",
+      "pick": "H",
+      "odds": 2.79,
+      "model_p": 0.428,
+      "imp_p": 0.349,
+      "edge": 0.079,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.79,
+      "bankroll": 84.12
     },
     {
       "date": "2024-12-14T00:00:00",
       "match": "Vallecano vs Real Madrid",
-      "pick": "D",
-      "odds": 4.3,
-      "model_p": 0.274,
-      "imp_p": 0.221,
-      "edge": 0.052,
+      "pick": "H",
+      "odds": 6.52,
+      "model_p": 0.324,
+      "imp_p": 0.141,
+      "edge": 0.183,
       "stake": 1.0,
       "actual": "D",
-      "won": true,
-      "pnl": 3.3,
-      "bankroll": 75.51
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 83.12
+    },
+    {
+      "date": "2024-12-15T00:00:00",
+      "match": "Barcelona vs Leganes",
+      "pick": "D",
+      "odds": 11.2,
+      "model_p": 0.27,
+      "imp_p": 0.075,
+      "edge": 0.195,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 82.12
     },
     {
       "date": "2024-12-15T00:00:00",
       "match": "Ath Madrid vs Getafe",
-      "pick": "D",
-      "odds": 4.9,
-      "model_p": 0.31,
-      "imp_p": 0.187,
-      "edge": 0.123,
+      "pick": "A",
+      "odds": 14.0,
+      "model_p": 0.188,
+      "imp_p": 0.053,
+      "edge": 0.135,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 74.51
+      "bankroll": 81.12
     },
     {
       "date": "2024-12-15T00:00:00",
       "match": "Alaves vs Ath Bilbao",
-      "pick": "A",
-      "odds": 2.24,
-      "model_p": 0.54,
-      "imp_p": 0.438,
-      "edge": 0.102,
+      "pick": "H",
+      "odds": 4.07,
+      "model_p": 0.307,
+      "imp_p": 0.236,
+      "edge": 0.071,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 73.51
+      "bankroll": 80.12
     },
     {
       "date": "2024-12-15T00:00:00",
       "match": "Sociedad vs Las Palmas",
-      "pick": "D",
-      "odds": 5.04,
-      "model_p": 0.278,
-      "imp_p": 0.186,
-      "edge": 0.092,
+      "pick": "A",
+      "odds": 11.27,
+      "model_p": 0.252,
+      "imp_p": 0.075,
+      "edge": 0.177,
       "stake": 1.0,
       "actual": "D",
-      "won": true,
-      "pnl": 4.04,
-      "bankroll": 77.55
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 79.12
     },
     {
       "date": "2024-12-18T00:00:00",
       "match": "Espanol vs Valencia",
       "pick": "H",
       "odds": 2.61,
-      "model_p": 0.44,
+      "model_p": 0.434,
       "imp_p": 0.374,
-      "edge": 0.066,
+      "edge": 0.059,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 76.55
+      "bankroll": 78.12
     },
     {
       "date": "2024-12-18T00:00:00",
       "match": "Villarreal vs Vallecano",
       "pick": "A",
       "odds": 4.9,
-      "model_p": 0.249,
+      "model_p": 0.27,
       "imp_p": 0.192,
-      "edge": 0.057,
+      "edge": 0.077,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 75.55
+      "bankroll": 77.12
     },
     {
       "date": "2024-12-20T00:00:00",
       "match": "Girona vs Valladolid",
-      "pick": "H",
-      "odds": 1.37,
-      "model_p": 0.761,
-      "imp_p": 0.723,
-      "edge": 0.038,
+      "pick": "A",
+      "odds": 9.71,
+      "model_p": 0.236,
+      "imp_p": 0.09,
+      "edge": 0.146,
       "stake": 1.0,
       "actual": "H",
-      "won": true,
-      "pnl": 0.37,
-      "bankroll": 75.92
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 76.12
     },
     {
       "date": "2024-12-21T00:00:00",
       "match": "Getafe vs Mallorca",
-      "pick": "D",
-      "odds": 2.62,
-      "model_p": 0.444,
-      "imp_p": 0.373,
-      "edge": 0.071,
+      "pick": "A",
+      "odds": 4.29,
+      "model_p": 0.369,
+      "imp_p": 0.223,
+      "edge": 0.146,
       "stake": 1.0,
       "actual": "A",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 74.92
+      "won": true,
+      "pnl": 3.29,
+      "bankroll": 79.41
     },
     {
       "date": "2024-12-21T00:00:00",
       "match": "Celta vs Sociedad",
-      "pick": "A",
-      "odds": 3.02,
-      "model_p": 0.377,
-      "imp_p": 0.322,
-      "edge": 0.055,
+      "pick": "H",
+      "odds": 2.76,
+      "model_p": 0.402,
+      "imp_p": 0.353,
+      "edge": 0.049,
       "stake": 1.0,
       "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 73.92
+      "won": true,
+      "pnl": 1.76,
+      "bankroll": 81.17
     },
     {
       "date": "2024-12-21T00:00:00",
       "match": "Osasuna vs Ath Bilbao",
       "pick": "H",
       "odds": 4.59,
-      "model_p": 0.241,
+      "model_p": 0.385,
       "imp_p": 0.207,
-      "edge": 0.033,
+      "edge": 0.177,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 72.92
+      "bankroll": 80.17
     },
     {
       "date": "2024-12-21T00:00:00",
       "match": "Barcelona vs Ath Madrid",
       "pick": "A",
       "odds": 3.77,
-      "model_p": 0.289,
+      "model_p": 0.321,
       "imp_p": 0.255,
-      "edge": 0.034,
+      "edge": 0.065,
       "stake": 1.0,
       "actual": "A",
       "won": true,
       "pnl": 2.77,
-      "bankroll": 75.69
+      "bankroll": 82.94
     },
     {
       "date": "2024-12-22T00:00:00",
       "match": "Betis vs Vallecano",
       "pick": "A",
       "odds": 5.32,
-      "model_p": 0.25,
+      "model_p": 0.283,
       "imp_p": 0.174,
-      "edge": 0.076,
+      "edge": 0.109,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 74.69
+      "bankroll": 81.94
     },
     {
       "date": "2024-12-22T00:00:00",
       "match": "Leganes vs Villarreal",
       "pick": "H",
       "odds": 4.37,
-      "model_p": 0.339,
+      "model_p": 0.366,
       "imp_p": 0.218,
-      "edge": 0.121,
+      "edge": 0.148,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 73.69
+      "bankroll": 80.94
+    },
+    {
+      "date": "2024-12-22T00:00:00",
+      "match": "Real Madrid vs Sevilla",
+      "pick": "D",
+      "odds": 6.66,
+      "model_p": 0.27,
+      "imp_p": 0.136,
+      "edge": 0.134,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 79.94
     },
     {
       "date": "2024-12-22T00:00:00",
       "match": "Valencia vs Alaves",
       "pick": "A",
       "odds": 4.16,
-      "model_p": 0.333,
+      "model_p": 0.319,
       "imp_p": 0.229,
-      "edge": 0.104,
+      "edge": 0.09,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 72.69
+      "bankroll": 78.94
     },
     {
-      "date": "2024-12-22T00:00:00",
-      "match": "Las Palmas vs Espanol",
+      "date": "2025-01-03T00:00:00",
+      "match": "Valencia vs Real Madrid",
       "pick": "H",
-      "odds": 2.12,
-      "model_p": 0.58,
-      "imp_p": 0.462,
-      "edge": 0.118,
+      "odds": 7.47,
+      "model_p": 0.253,
+      "imp_p": 0.121,
+      "edge": 0.132,
       "stake": 1.0,
-      "actual": "H",
-      "won": true,
-      "pnl": 1.12,
-      "bankroll": 73.81
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 77.94
     },
     {
       "date": "2025-01-10T00:00:00",
       "match": "Vallecano vs Celta",
       "pick": "H",
       "odds": 2.91,
-      "model_p": 0.459,
+      "model_p": 0.422,
       "imp_p": 0.334,
-      "edge": 0.125,
+      "edge": 0.088,
       "stake": 1.0,
       "actual": "H",
       "won": true,
       "pnl": 1.91,
-      "bankroll": 75.72
+      "bankroll": 79.85
     },
     {
       "date": "2025-01-11T00:00:00",
       "match": "Alaves vs Girona",
       "pick": "H",
       "odds": 3.25,
-      "model_p": 0.346,
+      "model_p": 0.373,
       "imp_p": 0.299,
-      "edge": 0.047,
+      "edge": 0.074,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 74.72
+      "bankroll": 78.85
+    },
+    {
+      "date": "2025-01-11T00:00:00",
+      "match": "Valladolid vs Betis",
+      "pick": "H",
+      "odds": 5.1,
+      "model_p": 0.324,
+      "imp_p": 0.185,
+      "edge": 0.139,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 4.1,
+      "bankroll": 82.95
     },
     {
       "date": "2025-01-11T00:00:00",
       "match": "Espanol vs Leganes",
       "pick": "A",
       "odds": 4.32,
-      "model_p": 0.309,
+      "model_p": 0.336,
       "imp_p": 0.221,
-      "edge": 0.088,
+      "edge": 0.115,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 73.72
-    },
-    {
-      "date": "2025-01-11T00:00:00",
-      "match": "Sevilla vs Valencia",
-      "pick": "H",
-      "odds": 2.14,
-      "model_p": 0.516,
-      "imp_p": 0.459,
-      "edge": 0.058,
-      "stake": 1.0,
-      "actual": "D",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 72.72
+      "bankroll": 81.95
     },
     {
       "date": "2025-01-12T00:00:00",
       "match": "Las Palmas vs Getafe",
-      "pick": "D",
-      "odds": 2.8,
-      "model_p": 0.38,
-      "imp_p": 0.348,
-      "edge": 0.032,
+      "pick": "H",
+      "odds": 2.57,
+      "model_p": 0.456,
+      "imp_p": 0.38,
+      "edge": 0.075,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 71.72
+      "bankroll": 80.95
     },
     {
       "date": "2025-01-12T00:00:00",
       "match": "Ath Madrid vs Osasuna",
-      "pick": "H",
-      "odds": 1.33,
-      "model_p": 0.79,
-      "imp_p": 0.745,
-      "edge": 0.046,
+      "pick": "A",
+      "odds": 10.75,
+      "model_p": 0.216,
+      "imp_p": 0.08,
+      "edge": 0.136,
       "stake": 1.0,
       "actual": "H",
-      "won": true,
-      "pnl": 0.33,
-      "bankroll": 72.05
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 79.95
     },
     {
       "date": "2025-01-13T00:00:00",
       "match": "Sociedad vs Villarreal",
       "pick": "A",
       "odds": 4.16,
-      "model_p": 0.263,
+      "model_p": 0.339,
       "imp_p": 0.23,
-      "edge": 0.033,
+      "edge": 0.11,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 71.05
+      "bankroll": 78.95
+    },
+    {
+      "date": "2025-01-17T00:00:00",
+      "match": "Espanol vs Valladolid",
+      "pick": "A",
+      "odds": 5.25,
+      "model_p": 0.3,
+      "imp_p": 0.179,
+      "edge": 0.121,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 77.95
     },
     {
       "date": "2025-01-18T00:00:00",
       "match": "Girona vs Sevilla",
-      "pick": "H",
-      "odds": 1.92,
-      "model_p": 0.571,
-      "imp_p": 0.512,
-      "edge": 0.058,
+      "pick": "A",
+      "odds": 4.39,
+      "model_p": 0.263,
+      "imp_p": 0.217,
+      "edge": 0.046,
       "stake": 1.0,
       "actual": "A",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 70.05
+      "won": true,
+      "pnl": 3.39,
+      "bankroll": 81.34
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "match": "Leganes vs Ath Madrid",
+      "pick": "H",
+      "odds": 7.32,
+      "model_p": 0.271,
+      "imp_p": 0.124,
+      "edge": 0.147,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 6.32,
+      "bankroll": 87.66
+    },
+    {
+      "date": "2025-01-18T00:00:00",
+      "match": "Betis vs Alaves",
+      "pick": "A",
+      "odds": 4.82,
+      "model_p": 0.239,
+      "imp_p": 0.196,
+      "edge": 0.042,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 3.82,
+      "bankroll": 91.48
     },
     {
       "date": "2025-01-18T00:00:00",
       "match": "Getafe vs Barcelona",
-      "pick": "D",
-      "odds": 4.57,
-      "model_p": 0.267,
-      "imp_p": 0.207,
-      "edge": 0.06,
+      "pick": "H",
+      "odds": 7.26,
+      "model_p": 0.305,
+      "imp_p": 0.125,
+      "edge": 0.18,
       "stake": 1.0,
       "actual": "D",
-      "won": true,
-      "pnl": 3.57,
-      "bankroll": 73.62
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 90.48
     },
     {
       "date": "2025-01-19T00:00:00",
       "match": "Celta vs Ath Bilbao",
-      "pick": "A",
-      "odds": 2.32,
-      "model_p": 0.474,
-      "imp_p": 0.422,
-      "edge": 0.052,
+      "pick": "H",
+      "odds": 3.49,
+      "model_p": 0.335,
+      "imp_p": 0.277,
+      "edge": 0.059,
       "stake": 1.0,
       "actual": "A",
-      "won": true,
-      "pnl": 1.32,
-      "bankroll": 74.94
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 89.48
     },
     {
       "date": "2025-01-19T00:00:00",
       "match": "Real Madrid vs Las Palmas",
-      "pick": "A",
-      "odds": 18.38,
-      "model_p": 0.08,
-      "imp_p": 0.038,
-      "edge": 0.042,
+      "pick": "D",
+      "odds": 8.77,
+      "model_p": 0.27,
+      "imp_p": 0.098,
+      "edge": 0.172,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 73.94
-    },
-    {
-      "date": "2025-01-19T00:00:00",
-      "match": "Osasuna vs Vallecano",
-      "pick": "A",
-      "odds": 3.52,
-      "model_p": 0.344,
-      "imp_p": 0.274,
-      "edge": 0.07,
-      "stake": 1.0,
-      "actual": "D",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 72.94
-    },
-    {
-      "date": "2025-01-19T00:00:00",
-      "match": "Valencia vs Sociedad",
-      "pick": "A",
-      "odds": 2.69,
-      "model_p": 0.406,
-      "imp_p": 0.363,
-      "edge": 0.043,
-      "stake": 1.0,
-      "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 71.94
+      "bankroll": 88.48
     },
     {
       "date": "2025-01-20T00:00:00",
       "match": "Villarreal vs Mallorca",
       "pick": "A",
       "odds": 5.4,
-      "model_p": 0.233,
+      "model_p": 0.301,
       "imp_p": 0.174,
-      "edge": 0.059,
+      "edge": 0.126,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 70.94
+      "bankroll": 87.48
     },
     {
       "date": "2025-01-24T00:00:00",
       "match": "Las Palmas vs Osasuna",
-      "pick": "H",
-      "odds": 2.51,
-      "model_p": 0.473,
-      "imp_p": 0.389,
-      "edge": 0.083,
+      "pick": "A",
+      "odds": 3.11,
+      "model_p": 0.36,
+      "imp_p": 0.312,
+      "edge": 0.048,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 69.94
+      "bankroll": 86.48
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "match": "Valladolid vs Real Madrid",
+      "pick": "H",
+      "odds": 13.37,
+      "model_p": 0.219,
+      "imp_p": 0.06,
+      "edge": 0.158,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 85.48
+    },
+    {
+      "date": "2025-01-25T00:00:00",
+      "match": "Sevilla vs Espanol",
+      "pick": "A",
+      "odds": 5.13,
+      "model_p": 0.259,
+      "imp_p": 0.184,
+      "edge": 0.075,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 84.48
     },
     {
       "date": "2025-01-25T00:00:00",
       "match": "Mallorca vs Betis",
       "pick": "A",
       "odds": 4.44,
-      "model_p": 0.292,
+      "model_p": 0.279,
       "imp_p": 0.215,
-      "edge": 0.077,
+      "edge": 0.064,
       "stake": 1.0,
       "actual": "A",
       "won": true,
       "pnl": 3.44,
-      "bankroll": 73.38
-    },
-    {
-      "date": "2025-01-25T00:00:00",
-      "match": "Ath Madrid vs Villarreal",
-      "pick": "H",
-      "odds": 2.04,
-      "model_p": 0.706,
-      "imp_p": 0.481,
-      "edge": 0.225,
-      "stake": 1.0,
-      "actual": "D",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 72.38
+      "bankroll": 87.92
     },
     {
       "date": "2025-01-26T00:00:00",
       "match": "Vallecano vs Girona",
       "pick": "H",
       "odds": 2.53,
-      "model_p": 0.434,
+      "model_p": 0.429,
       "imp_p": 0.387,
-      "edge": 0.047,
+      "edge": 0.043,
       "stake": 1.0,
       "actual": "H",
       "won": true,
       "pnl": 1.53,
-      "bankroll": 73.91
+      "bankroll": 89.45
     },
     {
       "date": "2025-01-26T00:00:00",
       "match": "Sociedad vs Getafe",
-      "pick": "D",
-      "odds": 2.97,
-      "model_p": 0.494,
-      "imp_p": 0.326,
-      "edge": 0.168,
+      "pick": "A",
+      "odds": 5.44,
+      "model_p": 0.252,
+      "imp_p": 0.172,
+      "edge": 0.079,
       "stake": 1.0,
       "actual": "A",
+      "won": true,
+      "pnl": 4.44,
+      "bankroll": 93.89
+    },
+    {
+      "date": "2025-01-26T00:00:00",
+      "match": "Ath Bilbao vs Leganes",
+      "pick": "A",
+      "odds": 11.02,
+      "model_p": 0.196,
+      "imp_p": 0.078,
+      "edge": 0.118,
+      "stake": 1.0,
+      "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 72.91
+      "bankroll": 92.89
     },
     {
       "date": "2025-01-26T00:00:00",
       "match": "Barcelona vs Valencia",
-      "pick": "H",
-      "odds": 1.23,
-      "model_p": 0.867,
-      "imp_p": 0.806,
-      "edge": 0.061,
+      "pick": "D",
+      "odds": 6.68,
+      "model_p": 0.27,
+      "imp_p": 0.134,
+      "edge": 0.136,
       "stake": 1.0,
       "actual": "H",
-      "won": true,
-      "pnl": 0.23,
-      "bankroll": 73.14
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 91.89
     },
     {
       "date": "2025-01-27T00:00:00",
       "match": "Alaves vs Celta",
       "pick": "A",
       "odds": 3.6,
-      "model_p": 0.347,
+      "model_p": 0.336,
       "imp_p": 0.268,
-      "edge": 0.079,
+      "edge": 0.068,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 72.14
+      "bankroll": 90.89
     },
     {
       "date": "2025-01-31T00:00:00",
       "match": "Leganes vs Vallecano",
       "pick": "H",
       "odds": 3.44,
-      "model_p": 0.316,
+      "model_p": 0.385,
       "imp_p": 0.281,
-      "edge": 0.035,
+      "edge": 0.104,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 71.14
+      "bankroll": 89.89
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "match": "Espanol vs Real Madrid",
+      "pick": "H",
+      "odds": 10.35,
+      "model_p": 0.224,
+      "imp_p": 0.083,
+      "edge": 0.141,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 9.35,
+      "bankroll": 99.24
     },
     {
       "date": "2025-02-01T00:00:00",
       "match": "Ath Madrid vs Mallorca",
-      "pick": "H",
-      "odds": 1.49,
-      "model_p": 0.701,
-      "imp_p": 0.664,
-      "edge": 0.038,
+      "pick": "A",
+      "odds": 8.18,
+      "model_p": 0.209,
+      "imp_p": 0.11,
+      "edge": 0.099,
       "stake": 1.0,
       "actual": "H",
-      "won": true,
-      "pnl": 0.49,
-      "bankroll": 71.63
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 98.24
+    },
+    {
+      "date": "2025-02-01T00:00:00",
+      "match": "Villarreal vs Valladolid",
+      "pick": "D",
+      "odds": 7.39,
+      "model_p": 0.27,
+      "imp_p": 0.122,
+      "edge": 0.148,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 97.24
     },
     {
       "date": "2025-02-01T00:00:00",
       "match": "Getafe vs Sevilla",
       "pick": "H",
       "odds": 2.79,
-      "model_p": 0.449,
+      "model_p": 0.409,
       "imp_p": 0.349,
-      "edge": 0.099,
+      "edge": 0.06,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 70.63
+      "bankroll": 96.24
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "match": "Barcelona vs Alaves",
+      "pick": "D",
+      "odds": 8.75,
+      "model_p": 0.27,
+      "imp_p": 0.101,
+      "edge": 0.169,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 95.24
     },
     {
       "date": "2025-02-02T00:00:00",
       "match": "Valencia vs Celta",
       "pick": "A",
       "odds": 3.66,
-      "model_p": 0.427,
+      "model_p": 0.363,
       "imp_p": 0.264,
-      "edge": 0.163,
+      "edge": 0.1,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 69.63
+      "bankroll": 94.24
     },
     {
       "date": "2025-02-02T00:00:00",
       "match": "Osasuna vs Sociedad",
       "pick": "H",
       "odds": 3.3,
-      "model_p": 0.354,
+      "model_p": 0.435,
       "imp_p": 0.294,
-      "edge": 0.06,
+      "edge": 0.142,
       "stake": 1.0,
       "actual": "H",
       "won": true,
       "pnl": 2.3,
-      "bankroll": 71.93
-    },
-    {
-      "date": "2025-02-02T00:00:00",
-      "match": "Betis vs Ath Bilbao",
-      "pick": "A",
-      "odds": 2.44,
-      "model_p": 0.439,
-      "imp_p": 0.401,
-      "edge": 0.037,
-      "stake": 1.0,
-      "actual": "D",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 70.93
+      "bankroll": 96.54
     },
     {
       "date": "2025-02-03T00:00:00",
       "match": "Girona vs Las Palmas",
       "pick": "A",
       "odds": 6.91,
-      "model_p": 0.225,
+      "model_p": 0.259,
       "imp_p": 0.133,
+      "edge": 0.125,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 95.54
+    },
+    {
+      "date": "2025-02-07T00:00:00",
+      "match": "Vallecano vs Valladolid",
+      "pick": "A",
+      "odds": 9.25,
+      "model_p": 0.186,
+      "imp_p": 0.095,
       "edge": 0.091,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 69.93
-    },
-    {
-      "date": "2025-02-07T00:00:00",
-      "match": "Vallecano vs Valladolid",
-      "pick": "H",
-      "odds": 1.43,
-      "model_p": 0.74,
-      "imp_p": 0.692,
-      "edge": 0.048,
-      "stake": 1.0,
-      "actual": "H",
-      "won": true,
-      "pnl": 0.43,
-      "bankroll": 70.36
+      "bankroll": 94.54
     },
     {
       "date": "2025-02-08T00:00:00",
       "match": "Las Palmas vs Villarreal",
       "pick": "H",
       "odds": 5.65,
-      "model_p": 0.325,
+      "model_p": 0.315,
       "imp_p": 0.166,
-      "edge": 0.159,
+      "edge": 0.149,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 69.36
+      "bankroll": 93.54
     },
     {
       "date": "2025-02-08T00:00:00",
-      "match": "Real Madrid vs Ath Madrid",
+      "match": "Celta vs Betis",
       "pick": "A",
-      "odds": 3.86,
-      "model_p": 0.321,
-      "imp_p": 0.249,
-      "edge": 0.071,
-      "stake": 1.0,
-      "actual": "D",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 68.36
-    },
-    {
-      "date": "2025-02-08T00:00:00",
-      "match": "Ath Bilbao vs Girona",
-      "pick": "H",
-      "odds": 1.77,
-      "model_p": 0.597,
-      "imp_p": 0.557,
-      "edge": 0.04,
+      "odds": 3.65,
+      "model_p": 0.335,
+      "imp_p": 0.264,
+      "edge": 0.072,
       "stake": 1.0,
       "actual": "H",
-      "won": true,
-      "pnl": 0.77,
-      "bankroll": 69.13
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 92.54
     },
     {
       "date": "2025-02-09T00:00:00",
       "match": "Alaves vs Getafe",
       "pick": "A",
       "odds": 4.04,
-      "model_p": 0.304,
+      "model_p": 0.331,
       "imp_p": 0.236,
-      "edge": 0.068,
+      "edge": 0.095,
       "stake": 1.0,
       "actual": "A",
       "won": true,
       "pnl": 3.04,
-      "bankroll": 72.17
+      "bankroll": 95.58
     },
     {
       "date": "2025-02-09T00:00:00",
       "match": "Valencia vs Leganes",
       "pick": "A",
       "odds": 5.69,
-      "model_p": 0.299,
+      "model_p": 0.332,
       "imp_p": 0.164,
-      "edge": 0.134,
+      "edge": 0.167,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 71.17
+      "bankroll": 94.58
     },
     {
       "date": "2025-02-09T00:00:00",
       "match": "Sociedad vs Espanol",
-      "pick": "D",
-      "odds": 3.69,
-      "model_p": 0.334,
-      "imp_p": 0.26,
-      "edge": 0.074,
+      "pick": "A",
+      "odds": 6.83,
+      "model_p": 0.271,
+      "imp_p": 0.135,
+      "edge": 0.136,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 70.17
+      "bankroll": 93.58
+    },
+    {
+      "date": "2025-02-09T00:00:00",
+      "match": "Sevilla vs Barcelona",
+      "pick": "H",
+      "odds": 6.5,
+      "model_p": 0.319,
+      "imp_p": 0.142,
+      "edge": 0.176,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 92.58
     },
     {
       "date": "2025-02-10T00:00:00",
       "match": "Mallorca vs Osasuna",
       "pick": "A",
       "odds": 3.71,
-      "model_p": 0.316,
+      "model_p": 0.322,
       "imp_p": 0.259,
-      "edge": 0.057,
+      "edge": 0.062,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 69.17
+      "bankroll": 91.58
     },
     {
       "date": "2025-02-14T00:00:00",
       "match": "Girona vs Getafe",
       "pick": "A",
       "odds": 4.98,
-      "model_p": 0.287,
+      "model_p": 0.289,
       "imp_p": 0.189,
-      "edge": 0.098,
+      "edge": 0.1,
       "stake": 1.0,
       "actual": "A",
       "won": true,
       "pnl": 3.98,
-      "bankroll": 73.15
-    },
-    {
-      "date": "2025-02-15T00:00:00",
-      "match": "Villarreal vs Valencia",
-      "pick": "H",
-      "odds": 1.73,
-      "model_p": 0.73,
-      "imp_p": 0.57,
-      "edge": 0.16,
-      "stake": 1.0,
-      "actual": "D",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 72.15
+      "bankroll": 95.56
     },
     {
       "date": "2025-02-15T00:00:00",
       "match": "Leganes vs Alaves",
       "pick": "H",
       "odds": 3.94,
-      "model_p": 0.371,
+      "model_p": 0.455,
       "imp_p": 0.244,
-      "edge": 0.127,
+      "edge": 0.211,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 71.15
+      "bankroll": 94.56
     },
     {
       "date": "2025-02-15T00:00:00",
       "match": "Osasuna vs Real Madrid",
       "pick": "H",
       "odds": 6.72,
-      "model_p": 0.187,
+      "model_p": 0.302,
       "imp_p": 0.136,
-      "edge": 0.051,
+      "edge": 0.165,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 70.15
+      "bankroll": 93.56
     },
     {
       "date": "2025-02-15T00:00:00",
       "match": "Ath Madrid vs Celta",
-      "pick": "H",
-      "odds": 1.4,
-      "model_p": 0.75,
-      "imp_p": 0.708,
-      "edge": 0.043,
+      "pick": "A",
+      "odds": 9.02,
+      "model_p": 0.185,
+      "imp_p": 0.099,
+      "edge": 0.086,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 69.15
-    },
-    {
-      "date": "2025-02-16T00:00:00",
-      "match": "Betis vs Sociedad",
-      "pick": "D",
-      "odds": 3.15,
-      "model_p": 0.344,
-      "imp_p": 0.308,
-      "edge": 0.036,
-      "stake": 1.0,
-      "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 68.15
+      "bankroll": 92.56
     },
     {
       "date": "2025-02-16T00:00:00",
       "match": "Mallorca vs Las Palmas",
       "pick": "A",
       "odds": 5.18,
-      "model_p": 0.296,
+      "model_p": 0.239,
       "imp_p": 0.183,
-      "edge": 0.113,
+      "edge": 0.056,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 67.15
+      "bankroll": 91.56
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "match": "Valladolid vs Sevilla",
+      "pick": "H",
+      "odds": 4.3,
+      "model_p": 0.334,
+      "imp_p": 0.223,
+      "edge": 0.112,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 90.56
+    },
+    {
+      "date": "2025-02-16T00:00:00",
+      "match": "Espanol vs Ath Bilbao",
+      "pick": "H",
+      "odds": 5.53,
+      "model_p": 0.268,
+      "imp_p": 0.17,
+      "edge": 0.099,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 89.56
     },
     {
       "date": "2025-02-17T00:00:00",
       "match": "Barcelona vs Vallecano",
       "pick": "A",
       "odds": 13.02,
-      "model_p": 0.093,
+      "model_p": 0.237,
       "imp_p": 0.061,
-      "edge": 0.032,
+      "edge": 0.176,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 66.15
+      "bankroll": 88.56
     },
     {
       "date": "2025-02-21T00:00:00",
       "match": "Celta vs Osasuna",
       "pick": "A",
       "odds": 5.38,
-      "model_p": 0.26,
+      "model_p": 0.339,
       "imp_p": 0.174,
-      "edge": 0.086,
+      "edge": 0.165,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 65.15
+      "bankroll": 87.56
     },
     {
       "date": "2025-02-22T00:00:00",
       "match": "Alaves vs Espanol",
       "pick": "A",
       "odds": 5.51,
-      "model_p": 0.228,
+      "model_p": 0.324,
       "imp_p": 0.17,
-      "edge": 0.059,
+      "edge": 0.154,
       "stake": 1.0,
       "actual": "A",
       "won": true,
       "pnl": 4.51,
-      "bankroll": 69.66
+      "bankroll": 92.07
     },
     {
       "date": "2025-02-22T00:00:00",
       "match": "Vallecano vs Villarreal",
       "pick": "H",
       "odds": 2.82,
-      "model_p": 0.412,
+      "model_p": 0.391,
       "imp_p": 0.346,
-      "edge": 0.066,
+      "edge": 0.046,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 68.66
-    },
-    {
-      "date": "2025-02-22T00:00:00",
-      "match": "Valencia vs Ath Madrid",
-      "pick": "A",
-      "odds": 2.11,
-      "model_p": 0.612,
-      "imp_p": 0.466,
-      "edge": 0.146,
-      "stake": 1.0,
-      "actual": "A",
-      "won": true,
-      "pnl": 1.11,
-      "bankroll": 69.77
+      "bankroll": 91.07
     },
     {
       "date": "2025-02-22T00:00:00",
       "match": "Las Palmas vs Barcelona",
       "pick": "H",
       "odds": 11.32,
-      "model_p": 0.118,
+      "model_p": 0.235,
       "imp_p": 0.073,
-      "edge": 0.045,
+      "edge": 0.162,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 68.77
+      "bankroll": 90.07
     },
     {
       "date": "2025-02-23T00:00:00",
       "match": "Getafe vs Betis",
       "pick": "H",
       "odds": 3.05,
-      "model_p": 0.418,
+      "model_p": 0.405,
       "imp_p": 0.319,
-      "edge": 0.099,
+      "edge": 0.086,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 67.77
+      "bankroll": 89.07
     },
     {
       "date": "2025-02-23T00:00:00",
       "match": "Sociedad vs Leganes",
       "pick": "A",
       "odds": 6.47,
-      "model_p": 0.219,
+      "model_p": 0.272,
       "imp_p": 0.143,
-      "edge": 0.076,
+      "edge": 0.129,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 66.77
+      "bankroll": 88.07
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "match": "Ath Bilbao vs Valladolid",
+      "pick": "D",
+      "odds": 7.5,
+      "model_p": 0.27,
+      "imp_p": 0.119,
+      "edge": 0.151,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 87.07
+    },
+    {
+      "date": "2025-02-23T00:00:00",
+      "match": "Real Madrid vs Girona",
+      "pick": "D",
+      "odds": 6.41,
+      "model_p": 0.27,
+      "imp_p": 0.141,
+      "edge": 0.129,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 86.07
     },
     {
       "date": "2025-02-24T00:00:00",
       "match": "Sevilla vs Mallorca",
       "pick": "A",
       "odds": 4.46,
-      "model_p": 0.258,
+      "model_p": 0.319,
       "imp_p": 0.214,
-      "edge": 0.044,
+      "edge": 0.105,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 65.77
+      "bankroll": 85.07
     },
     {
       "date": "2025-02-28T00:00:00",
       "match": "Valladolid vs Las Palmas",
-      "pick": "A",
-      "odds": 2.64,
-      "model_p": 0.554,
-      "imp_p": 0.37,
-      "edge": 0.184,
+      "pick": "H",
+      "odds": 3.06,
+      "model_p": 0.375,
+      "imp_p": 0.318,
+      "edge": 0.058,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 64.77
+      "bankroll": 84.07
     },
     {
       "date": "2025-03-01T00:00:00",
       "match": "Girona vs Celta",
       "pick": "A",
       "odds": 3.63,
-      "model_p": 0.305,
+      "model_p": 0.332,
       "imp_p": 0.266,
-      "edge": 0.039,
+      "edge": 0.066,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 63.77
+      "bankroll": 83.07
     },
     {
       "date": "2025-03-01T00:00:00",
       "match": "Vallecano vs Sevilla",
       "pick": "H",
       "odds": 2.66,
-      "model_p": 0.477,
+      "model_p": 0.451,
       "imp_p": 0.367,
-      "edge": 0.11,
+      "edge": 0.084,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 62.77
+      "bankroll": 82.07
     },
     {
       "date": "2025-03-01T00:00:00",
       "match": "Betis vs Real Madrid",
-      "pick": "A",
-      "odds": 1.99,
-      "model_p": 0.531,
-      "imp_p": 0.494,
-      "edge": 0.037,
-      "stake": 1.0,
-      "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 61.77
-    },
-    {
-      "date": "2025-03-01T00:00:00",
-      "match": "Ath Madrid vs Ath Bilbao",
       "pick": "H",
-      "odds": 2.2,
-      "model_p": 0.509,
-      "imp_p": 0.449,
-      "edge": 0.06,
+      "odds": 3.84,
+      "model_p": 0.295,
+      "imp_p": 0.25,
+      "edge": 0.045,
       "stake": 1.0,
       "actual": "H",
       "won": true,
-      "pnl": 1.2,
-      "bankroll": 62.97
+      "pnl": 2.84,
+      "bankroll": 84.91
     },
     {
       "date": "2025-03-02T00:00:00",
       "match": "Leganes vs Getafe",
-      "pick": "A",
-      "odds": 2.91,
-      "model_p": 0.372,
-      "imp_p": 0.335,
-      "edge": 0.038,
+      "pick": "H",
+      "odds": 3.16,
+      "model_p": 0.394,
+      "imp_p": 0.307,
+      "edge": 0.086,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 2.16,
+      "bankroll": 87.07
+    },
+    {
+      "date": "2025-03-02T00:00:00",
+      "match": "Barcelona vs Sociedad",
+      "pick": "D",
+      "odds": 6.22,
+      "model_p": 0.27,
+      "imp_p": 0.146,
+      "edge": 0.124,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 61.97
+      "bankroll": 86.07
     },
     {
       "date": "2025-03-02T00:00:00",
       "match": "Mallorca vs Alaves",
       "pick": "H",
       "odds": 2.57,
-      "model_p": 0.447,
+      "model_p": 0.511,
       "imp_p": 0.38,
-      "edge": 0.067,
+      "edge": 0.13,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 60.97
+      "bankroll": 85.07
     },
     {
       "date": "2025-03-02T00:00:00",
       "match": "Osasuna vs Valencia",
       "pick": "H",
       "odds": 2.23,
-      "model_p": 0.528,
+      "model_p": 0.495,
       "imp_p": 0.44,
-      "edge": 0.089,
+      "edge": 0.056,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 59.97
+      "bankroll": 84.07
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "match": "Valencia vs Valladolid",
+      "pick": "A",
+      "odds": 8.93,
+      "model_p": 0.233,
+      "imp_p": 0.1,
+      "edge": 0.133,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 83.07
     },
     {
       "date": "2025-03-08T00:00:00",
       "match": "Alaves vs Villarreal",
       "pick": "A",
       "odds": 2.56,
-      "model_p": 0.471,
+      "model_p": 0.46,
       "imp_p": 0.382,
-      "edge": 0.089,
+      "edge": 0.079,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 58.97
+      "bankroll": 82.07
     },
     {
       "date": "2025-03-08T00:00:00",
       "match": "Celta vs Leganes",
       "pick": "A",
       "odds": 6.69,
-      "model_p": 0.176,
+      "model_p": 0.263,
       "imp_p": 0.137,
-      "edge": 0.039,
+      "edge": 0.126,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 57.97
+      "bankroll": 81.07
     },
     {
       "date": "2025-03-09T00:00:00",
       "match": "Getafe vs Ath Madrid",
-      "pick": "D",
-      "odds": 3.23,
-      "model_p": 0.404,
-      "imp_p": 0.3,
-      "edge": 0.103,
+      "pick": "H",
+      "odds": 5.08,
+      "model_p": 0.256,
+      "imp_p": 0.187,
+      "edge": 0.07,
       "stake": 1.0,
       "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 56.97
+      "won": true,
+      "pnl": 4.08,
+      "bankroll": 85.15
     },
     {
       "date": "2025-03-09T00:00:00",
       "match": "Real Madrid vs Vallecano",
       "pick": "D",
       "odds": 5.92,
-      "model_p": 0.218,
+      "model_p": 0.27,
       "imp_p": 0.156,
-      "edge": 0.062,
+      "edge": 0.114,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 55.97
+      "bankroll": 84.15
     },
     {
       "date": "2025-03-09T00:00:00",
       "match": "Ath Bilbao vs Mallorca",
-      "pick": "H",
-      "odds": 1.74,
-      "model_p": 0.666,
-      "imp_p": 0.567,
-      "edge": 0.099,
+      "pick": "A",
+      "odds": 5.76,
+      "model_p": 0.213,
+      "imp_p": 0.162,
+      "edge": 0.051,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 54.97
+      "bankroll": 83.15
     },
     {
       "date": "2025-03-09T00:00:00",
       "match": "Betis vs Las Palmas",
       "pick": "A",
       "odds": 10.26,
-      "model_p": 0.181,
+      "model_p": 0.194,
       "imp_p": 0.085,
-      "edge": 0.096,
+      "edge": 0.109,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 53.97
+      "bankroll": 82.15
     },
     {
       "date": "2025-03-10T00:00:00",
       "match": "Espanol vs Girona",
       "pick": "H",
       "odds": 3.61,
-      "model_p": 0.358,
+      "model_p": 0.421,
       "imp_p": 0.267,
-      "edge": 0.09,
+      "edge": 0.154,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 52.97
+      "bankroll": 81.15
     },
     {
       "date": "2025-03-14T00:00:00",
       "match": "Las Palmas vs Alaves",
       "pick": "H",
       "odds": 2.9,
-      "model_p": 0.421,
+      "model_p": 0.399,
       "imp_p": 0.336,
-      "edge": 0.086,
+      "edge": 0.063,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 51.97
+      "bankroll": 80.15
     },
     {
       "date": "2025-03-15T00:00:00",
       "match": "Girona vs Valencia",
-      "pick": "H",
-      "odds": 1.96,
-      "model_p": 0.569,
-      "imp_p": 0.502,
-      "edge": 0.067,
+      "pick": "A",
+      "odds": 4.18,
+      "model_p": 0.282,
+      "imp_p": 0.229,
+      "edge": 0.053,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 50.97
+      "bankroll": 79.15
     },
     {
       "date": "2025-03-15T00:00:00",
       "match": "Valladolid vs Celta",
-      "pick": "A",
-      "odds": 1.78,
-      "model_p": 0.654,
-      "imp_p": 0.554,
-      "edge": 0.1,
+      "pick": "H",
+      "odds": 4.82,
+      "model_p": 0.273,
+      "imp_p": 0.197,
+      "edge": 0.076,
       "stake": 1.0,
       "actual": "A",
-      "won": true,
-      "pnl": 0.78,
-      "bankroll": 51.75
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 78.15
     },
     {
       "date": "2025-03-15T00:00:00",
       "match": "Mallorca vs Espanol",
       "pick": "A",
       "odds": 5.19,
-      "model_p": 0.228,
+      "model_p": 0.263,
       "imp_p": 0.181,
-      "edge": 0.047,
+      "edge": 0.082,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 50.75
+      "bankroll": 77.15
     },
     {
       "date": "2025-03-16T00:00:00",
       "match": "Leganes vs Betis",
       "pick": "H",
       "odds": 4.05,
-      "model_p": 0.292,
+      "model_p": 0.328,
       "imp_p": 0.237,
-      "edge": 0.056,
+      "edge": 0.091,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 49.75
+      "bankroll": 76.15
     },
     {
       "date": "2025-03-16T00:00:00",
       "match": "Sevilla vs Ath Bilbao",
       "pick": "A",
       "odds": 3.14,
-      "model_p": 0.478,
+      "model_p": 0.402,
       "imp_p": 0.309,
-      "edge": 0.169,
+      "edge": 0.093,
       "stake": 1.0,
       "actual": "A",
       "won": true,
       "pnl": 2.14,
-      "bankroll": 51.89
+      "bankroll": 78.29
     },
     {
       "date": "2025-03-16T00:00:00",
       "match": "Osasuna vs Getafe",
-      "pick": "A",
-      "odds": 3.62,
-      "model_p": 0.322,
-      "imp_p": 0.266,
-      "edge": 0.056,
+      "pick": "H",
+      "odds": 2.45,
+      "model_p": 0.454,
+      "imp_p": 0.399,
+      "edge": 0.055,
       "stake": 1.0,
       "actual": "A",
-      "won": true,
-      "pnl": 2.62,
-      "bankroll": 54.51
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 77.29
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "match": "Vallecano vs Sociedad",
+      "pick": "H",
+      "odds": 2.43,
+      "model_p": 0.454,
+      "imp_p": 0.401,
+      "edge": 0.053,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 76.29
     },
     {
       "date": "2025-03-16T00:00:00",
       "match": "Ath Madrid vs Barcelona",
       "pick": "H",
       "odds": 3.11,
-      "model_p": 0.429,
+      "model_p": 0.424,
       "imp_p": 0.312,
-      "edge": 0.117,
+      "edge": 0.112,
       "stake": 1.0,
       "actual": "A",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 53.51
+      "bankroll": 75.29
     },
     {
       "date": "2025-03-27T00:00:00",
       "match": "Barcelona vs Osasuna",
-      "pick": "H",
-      "odds": 1.18,
-      "model_p": 0.875,
-      "imp_p": 0.841,
-      "edge": 0.034,
+      "pick": "D",
+      "odds": 7.75,
+      "model_p": 0.27,
+      "imp_p": 0.114,
+      "edge": 0.156,
       "stake": 1.0,
       "actual": "H",
-      "won": true,
-      "pnl": 0.18,
-      "bankroll": 53.69
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 74.29
     },
     {
       "date": "2025-03-29T00:00:00",
       "match": "Alaves vs Vallecano",
       "pick": "A",
       "odds": 4.24,
-      "model_p": 0.341,
+      "model_p": 0.372,
       "imp_p": 0.226,
-      "edge": 0.116,
+      "edge": 0.146,
       "stake": 1.0,
       "actual": "A",
       "won": true,
       "pnl": 3.24,
-      "bankroll": 56.93
+      "bankroll": 77.53
     },
     {
       "date": "2025-03-29T00:00:00",
       "match": "Sociedad vs Valladolid",
-      "pick": "D",
-      "odds": 4.88,
-      "model_p": 0.227,
-      "imp_p": 0.194,
-      "edge": 0.033,
-      "stake": 1.0,
-      "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 55.93
-    },
-    {
-      "date": "2025-03-30T00:00:00",
-      "match": "Betis vs Sevilla",
       "pick": "A",
-      "odds": 5.27,
-      "model_p": 0.233,
-      "imp_p": 0.178,
-      "edge": 0.054,
+      "odds": 9.94,
+      "model_p": 0.189,
+      "imp_p": 0.089,
+      "edge": 0.1,
       "stake": 1.0,
       "actual": "H",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 54.93
+      "bankroll": 76.53
     },
     {
-      "date": "2025-03-30T00:00:00",
-      "match": "Valencia vs Mallorca",
-      "pick": "A",
-      "odds": 4.52,
-      "model_p": 0.329,
-      "imp_p": 0.211,
-      "edge": 0.119,
-      "stake": 1.0,
-      "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 53.93
-    },
-    {
-      "date": "2025-03-30T00:00:00",
-      "match": "Barcelona vs Girona",
+      "date": "2025-03-29T00:00:00",
+      "match": "Espanol vs Ath Madrid",
       "pick": "H",
-      "odds": 1.29,
-      "model_p": 0.861,
-      "imp_p": 0.767,
-      "edge": 0.094,
-      "stake": 1.0,
-      "actual": "H",
-      "won": true,
-      "pnl": 0.29,
-      "bankroll": 54.22
-    },
-    {
-      "date": "2025-03-30T00:00:00",
-      "match": "Getafe vs Villarreal",
-      "pick": "H",
-      "odds": 3.35,
-      "model_p": 0.395,
-      "imp_p": 0.289,
-      "edge": 0.106,
-      "stake": 1.0,
-      "actual": "A",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 53.22
-    },
-    {
-      "date": "2025-03-31T00:00:00",
-      "match": "Celta vs Las Palmas",
-      "pick": "A",
-      "odds": 6.05,
-      "model_p": 0.21,
-      "imp_p": 0.154,
-      "edge": 0.057,
+      "odds": 5.86,
+      "model_p": 0.254,
+      "imp_p": 0.159,
+      "edge": 0.095,
       "stake": 1.0,
       "actual": "D",
       "won": false,
       "pnl": -1.0,
-      "bankroll": 52.22
-    },
-    {
-      "date": "2025-04-05T00:00:00",
-      "match": "Girona vs Alaves",
-      "pick": "H",
-      "odds": 2.09,
-      "model_p": 0.502,
-      "imp_p": 0.47,
-      "edge": 0.032,
-      "stake": 1.0,
-      "actual": "A",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 51.22
-    },
-    {
-      "date": "2025-04-05T00:00:00",
-      "match": "Mallorca vs Celta",
-      "pick": "H",
-      "odds": 2.93,
-      "model_p": 0.383,
-      "imp_p": 0.332,
-      "edge": 0.051,
-      "stake": 1.0,
-      "actual": "A",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 50.22
-    },
-    {
-      "date": "2025-04-05T00:00:00",
-      "match": "Barcelona vs Betis",
-      "pick": "H",
-      "odds": 1.37,
-      "model_p": 0.795,
-      "imp_p": 0.721,
-      "edge": 0.074,
-      "stake": 1.0,
-      "actual": "D",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 49.22
-    },
-    {
-      "date": "2025-04-06T00:00:00",
-      "match": "Valladolid vs Getafe",
-      "pick": "A",
-      "odds": 2.04,
-      "model_p": 0.575,
-      "imp_p": 0.482,
-      "edge": 0.093,
-      "stake": 1.0,
-      "actual": "A",
-      "won": true,
-      "pnl": 1.04,
-      "bankroll": 50.26
-    },
-    {
-      "date": "2025-04-06T00:00:00",
-      "match": "Villarreal vs Ath Bilbao",
-      "pick": "A",
-      "odds": 3.33,
-      "model_p": 0.412,
-      "imp_p": 0.291,
-      "edge": 0.121,
-      "stake": 1.0,
-      "actual": "D",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 49.26
-    },
-    {
-      "date": "2025-04-06T00:00:00",
-      "match": "Las Palmas vs Sociedad",
-      "pick": "H",
-      "odds": 3.32,
-      "model_p": 0.361,
-      "imp_p": 0.292,
-      "edge": 0.069,
-      "stake": 1.0,
-      "actual": "A",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 48.26
-    },
-    {
-      "date": "2025-04-06T00:00:00",
-      "match": "Sevilla vs Ath Madrid",
-      "pick": "A",
-      "odds": 2.24,
-      "model_p": 0.547,
-      "imp_p": 0.437,
-      "edge": 0.11,
-      "stake": 1.0,
-      "actual": "A",
-      "won": true,
-      "pnl": 1.24,
-      "bankroll": 49.5
-    },
-    {
-      "date": "2025-04-07T00:00:00",
-      "match": "Leganes vs Osasuna",
-      "pick": "A",
-      "odds": 3.03,
-      "model_p": 0.368,
-      "imp_p": 0.321,
-      "edge": 0.047,
-      "stake": 1.0,
-      "actual": "D",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 48.5
-    },
-    {
-      "date": "2025-04-11T00:00:00",
-      "match": "Valencia vs Sevilla",
-      "pick": "A",
-      "odds": 3.47,
-      "model_p": 0.341,
-      "imp_p": 0.279,
-      "edge": 0.062,
-      "stake": 1.0,
-      "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 47.5
-    },
-    {
-      "date": "2025-04-12T00:00:00",
-      "match": "Sociedad vs Mallorca",
-      "pick": "A",
-      "odds": 4.51,
-      "model_p": 0.249,
-      "imp_p": 0.207,
-      "edge": 0.041,
-      "stake": 1.0,
-      "actual": "A",
-      "won": true,
-      "pnl": 3.51,
-      "bankroll": 51.01
-    },
-    {
-      "date": "2025-04-12T00:00:00",
-      "match": "Celta vs Espanol",
-      "pick": "A",
-      "odds": 5.98,
-      "model_p": 0.246,
-      "imp_p": 0.156,
-      "edge": 0.09,
-      "stake": 1.0,
-      "actual": "A",
-      "won": true,
-      "pnl": 4.98,
-      "bankroll": 55.99
-    },
-    {
-      "date": "2025-04-13T00:00:00",
-      "match": "Ath Bilbao vs Vallecano",
-      "pick": "H",
-      "odds": 1.85,
-      "model_p": 0.573,
-      "imp_p": 0.533,
-      "edge": 0.04,
-      "stake": 1.0,
-      "actual": "H",
-      "won": true,
-      "pnl": 0.85,
-      "bankroll": 56.84
-    },
-    {
-      "date": "2025-04-13T00:00:00",
-      "match": "Osasuna vs Girona",
-      "pick": "H",
-      "odds": 2.6,
-      "model_p": 0.427,
-      "imp_p": 0.376,
-      "edge": 0.051,
-      "stake": 1.0,
-      "actual": "H",
-      "won": true,
-      "pnl": 1.6,
-      "bankroll": 58.44
-    },
-    {
-      "date": "2025-04-13T00:00:00",
-      "match": "Betis vs Villarreal",
-      "pick": "A",
-      "odds": 3.48,
-      "model_p": 0.349,
-      "imp_p": 0.277,
-      "edge": 0.072,
-      "stake": 1.0,
-      "actual": "A",
-      "won": true,
-      "pnl": 2.48,
-      "bankroll": 60.92
-    },
-    {
-      "date": "2025-04-18T00:00:00",
-      "match": "Espanol vs Getafe",
-      "pick": "A",
-      "odds": 3.28,
-      "model_p": 0.351,
-      "imp_p": 0.296,
-      "edge": 0.055,
-      "stake": 1.0,
-      "actual": "H",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 59.92
-    },
-    {
-      "date": "2025-04-19T00:00:00",
-      "match": "Vallecano vs Valencia",
-      "pick": "H",
-      "odds": 2.46,
-      "model_p": 0.468,
-      "imp_p": 0.398,
-      "edge": 0.07,
-      "stake": 1.0,
-      "actual": "D",
-      "won": false,
-      "pnl": -1.0,
-      "bankroll": 58.92
-    },
-    {
-      "date": "2025-04-19T00:00:00",
-      "match": "Barcelona vs Celta",
-      "pick": "H",
-      "odds": 1.25,
-      "model_p": 0.835,
-      "imp_p": 0.792,
-      "edge": 0.042,
-      "stake": 1.0,
-      "actual": "H",
-      "won": true,
-      "pnl": 0.25,
-      "bankroll": 59.17
+      "bankroll": 75.53
     }
   ],
   "league": "SP1"

@@ -1,0 +1,3857 @@
+{
+  "model": "poisson",
+  "stake_mode": "flat",
+  "picks": 260,
+  "wins": 116,
+  "winrate": 44.62,
+  "total_staked": 260.0,
+  "total_pnl": 39.18,
+  "roi_pct": 15.07,
+  "final_bankroll": 139.18,
+  "bankroll_growth_pct": 39.18,
+  "equity_curve": [
+    {
+      "date": "2022-09-16T00:00:00",
+      "bankroll": 99.0
+    },
+    {
+      "date": "2022-09-17T00:00:00",
+      "bankroll": 98.0
+    },
+    {
+      "date": "2022-09-17T00:00:00",
+      "bankroll": 99.77
+    },
+    {
+      "date": "2022-09-17T00:00:00",
+      "bankroll": 98.77
+    },
+    {
+      "date": "2022-09-18T00:00:00",
+      "bankroll": 101.61
+    },
+    {
+      "date": "2022-09-18T00:00:00",
+      "bankroll": 100.61
+    },
+    {
+      "date": "2022-09-18T00:00:00",
+      "bankroll": 99.61
+    },
+    {
+      "date": "2022-09-18T00:00:00",
+      "bankroll": 102.19
+    },
+    {
+      "date": "2022-09-18T00:00:00",
+      "bankroll": 104.48
+    },
+    {
+      "date": "2022-10-01T00:00:00",
+      "bankroll": 103.48
+    },
+    {
+      "date": "2022-10-01T00:00:00",
+      "bankroll": 102.48
+    },
+    {
+      "date": "2022-10-01T00:00:00",
+      "bankroll": 103.13
+    },
+    {
+      "date": "2022-10-02T00:00:00",
+      "bankroll": 103.56
+    },
+    {
+      "date": "2022-10-02T00:00:00",
+      "bankroll": 102.56
+    },
+    {
+      "date": "2022-10-02T00:00:00",
+      "bankroll": 101.56
+    },
+    {
+      "date": "2022-10-02T00:00:00",
+      "bankroll": 102.74
+    },
+    {
+      "date": "2022-10-02T00:00:00",
+      "bankroll": 101.74
+    },
+    {
+      "date": "2022-10-03T00:00:00",
+      "bankroll": 102.92
+    },
+    {
+      "date": "2022-10-08T00:00:00",
+      "bankroll": 104.15
+    },
+    {
+      "date": "2022-10-08T00:00:00",
+      "bankroll": 103.15
+    },
+    {
+      "date": "2022-10-08T00:00:00",
+      "bankroll": 102.15
+    },
+    {
+      "date": "2022-10-09T00:00:00",
+      "bankroll": 105.22
+    },
+    {
+      "date": "2022-10-09T00:00:00",
+      "bankroll": 106.22
+    },
+    {
+      "date": "2022-10-09T00:00:00",
+      "bankroll": 107.76
+    },
+    {
+      "date": "2022-10-09T00:00:00",
+      "bankroll": 110.21
+    },
+    {
+      "date": "2022-10-09T00:00:00",
+      "bankroll": 110.7
+    },
+    {
+      "date": "2022-10-09T00:00:00",
+      "bankroll": 109.7
+    },
+    {
+      "date": "2022-10-10T00:00:00",
+      "bankroll": 111.86
+    },
+    {
+      "date": "2022-10-15T00:00:00",
+      "bankroll": 113.71
+    },
+    {
+      "date": "2022-10-16T00:00:00",
+      "bankroll": 114.28
+    },
+    {
+      "date": "2022-10-16T00:00:00",
+      "bankroll": 114.55
+    },
+    {
+      "date": "2022-10-16T00:00:00",
+      "bankroll": 113.55
+    },
+    {
+      "date": "2022-10-16T00:00:00",
+      "bankroll": 112.55
+    },
+    {
+      "date": "2022-10-17T00:00:00",
+      "bankroll": 113.25
+    },
+    {
+      "date": "2022-10-17T00:00:00",
+      "bankroll": 112.25
+    },
+    {
+      "date": "2022-10-21T00:00:00",
+      "bankroll": 111.25
+    },
+    {
+      "date": "2022-10-22T00:00:00",
+      "bankroll": 112.48
+    },
+    {
+      "date": "2022-10-22T00:00:00",
+      "bankroll": 112.96
+    },
+    {
+      "date": "2022-10-22T00:00:00",
+      "bankroll": 114.27
+    },
+    {
+      "date": "2022-10-23T00:00:00",
+      "bankroll": 113.27
+    },
+    {
+      "date": "2022-10-23T00:00:00",
+      "bankroll": 112.27
+    },
+    {
+      "date": "2022-10-23T00:00:00",
+      "bankroll": 111.27
+    },
+    {
+      "date": "2022-10-24T00:00:00",
+      "bankroll": 110.27
+    },
+    {
+      "date": "2022-10-24T00:00:00",
+      "bankroll": 111.58
+    },
+    {
+      "date": "2022-10-29T00:00:00",
+      "bankroll": 112.75
+    },
+    {
+      "date": "2022-10-29T00:00:00",
+      "bankroll": 112.96
+    },
+    {
+      "date": "2022-10-30T00:00:00",
+      "bankroll": 111.96
+    },
+    {
+      "date": "2022-10-30T00:00:00",
+      "bankroll": 112.67
+    },
+    {
+      "date": "2022-10-30T00:00:00",
+      "bankroll": 111.67
+    },
+    {
+      "date": "2022-10-30T00:00:00",
+      "bankroll": 110.67
+    },
+    {
+      "date": "2022-10-30T00:00:00",
+      "bankroll": 109.67
+    },
+    {
+      "date": "2022-10-31T00:00:00",
+      "bankroll": 112.04
+    },
+    {
+      "date": "2022-11-04T00:00:00",
+      "bankroll": 111.04
+    },
+    {
+      "date": "2022-11-05T00:00:00",
+      "bankroll": 110.04
+    },
+    {
+      "date": "2022-11-05T00:00:00",
+      "bankroll": 109.04
+    },
+    {
+      "date": "2022-11-05T00:00:00",
+      "bankroll": 109.27
+    },
+    {
+      "date": "2022-11-06T00:00:00",
+      "bankroll": 111.48
+    },
+    {
+      "date": "2022-11-06T00:00:00",
+      "bankroll": 112.7
+    },
+    {
+      "date": "2022-11-06T00:00:00",
+      "bankroll": 115.43
+    },
+    {
+      "date": "2022-11-08T00:00:00",
+      "bankroll": 114.43
+    },
+    {
+      "date": "2022-11-08T00:00:00",
+      "bankroll": 114.71
+    },
+    {
+      "date": "2022-11-08T00:00:00",
+      "bankroll": 113.71
+    },
+    {
+      "date": "2022-11-09T00:00:00",
+      "bankroll": 112.71
+    },
+    {
+      "date": "2022-11-09T00:00:00",
+      "bankroll": 115.33
+    },
+    {
+      "date": "2022-11-09T00:00:00",
+      "bankroll": 114.33
+    },
+    {
+      "date": "2022-11-09T00:00:00",
+      "bankroll": 113.33
+    },
+    {
+      "date": "2022-11-09T00:00:00",
+      "bankroll": 113.98
+    },
+    {
+      "date": "2022-11-10T00:00:00",
+      "bankroll": 114.73
+    },
+    {
+      "date": "2022-11-10T00:00:00",
+      "bankroll": 115.42
+    },
+    {
+      "date": "2022-11-11T00:00:00",
+      "bankroll": 114.42
+    },
+    {
+      "date": "2022-11-12T00:00:00",
+      "bankroll": 113.42
+    },
+    {
+      "date": "2022-11-12T00:00:00",
+      "bankroll": 115.33
+    },
+    {
+      "date": "2022-11-12T00:00:00",
+      "bankroll": 115.85
+    },
+    {
+      "date": "2022-11-13T00:00:00",
+      "bankroll": 114.85
+    },
+    {
+      "date": "2022-11-13T00:00:00",
+      "bankroll": 113.85
+    },
+    {
+      "date": "2022-11-13T00:00:00",
+      "bankroll": 112.85
+    },
+    {
+      "date": "2022-11-13T00:00:00",
+      "bankroll": 115.78
+    },
+    {
+      "date": "2022-11-13T00:00:00",
+      "bankroll": 116.47
+    },
+    {
+      "date": "2022-11-13T00:00:00",
+      "bankroll": 115.47
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "bankroll": 114.47
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "bankroll": 113.47
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "bankroll": 114.3
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "bankroll": 115.05
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "bankroll": 114.05
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "bankroll": 113.05
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "bankroll": 112.05
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "bankroll": 111.05
+    },
+    {
+      "date": "2023-01-07T00:00:00",
+      "bankroll": 111.79
+    },
+    {
+      "date": "2023-01-07T00:00:00",
+      "bankroll": 110.79
+    },
+    {
+      "date": "2023-01-08T00:00:00",
+      "bankroll": 111.28
+    },
+    {
+      "date": "2023-01-08T00:00:00",
+      "bankroll": 110.28
+    },
+    {
+      "date": "2023-01-08T00:00:00",
+      "bankroll": 109.28
+    },
+    {
+      "date": "2023-01-08T00:00:00",
+      "bankroll": 108.28
+    },
+    {
+      "date": "2023-01-09T00:00:00",
+      "bankroll": 107.28
+    },
+    {
+      "date": "2023-01-13T00:00:00",
+      "bankroll": 106.28
+    },
+    {
+      "date": "2023-01-14T00:00:00",
+      "bankroll": 108.06
+    },
+    {
+      "date": "2023-01-14T00:00:00",
+      "bankroll": 107.06
+    },
+    {
+      "date": "2023-01-14T00:00:00",
+      "bankroll": 107.43
+    },
+    {
+      "date": "2023-01-15T00:00:00",
+      "bankroll": 108.57
+    },
+    {
+      "date": "2023-01-15T00:00:00",
+      "bankroll": 107.57
+    },
+    {
+      "date": "2023-01-15T00:00:00",
+      "bankroll": 106.57
+    },
+    {
+      "date": "2023-01-15T00:00:00",
+      "bankroll": 107.56
+    },
+    {
+      "date": "2023-01-16T00:00:00",
+      "bankroll": 108.7
+    },
+    {
+      "date": "2023-01-21T00:00:00",
+      "bankroll": 107.7
+    },
+    {
+      "date": "2023-01-21T00:00:00",
+      "bankroll": 108.04
+    },
+    {
+      "date": "2023-01-21T00:00:00",
+      "bankroll": 111.69
+    },
+    {
+      "date": "2023-01-22T00:00:00",
+      "bankroll": 113.05
+    },
+    {
+      "date": "2023-01-22T00:00:00",
+      "bankroll": 112.05
+    },
+    {
+      "date": "2023-01-22T00:00:00",
+      "bankroll": 111.05
+    },
+    {
+      "date": "2023-01-22T00:00:00",
+      "bankroll": 110.05
+    },
+    {
+      "date": "2023-01-23T00:00:00",
+      "bankroll": 109.05
+    },
+    {
+      "date": "2023-01-23T00:00:00",
+      "bankroll": 119.55
+    },
+    {
+      "date": "2023-01-24T00:00:00",
+      "bankroll": 121.38
+    },
+    {
+      "date": "2023-01-27T00:00:00",
+      "bankroll": 122.28
+    },
+    {
+      "date": "2023-01-28T00:00:00",
+      "bankroll": 124.38
+    },
+    {
+      "date": "2023-01-28T00:00:00",
+      "bankroll": 124.69
+    },
+    {
+      "date": "2023-01-29T00:00:00",
+      "bankroll": 123.69
+    },
+    {
+      "date": "2023-01-29T00:00:00",
+      "bankroll": 122.69
+    },
+    {
+      "date": "2023-01-29T00:00:00",
+      "bankroll": 121.69
+    },
+    {
+      "date": "2023-01-29T00:00:00",
+      "bankroll": 122.48
+    },
+    {
+      "date": "2023-01-30T00:00:00",
+      "bankroll": 121.48
+    },
+    {
+      "date": "2023-02-04T00:00:00",
+      "bankroll": 123.5
+    },
+    {
+      "date": "2023-02-04T00:00:00",
+      "bankroll": 122.5
+    },
+    {
+      "date": "2023-02-05T00:00:00",
+      "bankroll": 122.9
+    },
+    {
+      "date": "2023-02-05T00:00:00",
+      "bankroll": 121.9
+    },
+    {
+      "date": "2023-02-05T00:00:00",
+      "bankroll": 125.64
+    },
+    {
+      "date": "2023-02-05T00:00:00",
+      "bankroll": 126.68
+    },
+    {
+      "date": "2023-02-06T00:00:00",
+      "bankroll": 125.68
+    },
+    {
+      "date": "2023-02-06T00:00:00",
+      "bankroll": 124.68
+    },
+    {
+      "date": "2023-02-07T00:00:00",
+      "bankroll": 123.68
+    },
+    {
+      "date": "2023-02-10T00:00:00",
+      "bankroll": 122.68
+    },
+    {
+      "date": "2023-02-11T00:00:00",
+      "bankroll": 121.68
+    },
+    {
+      "date": "2023-02-12T00:00:00",
+      "bankroll": 120.68
+    },
+    {
+      "date": "2023-02-12T00:00:00",
+      "bankroll": 119.68
+    },
+    {
+      "date": "2023-02-12T00:00:00",
+      "bankroll": 120.44
+    },
+    {
+      "date": "2023-02-12T00:00:00",
+      "bankroll": 120.64
+    },
+    {
+      "date": "2023-02-13T00:00:00",
+      "bankroll": 119.64
+    },
+    {
+      "date": "2023-02-13T00:00:00",
+      "bankroll": 118.64
+    },
+    {
+      "date": "2023-02-17T00:00:00",
+      "bankroll": 119.28
+    },
+    {
+      "date": "2023-02-18T00:00:00",
+      "bankroll": 120.57
+    },
+    {
+      "date": "2023-02-18T00:00:00",
+      "bankroll": 119.57
+    },
+    {
+      "date": "2023-02-18T00:00:00",
+      "bankroll": 118.57
+    },
+    {
+      "date": "2023-02-19T00:00:00",
+      "bankroll": 119.35
+    },
+    {
+      "date": "2023-02-19T00:00:00",
+      "bankroll": 120.03
+    },
+    {
+      "date": "2023-02-19T00:00:00",
+      "bankroll": 119.03
+    },
+    {
+      "date": "2023-02-19T00:00:00",
+      "bankroll": 119.83
+    },
+    {
+      "date": "2023-02-25T00:00:00",
+      "bankroll": 120.33
+    },
+    {
+      "date": "2023-02-25T00:00:00",
+      "bankroll": 119.33
+    },
+    {
+      "date": "2023-02-26T00:00:00",
+      "bankroll": 118.33
+    },
+    {
+      "date": "2023-02-26T00:00:00",
+      "bankroll": 122.48
+    },
+    {
+      "date": "2023-02-26T00:00:00",
+      "bankroll": 125.37
+    },
+    {
+      "date": "2023-02-26T00:00:00",
+      "bankroll": 124.37
+    },
+    {
+      "date": "2023-02-27T00:00:00",
+      "bankroll": 124.8
+    },
+    {
+      "date": "2023-02-27T00:00:00",
+      "bankroll": 123.8
+    },
+    {
+      "date": "2023-02-28T00:00:00",
+      "bankroll": 122.8
+    },
+    {
+      "date": "2023-03-04T00:00:00",
+      "bankroll": 121.8
+    },
+    {
+      "date": "2023-03-04T00:00:00",
+      "bankroll": 120.8
+    },
+    {
+      "date": "2023-03-05T00:00:00",
+      "bankroll": 119.8
+    },
+    {
+      "date": "2023-03-05T00:00:00",
+      "bankroll": 118.8
+    },
+    {
+      "date": "2023-03-05T00:00:00",
+      "bankroll": 117.8
+    },
+    {
+      "date": "2023-03-06T00:00:00",
+      "bankroll": 119.22
+    },
+    {
+      "date": "2023-03-06T00:00:00",
+      "bankroll": 120.12
+    },
+    {
+      "date": "2023-03-10T00:00:00",
+      "bankroll": 127.31
+    },
+    {
+      "date": "2023-03-11T00:00:00",
+      "bankroll": 128.01
+    },
+    {
+      "date": "2023-03-11T00:00:00",
+      "bankroll": 127.01
+    },
+    {
+      "date": "2023-03-12T00:00:00",
+      "bankroll": 126.01
+    },
+    {
+      "date": "2023-03-12T00:00:00",
+      "bankroll": 125.01
+    },
+    {
+      "date": "2023-03-12T00:00:00",
+      "bankroll": 125.4
+    },
+    {
+      "date": "2023-03-13T00:00:00",
+      "bankroll": 124.4
+    },
+    {
+      "date": "2023-03-17T00:00:00",
+      "bankroll": 125.19
+    },
+    {
+      "date": "2023-03-18T00:00:00",
+      "bankroll": 124.19
+    },
+    {
+      "date": "2023-03-18T00:00:00",
+      "bankroll": 123.19
+    },
+    {
+      "date": "2023-03-18T00:00:00",
+      "bankroll": 125.98
+    },
+    {
+      "date": "2023-03-19T00:00:00",
+      "bankroll": 124.98
+    },
+    {
+      "date": "2023-03-19T00:00:00",
+      "bankroll": 123.98
+    },
+    {
+      "date": "2023-03-19T00:00:00",
+      "bankroll": 124.8
+    },
+    {
+      "date": "2023-03-19T00:00:00",
+      "bankroll": 127.02
+    },
+    {
+      "date": "2023-03-19T00:00:00",
+      "bankroll": 130.3
+    },
+    {
+      "date": "2023-04-01T00:00:00",
+      "bankroll": 130.89
+    },
+    {
+      "date": "2023-04-02T00:00:00",
+      "bankroll": 129.89
+    },
+    {
+      "date": "2023-04-02T00:00:00",
+      "bankroll": 131.08
+    },
+    {
+      "date": "2023-04-02T00:00:00",
+      "bankroll": 130.08
+    },
+    {
+      "date": "2023-04-02T00:00:00",
+      "bankroll": 129.08
+    },
+    {
+      "date": "2023-04-03T00:00:00",
+      "bankroll": 128.08
+    },
+    {
+      "date": "2023-04-07T00:00:00",
+      "bankroll": 128.77
+    },
+    {
+      "date": "2023-04-07T00:00:00",
+      "bankroll": 127.77
+    },
+    {
+      "date": "2023-04-07T00:00:00",
+      "bankroll": 126.77
+    },
+    {
+      "date": "2023-04-08T00:00:00",
+      "bankroll": 125.77
+    },
+    {
+      "date": "2023-04-08T00:00:00",
+      "bankroll": 127.75
+    },
+    {
+      "date": "2023-04-08T00:00:00",
+      "bankroll": 129.39
+    },
+    {
+      "date": "2023-04-08T00:00:00",
+      "bankroll": 133.25
+    },
+    {
+      "date": "2023-04-08T00:00:00",
+      "bankroll": 135.77
+    },
+    {
+      "date": "2023-04-14T00:00:00",
+      "bankroll": 134.77
+    },
+    {
+      "date": "2023-04-14T00:00:00",
+      "bankroll": 135.61
+    },
+    {
+      "date": "2023-04-15T00:00:00",
+      "bankroll": 134.61
+    },
+    {
+      "date": "2023-04-15T00:00:00",
+      "bankroll": 133.61
+    },
+    {
+      "date": "2023-04-15T00:00:00",
+      "bankroll": 140.88
+    },
+    {
+      "date": "2023-04-16T00:00:00",
+      "bankroll": 139.88
+    },
+    {
+      "date": "2023-04-16T00:00:00",
+      "bankroll": 138.88
+    },
+    {
+      "date": "2023-04-16T00:00:00",
+      "bankroll": 137.88
+    },
+    {
+      "date": "2023-04-17T00:00:00",
+      "bankroll": 136.88
+    },
+    {
+      "date": "2023-04-21T00:00:00",
+      "bankroll": 135.88
+    },
+    {
+      "date": "2023-04-22T00:00:00",
+      "bankroll": 138.21
+    },
+    {
+      "date": "2023-04-22T00:00:00",
+      "bankroll": 137.21
+    },
+    {
+      "date": "2023-04-22T00:00:00",
+      "bankroll": 136.21
+    },
+    {
+      "date": "2023-04-23T00:00:00",
+      "bankroll": 135.21
+    },
+    {
+      "date": "2023-04-23T00:00:00",
+      "bankroll": 137.89
+    },
+    {
+      "date": "2023-04-23T00:00:00",
+      "bankroll": 138.65
+    },
+    {
+      "date": "2023-04-23T00:00:00",
+      "bankroll": 140.26
+    },
+    {
+      "date": "2023-04-24T00:00:00",
+      "bankroll": 139.26
+    },
+    {
+      "date": "2023-04-28T00:00:00",
+      "bankroll": 141.02
+    },
+    {
+      "date": "2023-04-28T00:00:00",
+      "bankroll": 140.02
+    },
+    {
+      "date": "2023-04-29T00:00:00",
+      "bankroll": 139.02
+    },
+    {
+      "date": "2023-04-30T00:00:00",
+      "bankroll": 138.02
+    },
+    {
+      "date": "2023-04-30T00:00:00",
+      "bankroll": 137.02
+    },
+    {
+      "date": "2023-04-30T00:00:00",
+      "bankroll": 136.02
+    },
+    {
+      "date": "2023-05-03T00:00:00",
+      "bankroll": 135.02
+    },
+    {
+      "date": "2023-05-03T00:00:00",
+      "bankroll": 134.02
+    },
+    {
+      "date": "2023-05-03T00:00:00",
+      "bankroll": 133.02
+    },
+    {
+      "date": "2023-05-03T00:00:00",
+      "bankroll": 133.71
+    },
+    {
+      "date": "2023-05-03T00:00:00",
+      "bankroll": 132.71
+    },
+    {
+      "date": "2023-05-03T00:00:00",
+      "bankroll": 133.12
+    },
+    {
+      "date": "2023-05-04T00:00:00",
+      "bankroll": 132.12
+    },
+    {
+      "date": "2023-05-06T00:00:00",
+      "bankroll": 131.12
+    },
+    {
+      "date": "2023-05-06T00:00:00",
+      "bankroll": 130.12
+    },
+    {
+      "date": "2023-05-07T00:00:00",
+      "bankroll": 130.95
+    },
+    {
+      "date": "2023-05-07T00:00:00",
+      "bankroll": 133.1
+    },
+    {
+      "date": "2023-05-07T00:00:00",
+      "bankroll": 132.1
+    },
+    {
+      "date": "2023-05-08T00:00:00",
+      "bankroll": 131.1
+    },
+    {
+      "date": "2023-05-08T00:00:00",
+      "bankroll": 131.61
+    },
+    {
+      "date": "2023-05-12T00:00:00",
+      "bankroll": 130.61
+    },
+    {
+      "date": "2023-05-13T00:00:00",
+      "bankroll": 134.36
+    },
+    {
+      "date": "2023-05-13T00:00:00",
+      "bankroll": 133.36
+    },
+    {
+      "date": "2023-05-14T00:00:00",
+      "bankroll": 132.36
+    },
+    {
+      "date": "2023-05-14T00:00:00",
+      "bankroll": 132.72
+    },
+    {
+      "date": "2023-05-14T00:00:00",
+      "bankroll": 131.72
+    },
+    {
+      "date": "2023-05-14T00:00:00",
+      "bankroll": 133.81
+    },
+    {
+      "date": "2023-05-14T00:00:00",
+      "bankroll": 132.81
+    },
+    {
+      "date": "2023-05-15T00:00:00",
+      "bankroll": 135.23
+    },
+    {
+      "date": "2023-05-19T00:00:00",
+      "bankroll": 137.76
+    },
+    {
+      "date": "2023-05-20T00:00:00",
+      "bankroll": 138.24
+    },
+    {
+      "date": "2023-05-20T00:00:00",
+      "bankroll": 137.24
+    },
+    {
+      "date": "2023-05-21T00:00:00",
+      "bankroll": 138.25
+    },
+    {
+      "date": "2023-05-21T00:00:00",
+      "bankroll": 137.25
+    },
+    {
+      "date": "2023-05-22T00:00:00",
+      "bankroll": 136.25
+    },
+    {
+      "date": "2023-05-27T00:00:00",
+      "bankroll": 138.16
+    },
+    {
+      "date": "2023-05-27T00:00:00",
+      "bankroll": 140.16
+    },
+    {
+      "date": "2023-05-27T00:00:00",
+      "bankroll": 139.16
+    },
+    {
+      "date": "2023-05-28T00:00:00",
+      "bankroll": 138.16
+    },
+    {
+      "date": "2023-05-28T00:00:00",
+      "bankroll": 137.16
+    },
+    {
+      "date": "2023-05-28T00:00:00",
+      "bankroll": 136.16
+    },
+    {
+      "date": "2023-05-28T00:00:00",
+      "bankroll": 135.16
+    },
+    {
+      "date": "2023-06-02T00:00:00",
+      "bankroll": 136.9
+    },
+    {
+      "date": "2023-06-03T00:00:00",
+      "bankroll": 138.83
+    },
+    {
+      "date": "2023-06-03T00:00:00",
+      "bankroll": 137.83
+    },
+    {
+      "date": "2023-06-04T00:00:00",
+      "bankroll": 138.53
+    },
+    {
+      "date": "2023-06-04T00:00:00",
+      "bankroll": 140.39
+    },
+    {
+      "date": "2023-06-04T00:00:00",
+      "bankroll": 141.18
+    },
+    {
+      "date": "2023-06-04T00:00:00",
+      "bankroll": 140.18
+    },
+    {
+      "date": "2023-06-04T00:00:00",
+      "bankroll": 139.18
+    }
+  ],
+  "picks_detail": [
+    {
+      "date": "2022-09-16T00:00:00",
+      "match": "Salernitana vs Lecce",
+      "pick": "H",
+      "odds": 2.31,
+      "model_p": 0.708,
+      "imp_p": 0.426,
+      "edge": 0.281,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 99.0
+    },
+    {
+      "date": "2022-09-17T00:00:00",
+      "match": "Bologna vs Empoli",
+      "pick": "H",
+      "odds": 2.12,
+      "model_p": 0.553,
+      "imp_p": 0.465,
+      "edge": 0.088,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 98.0
+    },
+    {
+      "date": "2022-09-17T00:00:00",
+      "match": "Spezia vs Sampdoria",
+      "pick": "H",
+      "odds": 2.77,
+      "model_p": 0.58,
+      "imp_p": 0.354,
+      "edge": 0.226,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.77,
+      "bankroll": 99.77
+    },
+    {
+      "date": "2022-09-17T00:00:00",
+      "match": "Torino vs Sassuolo",
+      "pick": "D",
+      "odds": 3.64,
+      "model_p": 0.303,
+      "imp_p": 0.266,
+      "edge": 0.037,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 98.77
+    },
+    {
+      "date": "2022-09-18T00:00:00",
+      "match": "Udinese vs Inter",
+      "pick": "H",
+      "odds": 3.84,
+      "model_p": 0.644,
+      "imp_p": 0.252,
+      "edge": 0.392,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 2.84,
+      "bankroll": 101.61
+    },
+    {
+      "date": "2022-09-18T00:00:00",
+      "match": "Cremonese vs Lazio",
+      "pick": "H",
+      "odds": 4.14,
+      "model_p": 0.267,
+      "imp_p": 0.233,
+      "edge": 0.034,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 100.61
+    },
+    {
+      "date": "2022-09-18T00:00:00",
+      "match": "Monza vs Juventus",
+      "pick": "A",
+      "odds": 1.89,
+      "model_p": 0.757,
+      "imp_p": 0.522,
+      "edge": 0.235,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 99.61
+    },
+    {
+      "date": "2022-09-18T00:00:00",
+      "match": "Roma vs Atalanta",
+      "pick": "A",
+      "odds": 3.58,
+      "model_p": 0.364,
+      "imp_p": 0.271,
+      "edge": 0.092,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.58,
+      "bankroll": 102.19
+    },
+    {
+      "date": "2022-09-18T00:00:00",
+      "match": "Milan vs Napoli",
+      "pick": "A",
+      "odds": 3.29,
+      "model_p": 0.334,
+      "imp_p": 0.297,
+      "edge": 0.038,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.29,
+      "bankroll": 104.48
+    },
+    {
+      "date": "2022-10-01T00:00:00",
+      "match": "Empoli vs Milan",
+      "pick": "H",
+      "odds": 5.77,
+      "model_p": 0.196,
+      "imp_p": 0.163,
+      "edge": 0.033,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 103.48
+    },
+    {
+      "date": "2022-10-01T00:00:00",
+      "match": "Inter vs Roma",
+      "pick": "H",
+      "odds": 2.12,
+      "model_p": 0.503,
+      "imp_p": 0.463,
+      "edge": 0.04,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 102.48
+    },
+    {
+      "date": "2022-10-01T00:00:00",
+      "match": "Napoli vs Torino",
+      "pick": "H",
+      "odds": 1.65,
+      "model_p": 0.733,
+      "imp_p": 0.599,
+      "edge": 0.134,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.65,
+      "bankroll": 103.13
+    },
+    {
+      "date": "2022-10-02T00:00:00",
+      "match": "Lazio vs Spezia",
+      "pick": "H",
+      "odds": 1.43,
+      "model_p": 0.761,
+      "imp_p": 0.693,
+      "edge": 0.069,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.43,
+      "bankroll": 103.56
+    },
+    {
+      "date": "2022-10-02T00:00:00",
+      "match": "Lecce vs Cremonese",
+      "pick": "H",
+      "odds": 2.09,
+      "model_p": 0.553,
+      "imp_p": 0.472,
+      "edge": 0.081,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 102.56
+    },
+    {
+      "date": "2022-10-02T00:00:00",
+      "match": "Sassuolo vs Salernitana",
+      "pick": "A",
+      "odds": 3.5,
+      "model_p": 0.42,
+      "imp_p": 0.278,
+      "edge": 0.143,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 101.56
+    },
+    {
+      "date": "2022-10-02T00:00:00",
+      "match": "Atalanta vs Fiorentina",
+      "pick": "H",
+      "odds": 2.18,
+      "model_p": 0.546,
+      "imp_p": 0.452,
+      "edge": 0.095,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.18,
+      "bankroll": 102.74
+    },
+    {
+      "date": "2022-10-02T00:00:00",
+      "match": "Juventus vs Bologna",
+      "pick": "D",
+      "odds": 4.15,
+      "model_p": 0.269,
+      "imp_p": 0.231,
+      "edge": 0.038,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 101.74
+    },
+    {
+      "date": "2022-10-03T00:00:00",
+      "match": "Verona vs Udinese",
+      "pick": "A",
+      "odds": 2.18,
+      "model_p": 0.783,
+      "imp_p": 0.452,
+      "edge": 0.331,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.18,
+      "bankroll": 102.92
+    },
+    {
+      "date": "2022-10-08T00:00:00",
+      "match": "Milan vs Juventus",
+      "pick": "H",
+      "odds": 2.23,
+      "model_p": 0.536,
+      "imp_p": 0.441,
+      "edge": 0.094,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.23,
+      "bankroll": 104.15
+    },
+    {
+      "date": "2022-10-08T00:00:00",
+      "match": "Bologna vs Sampdoria",
+      "pick": "H",
+      "odds": 2.1,
+      "model_p": 0.628,
+      "imp_p": 0.469,
+      "edge": 0.159,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 103.15
+    },
+    {
+      "date": "2022-10-08T00:00:00",
+      "match": "Sassuolo vs Inter",
+      "pick": "H",
+      "odds": 4.35,
+      "model_p": 0.471,
+      "imp_p": 0.221,
+      "edge": 0.25,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 102.15
+    },
+    {
+      "date": "2022-10-09T00:00:00",
+      "match": "Torino vs Empoli",
+      "pick": "D",
+      "odds": 4.07,
+      "model_p": 0.277,
+      "imp_p": 0.236,
+      "edge": 0.041,
+      "stake": 1.0,
+      "actual": "D",
+      "won": true,
+      "pnl": 3.07,
+      "bankroll": 105.22
+    },
+    {
+      "date": "2022-10-09T00:00:00",
+      "match": "Monza vs Spezia",
+      "pick": "H",
+      "odds": 2.0,
+      "model_p": 0.557,
+      "imp_p": 0.494,
+      "edge": 0.064,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.0,
+      "bankroll": 106.22
+    },
+    {
+      "date": "2022-10-09T00:00:00",
+      "match": "Salernitana vs Verona",
+      "pick": "H",
+      "odds": 2.54,
+      "model_p": 0.578,
+      "imp_p": 0.386,
+      "edge": 0.191,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.54,
+      "bankroll": 107.76
+    },
+    {
+      "date": "2022-10-09T00:00:00",
+      "match": "Udinese vs Atalanta",
+      "pick": "D",
+      "odds": 3.45,
+      "model_p": 0.341,
+      "imp_p": 0.282,
+      "edge": 0.059,
+      "stake": 1.0,
+      "actual": "D",
+      "won": true,
+      "pnl": 2.45,
+      "bankroll": 110.21
+    },
+    {
+      "date": "2022-10-09T00:00:00",
+      "match": "Cremonese vs Napoli",
+      "pick": "A",
+      "odds": 1.49,
+      "model_p": 0.787,
+      "imp_p": 0.665,
+      "edge": 0.122,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.49,
+      "bankroll": 110.7
+    },
+    {
+      "date": "2022-10-09T00:00:00",
+      "match": "Roma vs Lecce",
+      "pick": "D",
+      "odds": 4.39,
+      "model_p": 0.318,
+      "imp_p": 0.218,
+      "edge": 0.099,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 109.7
+    },
+    {
+      "date": "2022-10-10T00:00:00",
+      "match": "Fiorentina vs Lazio",
+      "pick": "A",
+      "odds": 3.16,
+      "model_p": 0.419,
+      "imp_p": 0.309,
+      "edge": 0.11,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.16,
+      "bankroll": 111.86
+    },
+    {
+      "date": "2022-10-15T00:00:00",
+      "match": "Empoli vs Monza",
+      "pick": "H",
+      "odds": 2.85,
+      "model_p": 0.375,
+      "imp_p": 0.344,
+      "edge": 0.032,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.85,
+      "bankroll": 113.71
+    },
+    {
+      "date": "2022-10-16T00:00:00",
+      "match": "Verona vs Milan",
+      "pick": "A",
+      "odds": 1.57,
+      "model_p": 0.75,
+      "imp_p": 0.63,
+      "edge": 0.12,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.57,
+      "bankroll": 114.28
+    },
+    {
+      "date": "2022-10-16T00:00:00",
+      "match": "Napoli vs Bologna",
+      "pick": "H",
+      "odds": 1.27,
+      "model_p": 0.919,
+      "imp_p": 0.781,
+      "edge": 0.138,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.27,
+      "bankroll": 114.55
+    },
+    {
+      "date": "2022-10-16T00:00:00",
+      "match": "Lazio vs Udinese",
+      "pick": "H",
+      "odds": 2.38,
+      "model_p": 0.582,
+      "imp_p": 0.413,
+      "edge": 0.17,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 113.55
+    },
+    {
+      "date": "2022-10-16T00:00:00",
+      "match": "Inter vs Salernitana",
+      "pick": "A",
+      "odds": 9.5,
+      "model_p": 0.133,
+      "imp_p": 0.094,
+      "edge": 0.04,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 112.55
+    },
+    {
+      "date": "2022-10-17T00:00:00",
+      "match": "Sampdoria vs Roma",
+      "pick": "A",
+      "odds": 1.7,
+      "model_p": 0.702,
+      "imp_p": 0.582,
+      "edge": 0.12,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.7,
+      "bankroll": 113.25
+    },
+    {
+      "date": "2022-10-17T00:00:00",
+      "match": "Lecce vs Fiorentina",
+      "pick": "H",
+      "odds": 4.07,
+      "model_p": 0.365,
+      "imp_p": 0.238,
+      "edge": 0.128,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 112.25
+    },
+    {
+      "date": "2022-10-21T00:00:00",
+      "match": "Juventus vs Empoli",
+      "pick": "D",
+      "odds": 5.2,
+      "model_p": 0.281,
+      "imp_p": 0.182,
+      "edge": 0.099,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 111.25
+    },
+    {
+      "date": "2022-10-22T00:00:00",
+      "match": "Salernitana vs Spezia",
+      "pick": "H",
+      "odds": 2.23,
+      "model_p": 0.585,
+      "imp_p": 0.443,
+      "edge": 0.142,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.23,
+      "bankroll": 112.48
+    },
+    {
+      "date": "2022-10-22T00:00:00",
+      "match": "Milan vs Monza",
+      "pick": "H",
+      "odds": 1.48,
+      "model_p": 0.819,
+      "imp_p": 0.669,
+      "edge": 0.15,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.48,
+      "bankroll": 112.96
+    },
+    {
+      "date": "2022-10-22T00:00:00",
+      "match": "Fiorentina vs Inter",
+      "pick": "A",
+      "odds": 2.31,
+      "model_p": 0.464,
+      "imp_p": 0.427,
+      "edge": 0.038,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.31,
+      "bankroll": 114.27
+    },
+    {
+      "date": "2022-10-23T00:00:00",
+      "match": "Atalanta vs Lazio",
+      "pick": "D",
+      "odds": 3.49,
+      "model_p": 0.368,
+      "imp_p": 0.279,
+      "edge": 0.089,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 113.27
+    },
+    {
+      "date": "2022-10-23T00:00:00",
+      "match": "Udinese vs Torino",
+      "pick": "H",
+      "odds": 2.03,
+      "model_p": 0.7,
+      "imp_p": 0.486,
+      "edge": 0.214,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 112.27
+    },
+    {
+      "date": "2022-10-23T00:00:00",
+      "match": "Bologna vs Lecce",
+      "pick": "A",
+      "odds": 3.89,
+      "model_p": 0.329,
+      "imp_p": 0.249,
+      "edge": 0.08,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 111.27
+    },
+    {
+      "date": "2022-10-24T00:00:00",
+      "match": "Cremonese vs Sampdoria",
+      "pick": "H",
+      "odds": 2.22,
+      "model_p": 0.638,
+      "imp_p": 0.443,
+      "edge": 0.195,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 110.27
+    },
+    {
+      "date": "2022-10-24T00:00:00",
+      "match": "Sassuolo vs Verona",
+      "pick": "H",
+      "odds": 2.31,
+      "model_p": 0.623,
+      "imp_p": 0.426,
+      "edge": 0.197,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.31,
+      "bankroll": 111.58
+    },
+    {
+      "date": "2022-10-29T00:00:00",
+      "match": "Lecce vs Juventus",
+      "pick": "A",
+      "odds": 2.17,
+      "model_p": 0.546,
+      "imp_p": 0.454,
+      "edge": 0.092,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.17,
+      "bankroll": 112.75
+    },
+    {
+      "date": "2022-10-29T00:00:00",
+      "match": "Inter vs Sampdoria",
+      "pick": "H",
+      "odds": 1.21,
+      "model_p": 0.862,
+      "imp_p": 0.821,
+      "edge": 0.042,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.21,
+      "bankroll": 112.96
+    },
+    {
+      "date": "2022-10-30T00:00:00",
+      "match": "Lazio vs Salernitana",
+      "pick": "H",
+      "odds": 1.53,
+      "model_p": 0.865,
+      "imp_p": 0.647,
+      "edge": 0.217,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 111.96
+    },
+    {
+      "date": "2022-10-30T00:00:00",
+      "match": "Empoli vs Atalanta",
+      "pick": "A",
+      "odds": 1.71,
+      "model_p": 0.608,
+      "imp_p": 0.578,
+      "edge": 0.031,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.71,
+      "bankroll": 112.67
+    },
+    {
+      "date": "2022-10-30T00:00:00",
+      "match": "Cremonese vs Udinese",
+      "pick": "A",
+      "odds": 2.0,
+      "model_p": 0.769,
+      "imp_p": 0.494,
+      "edge": 0.275,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 111.67
+    },
+    {
+      "date": "2022-10-30T00:00:00",
+      "match": "Spezia vs Fiorentina",
+      "pick": "H",
+      "odds": 4.34,
+      "model_p": 0.279,
+      "imp_p": 0.222,
+      "edge": 0.057,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 110.67
+    },
+    {
+      "date": "2022-10-30T00:00:00",
+      "match": "Torino vs Milan",
+      "pick": "A",
+      "odds": 2.11,
+      "model_p": 0.54,
+      "imp_p": 0.467,
+      "edge": 0.073,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 109.67
+    },
+    {
+      "date": "2022-10-31T00:00:00",
+      "match": "Monza vs Bologna",
+      "pick": "A",
+      "odds": 3.37,
+      "model_p": 0.33,
+      "imp_p": 0.289,
+      "edge": 0.041,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.37,
+      "bankroll": 112.04
+    },
+    {
+      "date": "2022-11-04T00:00:00",
+      "match": "Udinese vs Lecce",
+      "pick": "H",
+      "odds": 1.65,
+      "model_p": 0.693,
+      "imp_p": 0.6,
+      "edge": 0.093,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 111.04
+    },
+    {
+      "date": "2022-11-05T00:00:00",
+      "match": "Empoli vs Sassuolo",
+      "pick": "A",
+      "odds": 2.27,
+      "model_p": 0.464,
+      "imp_p": 0.433,
+      "edge": 0.031,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 110.04
+    },
+    {
+      "date": "2022-11-05T00:00:00",
+      "match": "Salernitana vs Cremonese",
+      "pick": "H",
+      "odds": 2.28,
+      "model_p": 0.64,
+      "imp_p": 0.432,
+      "edge": 0.209,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 109.04
+    },
+    {
+      "date": "2022-11-05T00:00:00",
+      "match": "Milan vs Spezia",
+      "pick": "H",
+      "odds": 1.23,
+      "model_p": 0.869,
+      "imp_p": 0.809,
+      "edge": 0.06,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.23,
+      "bankroll": 109.27
+    },
+    {
+      "date": "2022-11-06T00:00:00",
+      "match": "Juventus vs Inter",
+      "pick": "H",
+      "odds": 3.21,
+      "model_p": 0.556,
+      "imp_p": 0.304,
+      "edge": 0.252,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 2.21,
+      "bankroll": 111.48
+    },
+    {
+      "date": "2022-11-06T00:00:00",
+      "match": "Monza vs Verona",
+      "pick": "H",
+      "odds": 2.22,
+      "model_p": 0.476,
+      "imp_p": 0.444,
+      "edge": 0.033,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.22,
+      "bankroll": 112.7
+    },
+    {
+      "date": "2022-11-06T00:00:00",
+      "match": "Roma vs Lazio",
+      "pick": "A",
+      "odds": 3.73,
+      "model_p": 0.446,
+      "imp_p": 0.26,
+      "edge": 0.186,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.73,
+      "bankroll": 115.43
+    },
+    {
+      "date": "2022-11-08T00:00:00",
+      "match": "Cremonese vs Milan",
+      "pick": "A",
+      "odds": 1.6,
+      "model_p": 0.724,
+      "imp_p": 0.621,
+      "edge": 0.103,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 114.43
+    },
+    {
+      "date": "2022-11-08T00:00:00",
+      "match": "Napoli vs Empoli",
+      "pick": "H",
+      "odds": 1.28,
+      "model_p": 0.882,
+      "imp_p": 0.775,
+      "edge": 0.107,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.28,
+      "bankroll": 114.71
+    },
+    {
+      "date": "2022-11-08T00:00:00",
+      "match": "Spezia vs Udinese",
+      "pick": "A",
+      "odds": 2.01,
+      "model_p": 0.655,
+      "imp_p": 0.491,
+      "edge": 0.164,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 113.71
+    },
+    {
+      "date": "2022-11-09T00:00:00",
+      "match": "Lecce vs Atalanta",
+      "pick": "A",
+      "odds": 2.34,
+      "model_p": 0.522,
+      "imp_p": 0.42,
+      "edge": 0.101,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 112.71
+    },
+    {
+      "date": "2022-11-09T00:00:00",
+      "match": "Sassuolo vs Roma",
+      "pick": "D",
+      "odds": 3.62,
+      "model_p": 0.301,
+      "imp_p": 0.269,
+      "edge": 0.033,
+      "stake": 1.0,
+      "actual": "D",
+      "won": true,
+      "pnl": 2.62,
+      "bankroll": 115.33
+    },
+    {
+      "date": "2022-11-09T00:00:00",
+      "match": "Fiorentina vs Salernitana",
+      "pick": "A",
+      "odds": 6.49,
+      "model_p": 0.285,
+      "imp_p": 0.144,
+      "edge": 0.141,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 114.33
+    },
+    {
+      "date": "2022-11-09T00:00:00",
+      "match": "Inter vs Bologna",
+      "pick": "A",
+      "odds": 7.72,
+      "model_p": 0.161,
+      "imp_p": 0.119,
+      "edge": 0.042,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 113.33
+    },
+    {
+      "date": "2022-11-09T00:00:00",
+      "match": "Torino vs Sampdoria",
+      "pick": "H",
+      "odds": 1.65,
+      "model_p": 0.714,
+      "imp_p": 0.6,
+      "edge": 0.114,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.65,
+      "bankroll": 113.98
+    },
+    {
+      "date": "2022-11-10T00:00:00",
+      "match": "Lazio vs Monza",
+      "pick": "H",
+      "odds": 1.75,
+      "model_p": 0.841,
+      "imp_p": 0.566,
+      "edge": 0.276,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.75,
+      "bankroll": 114.73
+    },
+    {
+      "date": "2022-11-10T00:00:00",
+      "match": "Verona vs Juventus",
+      "pick": "A",
+      "odds": 1.69,
+      "model_p": 0.711,
+      "imp_p": 0.585,
+      "edge": 0.126,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.69,
+      "bankroll": 115.42
+    },
+    {
+      "date": "2022-11-11T00:00:00",
+      "match": "Empoli vs Cremonese",
+      "pick": "D",
+      "odds": 3.31,
+      "model_p": 0.325,
+      "imp_p": 0.295,
+      "edge": 0.03,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 114.42
+    },
+    {
+      "date": "2022-11-12T00:00:00",
+      "match": "Bologna vs Sassuolo",
+      "pick": "A",
+      "odds": 3.41,
+      "model_p": 0.351,
+      "imp_p": 0.286,
+      "edge": 0.066,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 113.42
+    },
+    {
+      "date": "2022-11-12T00:00:00",
+      "match": "Sampdoria vs Lecce",
+      "pick": "A",
+      "odds": 2.91,
+      "model_p": 0.502,
+      "imp_p": 0.336,
+      "edge": 0.165,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.91,
+      "bankroll": 115.33
+    },
+    {
+      "date": "2022-11-12T00:00:00",
+      "match": "Napoli vs Udinese",
+      "pick": "H",
+      "odds": 1.52,
+      "model_p": 0.683,
+      "imp_p": 0.651,
+      "edge": 0.032,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.52,
+      "bankroll": 115.85
+    },
+    {
+      "date": "2022-11-13T00:00:00",
+      "match": "Atalanta vs Inter",
+      "pick": "H",
+      "odds": 3.05,
+      "model_p": 0.506,
+      "imp_p": 0.321,
+      "edge": 0.186,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 114.85
+    },
+    {
+      "date": "2022-11-13T00:00:00",
+      "match": "Monza vs Salernitana",
+      "pick": "A",
+      "odds": 4.4,
+      "model_p": 0.372,
+      "imp_p": 0.219,
+      "edge": 0.154,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 113.85
+    },
+    {
+      "date": "2022-11-13T00:00:00",
+      "match": "Roma vs Torino",
+      "pick": "A",
+      "odds": 5.2,
+      "model_p": 0.222,
+      "imp_p": 0.184,
+      "edge": 0.038,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 112.85
+    },
+    {
+      "date": "2022-11-13T00:00:00",
+      "match": "Verona vs Spezia",
+      "pick": "A",
+      "odds": 3.93,
+      "model_p": 0.319,
+      "imp_p": 0.246,
+      "edge": 0.073,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.93,
+      "bankroll": 115.78
+    },
+    {
+      "date": "2022-11-13T00:00:00",
+      "match": "Milan vs Fiorentina",
+      "pick": "H",
+      "odds": 1.69,
+      "model_p": 0.668,
+      "imp_p": 0.585,
+      "edge": 0.083,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.69,
+      "bankroll": 116.47
+    },
+    {
+      "date": "2022-11-13T00:00:00",
+      "match": "Juventus vs Lazio",
+      "pick": "D",
+      "odds": 3.39,
+      "model_p": 0.394,
+      "imp_p": 0.287,
+      "edge": 0.107,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 115.47
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "match": "Udinese vs Empoli",
+      "pick": "H",
+      "odds": 1.72,
+      "model_p": 0.683,
+      "imp_p": 0.575,
+      "edge": 0.108,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 114.47
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "match": "Inter vs Napoli",
+      "pick": "A",
+      "odds": 3.08,
+      "model_p": 0.535,
+      "imp_p": 0.318,
+      "edge": 0.218,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 113.47
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "match": "Cremonese vs Juventus",
+      "pick": "A",
+      "odds": 1.83,
+      "model_p": 0.704,
+      "imp_p": 0.539,
+      "edge": 0.165,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.83,
+      "bankroll": 114.3
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "match": "Roma vs Bologna",
+      "pick": "H",
+      "odds": 1.75,
+      "model_p": 0.609,
+      "imp_p": 0.565,
+      "edge": 0.044,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.75,
+      "bankroll": 115.05
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "match": "Lecce vs Lazio",
+      "pick": "A",
+      "odds": 2.14,
+      "model_p": 0.503,
+      "imp_p": 0.461,
+      "edge": 0.043,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 114.05
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "match": "Torino vs Verona",
+      "pick": "H",
+      "odds": 1.66,
+      "model_p": 0.717,
+      "imp_p": 0.596,
+      "edge": 0.121,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 113.05
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "match": "Sassuolo vs Sampdoria",
+      "pick": "H",
+      "odds": 1.75,
+      "model_p": 0.697,
+      "imp_p": 0.565,
+      "edge": 0.132,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 112.05
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "match": "Salernitana vs Milan",
+      "pick": "H",
+      "odds": 8.81,
+      "model_p": 0.206,
+      "imp_p": 0.104,
+      "edge": 0.103,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 111.05
+    },
+    {
+      "date": "2023-01-07T00:00:00",
+      "match": "Juventus vs Udinese",
+      "pick": "H",
+      "odds": 1.74,
+      "model_p": 0.603,
+      "imp_p": 0.568,
+      "edge": 0.034,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.74,
+      "bankroll": 111.79
+    },
+    {
+      "date": "2023-01-07T00:00:00",
+      "match": "Monza vs Inter",
+      "pick": "H",
+      "odds": 6.19,
+      "model_p": 0.23,
+      "imp_p": 0.152,
+      "edge": 0.078,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 110.79
+    },
+    {
+      "date": "2023-01-08T00:00:00",
+      "match": "Sampdoria vs Napoli",
+      "pick": "A",
+      "odds": 1.49,
+      "model_p": 0.861,
+      "imp_p": 0.665,
+      "edge": 0.196,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.49,
+      "bankroll": 111.28
+    },
+    {
+      "date": "2023-01-08T00:00:00",
+      "match": "Spezia vs Lecce",
+      "pick": "A",
+      "odds": 3.41,
+      "model_p": 0.399,
+      "imp_p": 0.285,
+      "edge": 0.114,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 110.28
+    },
+    {
+      "date": "2023-01-08T00:00:00",
+      "match": "Lazio vs Empoli",
+      "pick": "H",
+      "odds": 1.52,
+      "model_p": 0.711,
+      "imp_p": 0.652,
+      "edge": 0.059,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 109.28
+    },
+    {
+      "date": "2023-01-08T00:00:00",
+      "match": "Salernitana vs Torino",
+      "pick": "H",
+      "odds": 4.04,
+      "model_p": 0.346,
+      "imp_p": 0.239,
+      "edge": 0.106,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 108.28
+    },
+    {
+      "date": "2023-01-09T00:00:00",
+      "match": "Bologna vs Atalanta",
+      "pick": "H",
+      "odds": 3.58,
+      "model_p": 0.303,
+      "imp_p": 0.272,
+      "edge": 0.031,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 107.28
+    },
+    {
+      "date": "2023-01-13T00:00:00",
+      "match": "Napoli vs Juventus",
+      "pick": "D",
+      "odds": 3.37,
+      "model_p": 0.345,
+      "imp_p": 0.289,
+      "edge": 0.056,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 106.28
+    },
+    {
+      "date": "2023-01-14T00:00:00",
+      "match": "Cremonese vs Monza",
+      "pick": "A",
+      "odds": 2.78,
+      "model_p": 0.448,
+      "imp_p": 0.352,
+      "edge": 0.095,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.78,
+      "bankroll": 108.06
+    },
+    {
+      "date": "2023-01-14T00:00:00",
+      "match": "Lecce vs Milan",
+      "pick": "H",
+      "odds": 5.65,
+      "model_p": 0.276,
+      "imp_p": 0.168,
+      "edge": 0.108,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 107.06
+    },
+    {
+      "date": "2023-01-14T00:00:00",
+      "match": "Inter vs Verona",
+      "pick": "H",
+      "odds": 1.37,
+      "model_p": 0.869,
+      "imp_p": 0.723,
+      "edge": 0.146,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.37,
+      "bankroll": 107.43
+    },
+    {
+      "date": "2023-01-15T00:00:00",
+      "match": "Roma vs Fiorentina",
+      "pick": "H",
+      "odds": 2.14,
+      "model_p": 0.545,
+      "imp_p": 0.46,
+      "edge": 0.085,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.14,
+      "bankroll": 108.57
+    },
+    {
+      "date": "2023-01-15T00:00:00",
+      "match": "Atalanta vs Salernitana",
+      "pick": "A",
+      "odds": 10.15,
+      "model_p": 0.129,
+      "imp_p": 0.088,
+      "edge": 0.041,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 107.57
+    },
+    {
+      "date": "2023-01-15T00:00:00",
+      "match": "Udinese vs Bologna",
+      "pick": "H",
+      "odds": 1.93,
+      "model_p": 0.667,
+      "imp_p": 0.511,
+      "edge": 0.156,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 106.57
+    },
+    {
+      "date": "2023-01-15T00:00:00",
+      "match": "Sassuolo vs Lazio",
+      "pick": "A",
+      "odds": 1.99,
+      "model_p": 0.567,
+      "imp_p": 0.496,
+      "edge": 0.071,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.99,
+      "bankroll": 107.56
+    },
+    {
+      "date": "2023-01-16T00:00:00",
+      "match": "Empoli vs Sampdoria",
+      "pick": "H",
+      "odds": 2.14,
+      "model_p": 0.617,
+      "imp_p": 0.46,
+      "edge": 0.157,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.14,
+      "bankroll": 108.7
+    },
+    {
+      "date": "2023-01-21T00:00:00",
+      "match": "Verona vs Lecce",
+      "pick": "A",
+      "odds": 3.91,
+      "model_p": 0.426,
+      "imp_p": 0.248,
+      "edge": 0.178,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 107.7
+    },
+    {
+      "date": "2023-01-21T00:00:00",
+      "match": "Salernitana vs Napoli",
+      "pick": "A",
+      "odds": 1.34,
+      "model_p": 0.817,
+      "imp_p": 0.741,
+      "edge": 0.076,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.34,
+      "bankroll": 108.04
+    },
+    {
+      "date": "2023-01-21T00:00:00",
+      "match": "Fiorentina vs Torino",
+      "pick": "A",
+      "odds": 4.65,
+      "model_p": 0.284,
+      "imp_p": 0.207,
+      "edge": 0.077,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 3.65,
+      "bankroll": 111.69
+    },
+    {
+      "date": "2023-01-22T00:00:00",
+      "match": "Sampdoria vs Udinese",
+      "pick": "A",
+      "odds": 2.36,
+      "model_p": 0.667,
+      "imp_p": 0.417,
+      "edge": 0.25,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.36,
+      "bankroll": 113.05
+    },
+    {
+      "date": "2023-01-22T00:00:00",
+      "match": "Monza vs Sassuolo",
+      "pick": "H",
+      "odds": 2.19,
+      "model_p": 0.552,
+      "imp_p": 0.45,
+      "edge": 0.102,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 112.05
+    },
+    {
+      "date": "2023-01-22T00:00:00",
+      "match": "Spezia vs Roma",
+      "pick": "H",
+      "odds": 5.62,
+      "model_p": 0.216,
+      "imp_p": 0.169,
+      "edge": 0.047,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 111.05
+    },
+    {
+      "date": "2023-01-22T00:00:00",
+      "match": "Juventus vs Atalanta",
+      "pick": "H",
+      "odds": 2.19,
+      "model_p": 0.534,
+      "imp_p": 0.45,
+      "edge": 0.084,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 110.05
+    },
+    {
+      "date": "2023-01-23T00:00:00",
+      "match": "Bologna vs Cremonese",
+      "pick": "H",
+      "odds": 1.83,
+      "model_p": 0.665,
+      "imp_p": 0.54,
+      "edge": 0.124,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 109.05
+    },
+    {
+      "date": "2023-01-23T00:00:00",
+      "match": "Inter vs Empoli",
+      "pick": "A",
+      "odds": 11.5,
+      "model_p": 0.113,
+      "imp_p": 0.073,
+      "edge": 0.04,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 10.5,
+      "bankroll": 119.55
+    },
+    {
+      "date": "2023-01-24T00:00:00",
+      "match": "Lazio vs Milan",
+      "pick": "H",
+      "odds": 2.83,
+      "model_p": 0.521,
+      "imp_p": 0.346,
+      "edge": 0.174,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.83,
+      "bankroll": 121.38
+    },
+    {
+      "date": "2023-01-27T00:00:00",
+      "match": "Bologna vs Spezia",
+      "pick": "H",
+      "odds": 1.9,
+      "model_p": 0.557,
+      "imp_p": 0.52,
+      "edge": 0.038,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.9,
+      "bankroll": 122.28
+    },
+    {
+      "date": "2023-01-28T00:00:00",
+      "match": "Empoli vs Torino",
+      "pick": "D",
+      "odds": 3.1,
+      "model_p": 0.363,
+      "imp_p": 0.315,
+      "edge": 0.048,
+      "stake": 1.0,
+      "actual": "D",
+      "won": true,
+      "pnl": 2.1,
+      "bankroll": 124.38
+    },
+    {
+      "date": "2023-01-28T00:00:00",
+      "match": "Atalanta vs Sampdoria",
+      "pick": "H",
+      "odds": 1.31,
+      "model_p": 0.883,
+      "imp_p": 0.758,
+      "edge": 0.126,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.31,
+      "bankroll": 124.69
+    },
+    {
+      "date": "2023-01-29T00:00:00",
+      "match": "Milan vs Sassuolo",
+      "pick": "H",
+      "odds": 1.5,
+      "model_p": 0.734,
+      "imp_p": 0.661,
+      "edge": 0.074,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 123.69
+    },
+    {
+      "date": "2023-01-29T00:00:00",
+      "match": "Juventus vs Monza",
+      "pick": "H",
+      "odds": 1.67,
+      "model_p": 0.691,
+      "imp_p": 0.592,
+      "edge": 0.099,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 122.69
+    },
+    {
+      "date": "2023-01-29T00:00:00",
+      "match": "Lazio vs Fiorentina",
+      "pick": "H",
+      "odds": 2.06,
+      "model_p": 0.713,
+      "imp_p": 0.479,
+      "edge": 0.234,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 121.69
+    },
+    {
+      "date": "2023-01-29T00:00:00",
+      "match": "Napoli vs Roma",
+      "pick": "H",
+      "odds": 1.79,
+      "model_p": 0.634,
+      "imp_p": 0.552,
+      "edge": 0.083,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.79,
+      "bankroll": 122.48
+    },
+    {
+      "date": "2023-01-30T00:00:00",
+      "match": "Udinese vs Verona",
+      "pick": "H",
+      "odds": 1.93,
+      "model_p": 0.685,
+      "imp_p": 0.512,
+      "edge": 0.173,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 121.48
+    },
+    {
+      "date": "2023-02-04T00:00:00",
+      "match": "Cremonese vs Lecce",
+      "pick": "A",
+      "odds": 3.02,
+      "model_p": 0.409,
+      "imp_p": 0.324,
+      "edge": 0.086,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.02,
+      "bankroll": 123.5
+    },
+    {
+      "date": "2023-02-04T00:00:00",
+      "match": "Roma vs Empoli",
+      "pick": "D",
+      "odds": 4.31,
+      "model_p": 0.282,
+      "imp_p": 0.224,
+      "edge": 0.058,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 122.5
+    },
+    {
+      "date": "2023-02-05T00:00:00",
+      "match": "Spezia vs Napoli",
+      "pick": "A",
+      "odds": 1.4,
+      "model_p": 0.797,
+      "imp_p": 0.708,
+      "edge": 0.089,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.4,
+      "bankroll": 122.9
+    },
+    {
+      "date": "2023-02-05T00:00:00",
+      "match": "Torino vs Udinese",
+      "pick": "A",
+      "odds": 3.32,
+      "model_p": 0.341,
+      "imp_p": 0.294,
+      "edge": 0.047,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 121.9
+    },
+    {
+      "date": "2023-02-05T00:00:00",
+      "match": "Fiorentina vs Bologna",
+      "pick": "A",
+      "odds": 4.74,
+      "model_p": 0.282,
+      "imp_p": 0.202,
+      "edge": 0.08,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 3.74,
+      "bankroll": 125.64
+    },
+    {
+      "date": "2023-02-05T00:00:00",
+      "match": "Inter vs Milan",
+      "pick": "H",
+      "odds": 2.04,
+      "model_p": 0.566,
+      "imp_p": 0.484,
+      "edge": 0.083,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.04,
+      "bankroll": 126.68
+    },
+    {
+      "date": "2023-02-06T00:00:00",
+      "match": "Verona vs Lazio",
+      "pick": "A",
+      "odds": 1.97,
+      "model_p": 0.657,
+      "imp_p": 0.501,
+      "edge": 0.156,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 125.68
+    },
+    {
+      "date": "2023-02-06T00:00:00",
+      "match": "Monza vs Sampdoria",
+      "pick": "H",
+      "odds": 1.85,
+      "model_p": 0.725,
+      "imp_p": 0.534,
+      "edge": 0.19,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 124.68
+    },
+    {
+      "date": "2023-02-07T00:00:00",
+      "match": "Salernitana vs Juventus",
+      "pick": "H",
+      "odds": 6.97,
+      "model_p": 0.193,
+      "imp_p": 0.133,
+      "edge": 0.06,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 123.68
+    },
+    {
+      "date": "2023-02-10T00:00:00",
+      "match": "Milan vs Torino",
+      "pick": "A",
+      "odds": 5.43,
+      "model_p": 0.244,
+      "imp_p": 0.175,
+      "edge": 0.069,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 122.68
+    },
+    {
+      "date": "2023-02-11T00:00:00",
+      "match": "Lazio vs Atalanta",
+      "pick": "H",
+      "odds": 2.26,
+      "model_p": 0.546,
+      "imp_p": 0.436,
+      "edge": 0.11,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 121.68
+    },
+    {
+      "date": "2023-02-12T00:00:00",
+      "match": "Udinese vs Sassuolo",
+      "pick": "H",
+      "odds": 2.07,
+      "model_p": 0.548,
+      "imp_p": 0.476,
+      "edge": 0.072,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 120.68
+    },
+    {
+      "date": "2023-02-12T00:00:00",
+      "match": "Bologna vs Monza",
+      "pick": "H",
+      "odds": 2.43,
+      "model_p": 0.454,
+      "imp_p": 0.405,
+      "edge": 0.049,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 119.68
+    },
+    {
+      "date": "2023-02-12T00:00:00",
+      "match": "Juventus vs Fiorentina",
+      "pick": "H",
+      "odds": 1.76,
+      "model_p": 0.638,
+      "imp_p": 0.561,
+      "edge": 0.077,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.76,
+      "bankroll": 120.44
+    },
+    {
+      "date": "2023-02-12T00:00:00",
+      "match": "Napoli vs Cremonese",
+      "pick": "H",
+      "odds": 1.2,
+      "model_p": 0.932,
+      "imp_p": 0.828,
+      "edge": 0.104,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.2,
+      "bankroll": 120.64
+    },
+    {
+      "date": "2023-02-13T00:00:00",
+      "match": "Verona vs Salernitana",
+      "pick": "A",
+      "odds": 5.15,
+      "model_p": 0.321,
+      "imp_p": 0.185,
+      "edge": 0.135,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 119.64
+    },
+    {
+      "date": "2023-02-13T00:00:00",
+      "match": "Sampdoria vs Inter",
+      "pick": "A",
+      "odds": 1.39,
+      "model_p": 0.747,
+      "imp_p": 0.714,
+      "edge": 0.033,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 118.64
+    },
+    {
+      "date": "2023-02-17T00:00:00",
+      "match": "Sassuolo vs Napoli",
+      "pick": "A",
+      "odds": 1.64,
+      "model_p": 0.728,
+      "imp_p": 0.603,
+      "edge": 0.124,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.64,
+      "bankroll": 119.28
+    },
+    {
+      "date": "2023-02-18T00:00:00",
+      "match": "Sampdoria vs Bologna",
+      "pick": "A",
+      "odds": 2.29,
+      "model_p": 0.545,
+      "imp_p": 0.43,
+      "edge": 0.115,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.29,
+      "bankroll": 120.57
+    },
+    {
+      "date": "2023-02-18T00:00:00",
+      "match": "Monza vs Milan",
+      "pick": "H",
+      "odds": 3.56,
+      "model_p": 0.353,
+      "imp_p": 0.273,
+      "edge": 0.08,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 119.57
+    },
+    {
+      "date": "2023-02-18T00:00:00",
+      "match": "Inter vs Udinese",
+      "pick": "A",
+      "odds": 7.54,
+      "model_p": 0.239,
+      "imp_p": 0.122,
+      "edge": 0.117,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 118.57
+    },
+    {
+      "date": "2023-02-19T00:00:00",
+      "match": "Roma vs Verona",
+      "pick": "H",
+      "odds": 1.78,
+      "model_p": 0.675,
+      "imp_p": 0.556,
+      "edge": 0.12,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.78,
+      "bankroll": 119.35
+    },
+    {
+      "date": "2023-02-19T00:00:00",
+      "match": "Spezia vs Juventus",
+      "pick": "A",
+      "odds": 1.68,
+      "model_p": 0.62,
+      "imp_p": 0.589,
+      "edge": 0.031,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.68,
+      "bankroll": 120.03
+    },
+    {
+      "date": "2023-02-19T00:00:00",
+      "match": "Fiorentina vs Empoli",
+      "pick": "A",
+      "odds": 5.31,
+      "model_p": 0.267,
+      "imp_p": 0.179,
+      "edge": 0.088,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 119.03
+    },
+    {
+      "date": "2023-02-19T00:00:00",
+      "match": "Salernitana vs Lazio",
+      "pick": "A",
+      "odds": 1.8,
+      "model_p": 0.661,
+      "imp_p": 0.549,
+      "edge": 0.112,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.8,
+      "bankroll": 119.83
+    },
+    {
+      "date": "2023-02-25T00:00:00",
+      "match": "Empoli vs Napoli",
+      "pick": "A",
+      "odds": 1.5,
+      "model_p": 0.729,
+      "imp_p": 0.659,
+      "edge": 0.07,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.5,
+      "bankroll": 120.33
+    },
+    {
+      "date": "2023-02-25T00:00:00",
+      "match": "Lecce vs Sassuolo",
+      "pick": "H",
+      "odds": 2.64,
+      "model_p": 0.442,
+      "imp_p": 0.372,
+      "edge": 0.07,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 119.33
+    },
+    {
+      "date": "2023-02-26T00:00:00",
+      "match": "Udinese vs Spezia",
+      "pick": "H",
+      "odds": 1.79,
+      "model_p": 0.649,
+      "imp_p": 0.552,
+      "edge": 0.097,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 118.33
+    },
+    {
+      "date": "2023-02-26T00:00:00",
+      "match": "Bologna vs Inter",
+      "pick": "H",
+      "odds": 5.15,
+      "model_p": 0.266,
+      "imp_p": 0.184,
+      "edge": 0.082,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 4.15,
+      "bankroll": 122.48
+    },
+    {
+      "date": "2023-02-26T00:00:00",
+      "match": "Salernitana vs Monza",
+      "pick": "H",
+      "odds": 3.89,
+      "model_p": 0.319,
+      "imp_p": 0.249,
+      "edge": 0.07,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 2.89,
+      "bankroll": 125.37
+    },
+    {
+      "date": "2023-02-26T00:00:00",
+      "match": "Milan vs Atalanta",
+      "pick": "A",
+      "odds": 3.44,
+      "model_p": 0.372,
+      "imp_p": 0.283,
+      "edge": 0.089,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 124.37
+    },
+    {
+      "date": "2023-02-27T00:00:00",
+      "match": "Lazio vs Sampdoria",
+      "pick": "H",
+      "odds": 1.43,
+      "model_p": 0.829,
+      "imp_p": 0.694,
+      "edge": 0.135,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.43,
+      "bankroll": 124.8
+    },
+    {
+      "date": "2023-02-27T00:00:00",
+      "match": "Verona vs Fiorentina",
+      "pick": "H",
+      "odds": 3.58,
+      "model_p": 0.33,
+      "imp_p": 0.272,
+      "edge": 0.058,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 123.8
+    },
+    {
+      "date": "2023-02-28T00:00:00",
+      "match": "Cremonese vs Roma",
+      "pick": "A",
+      "odds": 1.79,
+      "model_p": 0.629,
+      "imp_p": 0.552,
+      "edge": 0.077,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 122.8
+    },
+    {
+      "date": "2023-03-04T00:00:00",
+      "match": "Monza vs Empoli",
+      "pick": "A",
+      "odds": 4.38,
+      "model_p": 0.274,
+      "imp_p": 0.22,
+      "edge": 0.055,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 121.8
+    },
+    {
+      "date": "2023-03-04T00:00:00",
+      "match": "Fiorentina vs Milan",
+      "pick": "A",
+      "odds": 2.87,
+      "model_p": 0.434,
+      "imp_p": 0.341,
+      "edge": 0.093,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 120.8
+    },
+    {
+      "date": "2023-03-05T00:00:00",
+      "match": "Spezia vs Verona",
+      "pick": "H",
+      "odds": 2.56,
+      "model_p": 0.421,
+      "imp_p": 0.384,
+      "edge": 0.037,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 119.8
+    },
+    {
+      "date": "2023-03-05T00:00:00",
+      "match": "Sampdoria vs Salernitana",
+      "pick": "A",
+      "odds": 3.49,
+      "model_p": 0.495,
+      "imp_p": 0.279,
+      "edge": 0.216,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 118.8
+    },
+    {
+      "date": "2023-03-05T00:00:00",
+      "match": "Inter vs Lecce",
+      "pick": "A",
+      "odds": 8.75,
+      "model_p": 0.175,
+      "imp_p": 0.103,
+      "edge": 0.072,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 117.8
+    },
+    {
+      "date": "2023-03-06T00:00:00",
+      "match": "Torino vs Bologna",
+      "pick": "H",
+      "odds": 2.42,
+      "model_p": 0.444,
+      "imp_p": 0.406,
+      "edge": 0.038,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.42,
+      "bankroll": 119.22
+    },
+    {
+      "date": "2023-03-06T00:00:00",
+      "match": "Sassuolo vs Cremonese",
+      "pick": "H",
+      "odds": 1.9,
+      "model_p": 0.606,
+      "imp_p": 0.52,
+      "edge": 0.086,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.9,
+      "bankroll": 120.12
+    },
+    {
+      "date": "2023-03-10T00:00:00",
+      "match": "Spezia vs Inter",
+      "pick": "H",
+      "odds": 8.19,
+      "model_p": 0.164,
+      "imp_p": 0.11,
+      "edge": 0.054,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 7.19,
+      "bankroll": 127.31
+    },
+    {
+      "date": "2023-03-11T00:00:00",
+      "match": "Napoli vs Atalanta",
+      "pick": "H",
+      "odds": 1.7,
+      "model_p": 0.72,
+      "imp_p": 0.581,
+      "edge": 0.139,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.7,
+      "bankroll": 128.01
+    },
+    {
+      "date": "2023-03-11T00:00:00",
+      "match": "Bologna vs Lazio",
+      "pick": "A",
+      "odds": 2.55,
+      "model_p": 0.543,
+      "imp_p": 0.386,
+      "edge": 0.158,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 127.01
+    },
+    {
+      "date": "2023-03-12T00:00:00",
+      "match": "Cremonese vs Fiorentina",
+      "pick": "H",
+      "odds": 5.17,
+      "model_p": 0.259,
+      "imp_p": 0.185,
+      "edge": 0.074,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 126.01
+    },
+    {
+      "date": "2023-03-12T00:00:00",
+      "match": "Verona vs Monza",
+      "pick": "A",
+      "odds": 3.17,
+      "model_p": 0.407,
+      "imp_p": 0.308,
+      "edge": 0.099,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 125.01
+    },
+    {
+      "date": "2023-03-12T00:00:00",
+      "match": "Juventus vs Sampdoria",
+      "pick": "H",
+      "odds": 1.39,
+      "model_p": 0.804,
+      "imp_p": 0.713,
+      "edge": 0.091,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.39,
+      "bankroll": 125.4
+    },
+    {
+      "date": "2023-03-13T00:00:00",
+      "match": "Milan vs Salernitana",
+      "pick": "A",
+      "odds": 13.4,
+      "model_p": 0.118,
+      "imp_p": 0.062,
+      "edge": 0.056,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 124.4
+    },
+    {
+      "date": "2023-03-17T00:00:00",
+      "match": "Sassuolo vs Spezia",
+      "pick": "H",
+      "odds": 1.79,
+      "model_p": 0.588,
+      "imp_p": 0.552,
+      "edge": 0.037,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.79,
+      "bankroll": 125.19
+    },
+    {
+      "date": "2023-03-18T00:00:00",
+      "match": "Monza vs Cremonese",
+      "pick": "H",
+      "odds": 1.99,
+      "model_p": 0.603,
+      "imp_p": 0.496,
+      "edge": 0.107,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 124.19
+    },
+    {
+      "date": "2023-03-18T00:00:00",
+      "match": "Salernitana vs Bologna",
+      "pick": "H",
+      "odds": 3.62,
+      "model_p": 0.347,
+      "imp_p": 0.269,
+      "edge": 0.078,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 123.19
+    },
+    {
+      "date": "2023-03-18T00:00:00",
+      "match": "Udinese vs Milan",
+      "pick": "H",
+      "odds": 3.79,
+      "model_p": 0.402,
+      "imp_p": 0.256,
+      "edge": 0.146,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 2.79,
+      "bankroll": 125.98
+    },
+    {
+      "date": "2023-03-19T00:00:00",
+      "match": "Sampdoria vs Verona",
+      "pick": "D",
+      "odds": 3.12,
+      "model_p": 0.355,
+      "imp_p": 0.313,
+      "edge": 0.042,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 124.98
+    },
+    {
+      "date": "2023-03-19T00:00:00",
+      "match": "Fiorentina vs Lecce",
+      "pick": "A",
+      "odds": 6.7,
+      "model_p": 0.232,
+      "imp_p": 0.14,
+      "edge": 0.092,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 123.98
+    },
+    {
+      "date": "2023-03-19T00:00:00",
+      "match": "Torino vs Napoli",
+      "pick": "A",
+      "odds": 1.82,
+      "model_p": 0.646,
+      "imp_p": 0.543,
+      "edge": 0.103,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.82,
+      "bankroll": 124.8
+    },
+    {
+      "date": "2023-03-19T00:00:00",
+      "match": "Lazio vs Roma",
+      "pick": "H",
+      "odds": 3.22,
+      "model_p": 0.512,
+      "imp_p": 0.303,
+      "edge": 0.209,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 2.22,
+      "bankroll": 127.02
+    },
+    {
+      "date": "2023-03-19T00:00:00",
+      "match": "Inter vs Juventus",
+      "pick": "A",
+      "odds": 4.28,
+      "model_p": 0.374,
+      "imp_p": 0.225,
+      "edge": 0.148,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 3.28,
+      "bankroll": 130.3
+    },
+    {
+      "date": "2023-04-01T00:00:00",
+      "match": "Juventus vs Verona",
+      "pick": "H",
+      "odds": 1.59,
+      "model_p": 0.769,
+      "imp_p": 0.623,
+      "edge": 0.147,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 0.59,
+      "bankroll": 130.89
+    },
+    {
+      "date": "2023-04-02T00:00:00",
+      "match": "Bologna vs Udinese",
+      "pick": "A",
+      "odds": 3.54,
+      "model_p": 0.387,
+      "imp_p": 0.275,
+      "edge": 0.112,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 129.89
+    },
+    {
+      "date": "2023-04-02T00:00:00",
+      "match": "Monza vs Lazio",
+      "pick": "A",
+      "odds": 2.19,
+      "model_p": 0.571,
+      "imp_p": 0.45,
+      "edge": 0.121,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.19,
+      "bankroll": 131.08
+    },
+    {
+      "date": "2023-04-02T00:00:00",
+      "match": "Spezia vs Salernitana",
+      "pick": "A",
+      "odds": 3.32,
+      "model_p": 0.346,
+      "imp_p": 0.294,
+      "edge": 0.051,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 130.08
+    },
+    {
+      "date": "2023-04-02T00:00:00",
+      "match": "Napoli vs Milan",
+      "pick": "H",
+      "odds": 2.03,
+      "model_p": 0.804,
+      "imp_p": 0.486,
+      "edge": 0.318,
+      "stake": 1.0,
+      "actual": "A",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 129.08
+    },
+    {
+      "date": "2023-04-03T00:00:00",
+      "match": "Sassuolo vs Torino",
+      "pick": "H",
+      "odds": 2.57,
+      "model_p": 0.425,
+      "imp_p": 0.382,
+      "edge": 0.043,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 128.08
+    },
+    {
+      "date": "2023-04-07T00:00:00",
+      "match": "Lecce vs Napoli",
+      "pick": "A",
+      "odds": 1.69,
+      "model_p": 0.695,
+      "imp_p": 0.585,
+      "edge": 0.11,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.69,
+      "bankroll": 128.77
+    },
+    {
+      "date": "2023-04-07T00:00:00",
+      "match": "Salernitana vs Inter",
+      "pick": "H",
+      "odds": 6.56,
+      "model_p": 0.223,
+      "imp_p": 0.142,
+      "edge": 0.081,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 127.77
+    },
+    {
+      "date": "2023-04-07T00:00:00",
+      "match": "Milan vs Empoli",
+      "pick": "A",
+      "odds": 9.72,
+      "model_p": 0.151,
+      "imp_p": 0.092,
+      "edge": 0.059,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 126.77
+    },
+    {
+      "date": "2023-04-08T00:00:00",
+      "match": "Verona vs Sassuolo",
+      "pick": "A",
+      "odds": 3.16,
+      "model_p": 0.461,
+      "imp_p": 0.309,
+      "edge": 0.152,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 125.77
+    },
+    {
+      "date": "2023-04-08T00:00:00",
+      "match": "Lazio vs Juventus",
+      "pick": "H",
+      "odds": 2.98,
+      "model_p": 0.443,
+      "imp_p": 0.329,
+      "edge": 0.114,
+      "stake": 1.0,
+      "actual": "H",
+      "won": true,
+      "pnl": 1.98,
+      "bankroll": 127.75
+    },
+    {
+      "date": "2023-04-08T00:00:00",
+      "match": "Torino vs Roma",
+      "pick": "A",
+      "odds": 2.64,
+      "model_p": 0.407,
+      "imp_p": 0.372,
+      "edge": 0.035,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 1.64,
+      "bankroll": 129.39
+    },
+    {
+      "date": "2023-04-08T00:00:00",
+      "match": "Fiorentina vs Spezia",
+      "pick": "D",
+      "odds": 4.86,
+      "model_p": 0.249,
+      "imp_p": 0.195,
+      "edge": 0.053,
+      "stake": 1.0,
+      "actual": "D",
+      "won": true,
+      "pnl": 3.86,
+      "bankroll": 133.25
+    },
+    {
+      "date": "2023-04-08T00:00:00",
+      "match": "Sampdoria vs Cremonese",
+      "pick": "A",
+      "odds": 3.52,
+      "model_p": 0.362,
+      "imp_p": 0.276,
+      "edge": 0.086,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 2.52,
+      "bankroll": 135.77
+    },
+    {
+      "date": "2023-04-14T00:00:00",
+      "match": "Cremonese vs Empoli",
+      "pick": "A",
+      "odds": 3.59,
+      "model_p": 0.399,
+      "imp_p": 0.271,
+      "edge": 0.128,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 134.77
+    },
+    {
+      "date": "2023-04-14T00:00:00",
+      "match": "Spezia vs Lazio",
+      "pick": "A",
+      "odds": 1.84,
+      "model_p": 0.658,
+      "imp_p": 0.537,
+      "edge": 0.122,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 0.84,
+      "bankroll": 135.61
+    },
+    {
+      "date": "2023-04-15T00:00:00",
+      "match": "Bologna vs Milan",
+      "pick": "A",
+      "odds": 2.85,
+      "model_p": 0.403,
+      "imp_p": 0.343,
+      "edge": 0.06,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 134.61
+    },
+    {
+      "date": "2023-04-15T00:00:00",
+      "match": "Napoli vs Verona",
+      "pick": "H",
+      "odds": 1.53,
+      "model_p": 0.875,
+      "imp_p": 0.647,
+      "edge": 0.227,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 133.61
+    },
+    {
+      "date": "2023-04-15T00:00:00",
+      "match": "Inter vs Monza",
+      "pick": "A",
+      "odds": 8.27,
+      "model_p": 0.178,
+      "imp_p": 0.112,
+      "edge": 0.066,
+      "stake": 1.0,
+      "actual": "A",
+      "won": true,
+      "pnl": 7.27,
+      "bankroll": 140.88
+    },
+    {
+      "date": "2023-04-16T00:00:00",
+      "match": "Sassuolo vs Juventus",
+      "pick": "A",
+      "odds": 2.26,
+      "model_p": 0.543,
+      "imp_p": 0.436,
+      "edge": 0.108,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 139.88
+    },
+    {
+      "date": "2023-04-16T00:00:00",
+      "match": "Roma vs Udinese",
+      "pick": "A",
+      "odds": 4.97,
+      "model_p": 0.224,
+      "imp_p": 0.192,
+      "edge": 0.032,
+      "stake": 1.0,
+      "actual": "H",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 138.88
+    },
+    {
+      "date": "2023-04-16T00:00:00",
+      "match": "Torino vs Salernitana",
+      "pick": "A",
+      "odds": 6.48,
+      "model_p": 0.231,
+      "imp_p": 0.146,
+      "edge": 0.086,
+      "stake": 1.0,
+      "actual": "D",
+      "won": false,
+      "pnl": -1.0,
+      "bankroll": 137.88
+    }
+  ],
+  "league": "I1"
+}

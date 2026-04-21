@@ -1,45 +1,65 @@
-# Profitable model × league combos — 2024-25 season backtest
+# Profitable model × league combos — 3-year soccer backtest (2022-23 to 2024-25)
 
 All results on real closing odds (Pinnacle/Bet365) from football-data.co.uk.
-Single-unit flat stake unless noted. Walk-forward refit per match.
+Flat 1u stake, walk-forward refit per match.
 
-## 🏆 Top 7 profitable configurations
+## 🏆 The one truly robust combo
 
-| Rank | Model | League | Filter | Picks | Winrate | **ROI** | Bankroll growth |
-|---|---|---|---|---|---|---|---|
-| 1 | **Elo** | Ligue 1 | edge ≥ 4pp | 202 | 25.3% | **+16.67%** | +16.7% |
-| 2 | **Dixon-Coles** | Premier League | edge ≥ 3pp, goto-devig | 265 | 34.7% | **+13.68%** | +13.7% |
-| 3 | **Poisson** | Premier League | edge ≥ 3pp | 275 | 37.1% | **+12.65%** | +12.7% |
-| 4 | **Elo** | Premier League | edge ≥ 4pp | 256 | 23.4% | **+9.75%** | +9.75% |
-| 5 | **Dixon-Coles** | Serie A | edge ≥ 3pp, min-prob ≥ 0.40 | 131 | 54.2% | **+7.94%** | +7.9% |
-| 6 | **Poisson** | Ligue 1 | edge ≥ 3pp | 207 | 42.0% | **+7.45%** | +7.5% |
-| 7 | **Dixon-Coles** | Ligue 1 | edge ≥ 3pp, min-prob ≥ 0.40 | 108 | 53.7% | **+4.95%** | +5.0% |
+**Elo + Bundesliga** — **3 out of 3 seasons profitable**:
 
-## Observations
+| Season | Picks | Winrate | ROI |
+|---|---|---|---|
+| 2022-23 | 185 | 27.6% | **+12.01%** ✅ |
+| 2023-24 | 197 | 22.8% | **+1.26%** ✅ |
+| 2024-25 | 172 | 25.6% | **+10.70%** ✅ |
+| **3yr** | **554** | **25.3%** | **+7.99%** ✅ |
 
-- **Premier League is the most beatable** — 4 profitable configs. Books leave value.
-- **Ligue 1 works on Elo + Poisson** — less efficient market than top 3 leagues.
-- **Serie A only with strict filter** (min prob ≥ 40%) — avoid value-bet noise.
-- **La Liga + Bundesliga**: books too sharp, no profitable combo found across 3 models × 6 edges × 3 filter variants.
-- **Kelly staking underperforms flat** — amplifies losses on negative-EV models. Use only when models are proven profitable on out-of-sample.
+This is the only model × league where all 3 seasons ended positive. Sample size 554 picks = statistically meaningful.
 
-## Sample sizes + statistical significance
+## Single-season anomalies (beware survivorship bias)
 
-- All results above ≥ 100 picks per config → not random noise
-- Premier League ROI spread: +9.75% to +13.68% across 3 independent models → signal, not luck
-- Combined Elo PL + Ligue 1 = 458 picks, +12.8% blended ROI
+These had one big season but didn't replicate:
 
-## Caveats (honest)
+| Model | League | 22-23 | 23-24 | 24-25 | Honest verdict |
+|---|---|---|---|---|---|
+| Dixon-Coles | Premier League | +2.41% | -16.60% | **+13.68%** | 24-25 was variance |
+| Elo | Premier League | +7.03% | -22.46% | +11.99% | 2/3 positive, but -22% year is bad |
+| Poisson | Premier League | +5.88% | -19.17% | +12.65% | Same story |
+| Poisson | Serie A | **+15.07%** | 0.00% | -14.12% | 22-23 anomaly |
+| Poisson | Ligue 1 | +2.21% | -7.43% | +7.45% | mixed, ~flat |
+| Elo | Ligue 1 | -28.42% | -10.85% | **+11.23%** | 24-25 was variance |
 
-- 2024-25 is ONE season. Multi-season required for strong confidence.
-- goto_conversion de-vig adds ~2pp to ROI in PL (baseline +10.94% → +13.68%).
-- We do NOT claim 60%+ winrate — real value betting is 30-55% winrate with positive EV.
-- PL edge is narrowing year-on-year as AI models proliferate.
+## Consistently losing combinations
 
-## What's next (v3)
+- **La Liga**: all 3 models negative all 3 years. Books are sharp.
+- **Serie A**: mixed, near-zero on average.
 
-- Add 2023-24 and 2022-23 seasons → 3-year backtest for confidence
-- Ensemble: average DC + Poisson + Elo probabilities per match
-- Add NBA via kyleskom + saccofrancesco/deepshot on nba_api data
-- Add tennis via VincentAuriau on Sackmann CSVs
-- Portfolio Kelly with corr-adjustment across sports
+## By-season combined ROI
+
+| Season | Elo | DC | Poisson |
+|---|---|---|---|
+| 2022-23 | -3.19% | -4.50% | **+0.20%** |
+| 2023-24 | -17.82% | -5.81% | -8.38% |
+| 2024-25 | -2.18% | -5.73% | -5.28% |
+| 3-yr avg | -7.7% | -5.3% | -4.5% |
+
+**Honest read**: naive value-betting with basic probabilistic models averages **-5% to -8% ROI long-term**. The books are efficient. Edge exists in isolated pockets (Bundesliga with Elo) or single-season variance.
+
+## What the site should honestly show
+
+**Hero claim (defensible)**: "Elo rating on Bundesliga 2022-2025: +8% ROI, 554 picks, positive every season."
+
+**Full transparency**: Publish the full 15-combo table (3 years × 5 leagues × 3 models) with negative results too. This is our DIFFERENTIATOR vs tipster sites that cherry-pick.
+
+## Next experiments
+
+1. **Ensemble**: avg DC + Poisson + Elo probabilities per match — noise reduction
+2. **NBA**: port kyleskom NBA-ML + saccofrancesco/deepshot onto our harness
+3. **Tennis**: VincentAuriau + Sackmann CSVs for ATP 2022-2024
+4. **Different markets**: Over/Under 2.5, BTTS, Asian handicap (less efficient than 1X2)
+
+## Caveats
+
+- We use FREE data (football-data.co.uk). Commercial data (xG, lineups, weather) could improve models
+- We retrain on every match (computationally expensive). Commercial systems use scheduled retrains
+- Closing odds slipped slightly 2022-2025 due to market maturation — what worked then may not work now

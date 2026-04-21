@@ -214,6 +214,7 @@ def main():
     ap.add_argument('--max-odds', type=float, default=99.0)
     ap.add_argument('--devig', default='goto', choices=['goto', 'naive'])
     ap.add_argument('--grid', action='store_true', help='grid search per-league')
+    ap.add_argument('--season', default='2425')
     args = ap.parse_args()
 
     RESULTS.mkdir(exist_ok=True)
@@ -223,7 +224,7 @@ def main():
         print(f'grid search: {args.model} × {len(edges)} edge values × 5 leagues')
         grid_out = {}
         for code in args.leagues.split(','):
-            df = load_league(code)
+            df = load_league(code, season=args.season)
             if df is None: continue
             best = None
             for e in edges:
@@ -248,7 +249,7 @@ def main():
     combined_staked = 0
     per_league = []
     for code in args.leagues.split(','):
-        df = load_league(code)
+        df = load_league(code, season=args.season)
         if df is None: continue
         r = backtest(df, args.model, min_edge=args.edge, min_prob=args.min_prob,
                      max_odds=args.max_odds, stake=args.stake, kelly_frac=args.kelly_frac, devig=args.devig)
@@ -258,7 +259,7 @@ def main():
         per_league.append(r)
         combined_picks += r['picks']; combined_wins += r['wins']
         combined_staked += r['total_staked']; combined_pnl += r['total_pnl']
-        out = RESULTS / f'v2-soccer-2425-{code}-{args.model}-{args.stake}.json'
+        out = RESULTS / f'v2-soccer-{args.season}-{code}-{args.model}-{args.stake}.json'
         with open(out, 'w') as f:
             json.dump(r, f, indent=2, default=str)
     if combined_picks:
@@ -271,7 +272,7 @@ def main():
             'total_roi_pct': round(combined_roi, 2),
             'by_league': [{k: v for k, v in r.items() if k not in ('equity_curve', 'picks_detail')} for r in per_league],
         }
-        with open(RESULTS / f'v2-soccer-2425-{args.model}-{args.stake}-combined.json', 'w') as f:
+        with open(RESULTS / f'v2-soccer-{args.season}-{args.model}-{args.stake}-combined.json', 'w') as f:
             json.dump(combined, f, indent=2, default=str)
         print(f"\n=== COMBINED {args.model}/{args.stake}: picks={combined_picks} winrate={combined['total_winrate']}% ROI={combined['total_roi_pct']}% ===")
 
