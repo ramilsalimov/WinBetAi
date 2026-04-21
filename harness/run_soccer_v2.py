@@ -107,10 +107,25 @@ def predict_elo(train_df, home_team, away_team):
     p_draw = 0.27
     return E_h * (1 - p_draw), p_draw, (1 - E_h) * (1 - p_draw)
 
+def predict_ensemble(train_df, home_team, away_team):
+    """Average of DC + Poisson + Elo probabilities."""
+    preds = []
+    for fn in (predict_dixon_coles, predict_poisson, predict_elo):
+        try:
+            preds.append(fn(train_df, home_team, away_team))
+        except Exception:
+            pass
+    if not preds:
+        raise RuntimeError('all predictors failed')
+    arr = np.array(preds)  # (N, 3)
+    avg = arr.mean(axis=0)
+    return float(avg[0]), float(avg[1]), float(avg[2])
+
 PREDICTORS = {
     'elo': predict_elo,
     'dixon_coles': predict_dixon_coles,
     'poisson': predict_poisson,
+    'ensemble': predict_ensemble,
 }
 
 def backtest(df, model_name, train_min=60, min_edge=0.03, min_prob=0.0, max_odds=99.0,
