@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "eyebrow": "AI + Open Source",
+    "headline": "AI bet analyzers.\nReal track record.",
+    "sub": "Four open-source models. Backtested on a full year of real closing odds. Pick the one that fits your game.",
+    "cta_primary": "See backtest",
+    "cta_secondary": "How it works"
+  },
+  "stats": {
+    "models": "AI models",
+    "backtest_days": "Days backtested",
+    "avg_roi": "Avg model ROI",
+    "open_source": "100% open-source"
+  },
+  "products": {
+    "title": "The analyzers",
+    "subtitle": "We didn't invent these. We benchmarked them honestly.",
+    "soccer": "Soccer",
+    "nba": "NBA",
+    "winrate": "Historical winrate",
+    "roi": "ROI, 2024–25 season",
+    "github": "GitHub"
+  },
+  "nav": {
+    "backtest": "Backtest",
+    "products": "Products",
+    "faq": "FAQ",
+    "signin": "Sign in"
+  },
+  "footer": {
+    "tagline": "Free AI bet analyzers, verified performance.",
+    "disclaimer": "18+ only. Gambling can be addictive. Past performance does not guarantee future results."
+  }
+}

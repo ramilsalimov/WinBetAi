@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "eyebrow": "AI + Open Source",
+    "headline": "AI analyzer taruhan.\nTrack record nyata.",
+    "sub": "Empat model open-source. Backtest penuh 1 tahun dengan odds penutupan nyata. Pilih yang cocok buat gayamu.",
+    "cta_primary": "Lihat backtest",
+    "cta_secondary": "Cara kerjanya"
+  },
+  "stats": {
+    "models": "Model AI",
+    "backtest_days": "Hari backtest",
+    "avg_roi": "Rata-rata ROI",
+    "open_source": "100% open-source"
+  },
+  "products": {
+    "title": "Analyzer",
+    "subtitle": "Kami tidak mengarangnya. Kami menguji jujur.",
+    "soccer": "Sepak bola",
+    "nba": "NBA",
+    "winrate": "Winrate historis",
+    "roi": "ROI, musim 2024–25",
+    "github": "GitHub"
+  },
+  "nav": {
+    "backtest": "Backtest",
+    "products": "Produk",
+    "faq": "FAQ",
+    "signin": "Masuk"
+  },
+  "footer": {
+    "tagline": "AI analyzer taruhan gratis dengan performa terverifikasi.",
+    "disclaimer": "18+. Judi bisa membuat kecanduan. Performa masa lalu tidak menjamin hasil masa depan."
+  }
+}
