@@ -21,27 +21,27 @@ function TrackRecord() {
       <div style={{ maxWidth: 1280, margin: '0 auto' }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', marginBottom: 32, flexWrap: 'wrap', gap: 20 }}>
           <div>
-            <div className="eyebrow" style={{ marginBottom: 16 }}>PROOF, NOT PROMISES</div>
+            <div className="eyebrow" style={{ marginBottom: 16 }}>ДОКАЗАТЕЛЬСТВА, НЕ ОБЕЩАНИЯ</div>
             <h2 style={{ fontSize: 'clamp(32px, 4vw, 52px)', fontWeight: 700, letterSpacing: '-0.03em', lineHeight: 1.05, margin: 0, maxWidth: 720 }}>
-              Last 14 days, every pick.<br />
-              <span style={{ color: '#9CA3AF' }}>Result + CLV + P/L.</span>
+              Последние 14 дней, каждый пик.<br />
+              <span style={{ color: '#9CA3AF' }}>Результат + CLV + P/L.</span>
             </h2>
           </div>
           <div style={{ display: 'flex', gap: 10 }}>
             <button className="btn btn-ghost btn-sm">
               <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg>
-              Download raw (CSV)
+              Скачать CSV
             </button>
-            <button className="btn btn-ghost btn-sm">View all 365 days →</button>
+            <button className="btn btn-ghost btn-sm">Все 365 дней →</button>
           </div>
         </div>
 
         {/* Summary strip */}
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 0, border: '1px solid #1B1F1E', borderRadius: 12, marginBottom: 20, background: '#0F1413' }}>
-          <SumCell label="Picks" v={picks.length} />
-          <SumCell label="Record" v={`${wins}-${picks.length - wins}`} sub={`${((wins / picks.length) * 100).toFixed(1)}% winrate`} />
+          <SumCell label="Пиков" v={picks.length} />
+          <SumCell label="Рекорд" v={`${wins}-${picks.length - wins}`} sub={`${((wins / picks.length) * 100).toFixed(1)}% winrate`} />
           <SumCell label="P/L · $100 flat" v={`+$${pl}`} color="#00E28A" sub={`+${((pl / (picks.length * 100)) * 100).toFixed(1)}% ROI`} />
-          <SumCell label="Avg CLV" v={`+${avgCLV}%`} color="#C9A24B" sub="closing line value" last />
+          <SumCell label="Средний CLV" v={`+${avgCLV}%`} color="#C9A24B" sub="closing line value" last />
         </div>
 
         <div style={{ background: '#0F1413', border: '1px solid #1B1F1E', borderRadius: 12, overflowX: 'auto' }}>
@@ -54,7 +54,7 @@ function TrackRecord() {
               fontFamily: 'JetBrains Mono, monospace', fontSize: 10, letterSpacing: '0.12em', textTransform: 'uppercase', color: '#6B7280',
               borderBottom: '1px solid #1B1F1E', alignItems: 'center',
             }}>
-              <span>Date</span><span>League</span><span>Match</span><span>Pick</span><span>Odds</span><span>Stake</span><span>Result</span><span>P/L</span><span>CLV</span><span>Model</span>
+              <span>Дата</span><span>Лига</span><span>Матч</span><span>Ставка</span><span>Кэф</span><span>Сумма</span><span>Итог</span><span>P/L</span><span>CLV</span><span>Модель</span>
             </div>
             {picks.map((p, i) => (
               <div key={i} style={{
@@ -84,7 +84,7 @@ function TrackRecord() {
         </div>
 
         <div className="mono muted" style={{ fontSize: 11, marginTop: 14, textAlign: 'center', letterSpacing: '0.05em' }}>
-          CLV measured vs closing line at kickoff. Stakes flat $100. Odds snapshotted at time of pick from 3-book median.
+          CLV измеряется vs closing line на момент начала матча. Ставки по $100 flat. Коэффициенты — медиана из 3 букмекеров на момент пика.
         </div>
       </div>
     </section>
@@ -105,42 +105,42 @@ function Pricing() {
   const tiers = [
     {
       name: 'Free',
-      desc: 'All four analyzers, verified via 1win referral.',
+      desc: 'Все 4 анализатора, доступ через реферал 1win.',
       price: '$0',
-      sub: 'forever · no card',
-      cta: 'Get started',
+      sub: 'навсегда · без карты',
+      cta: 'Начать',
       highlight: false,
-      features: ['All 4 open-source models', 'Backtest CSV download', 'Daily picks (max 3/day)', 'Telegram + WhatsApp delivery', 'Community support'],
+      features: ['Все 4 open-source модели', 'Бэктест CSV скачать', 'Пики ежедневно (до 3/день)', 'Telegram + WhatsApp доставка', 'Community support'],
     },
     {
       name: 'Pro',
-      desc: 'Sharp-bettor toolkit. No referral gate.',
+      desc: 'Набор для серьёзного беттера. Без гейта.',
       price: '$29',
-      sub: 'per month · cancel anytime',
-      cta: 'Start 7-day trial',
+      sub: 'в месяц · отмена в любой момент',
+      cta: 'Пробный 7 дней',
       highlight: true,
-      features: ['Everything in Free, no gate', 'Unlimited picks across all sports', 'CLV tracking per pick', 'Multi-book odds comparison (5+ books)', 'Feature importances per model', 'Priority pick delivery (30-min edge)'],
+      features: ['Всё из Free, без гейта', 'Безлимитные пики по всем спортам', 'CLV трекинг на каждый пик', 'Сравнение коэф. (5+ букмекеров)', 'Feature importances по каждой модели', 'Приоритетная доставка (+30 мин edge)'],
     },
     {
       name: 'Enterprise',
-      desc: 'API, custom models, white-label.',
-      price: 'Custom',
-      sub: 'starts at $499/mo',
-      cta: 'Contact sales',
+      desc: 'API, кастомные модели, white-label.',
+      price: 'По запросу',
+      sub: 'от $499/мес',
+      cta: 'Связаться',
       highlight: false,
-      features: ['Everything in Pro', 'REST + WebSocket API', 'Custom model training', 'Dedicated infra', 'SSO + audit log', 'Priority support (2h SLA)'],
+      features: ['Всё из Pro', 'REST + WebSocket API', 'Обучение кастомных моделей', 'Выделенная инфра', 'SSO + audit log', 'Priority support (SLA 2ч)'],
     },
   ];
   return (
     <section id="pricing" style={{ padding: '120px 32px', borderTop: '1px solid #1B1F1E' }}>
       <div style={{ maxWidth: 1180, margin: '0 auto' }}>
         <div style={{ textAlign: 'center', marginBottom: 56 }}>
-          <div className="eyebrow" style={{ marginBottom: 16, display: 'inline-block' }}>PRICING</div>
+          <div className="eyebrow" style={{ marginBottom: 16, display: 'inline-block' }}>ТАРИФЫ</div>
           <h2 style={{ fontSize: 'clamp(32px, 4vw, 52px)', fontWeight: 700, letterSpacing: '-0.03em', lineHeight: 1.05, margin: 0 }}>
-            Three plans. No ladder games.
+            Три плана. Без ступенек.
           </h2>
           <p className="muted" style={{ marginTop: 18, fontSize: 15.5, maxWidth: 540, margin: '18px auto 0' }}>
-            Start free forever with a 1win referral. Upgrade when you want ungated picks, CLV tracking, and multi-book odds.
+            Free навсегда по реферу 1win. Апгрейд — когда нужны безлимитные пики, CLV трекинг и мульти-букмекерские коэффициенты.
           </p>
         </div>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 16 }}>
@@ -162,7 +162,7 @@ function Pricing() {
                   padding: '3px 12px', background: '#00E28A', color: '#00140B',
                   fontFamily: 'JetBrains Mono, monospace', fontSize: 10, fontWeight: 700,
                   letterSpacing: '0.12em', borderRadius: 4, textTransform: 'uppercase',
-                }}>Most popular</div>
+                }}>Самый популярный</div>
               )}
               <div style={{ fontSize: 14, fontWeight: 600, letterSpacing: '-0.005em' }}>{t.name}</div>
               <div className="muted" style={{ fontSize: 12.5, lineHeight: 1.5, margin: '6px 0 22px', minHeight: 36 }}>{t.desc}</div>
@@ -193,41 +193,41 @@ function DeliveryChannels() {
     <section id="delivery" style={{ padding: '120px 32px', borderTop: '1px solid #1B1F1E', background: '#0B0F0E' }}>
       <div style={{ maxWidth: 1280, margin: '0 auto' }}>
         <div style={{ marginBottom: 48, maxWidth: 720 }}>
-          <div className="eyebrow" style={{ marginBottom: 16 }}>DELIVERY</div>
+          <div className="eyebrow" style={{ marginBottom: 16 }}>ДОСТАВКА</div>
           <h2 style={{ fontSize: 'clamp(32px, 4vw, 52px)', fontWeight: 700, letterSpacing: '-0.03em', lineHeight: 1.05, margin: 0 }}>
-            Picks go where<br />
-            <span style={{ color: '#9CA3AF' }}>your phone already lives.</span>
+            Пики туда,<br />
+            <span style={{ color: '#9CA3AF' }}>где уже живёт твой телефон.</span>
           </h2>
           <p className="muted" style={{ marginTop: 18, fontSize: 15, maxWidth: 560, lineHeight: 1.55 }}>
-            Capped at 3 picks per day. Filter by sport. No push spam, no locked panels behind notifications.
+            Максимум 3 пика в день. Фильтр по спорту. Никакого push-спама, никаких пэйволов за уведомлениями.
           </p>
         </div>
         <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
           <ChannelCard
             name="Telegram"
-            tag="Daily delivery · most popular in ID/NG/BR"
+            tag="Ежедневная доставка · популярно в ID/NG/BR"
             color="#4FA3FF"
             icon={<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M9.04 15.5l-.37 5.2c.53 0 .76-.22 1.03-.49l2.47-2.35 5.13 3.74c.94.52 1.6.24 1.85-.87l3.35-15.71c.32-1.38-.5-1.93-1.41-1.59L1.87 10.08c-1.34.52-1.32 1.27-.23 1.6l4.77 1.48L17.5 6.36c.52-.34.99-.15.6.18z"/></svg>}
             sample={{
               from: 'WinBetAi Bot',
               when: '14:22',
-              msg: '🎯 NEW PICK — Man City vs Arsenal',
-              lines: ['Prediction: Over 2.5 Goals', 'Odds: 1.78 · Confidence: 72%', 'Edge: +6.4% · Model: ProphitBet'],
+              msg: '🎯 НОВЫЙ ПИК — Байер vs Штутгарт',
+              lines: ['Прогноз: Победа Байера', 'Кэф: 1.58 · Уверенность: 72%', 'Edge: +6.4% · Модель: Soccer Premium'],
             }}
-            ctas={['Open Telegram bot', 'Scan QR']}
+            ctas={['Открыть Telegram', 'QR код']}
           />
           <ChannelCard
             name="WhatsApp"
-            tag="Share-friendly · default in ID/NG/BR"
+            tag="Share-friendly · дефолт в ID/NG/BR"
             color="#00E28A"
             icon={<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.9c0 1.76.46 3.45 1.32 4.95L2 22l5.25-1.38a9.87 9.87 0 0 0 4.79 1.22h.01c5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.82 9.82 0 0 0 12.04 2zm.01 1.83a8.08 8.08 0 0 1 8.08 8.08 8.08 8.08 0 0 1-8.08 8.08 8.1 8.1 0 0 1-4.13-1.13l-.3-.18-3.07.81.82-3-.19-.31a8.04 8.04 0 0 1-1.24-4.3 8.08 8.08 0 0 1 8.11-8.05z"/></svg>}
             sample={{
               from: 'WinBetAi',
               when: '14:22',
-              msg: '🎯 Today\'s AI Pick',
-              lines: ['Over 2.5 Goals · MCI vs ARS', 'Odds 1.78 · Edge +6.4%', 'Tap to share →'],
+              msg: '🎯 AI пик на сегодня',
+              lines: ['Победа Байера · BAY vs STU', 'Кэф 1.58 · Edge +6.4%', 'Тапни чтобы поделиться →'],
             }}
-            ctas={['Get on WhatsApp', 'Share a pick']}
+            ctas={['Подключить WhatsApp', 'Поделиться']}
           />
         </div>
       </div>
@@ -264,7 +264,7 @@ function ChannelCard({ name, tag, color, icon, sample, ctas }) {
             <div className="muted" style={{ fontSize: 11.5 }}>{tag}</div>
           </div>
         </div>
-        <span className="chip mono" style={{ fontSize: 9.5 }}>MAX 3/DAY</span>
+        <span className="chip mono" style={{ fontSize: 9.5 }}>МАКС 3/ДЕНЬ</span>
       </div>
 
       {/* Chat bubble mock */}
@@ -311,7 +311,7 @@ function PaymentStrip() {
     <section style={{ padding: '40px 32px', borderTop: '1px solid #1B1F1E', borderBottom: '1px solid #1B1F1E', background: '#0B0F0E' }}>
       <div style={{ maxWidth: 1280, margin: '0 auto', display: 'flex', alignItems: 'center', gap: 32, flexWrap: 'wrap' }}>
         <div className="mono" style={{ fontSize: 10.5, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#6B7280', flexShrink: 0 }}>
-          Payouts via<br /><span style={{ color: '#F5F5F5', fontSize: 12 }}>10+ local rails</span>
+          Выплаты через<br /><span style={{ color: '#F5F5F5', fontSize: 12 }}>10+ локальных систем</span>
         </div>
         <div style={{ flex: 1, display: 'flex', flexWrap: 'wrap', gap: 8 }}>
           {methods.map(m => (
@@ -387,12 +387,12 @@ function FeatureImportances() {
         }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', marginBottom: 20, flexWrap: 'wrap', gap: 16 }}>
             <div>
-              <div className="eyebrow" style={{ marginBottom: 10, color: '#C9A24B' }}>NO BLACK BOX</div>
+              <div className="eyebrow" style={{ marginBottom: 10, color: '#C9A24B' }}>БЕЗ ЧЁРНОГО ЯЩИКА</div>
               <h3 style={{ fontSize: 22, fontWeight: 600, letterSpacing: '-0.01em', margin: 0 }}>
-                What each model actually weighs
+                Что на самом деле взвешивает каждая модель
               </h3>
               <p className="muted" style={{ fontSize: 13, margin: '6px 0 0', maxWidth: 560 }}>
-                Top features by permutation importance. Pulled straight from the live repo.
+                Топ-фичи по permutation importance. Вытащено прямо из боевого репозитория.
               </p>
             </div>
             <div style={{ display: 'flex', gap: 4, padding: 3, background: '#0B0F0E', border: '1px solid #1B1F1E', borderRadius: 8 }}>
@@ -423,7 +423,7 @@ function FeatureImportances() {
             ))}
           </div>
           <div className="mono muted" style={{ fontSize: 10.5, letterSpacing: '0.08em', marginTop: 18, paddingTop: 16, borderTop: '1px solid #1B1F1E' }}>
-            Source: {model?.repo} · permutation importance on 2024 holdout set · see repo for full list
+            Источник: {model?.repo} · permutation importance на 2024 holdout · полный список в репе
           </div>
         </div>
       </div>
@@ -453,10 +453,10 @@ function WhatsShare() {
         overflow: 'hidden',
         fontSize: 13, fontWeight: 600,
       }}
-      title="Share today's pick on WhatsApp"
+      title="Поделиться пиком в WhatsApp"
     >
       <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" style={{ flexShrink: 0 }}><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.9c0 1.76.46 3.45 1.32 4.95L2 22l5.25-1.38a9.87 9.87 0 0 0 4.79 1.22h.01c5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.82 9.82 0 0 0 12.04 2z"/></svg>
-      {hover && <span style={{ whiteSpace: 'nowrap' }}>Share today's pick</span>}
+      {hover && <span style={{ whiteSpace: 'nowrap' }}>Поделиться пиком</span>}
     </a>
   );
 }

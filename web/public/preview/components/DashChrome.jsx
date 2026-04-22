@@ -40,7 +40,7 @@ function DashSidebar({ active, onNav }) {
       </div>
 
       <div className="mono" style={{ fontSize: 10, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#6B7280', padding: '8px 10px 6px' }}>
-        Workspace
+        Рабочее место
       </div>
       <nav style={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
         {items.map(i => (
@@ -74,10 +74,10 @@ function DashSidebar({ active, onNav }) {
       }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 6 }}>
           <svg width="13" height="13" viewBox="0 0 24 24" fill="#00E28A"><path d="M12 2l3 6 7 1-5 5 1 7-6-3-6 3 1-7-5-5 7-1z"/></svg>
-          <span className="mono" style={{ fontSize: 10, letterSpacing: '0.1em', color: '#00E28A' }}>VERIFIED</span>
+          <span className="mono" style={{ fontSize: 10, letterSpacing: '0.1em', color: '#00E28A' }}>ПОДТВЕРЖДЁН</span>
         </div>
         <div style={{ fontSize: 12, color: '#F5F5F5', lineHeight: 1.45 }}>
-          All four analyzers unlocked.
+          Все 4 анализатора доступны.
         </div>
       </div>
 
