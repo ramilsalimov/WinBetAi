@@ -23,7 +23,7 @@ function BacktestSection() {
       <div style={{ maxWidth: 1280, margin: '0 auto' }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', marginBottom: 48, flexWrap: 'wrap', gap: 24 }}>
           <div>
-            <div className="eyebrow" style={{ marginBottom: 16 }}>HONEST BACKTEST</div>
+            <div className="eyebrow" style={{ marginBottom: 16 }}>ЧЕСТНЫЙ БЭКТЕСТ</div>
             <h2 style={{
               fontSize: 'clamp(32px, 4vw, 52px)',
               fontWeight: 700,
@@ -32,19 +32,19 @@ function BacktestSection() {
               margin: 0,
               maxWidth: 720,
             }}>
-              One year. Real odds.<br />
-              <span style={{ color: '#9CA3AF' }}>Zero cherry-picking.</span>
+              Год. Реальные коэффициенты.<br />
+              <span style={{ color: '#9CA3AF' }}>Без черри-пика.</span>
             </h2>
             <p className="muted" style={{ marginTop: 20, fontSize: 15, maxWidth: 560, lineHeight: 1.55 }}>
-              Every pick replayed against the closing line. Flat $100 stakes. No slippage shortcuts, no retroactive filters.
+              Каждый пик прогнан по closing line. Плоская ставка $100. Без шорткатов, без ретроспективных фильтров.
             </p>
           </div>
           <Tabs
             value={sport}
             onChange={setSport}
             tabs={[
-              { value: 'combined', label: 'Combined' },
-              { value: 'soccer', label: 'Soccer' },
+              { value: 'combined', label: 'Все' },
+              { value: 'soccer', label: 'Футбол' },
               { value: 'nba', label: 'NBA' },
             ]}
           />
@@ -61,14 +61,14 @@ function BacktestSection() {
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: 12, flexWrap: 'wrap', gap: 16 }}>
             <div>
               <div className="mono" style={{ fontSize: 10.5, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#6B7280', marginBottom: 4 }}>
-                Equity curve · flat $100 stakes · 1 year
+                Equity curve · плоская ставка $100 · сезон 2025-26
               </div>
               <div style={{ display: 'flex', alignItems: 'baseline', gap: 12 }}>
                 <span style={{ fontFamily: 'JetBrains Mono, monospace', fontSize: 28, fontWeight: 700, letterSpacing: '-0.02em' }}>
-                  +$1,510
+                  +$1,197
                 </span>
-                <span className="mono pos" style={{ fontSize: 13, fontWeight: 700 }}>+15.1% ROI</span>
-                <span className="mono muted" style={{ fontSize: 12 }}>avg across {series.length} models</span>
+                <span className="mono pos" style={{ fontSize: 13, fontWeight: 700 }}>+9.0% ROI</span>
+                <span className="mono muted" style={{ fontSize: 12 }}>среднее по {series.length} моделям</span>
               </div>
             </div>
             <div style={{ display: 'flex', gap: 14, flexWrap: 'wrap' }}>
@@ -136,10 +136,10 @@ function ProductsSection() {
     <section id="products" style={{ padding: '120px 32px', background: '#0B0F0E' }}>
       <div style={{ maxWidth: 1280, margin: '0 auto' }}>
         <div style={{ marginBottom: 56 }}>
-          <div className="eyebrow" style={{ marginBottom: 16 }}>THE LINEUP</div>
+          <div className="eyebrow" style={{ marginBottom: 16 }}>ПРОДУКТЫ</div>
           <h2 style={{ fontSize: 'clamp(32px, 4vw, 52px)', fontWeight: 700, letterSpacing: '-0.03em', lineHeight: 1.05, margin: 0 }}>
-            Four models.<br />
-            <span style={{ color: '#9CA3AF' }}>Pick your game.</span>
+            Четыре модели.<br />
+            <span style={{ color: '#9CA3AF' }}>Выбери свою игру.</span>
           </h2>
         </div>
 
@@ -266,18 +266,18 @@ function Metric({ label, v }) {
 // ---------- How it works ----------
 function HowItWorks() {
   const steps = [
-    { n: '01', h: 'Register at 1win', d: 'Open an account with our partner bookmaker via the link in your dashboard. Takes ~90 seconds.', cmd: 'wb open-partner' },
-    { n: '02', h: 'Confirm your ID', d: 'Paste your 1win user ID. Our system verifies the referral in under an hour, most often instant.', cmd: 'wb verify --id 81724' },
-    { n: '03', h: 'Run the analyzers', d: 'Download all four models from your dashboard. One-command CLI, Docker image, or plain Python — your call.', cmd: 'wb run soccer-stacker' },
+    { n: '01', h: 'Регистрация в 1win', d: 'Открой счёт у нашего партнёр-букмекера по ссылке в кабинете. Занимает ~90 секунд.', cmd: 'wb open-partner' },
+    { n: '02', h: 'Подтверди ID', d: 'Вставь свой 1win user ID. Система проверит реферал в течение часа, чаще — моментально.', cmd: 'wb verify --id 81724' },
+    { n: '03', h: 'Запусти анализаторы', d: 'Скачай все 4 модели из кабинета. CLI одной командой, Docker-образ или чистый Python — на выбор.', cmd: 'wb run soccer-premium' },
   ];
   return (
     <section id="how" style={{ padding: '120px 32px', borderTop: '1px solid #1B1F1E' }}>
       <div style={{ maxWidth: 1280, margin: '0 auto' }}>
         <div style={{ marginBottom: 56 }}>
-          <div className="eyebrow" style={{ marginBottom: 16 }}>THREE STEPS</div>
+          <div className="eyebrow" style={{ marginBottom: 16 }}>ТРИ ШАГА</div>
           <h2 style={{ fontSize: 'clamp(32px, 4vw, 52px)', fontWeight: 700, letterSpacing: '-0.03em', lineHeight: 1.05, margin: 0 }}>
-            From zero to first pick<br />
-            <span style={{ color: '#9CA3AF' }}>in under 10 minutes.</span>
+            От нуля до первого пика<br />
+            <span style={{ color: '#9CA3AF' }}>меньше 10 минут.</span>
           </h2>
         </div>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 20, position: 'relative' }}>
@@ -291,7 +291,7 @@ function HowItWorks() {
                 height: '100%',
               }}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 24 }}>
-                  <div className="mono" style={{ fontSize: 11, color: '#00E28A', letterSpacing: '0.15em' }}>STEP {s.n}</div>
+                  <div className="mono" style={{ fontSize: 11, color: '#00E28A', letterSpacing: '0.15em' }}>ШАГ {s.n}</div>
                   <div style={{
                     width: 28, height: 28, borderRadius: 8,
                     background: '#151817',
@@ -353,9 +353,9 @@ function FAQSection() {
     <section id="faq" style={{ padding: '120px 32px', borderTop: '1px solid #1B1F1E' }}>
       <div style={{ maxWidth: 900, margin: '0 auto' }}>
         <div style={{ marginBottom: 48 }}>
-          <div className="eyebrow" style={{ marginBottom: 16 }}>QUESTIONS</div>
+          <div className="eyebrow" style={{ marginBottom: 16 }}>ВОПРОСЫ</div>
           <h2 style={{ fontSize: 'clamp(32px, 4vw, 48px)', fontWeight: 700, letterSpacing: '-0.03em', lineHeight: 1.05, margin: 0 }}>
-            The uncomfortable ones, answered.
+            Неудобные — с ответами.
           </h2>
         </div>
         <div style={{ borderTop: '1px solid #1B1F1E' }}>

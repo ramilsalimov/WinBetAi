@@ -42,10 +42,10 @@ function Nav({ currentPath = '/' }) {
 
       <div style={{ display: 'flex', alignItems: 'center', gap: 22, flex: 1, justifyContent: 'center', minWidth: 0 }}>
         {[
-          { label: 'Backtest', href: '#backtest' },
-          { label: 'Track record', href: '#track' },
-          { label: 'Models', href: '#products' },
-          { label: 'Pricing', href: '#pricing' },
+          { label: 'Бэктест', href: '#backtest' },
+          { label: 'Трек-рекорд', href: '#track' },
+          { label: 'Модели', href: '#products' },
+          { label: 'Тарифы', href: '#pricing' },
           { label: 'FAQ', href: '#faq' },
         ].map(l => (
           <a key={l.label} href={l.href} style={{
@@ -127,10 +127,10 @@ function Nav({ currentPath = '/' }) {
           color: '#F5F5F5',
           padding: '8px 12px',
           fontWeight: 500,
-        }}>Sign In</a>
+        }}>Войти</a>
 
         <a href="#hero" className="btn btn-primary">
-          Get started
+          Начать
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M5 12h14M13 6l6 6-6 6" /></svg>
         </a>
       </div>
@@ -156,7 +156,7 @@ function Footer() {
           <div>
             <Logo />
             <p className="muted" style={{ marginTop: 16, fontSize: 13, maxWidth: 320, lineHeight: 1.6 }}>
-              Four open-source AI bet analyzers, backtested on a full year of closing odds. Built for bettors who read the code, not the hype.
+              Четыре open-source AI анализатора ставок с честным бэктестом на год реальных closing odds. Для тех, кто читает код, а не рекламу.
             </p>
             <div style={{ display: 'flex', gap: 8, marginTop: 20 }}>
               {['GitHub', 'Telegram', 'X'].map(s => (
@@ -165,9 +165,9 @@ function Footer() {
             </div>
           </div>
           {[
-            { h: 'Product', items: ['Backtest', 'Models', 'How it works', 'Changelog'] },
-            { h: 'Company', items: ['About', 'Blog', 'Partners', 'Contact'] },
-            { h: 'Legal', items: ['Terms', 'Privacy', 'Responsible gambling', 'Disclaimers'] },
+            { h: 'Продукт', items: ['Бэктест', 'Модели', 'Как работает', 'История версий'] },
+            { h: 'Компания', items: ['О нас', 'Блог', 'Партнёры', 'Контакты'] },
+            { h: 'Юридическое', items: ['Условия', 'Приватность', 'Ответственная игра', 'Оговорки'] },
           ].map(col => (
             <div key={col.h}>
               <div className="mono" style={{ fontSize: 10.5, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#6B7280', marginBottom: 14 }}>{col.h}</div>

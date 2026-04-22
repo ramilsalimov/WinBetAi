@@ -34,7 +34,7 @@ function StatusPill({ s }) {
       border: `1px solid ${st.bd}`,
     }}>
       <span style={{ width: 5, height: 5, borderRadius: '50%', background: st.color }} />
-      {s}
+      {s === 'verified' ? 'подтвержден' : s === 'pending' ? 'ожидает' : s === 'rejected' ? 'отклонен' : s}
     </span>
   );
 }
@@ -73,14 +73,14 @@ function AdminApp() {
           <span style={{ color: '#F5F5F5' }}>users</span>
           {selected && <><span>/</span><span style={{ color: '#00E28A' }}>#{selected.id}</span></>}
           <span style={{ marginLeft: 'auto', display: 'inline-flex', gap: 14 }}>
-            <a href="Landing.html" style={{ color: '#9CA3AF' }}>← Site</a>
-            <a href="Dashboard.html" style={{ color: '#9CA3AF' }}>Dashboard</a>
+            <a href="Landing.html" style={{ color: '#9CA3AF' }}>← Сайт</a>
+            <a href="Dashboard.html" style={{ color: '#9CA3AF' }}>ЛК</a>
           </span>
         </div>
 
         <DashHeader
-          title="Users"
-          subtitle={`${counts.all} total · ${counts.pending} pending verification · ${counts.verified} verified`}
+          title="Пользователи"
+          subtitle={`${counts.all} всего · ${counts.pending} на верификации · ${counts.verified} подтверждено`}
           right={
             <div style={{ display: 'flex', gap: 10, alignItems: 'center' }}>
               <div style={{
@@ -95,7 +95,7 @@ function AdminApp() {
                 <input
                   value={query}
                   onChange={e => setQuery(e.target.value)}
-                  placeholder="Search email or ID"
+                  placeholder="Email или ID"
                   style={{
                     background: 'transparent', border: 0, outline: 'none',
                     padding: '8px 10px', color: '#F5F5F5',
@@ -105,7 +105,7 @@ function AdminApp() {
               </div>
               <button className="btn btn-ghost btn-sm">
                 <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg>
-                Export CSV
+                Экспорт CSV
               </button>
             </div>
           }
@@ -115,10 +115,10 @@ function AdminApp() {
           {/* filter tabs */}
           <div style={{ display: 'flex', gap: 6, marginBottom: 20, alignItems: 'center' }}>
             {[
-              { v: 'all', label: 'All' },
-              { v: 'pending', label: 'Pending' },
-              { v: 'verified', label: 'Verified' },
-              { v: 'rejected', label: 'Rejected' },
+              { v: 'all', label: 'Все' },
+              { v: 'pending', label: 'Ожидают' },
+              { v: 'verified', label: 'Подтверждены' },
+              { v: 'rejected', label: 'Отклонены' },
             ].map(t => (
               <button key={t.v} onClick={() => setFilter(t.v)} style={{
                 padding: '7px 12px',
@@ -161,11 +161,11 @@ function AdminApp() {
               <span>ID</span>
               <span>Email</span>
               <span>Affiliate</span>
-              <span>Country</span>
-              <span>Registered</span>
-              <span>Status</span>
-              <span>Downloads</span>
-              <span style={{ textAlign: 'right' }}>Actions</span>
+              <span>Страна</span>
+              <span>Регистрация</span>
+              <span>Статус</span>
+              <span>Скачки</span>
+              <span style={{ textAlign: 'right' }}>Действия</span>
             </div>
             {filtered.map((u, i) => (
               <div key={u.id} onClick={() => setSelected(u)} style={{
@@ -191,7 +191,7 @@ function AdminApp() {
                 <span><StatusPill s={u.status} /></span>
                 <span className="mono">{u.downloads}</span>
                 <span style={{ textAlign: 'right' }}>
-                  <button className="btn btn-ghost btn-sm" style={{ padding: '4px 10px', fontSize: 11 }}>View</button>
+                  <button className="btn btn-ghost btn-sm" style={{ padding: '4px 10px', fontSize: 11 }}>Открыть</button>
                 </span>
               </div>
             ))}
@@ -203,10 +203,10 @@ function AdminApp() {
               fontSize: 12, color: '#6B7280',
               minWidth: 980,
             }}>
-              <span className="mono">Showing {filtered.length} of {USERS.length}</span>
+              <span className="mono">Показано {filtered.length} из {USERS.length}</span>
               <div style={{ display: 'flex', gap: 6 }}>
-                <button className="btn btn-ghost btn-sm" style={{ padding: '4px 10px', fontSize: 11 }}>← Prev</button>
-                <button className="btn btn-ghost btn-sm" style={{ padding: '4px 10px', fontSize: 11 }}>Next →</button>
+                <button className="btn btn-ghost btn-sm" style={{ padding: '4px 10px', fontSize: 11 }}>← Назад</button>
+                <button className="btn btn-ghost btn-sm" style={{ padding: '4px 10px', fontSize: 11 }}>Далее →</button>
               </div>
             </div>
           </Card>
@@ -220,12 +220,12 @@ function AdminApp() {
 
 function AdminSidebar() {
   const items = [
-    { id: 'users', label: 'Users', icon: 'users', active: true, count: USERS.length },
-    { id: 'verifications', label: 'Verifications', icon: 'check', count: 3 },
-    { id: 'models', label: 'Models', icon: 'cpu', count: 4 },
-    { id: 'referrals', label: 'Referrals', icon: 'link' },
-    { id: 'logs', label: 'Logs', icon: 'logs' },
-    { id: 'settings', label: 'Settings', icon: 'gear' },
+    { id: 'users', label: 'Пользователи', icon: 'users', active: true, count: USERS.length },
+    { id: 'verifications', label: 'Верификации', icon: 'check', count: 3 },
+    { id: 'models', label: 'Модели', icon: 'cpu', count: 4 },
+    { id: 'referrals', label: 'Рефералы', icon: 'link' },
+    { id: 'logs', label: 'Логи', icon: 'logs' },
+    { id: 'settings', label: 'Настройки', icon: 'gear' },
   ];
   const ip = (k) => {
     const p = {
@@ -248,7 +248,7 @@ function AdminSidebar() {
         <a href="Landing.html"><Logo /></a>
         <span className="chip chip-gold" style={{ fontSize: 9 }}>ADMIN</span>
       </div>
-      <div className="mono" style={{ fontSize: 10, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#6B7280', padding: '8px 10px 6px' }}>Ops</div>
+      <div className="mono" style={{ fontSize: 10, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#6B7280', padding: '8px 10px 6px' }}>Операции</div>
       <nav style={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
         {items.map(i => (
           <button key={i.id} style={{
@@ -269,10 +269,10 @@ function AdminSidebar() {
       </nav>
       <div style={{ flex: 1 }} />
       <div style={{ padding: 12, background: '#0F1413', borderRadius: 10, border: '1px solid #1B1F1E' }}>
-        <div className="mono" style={{ fontSize: 10, color: '#6B7280', letterSpacing: '0.12em', textTransform: 'uppercase', marginBottom: 6 }}>System</div>
+        <div className="mono" style={{ fontSize: 10, color: '#6B7280', letterSpacing: '0.12em', textTransform: 'uppercase', marginBottom: 6 }}>Система</div>
         <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
           <span className="pulse-dot" />
-          <span className="mono" style={{ fontSize: 11.5, color: '#00E28A' }}>All systems operational</span>
+          <span className="mono" style={{ fontSize: 11.5, color: '#00E28A' }}>Все системы работают</span>
         </div>
       </div>
     </aside>
@@ -320,20 +320,20 @@ function UserDetail({ user, onClose }) {
           <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
             <StatusPill s={user.status} />
             <span className="chip">{user.country}</span>
-            <span className="chip mono">{user.downloads} downloads</span>
+            <span className="chip mono">{user.downloads} скачиваний</span>
           </div>
 
           <Card pad={18}>
-            <div className="mono" style={{ fontSize: 10.5, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#6B7280', marginBottom: 12 }}>Profile</div>
+            <div className="mono" style={{ fontSize: 10.5, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#6B7280', marginBottom: 12 }}>Профиль</div>
             <FieldRow label="User ID" value={`#${user.id}`} mono />
             <FieldRow label="Email" value={user.email} />
             <FieldRow label="Affiliate ID" value={user.aff} mono />
-            <FieldRow label="Registered" value={user.registered} mono />
-            <FieldRow label="Last active" value={user.last} />
+            <FieldRow label="Регистрация" value={user.registered} mono />
+            <FieldRow label="Последний визит" value={user.last} />
           </Card>
 
           <Card pad={18}>
-            <div className="mono" style={{ fontSize: 10.5, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#6B7280', marginBottom: 12 }}>Verification log</div>
+            <div className="mono" style={{ fontSize: 10.5, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#6B7280', marginBottom: 12 }}>Лог верификации</div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
               {log.map((l, i) => (
                 <div key={i} style={{ display: 'grid', gridTemplateColumns: '70px 1fr', gap: 12, fontSize: 12, paddingLeft: 8, borderLeft: '2px solid #1B1F1E' }}>
@@ -349,21 +349,21 @@ function UserDetail({ user, onClose }) {
               <>
                 <button className="btn btn-primary btn-sm" style={{ flex: 1, justifyContent: 'center' }}>
                   <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M5 12l5 5L20 7"/></svg>
-                  Approve
+                  Подтвердить
                 </button>
                 <button className="btn btn-ghost btn-sm" style={{ flex: 1, justifyContent: 'center', color: '#FF5D5D', borderColor: 'rgba(255,93,93,0.3)' }}>
-                  Reject
+                  Отклонить
                 </button>
               </>
             )}
             {user.status === 'verified' && (
               <>
-                <button className="btn btn-ghost btn-sm" style={{ flex: 1, justifyContent: 'center' }}>Send message</button>
-                <button className="btn btn-ghost btn-sm" style={{ flex: 1, justifyContent: 'center', color: '#FF5D5D', borderColor: 'rgba(255,93,93,0.3)' }}>Revoke</button>
+                <button className="btn btn-ghost btn-sm" style={{ flex: 1, justifyContent: 'center' }}>Написать</button>
+                <button className="btn btn-ghost btn-sm" style={{ flex: 1, justifyContent: 'center', color: '#FF5D5D', borderColor: 'rgba(255,93,93,0.3)' }}>Отозвать</button>
               </>
             )}
             {user.status === 'rejected' && (
-              <button className="btn btn-ghost btn-sm" style={{ flex: 1, justifyContent: 'center' }}>Re-open case</button>
+              <button className="btn btn-ghost btn-sm" style={{ flex: 1, justifyContent: 'center' }}>Переоткрыть</button>
             )}
           </div>
         </div>

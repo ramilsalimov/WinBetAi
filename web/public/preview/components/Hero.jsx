@@ -1,6 +1,7 @@
 // Hero — rotating AI Pick card, 3 layout variants
 
 const HERO_COPY = {
+  RU: { eye: 'AI + OPEN SOURCE', h1a: 'AI анализаторы ставок.', h1b: 'Реальный трек-рекорд.', sub: 'Четыре open-source модели. Бэктест на год реальных closing odds. Выбери ту, что подходит под твою игру.' },
   EN: { eye: 'AI + OPEN SOURCE', h1a: 'AI bet analyzers.', h1b: 'Real track record.', sub: 'Four open-source models. Backtested on a full year of real closing odds. Pick the one that fits your game.' },
   ID: { eye: 'AI + OPEN SOURCE', h1a: 'Analis taruhan AI.', h1b: 'Rekam jejak nyata.', sub: 'Empat model open-source. Di-backtest pada satu tahun penuh closing odds. Pilih yang cocok dengan gaya main Anda.' },
   PT: { eye: 'AI + OPEN SOURCE', h1a: 'Analisadores de aposta.', h1b: 'Histórico real.', sub: 'Quatro modelos open-source. Testados em um ano inteiro de closing odds reais. Escolha o que combina com seu jogo.' },
@@ -137,7 +138,7 @@ function TeamBlock({ team, side }) {
 // ---------- Hero variants ----------
 function Hero({ variant = 'pick' }) {
   const [pickIndex, setPickIndex] = usePickRotator();
-  const [lang, setLang] = React.useState('EN');
+  const [lang, setLang] = React.useState('RU');
 
   React.useEffect(() => {
     const h = (e) => setLang(e.detail);

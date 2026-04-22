@@ -2,10 +2,10 @@
 
 function DashSidebar({ active, onNav }) {
   const items = [
-    { id: 'overview', label: 'Overview', icon: 'home' },
-    { id: 'analyzers', label: 'Analyzers', icon: 'cpu' },
-    { id: 'downloads', label: 'Downloads', icon: 'download' },
-    { id: 'account', label: 'Account', icon: 'user' },
+    { id: 'overview', label: 'Главная', icon: 'home' },
+    { id: 'analyzers', label: 'Анализаторы', icon: 'cpu' },
+    { id: 'downloads', label: 'Загрузки', icon: 'download' },
+    { id: 'account', label: 'Аккаунт', icon: 'user' },
   ];
 
   const icon = (k) => {
@@ -101,9 +101,9 @@ function DashSidebar({ active, onNav }) {
         }}>A</div>
         <div style={{ flex: 1, minWidth: 0 }}>
           <div style={{ fontSize: 12.5, fontWeight: 500, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>arif@winbet.ai</div>
-          <div className="mono muted" style={{ fontSize: 10 }}>member #81724</div>
+          <div className="mono muted" style={{ fontSize: 10 }}>участник #81724</div>
         </div>
-        <button title="Sign out" style={{ color: '#6B7280' }}>
+        <button title="Выйти" style={{ color: '#6B7280' }}>
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4M16 17l5-5-5-5M21 12H9"/></svg>
         </button>
       </div>
