@@ -1,0 +1,26 @@
+# tarballs used for OVH2 transfers
+*.tgz
+*.tar.gz
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# node
+node_modules/
+.next/
+
+# env
+.env
+.env.local
+
+# generator artifacts (regenerated daily; keep picks.json but drop archive)
+generator/results/picks-*.json
+generator.log
+tg.log
+
+# local python installs of analyzers
+analyzers/*/build/
+analyzers/*/dist/
+analyzers/*/*.egg-info/

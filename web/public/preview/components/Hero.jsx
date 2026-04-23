@@ -9,12 +9,44 @@ const HERO_COPY = {
   VI: { eye: 'AI + OPEN SOURCE', h1a: 'Phân tích cược AI.', h1b: 'Thành tích thực.', sub: 'Bốn mô hình mã nguồn mở. Kiểm tra lại trên một năm closing odds thực. Chọn mô hình phù hợp với bạn.' },
 };
 
-function usePickRotator() {
+function useLivePicks() {
+  const [picks, setPicks] = React.useState(PICKS);
+  React.useEffect(() => {
+    fetch('/picks.json')
+      .then(r => r.ok ? r.json() : null)
+      .then(data => {
+        if (!data || !data.products) return;
+        const out = [];
+        for (const prod of Object.values(data.products)) {
+          for (const p of prod.picks || []) {
+            out.push({
+              league: `${prod.name} · ${p.league_name || ''}`.trim(),
+              kickoff: (p.date || '').slice(0, 16).replace('T', ' ') + (p.date?.includes('T') ? ' UTC' : ''),
+              home: { name: p.home, tag: (p.home || '').slice(0, 3).toUpperCase(), elo: null, form: '' },
+              away: { name: p.away, tag: (p.away || '').slice(0, 3).toUpperCase(), elo: null, form: '' },
+              prediction: p.pick_ru || p.pick,
+              odds: p.odds,
+              confidence: Math.round(p.confidence || p.model_prob * 100),
+              model: prod.name,
+              edge: `+${((p.edge || 0) * 100).toFixed(1)}%`,
+              live: true,
+            });
+          }
+        }
+        if (out.length > 0) setPicks(out);
+      })
+      .catch(() => {});
+  }, []);
+  return picks;
+}
+
+function usePickRotator(count) {
   const [i, setI] = React.useState(0);
   React.useEffect(() => {
-    const t = setInterval(() => setI(v => (v + 1) % PICKS.length), 6000);
+    if (count <= 1) return;
+    const t = setInterval(() => setI(v => (v + 1) % count), 6000);
     return () => clearInterval(t);
-  }, []);
+  }, [count]);
   return [i, setI];
 }
 
@@ -137,7 +169,8 @@ function TeamBlock({ team, side }) {
 
 // ---------- Hero variants ----------
 function Hero({ variant = 'pick' }) {
-  const [pickIndex, setPickIndex] = usePickRotator();
+  const livePicks = useLivePicks();
+  const [pickIndex, setPickIndex] = usePickRotator(livePicks.length);
   const [lang, setLang] = React.useState('RU');
 
   React.useEffect(() => {
@@ -147,12 +180,11 @@ function Hero({ variant = 'pick' }) {
   }, []);
 
   const copy = HERO_COPY[lang] || HERO_COPY.EN;
-  const pick = PICKS[pickIndex];
+  const pick = livePicks[Math.min(pickIndex, livePicks.length - 1)] || PICKS[0];
 
   return (
     <section id="hero" style={{
       position: 'relative',
-      minHeight: '100vh',
       paddingTop: 120,
       paddingBottom: 80,
       overflow: 'hidden',
@@ -174,7 +206,7 @@ function Hero({ variant = 'pick' }) {
       }} />
 
       <div style={{ maxWidth: 1280, margin: '0 auto', padding: '0 32px', position: 'relative' }}>
-        <HeroLayout variant={variant} copy={copy} lang={lang} pick={pick} pickIndex={pickIndex} setPickIndex={setPickIndex} />
+        <HeroLayout variant={variant} copy={copy} lang={lang} pick={pick} pickIndex={pickIndex} setPickIndex={setPickIndex} picksCount={livePicks.length} />
       </div>
 
       {/* Ticker row */}
@@ -185,14 +217,14 @@ function Hero({ variant = 'pick' }) {
   );
 }
 
-function HeroLayout({ variant, copy, lang, pick, pickIndex, setPickIndex }) {
+function HeroLayout({ variant, copy, lang, pick, pickIndex, setPickIndex, picksCount }) {
   if (variant === 'pick') {
     return (
       <div style={{ display: 'grid', gridTemplateColumns: '1fr 460px', gap: 72, alignItems: 'center' }}>
         <HeroText copy={copy} lang={lang} />
         <div style={{ position: 'relative' }}>
           <PickCard key={pickIndex} pick={pick} pickIndex={pickIndex} />
-          <PickDots count={PICKS.length} active={pickIndex} onSelect={setPickIndex} />
+          <PickDots count={picksCount} active={pickIndex} onSelect={setPickIndex} />
         </div>
       </div>
     );
